@@ -12,13 +12,13 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video File: ../01/re-kan 01 premux[BAEC78F8].mkv
+Video File: D:/Fansubbing/GoodJob/Re-Kan!/01/re-kan 01 premux[BAEC78F8].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 487
-Active Line: 403
-Video Position: 1325
+Video Zoom Percent: 0.750000
+Scroll Position: 299
+Active Line: 300
+Video Position: 34541
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -334,7 +334,7 @@ Dialogue: 10,0:23:47.61,0:23:49.61,GJM_Main,Ama,0,0,0,,Please be careful, everyo
 Dialogue: 10,0:23:50.28,0:23:53.62,GJM_Main,Ama,0,0,0,,I'm a bit sleep-deprived myself...
 Dialogue: 10,0:23:53.62,0:23:56.62,GJM_Main,Ama,0,0,0,,It's not that I was up late, but I just...
 Dialogue: 10,0:23:56.62,0:24:00.62,GJM_Main,Ama,0,0,0,,It's embarrassing to say, but a lot happened.
-Dialogue: 10,0:24:00.62,0:24:04.13,GJM_Main,Ama,0,0,0,,Next time on Re-Kan!: "This Is My Friend."
+Dialogue: 10,0:24:00.62,0:24:04.13,GJM_Main,Ama,0,0,0,,Next time on Re-Kan!:\N"They're My Friends."
 Dialogue: 10,0:24:04.58,0:24:09.13,GJM_Main,Ama,0,0,0,,Make sure to watch with everyone\Nbehind your back and above your head.
 Comment: 0,0:24:09.13,0:24:11.13,GJM_Main,,0,0,0,,OP
 Dialogue: 0,0:03:18.34,0:03:21.13,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\be2\fad(250,250)\3c&HD892BB&}Our story is starting, now let's walk together
@@ -1016,7 +1016,7 @@ Dialogue: 1,0:13:51.64,0:13:56.64,On_Screen_Mincho_Signs,,0,0,0,,{\pos(650,68)\f
 Dialogue: 2,0:13:51.64,0:13:56.64,On_Screen_Mincho_Signs,,0,0,0,,{\pos(650,68)\fnIwata Gyousho Pro-Kami B\fs40\b1\yshad2\c&H71F0FF&\1a&H46&\4a&HFF&\be6\clip(m 515 39 l 518 62 523 63 528 50 530 61 533 63 536 60 546 39 552 43 548 47 546 51 547 52 549 59 550 62 553 63 557 64 560 63 562 60 563 59 563 56 560 55 562 50 563 49 564 45 566 43 567 43 566 48 565 51 564 52 564 61 572 62 576 63 578 63 581 58 580 56 581 52 581 51 581 48 581 46 581 45 582 53 584 52 586 60 587 62 591 63 593 62 594 60 595 58 597 53 598 50 599 49 613 49 615 55 618 60 622 63 625 64 631 64 635 63 636 61 637 58 637 55 637 52 638 55 637 59 640 61 643 63 646 63 648 63 651 63 654 62 655 59 655 57 655 54 659 53 659 58 662 63 665 62 669 61 670 57 670 54 672 54 674 60 681 62 684 63 688 64 707 49 708 56 709 60 712 64 717 61 717 58 722 55 724 54 728 57 732 63 739 63 743 62 746 62 748 59 748 56 748 53 749 61 754 62 758 58 759 56 765 54 766 58 770 63 777 63 782 60 784 57 783 54 780 49 779 46 779 43 776 40 774 37 771 35 768 37 767 38 766 45 765 50 764 42 764 41 760 41 756 40 752 40 750 41 748 49 748 52 747 44 743 42 737 43 732 48 729 55 728 50 728 46 728 41 728 38 722 36 717 37 712 34 705 40 709 50 706 52 702 50 693 50 689 51 689 45 684 42 681 42 677 43 674 45 673 47 672 43 668 41 670 34 668 33 659 35 658 41 655 46 656 49 655 43 650 41 645 45 638 48 633 47 628 48 626 52 624 48 627 44 633 46 636 43 638 41 635 40 632 36 625 36 624 38 619 40 614 46 602 47 599 46 596 44 593 42 594 39 594 37 590 36 587 38 584 41 584 44 575 43 573 42 568 42 567 41 534 33 514 37)}West Gate Park
 Dialogue: 0,0:23:39.89,0:24:20.02,ED-Next Time,,0,0,0,,{\an5\pos(186,120)\fs38\bord2\c&HCE81BE&\alpha&H45&\blur5}Next Time
 Dialogue: 1,0:23:39.89,0:24:20.02,ED-Next Time,,0,0,0,,{\an5\pos(186,120)\fs38\c&HFDFDFD&\blur0.5}Next Time
-Dialogue: 0,0:24:02.96,0:24:09.88,ED Title,,0,0,0,,{\pos(640,450)\bord3\c&HCE81BE&\alpha&H80&\blur5\fad(649,0)}This Is My Friend.
-Dialogue: 1,0:24:02.96,0:24:09.88,ED Title,,0,0,0,,{\pos(640,450)\c&HFAFFFB&\blur0.6\fad(649,0)}This Is My Friend.
+Dialogue: 0,0:24:02.96,0:24:09.88,ED Title,,0,0,0,,{\pos(640,450)\bord3\c&HCE81BE&\alpha&H80&\blur5\fad(649,0)}They're My Friends.
+Dialogue: 1,0:24:02.96,0:24:09.88,ED Title,,0,0,0,,{\pos(640,450)\c&HFAFFFB&\blur0.6\fad(649,0)}They're My Friends.
 Comment: 0,0:22:55.43,0:22:56.85,GJM_Main,,0,0,0,,#webm
 Comment: 0,0:24:15.14,0:24:17.14,GJM_Main,,0,0,0,,

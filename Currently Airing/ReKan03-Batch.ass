@@ -12,13 +12,13 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Video File: ../03/re-kan 03 premux[91BEB7E3].mkv
+Video File: D:/Fansubbing/GoodJob/Re-Kan!/03/re-kan 03 premux[91BEB7E3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1853
-Active Line: 1873
-Video Position: 34040
+Scroll Position: 301
+Active Line: 302
+Video Position: 34603
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -336,7 +336,7 @@ Dialogue: 10,0:23:49.20,0:23:52.27,GJM_Main,Yama,0,0,0,,Uehara{*}-san{*}, I brou
 Dialogue: 10,0:23:52.27,0:23:55.00,GJM_Main,Yama,0,0,0,,Esumi{*}-san{*}, I reserved the train seats.
 Dialogue: 10,0:23:55.00,0:23:57.68,GJM_Main,Yama,0,0,0,,Ogawa{*}-san{*}, you want this raft inflated, right?
 Dialogue: 10,0:23:57.68,0:24:00.33,GJM_Main,Yama,0,0,0,,Whew, it's tough being the man everyone counts on.
-Dialogue: 10,0:24:00.33,0:24:03.26,GJM_Main,Yama,0,0,0,,Next time on Re-Kan!: \N"Summer Means the Beach."
+Dialogue: 10,0:24:00.33,0:24:03.26,GJM_Main,Yama,0,0,0,,Next time on Re-Kan!: \N"Summertime Means Beach Time."
 Dialogue: 10,0:24:03.26,0:24:05.56,GJM_Main,Yama,0,0,0,,Ah, I was buying food and now the train's leaving!
 Dialogue: 10,0:24:05.56,0:24:08.80,GJM_Main,Yama,0,0,0,,Wait, guys! Don't ditch me!
 Comment: 0,0:24:08.80,0:24:10.80,GJM_Main,,0,0,0,,OP
@@ -1905,7 +1905,7 @@ Dialogue: 0,0:20:47.55,0:20:52.56,On_Screen_Mincho_light_Signs,,0,0,0,,{\pos(123
 Dialogue: 0,0:20:59.86,0:21:01.74,On_Screen_Mincho_light_Signs,,0,0,0,,{\pos(1232,285)\fnFranklin Gothic Book\fs34\b1\c&H666E60&\blur1.2}Inoue
 Dialogue: 0,0:23:39.73,0:24:09.59,ED-Next Time,,0,0,0,,{\an5\pos(186,120)\fs38\bord2.5\c&HD45DCC&\3c&HD45DCC&\alpha&H60&\1a&HFF&\3a&H44&\blur5}Next Time
 Dialogue: 2,0:23:39.73,0:24:09.59,ED-Next Time,,0,0,0,,{\an5\pos(186,120)\fs38\blur0.5}Next Time
-Dialogue: 0,0:24:01.79,0:24:09.59,ED Title,,0,0,0,,{\blur7\bord2\fad(605,0)\fs50\fnKozuka Mincho Pro Strippedv2 R\pos(640,450)\3c&HD556D5&\c&HD556D5&\1a&HFF&\alpha&H60&}Summer Means the Beach.
-Dialogue: 1,0:24:01.79,0:24:09.59,ED Title,,0,0,0,,{\bord0.4\fad(605,0)\blur0.6\fs50\fnKozuka Mincho Pro Strippedv2 R\pos(640,450)\3c&HD556D5&\c&HD556D5&\1a&HFF&\t(560,605,\1a&H00&)}Summer Means the Beach.
-Dialogue: 2,0:24:01.79,0:24:09.59,ED Title,,0,0,0,,{\bord0\fad(605,0)\blur0.6\fs50\fnKozuka Mincho Pro Strippedv2 R\c&HFFFEFF&\pos(640,450)\4a&HFF&}Summer Means the Beach.
+Dialogue: 0,0:24:01.79,0:24:09.59,ED Title,,0,0,0,,{\blur7\bord2\fad(605,0)\fs50\fnKozuka Mincho Pro Strippedv2 R\pos(640,450)\3c&HD556D5&\c&HD556D5&\1a&HFF&\alpha&H60&}Summertime Means Beach Time.
+Dialogue: 1,0:24:01.79,0:24:09.59,ED Title,,0,0,0,,{\bord0.4\fad(605,0)\blur0.6\fs50\fnKozuka Mincho Pro Strippedv2 R\pos(640,450)\3c&HD556D5&\c&HD556D5&\1a&HFF&\t(560,605,\1a&H00&)}Summertime Means Beach Time.
+Dialogue: 2,0:24:01.79,0:24:09.59,ED Title,,0,0,0,,{\bord0\fad(605,0)\blur0.6\fs50\fnKozuka Mincho Pro Strippedv2 R\c&HFFFEFF&\pos(640,450)\4a&HFF&}Summertime Means Beach Time.
 Comment: 0,0:24:14.80,0:24:16.80,GJM_Main,,0,0,0,,
