@@ -12,13 +12,14 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
+Audio File: D:/Fansubbing/GoodJob/Re-Kan!/01/re-kan 01 premux[BAEC78F8].mkv
 Video File: D:/Fansubbing/GoodJob/Re-Kan!/01/re-kan 01 premux[BAEC78F8].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 299
-Active Line: 300
-Video Position: 34541
+Scroll Position: 107
+Active Line: 119
+Video Position: 14309
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -153,7 +154,7 @@ Dialogue: 10,0:09:42.18,0:09:43.72,GJM_Main,Ama,0,0,0,,Well...{Um...}
 Dialogue: 10,0:09:44.31,0:09:46.98,GJM_Main,Ama,0,0,0,,She has beautiful hands, with long fingers.
 Dialogue: 10,0:09:47.48,0:09:49.52,GJM_Main,Ue,0,0,0,,Why her hands?
 Dialogue: 10,0:09:49.52,0:09:51.40,GJM_Main,Ue,0,0,0,,Wouldn't most people describe the face?
-Dialogue: 10,0:09:52.02,0:09:56.82,GJM_Main,Ama,0,0,0,,Well, actually, she hasn't found her face yet.
+Dialogue: 10,0:09:52.02,0:09:56.82,GJM_Main,Ama,0,0,0,,Well, actually, she hasn't found the rest of her body yet.{Well, actually, she hasn't found her face yet.}
 Dialogue: 10,0:09:59.28,0:10:03.54,GJM_Main,Ama,0,0,0,,But I'm sure that her face is very beautiful, too.
 Dialogue: 10,0:10:05.12,0:10:08.25,GJM_Main,Ino,0,0,0,,I can't hear you!
 Dialogue: 10,0:10:12.84,0:10:15.26,GJM_Main,Ue,0,0,0,,What are you doing, Amami?
