@@ -15,10 +15,10 @@ Last Style Storage: Default
 Video File: D:/Fansubbing/GoodJob/Re-Kan!/02/re-kan 02 premux[792BA7C7].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 296
-Active Line: 300
-Video Position: 34539
+Video Zoom Percent: 0.750000
+Scroll Position: 475
+Active Line: 461
+Video Position: 799
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -495,7 +495,7 @@ Dialogue: 1,0:00:31.55,0:00:31.63,On_Screen_Mincho_Signs,,0,0,0,,{\pos(508.86,61
 Dialogue: 1,0:00:31.63,0:00:31.67,On_Screen_Mincho_Signs,,0,0,0,,{\pos(508.25,608.97)\fscx77.64\fscy86.27\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.8}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
 Dialogue: 1,0:00:31.67,0:00:31.71,On_Screen_Mincho_Signs,,0,0,0,,{\pos(508.25,608.98)\fscx77.67\fscy86.3\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.8}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
 Dialogue: 1,0:00:31.71,0:00:31.76,On_Screen_Mincho_Signs,,0,0,0,,{\pos(508.25,608.98)\fscx77.71\fscy86.35\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.8}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
-Dialogue: 1,0:00:31.76,0:00:34.51,On_Screen_Mincho_Signs,,0,0,0,,{\pos(507.9,603.97)\fscx76.81\fscy85.34\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.8\iclip(m 469 578 l 475 581 478 586 477 589 479 592 482 597 484 600 486 604 484 607 481 607 477 607 474 606 468 604 464 599 458 592 462 587 463 583)}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
+Dialogue: 1,0:00:31.76,0:00:34.51,On_Screen_Mincho_Signs,,0,0,0,,{\pos(507.9,603.97)\fscx76.81\fscy85.34\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.8\iclip(m 467 581 l 473 584 476 589 475 592 477 595 480 600 482 603 484 607 482 610 479 610 475 610 472 609 466 607 462 602 456 595 460 590 461 586)}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
 Dialogue: 2,0:00:30.76,0:00:30.80,On_Screen_Mincho_Signs,,0,0,0,,{\pos(510,638.78)\fscx72\fscy80\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.6}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
 Dialogue: 2,0:00:30.80,0:00:30.84,On_Screen_Mincho_Signs,,0,0,0,,{\pos(510,638.77)\fscx71.99\fscy79.99\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.6}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
 Dialogue: 2,0:00:30.84,0:00:30.96,On_Screen_Mincho_Signs,,0,0,0,,{\pos(510.01,638.76)\fscx71.97\fscy79.97\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.6}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
@@ -514,7 +514,7 @@ Dialogue: 2,0:00:31.55,0:00:31.63,On_Screen_Mincho_Signs,,0,0,0,,{\pos(508.86,61
 Dialogue: 2,0:00:31.63,0:00:31.67,On_Screen_Mincho_Signs,,0,0,0,,{\pos(508.25,608.97)\fscx77.64\fscy86.27\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.6}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
 Dialogue: 2,0:00:31.67,0:00:31.71,On_Screen_Mincho_Signs,,0,0,0,,{\pos(508.25,608.98)\fscx77.67\fscy86.3\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.6}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
 Dialogue: 2,0:00:31.71,0:00:31.76,On_Screen_Mincho_Signs,,0,0,0,,{\pos(508.25,608.98)\fscx77.71\fscy86.35\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.6}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
-Dialogue: 2,0:00:31.76,0:00:34.51,On_Screen_Mincho_Signs,,0,0,0,,{\pos(507.9,603.97)\fscx76.81\fscy85.34\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.6\iclip(m 469 578 l 475 581 478 586 477 589 479 592 482 597 484 600 486 604 484 607 481 607 477 607 474 606 468 604 464 599 458 592 462 587 463 583)}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
+Dialogue: 2,0:00:31.76,0:00:34.51,On_Screen_Mincho_Signs,,0,0,0,,{\pos(507.9,603.97)\fscx76.81\fscy85.34\frz-12.61\fax0.22\fnkiddySans\fs20\c&H333638&\4a&HFF&\blur0.6\iclip(m 467 581 l 473 584 476 589 475 592 477 595 480 600 482 603 484 607 482 610 479 610 475 610 472 609 466 607 462 602 456 595 460 590 461 586)}A{\fs20.23}t{\fs20.46}t{\fs20.69}e{\fs20.92}n{\fs21.15}d{\fs21.39}a{\fs21.61}n{\fs21.85}c{\fs22.08}e {\fs22.54}L{\fs22.77}o{\fs23}g
 Dialogue: 0,0:04:36.75,0:04:38.00,On_Screen_Mincho_Signs,,0,0,0,,{\pos(638,452)\fnIwata Maru Gothic Pro M-Kami\fs50\b1\c&H778082&\blur1}I{\c&H767F81&}n{\c&H767E80&}f{\c&H757D7F&}i{\c&H747C7E&}r{\c&H737C7E&}m{\c&H727B7D&}a{\c&H727A7C&}r{\c&H71797B&}y
 Dialogue: 1,0:04:36.75,0:04:38.00,On_Screen_Mincho_Signs,,0,0,0,,{\pos(638,452)\fnIwata Maru Gothic Pro M-Kami\fs50\b1\c&H778082&\blur1}I{\c&H767F81&}n{\c&H767E80&}f{\c&H757D7F&}i{\c&H747C7E&}r{\c&H737C7E&}m{\c&H727B7D&}a{\c&H727A7C&}r{\c&H71797B&}y
 Dialogue: 0,0:04:49.51,0:04:49.56,On_Screen_Mincho_Signs,,0,0,0,,{\pos(638,452)\fnIwata Maru Gothic Pro M-Kami\fs50\b1\c&H778082&\blur1}I{\c&H767F81&}n{\c&H767E80&}f{\c&H757D7F&}i{\c&H747C7E&}r{\c&H737C7E&}m{\c&H727B7D&}a{\c&H727A7C&}r{\c&H71797B&}y
