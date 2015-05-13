@@ -16,24 +16,10 @@ Active Line: 2
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,7,15,15,15,1
-Style: Dialogue,VAG Rounded Std Light,69,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,3,0,2,90,90,38,1
-Style: Dialogue-Top,VAG Rounded Std Light,68,&H00F9F5F3,&H000000FF,&H009B7E6C,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,90,90,27,1
-Style: Dialogue-Alt,VAG Rounded Std Light,68,&H00EAE3DF,&H000000FF,&H003921A3,&H00000000,0,0,0,0,100,100,0,0,1,3.3,0,2,90,90,117,1
-Style: Dialogue-TK,VAG Rounded Std Light,69,&H00FFFFFF,&H000000FF,&H00582196,&H00000000,0,0,0,0,100,100,0,0,1,3,0,8,15,15,27,1
 Style: Eyecatch,Copperplate Gothic Bold,30,&H00FFFFFF,&H000000FF,&H001800AE,&H00000000,0,0,0,0,100,100,0,0,1,3,3,2,15,15,15,1
-Style: Opening-Romaji,ChopinScript,114,&H00E2E2E7,&HB43123BB,&H001200CB,&HDC0B0549,-1,0,0,0,100,100,0,0,1,4.2,0,8,15,15,21,1
-Style: Opening-Kanji,@TakaoPMincho,57,&H00E2E2E7,&HB41E0CCE,&H003123BB,&HDC0B0549,-1,0,0,0,110,100,0,270,1,2.4,0,7,83,15,105,1
-Style: Opening-English,Angelina,78,&H004032C6,&H00F4E8DB,&H00C2C2C6,&HC810048A,-1,0,0,0,100,100,0.3,0,1,3.3,0,2,15,15,24,1
-Style: Ending-Romaji,AriaScriptSSK,88,&H00FFFFFF,&H00B1B1C2,&H003A3A55,&H00000000,0,0,0,0,100,100,0,0,1,4.2,0,7,120,15,29,1
-Style: Ending-Kanji,@TakaoPMincho,59,&H00FFFFFF,&H00B1B1C2,&H003A3A55,&H00000000,0,0,0,0,100,100,0,270,1,4.2,0,7,95,0,135,128
-Style: Ending-English,Adore,92,&H00FFFFFF,&H0034343A,&H002A2A49,&H00000000,-1,0,0,0,100,100,0,0,1,3.3,0,3,75,65,28,1
 Style: Signage,Britannic Bold,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,1.5,0,2,30,30,23,1
 Style: Sign-Room,BakerSignetBT,80,&H0ABDBBBB,&H000000FF,&H785A5656,&HFF000000,-1,0,0,0,130,95,0,0,1,1.6,0,5,11,11,11,1
 Style: Preview,Britannic Bold,54,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,30,30,23,1
-Style: Insert1-Kanji,@TakaoPMincho,54,&H00F9F8F0,&H6EC59F49,&H1EB28609,&H00000000,-1,0,0,0,94,96,0,270,1,3.45,0,7,77,0,120,128
-Style: Insert1-Romaji,Hansa,60,&H00F9F8F0,&H6E665A40,&H148E6B11,&H00000000,-1,0,0,0,83,114,0,0,1,3.6,0,7,82,23,28,1
-Style: Insert1-English,JohnsHand,72,&H1EE6FEFD,&H002C2DE3,&H28683F63,&H00000000,0,0,0,0,86,103,0,0,1,4.2,0,9,960,40,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
