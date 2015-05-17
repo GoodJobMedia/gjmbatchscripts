@@ -153,7 +153,7 @@ Dialogue: 10,0:09:12.21,0:09:13.91,GJM_Main,GalAma,0,0,0,,{\an8}Whatever...
 Dialogue: 10,0:09:36.08,0:09:38.27,GJM_Main,Kids,0,0,0,,First one there wins!
 Dialogue: 10,0:09:37.38,0:09:38.87,GJM_Overlap,Kids,0,0,0,,{\an8}Hey, wait for me!{## i don't think this HAS to be an8; it's a bit distracting atm}
 Dialogue: 10,0:09:38.87,0:09:40.68,GJM_Main,Kids,0,0,0,,C'mon, hurry up!
-Dialogue: 10,0:09:42.81,0:09:46.13,GJM_Main,Ino,0,0,0,,{\i1}Jeez, what's her deal, anyway?
+Dialogue: 10,0:09:42.81,0:09:46.13,GJM_Main,Ino,0,0,0,,{\i1}Man, what's her deal, anyway?
 Dialogue: 10,0:09:47.06,0:09:48.10,GJM_Main,Ino,0,0,0,,Honestly...
 Dialogue: 10,0:09:50.57,0:09:51.80,GJM_Main,Ino,0,0,0,,Huh? What is it?{Wh-What?}
 Dialogue: 10,0:09:51.80,0:09:52.95,GJM_Main,Ue,0,0,0,,Shush!{Shh.}
@@ -174,7 +174,7 @@ Dialogue: 10,0:10:50.89,0:10:53.79,GJM_Main,GalAma,0,0,0,,Huh?! You're not makin
 Dialogue: 10,0:10:55.08,0:10:56.53,GJM_Main,Ue,0,0,0,,Hey. Here.
 Dialogue: 10,0:11:00.58,0:11:01.95,GJM_Main,Ino,0,0,0,,An anonymous message?
 Dialogue: 10,0:11:02.89,0:11:04.52,GJM_Main,GalAma,0,0,0,,It's just a normal letter!
-Dialogue: 10,0:11:05.02,0:11:05.90,GJM_Main,GalAma,0,0,0,,Geez!
+Dialogue: 10,0:11:05.02,0:11:05.90,GJM_Main,GalAma,0,0,0,,Seriously!
 Dialogue: 10,0:11:10.19,0:11:13.53,GJM_Main,Ino,0,0,0,,You were just leaving a letter\Nfor the person you want to meet?
 Dialogue: 10,0:11:13.90,0:11:17.42,GJM_Main,GalAma,0,0,0,,I don't have a clue what \Nyou were so suspicious of.
 Dialogue: 10,0:11:17.42,0:11:19.81,GJM_Main,Ue,0,0,0,,You {\i1}were{\i0} kind of sneaking around, though.
