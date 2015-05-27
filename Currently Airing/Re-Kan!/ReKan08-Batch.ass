@@ -18,7 +18,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
 Scroll Position: 315
-Active Line: 316
+Active Line: 329
 Video Position: 27787
 
 [V4+ Styles]
@@ -366,7 +366,7 @@ Dialogue: 10,0:21:27.11,0:21:28.54,GJM_Main,Ino,0,0,0,,Why would she say that?
 Dialogue: 10,0:21:29.07,0:21:31.21,GJM_Main,Ino,0,0,0,,We could've played more!
 Dialogue: 10,0:21:32.33,0:21:34.16,GJM_Main,Ino,0,0,0,,She was just a kid...
 Dialogue: 10,0:21:37.90,0:21:39.31,GJM_Main,Ama,0,0,0,,Inoue{*}-san{*}.
-Dialogue: 10,0:21:45.08,0:21:47.41,GJM_Main,Yama,0,0,0,,Amami{*}-san{*}, Inoue{*}-san{*}, come on!
+Dialogue: 10,0:21:45.08,0:21:47.41,GJM_Main,Yama,0,0,0,,{*}Amami-san{*Amami}, {*}Inoue-san{*Inoue}, come on!
 Dialogue: 10,0:21:49.23,0:21:53.66,GJM_Main,Yama,0,0,0,,We'll hang out tomorrow, \Nthe day after that, and beyond, too!
 Comment: 0,0:22:09.76,0:23:39.81,GJM_Main,,0,0,0,,## ED ##
 Dialogue: 10,0:23:40.74,0:23:43.89,GJM_Main,GalGhost,0,0,0,,Man, I have to do the preview? What a drag.
