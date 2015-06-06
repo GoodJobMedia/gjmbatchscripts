@@ -12,14 +12,13 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: re-kan 09 premux[8123ABC6].mkv
-Video File: re-kan 09 premux[8123ABC6].mkv
+Video File: D:/Fansubbing/GoodJob/Re-Kan!/09/re-kan 09 premux[8123ABC6].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 21
-Active Line: 33
-Video Position: 30291
+Video Zoom Percent: 0.875000
+Scroll Position: 1626
+Active Line: 1631
+Video Position: 34555
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1666,7 +1665,7 @@ Dialogue: 0,0:19:38.36,0:19:41.36,On_Screen_Mincho_Signs,,0,0,0,,{\pos(664,140)\
 Dialogue: 0,0:20:49.81,0:20:52.31,On_Screen_Mincho_light_Signs,,0,0,0,,{\an7\pos(86.667,526.667)\frz-44.16\fax0.99\fs10\c&H2C4570&\1a&H4E&\blur1.1}Caution
 Dialogue: 0,0:23:39.77,0:24:09.67,ED-Next Time,,0,0,0,,{\an5\pos(186,120)\fs38\bord2.5\c&HD45DCC&\3c&HD45DCC&\alpha&H60&\1a&HFF&\3a&H44&\blur5}Next Time
 Dialogue: 2,0:23:39.77,0:24:09.67,ED-Next Time,,0,0,0,,{\an5\pos(186,120)\fs38\blur0.5}Next Time
-Dialogue: 0,0:24:00.87,0:24:04.63,On_Screen_Mincho_Signs,,0,0,0,,{\pos(638.667,37.334)\c&H514A41&\blur1}Hanazuka Prefectural High School
+Dialogue: 0,0:24:00.87,0:24:04.63,On_Screen_Mincho_Signs,,0,0,0,,{\pos(638.667,37.334)\c&H514A41&\blur1}Hanazuka High School
 Dialogue: 0,0:24:00.87,0:24:04.63,On_Screen_Mincho_Signs,,0,0,0,,{\pos(642.666,733.333)\fs48\c&H080606&\blur1}Entrance Ceremony
 Dialogue: 0,0:24:01.21,0:24:09.67,ED Title,,0,0,0,,{\fad(442,0)\blur7\bord2\fs50\fnKozuka Mincho Pro Strippedv2 R\pos(640,450)\3c&HD556D5&\c&HD556D5&\1a&HFF&\alpha&H60&\3a&H92&}We've Entered Our Second Year.
 Dialogue: 1,0:24:01.21,0:24:09.67,ED Title,,0,0,0,,{\fad(442,0)\bord0.4\blur0.6\fs50\fnKozuka Mincho Pro Strippedv2 R\pos(640,450)\3c&HD556D5&\c&HD556D5&\1a&HFF&\t(397,439,\1a&H00&)}We've Entered Our Second Year.
