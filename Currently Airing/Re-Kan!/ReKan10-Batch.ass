@@ -12,15 +12,15 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: re-kan 10 premux[40CE6C6C].mkv
-Video File: re-kan 10 premux[40CE6C6C].mkv
-Keyframes File: re-kan 10 workraw[3FE7B2F8]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Re-Kan!/10/re-kan 10 premux[40CE6C6C].mkv
+Video File: D:/Fansubbing/GoodJob/Re-Kan!/10/re-kan 10 premux[40CE6C6C].mkv
+Keyframes File: D:/Fansubbing/GoodJob/Re-Kan!/10/re-kan 10 workraw[3FE7B2F8]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 321
-Active Line: 335
-Video Position: 34378
+Video Zoom Percent: 0.875000
+Scroll Position: 542
+Active Line: 547
+Video Position: 17544
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -228,7 +228,6 @@ Dialogue: 10,0:12:15.26,0:12:17.26,GJM_Main,Ama,0,0,0,,A manga?
 Dialogue: 10,0:12:17.67,0:12:19.76,GJM_Main,Yama,0,0,0,,That copy looks really old.
 Dialogue: 10,0:12:20.07,0:12:23.00,GJM_Main,Oga,0,0,0,,My dad went to this high school,
 Dialogue: 10,0:12:23.00,0:12:27.52,GJM_Main,Oga,0,0,0,,and he happened to still have this old manga club release.
-Dialogue: 10,0:12:25.99,0:12:27.52,GJM_Main,Oga,0,0,0,,that the manga club had made.
 Dialogue: 10,0:12:28.97,0:12:31.93,GJM_Main,Oga,0,0,0,,There was a boy who was cursed with immortality.
 Dialogue: 10,0:12:32.98,0:12:37.01,GJM_Main,Oga,0,0,0,,In order to reunite with his departed lover,
 Dialogue: 10,0:12:37.01,0:12:38.34,GJM_Main,Oga,0,0,0,,he endured much persecution
@@ -583,8 +582,8 @@ Dialogue: 0,0:12:10.50,0:12:10.54,ED-Next Time,,0,0,0,,{\pos(706.82,561.5)\fscx1
 Dialogue: 1,0:12:10.50,0:12:10.54,ED-Next Time,,0,0,0,,{\pos(706.82,561.5)\fscx100.76\fscy100.76\frz180.53\fax0.12\fnSweet as candy\fs26\c&HA0A295&\3a&H28&\4a&HFF&\blur1}D{\fax0.09}y{\fax0.08}i{\fax0.07}n{\fax0.06}g {\fax0.04}W{\fax0.02}h{\fax0.01}i{\fax0}s{\fax-0.01}p{\fax-0.02}e{\fax-0.03}r
 Dialogue: 0,0:12:10.54,0:12:10.58,ED-Next Time,,0,0,0,,{\pos(706.87,561.35)\fscx100.66\fscy100.66\frz180.55\fax0.1\fnSweet as candy\fs26\bord1\c&H090808&\3c&H090808&\3a&H28&\blur1}D{\fax0.09}y{\fax0.08}i{\fax0.07}n{\fax0.06}g {\fax0.04}W{\fax0.02}h{\fax0.01}i{\fax0}s{\fax-0.01}p{\fax-0.02}e{\fax-0.03}r
 Dialogue: 1,0:12:10.54,0:12:10.58,ED-Next Time,,0,0,0,,{\pos(706.87,561.35)\fscx100.66\fscy100.66\frz180.55\fax0.1\fnSweet as candy\fs26\c&HA0A295&\3a&H28&\4a&HFF&\blur1}D{\fax0.09}y{\fax0.08}i{\fax0.07}n{\fax0.06}g {\fax0.04}W{\fax0.02}h{\fax0.01}i{\fax0}s{\fax-0.01}p{\fax-0.02}e{\fax-0.03}r
-Comment: 0,0:12:10.58,0:12:11.33,ED-Next Time,,0,0,0,,{\pos(715.65,514.89)\frz179.2\frx12\fnSweet as candy\fs26\bord1\c&H090808&\3c&H090808&\3a&H28&\blur1}Dying Whisper
-Comment: 1,0:12:10.58,0:12:11.33,ED-Next Time,,0,0,0,,{\pos(715.65,514.89)\frz179.2\frx12\fnSweet as candy\fs26\c&HADB0A0&\3a&H28&\4a&HFF&\blur1}Dying Whisper
+Dialogue: 0,0:12:10.58,0:12:11.33,ED-Next Time,,0,0,0,,{\pos(715.65,514.89)\frz179.2\frx12\fnSweet as candy\fs26\bord1\c&H090808&\3c&H090808&\3a&H28&\blur1}Dying Whisper
+Dialogue: 1,0:12:10.58,0:12:11.33,ED-Next Time,,0,0,0,,{\pos(715.65,514.89)\frz179.2\frx12\fnSweet as candy\fs26\c&HADB0A0&\3a&H28&\4a&HFF&\blur1}Dying Whisper
 Comment: 1,0:13:12.39,0:13:12.52,ED-Next Time,,0,0,0,,{\pos(996.36,621.09)\frz343.9\fnSweet as candy\fs14\bord1\c&H010405&\3c&H010405&\3a&H5E&\4a&HFF&\blur1}Dying Whisper
 Comment: 1,0:13:12.52,0:13:12.56,ED-Next Time,,0,0,0,,{\pos(996.38,611.34)\frz343.82\fnSweet as candy\fs14\bord1\c&H010405&\3c&H010405&\3a&H5E&\4a&HFF&\blur1}Dying Whisper
 Comment: 1,0:13:12.56,0:13:12.60,ED-Next Time,,0,0,0,,{\pos(996.38,611.34)\frz343.81\fnSweet as candy\fs14\bord1\c&H010405&\3c&H010405&\3a&H5E&\4a&HFF&\blur1}Dying Whisper
