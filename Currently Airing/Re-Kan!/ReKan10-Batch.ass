@@ -18,9 +18,9 @@ Keyframes File: D:/Fansubbing/GoodJob/Re-Kan!/10/re-kan 10 workraw[3FE7B2F8]_key
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 542
-Active Line: 547
-Video Position: 17544
+Scroll Position: 1071
+Active Line: 1079
+Video Position: 34568
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1113,7 +1113,6 @@ Dialogue: 0,0:13:21.40,0:13:21.48,ED-Next Time,,0,0,0,,{\pos(1145.06,630.46)\fsc
 Dialogue: 0,0:13:21.48,0:13:21.53,ED-Next Time,,0,0,0,,{\pos(1145.05,630.47)\fscx100.14\fscy100.14\frz350.1\fnKids Scrawl\b1\c&H33495E&\blur1}Give me \Npanties!!
 Dialogue: 0,0:23:39.77,0:24:19.77,ED-Next Time,,0,0,0,,{\an5\pos(186,120)\fs38\bord2.5\c&HD45DCC&\3c&HD45DCC&\alpha&H60&\1a&HFF&\3a&H44&\blur5}Next Time
 Dialogue: 2,0:23:39.77,0:24:19.77,ED-Next Time,,0,0,0,,{\an5\pos(186,120)\fs38\blur0.5}Next Time
-Dialogue: 0,0:24:01.16,0:24:19.77,ED Title,,0,0,0,,{\fad(489,0)\blur7\bord2\fs50\fnKozuka Mincho Pro Strippedv2 R\pos(640,450)\3c&HD556D5&\c&HD556D5&\1a&HFF&\alpha&H60&\3a&H92&}My Request.
-Dialogue: 1,0:24:01.16,0:24:19.77,ED Title,,0,0,0,,{\fad(489,0)\bord0.4\blur0.6\fs50\fnKozuka Mincho Pro Strippedv2 R\pos(640,450)\3c&HD556D5&\c&HD556D5&\1a&HFF&\t(397,439,\1a&H00&)}My Request.
-Dialogue: 2,0:24:01.16,0:24:19.77,ED Title,,0,0,0,,{\fad(489,0)\bord0\blur0.6\fs50\fnKozuka Mincho Pro Strippedv2 R\c&HFFFEFF&\pos(640,450)\4a&HFF&}My Request.
-Dialogue: 0,0:24:12.99,0:24:14.99,GJM_Main,,0,0,0,,
+Dialogue: 0,0:24:01.16,0:24:19.77,ED Title,,0,0,0,,{\fad(489,0)\blur7\bord2\fs50\fnKozuka Mincho Pro Strippedv2 R\pos(640,450)\3c&HD556D5&\c&HD556D5&\1a&HFF&\alpha&H60&\3a&H92&}My Wish.
+Dialogue: 1,0:24:01.16,0:24:19.77,ED Title,,0,0,0,,{\fad(489,0)\bord0.4\blur0.6\fs50\fnKozuka Mincho Pro Strippedv2 R\pos(640,450)\3c&HD556D5&\c&HD556D5&\1a&HFF&\t(397,439,\1a&H00&)}My Wish.
+Dialogue: 2,0:24:01.16,0:24:19.77,ED Title,,0,0,0,,{\fad(489,0)\bord0\blur0.6\fs50\fnKozuka Mincho Pro Strippedv2 R\c&HFFFEFF&\pos(640,450)\4a&HFF&}My Wish.
