@@ -18,9 +18,9 @@ Keyframes File: D:/Fansubbing/GoodJob/Re-Kan!/10/re-kan 10 workraw[3FE7B2F8]_key
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 1071
-Active Line: 1079
-Video Position: 34568
+Scroll Position: 312
+Active Line: 313
+Video Position: 30053
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -349,7 +349,7 @@ Dialogue: 10,0:20:34.04,0:20:37.39,GJM_Main,Ama,0,0,0,,I... do?
 Dialogue: 10,0:20:37.39,0:20:40.30,GJM_Main,Yama,0,0,0,,Yeah, they want to take a picture with you.
 Dialogue: 10,0:20:42.14,0:20:44.47,GJM_Main,Yama,0,0,0,,Ready? Okay!
 Dialogue: 10,0:20:47.20,0:20:49.87,GJM_Main,Ue,0,0,0,,Weren't they scared of her?
-Dialogue: 10,0:20:49.87,0:20:53.48,GJM_Main,Yama,0,0,0,,Well, you know how she's been\Nbusy with the ghosts lately.
+Dialogue: 10,0:20:49.87,0:20:53.48,GJM_Main,Yama,0,0,0,,Well, you know how she's been\Nbusy with the ghosts lately?
 Dialogue: 10,0:20:53.48,0:20:55.73,GJM_Main,Yama,0,0,0,,Apparently, they heard about it.
 Dialogue: 10,0:20:56.35,0:20:59.13,GJM_Main,Yama,0,0,0,,She's actually quite popular\Nwith some of the girls.
 Dialogue: 10,0:20:59.13,0:21:02.24,GJM_Main,Yama,0,0,0,,She's the upperclassman{senpai} they can\Nalways get a ghost photo out of!{I'm sorry but using senpai like that isn't happening when the rest of the script doesn't even use kouhai like it}{## yeah i agree}
@@ -373,7 +373,7 @@ Dialogue: 10,0:23:45.44,0:23:47.70,GJM_Main,Ama,0,0,0,,Time sure does fly.
 Dialogue: 10,0:23:47.70,0:23:52.12,GJM_Main,Ama,0,0,0,,I guess I can feel that way\Nbecause my days with Inoue{*}-san{*}
 Dialogue: 10,0:23:52.12,0:23:55.25,GJM_Main,Ama,0,0,0,,and all my friends are so fun and fulfilling.
 Dialogue: 10,0:23:55.25,0:24:00.88,GJM_Main,Ama,0,0,0,,So, I've invited everyone to my house\Nto celebrate the Star Festival...
-Dialogue: 10,0:24:00.88,0:24:04.88,GJM_Main,Ama,0,0,0,,Next time on Re-Kan!: "My Request."
+Dialogue: 10,0:24:00.88,0:24:04.88,GJM_Main,Ama,0,0,0,,Next time on Re-Kan!: "My Wish."
 Dialogue: 10,0:24:04.88,0:24:08.87,GJM_Main,Ama,0,0,0,,If I could ask for one thing, I'd...
 Comment: 0,0:24:08.99,0:24:10.99,GJM_Main,,0,0,0,,OP
 Dialogue: 0,0:01:26.31,0:01:29.11,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\be2\fad(250,250)\3c&HD892BB&}Our story is starting, now let's walk together
