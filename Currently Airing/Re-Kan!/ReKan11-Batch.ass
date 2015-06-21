@@ -12,15 +12,13 @@ Aegisub Video Aspect Ratio: c1.777778
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: re-kan 11 premux[0D8571CC].mkv
-Video File: re-kan 11 premux[0D8571CC].mkv
-Keyframes File: re-kan 11 workraw[C348CE18]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Re-Kan!/11/re-kan 11 premux[0D8571CC].mkv
+Video File: D:/Fansubbing/GoodJob/Re-Kan!/11/re-kan 11 premux[0D8571CC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 248
-Active Line: 262
-Video Position: 26416
+Scroll Position: 9253
+Active Line: 9143
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -9186,7 +9184,7 @@ Dialogue: 0,0:06:30.07,0:06:30.11,On_Screen_Mincho_Signs,,0,0,0,,{\pos(733.72,28
 Dialogue: 0,0:06:30.11,0:06:30.16,On_Screen_Mincho_Signs,,0,0,0,,{\pos(728.37,287.47)\fscx94.41\fscy94.41\frz270.7\fnBrush Stroke\fs48\fsp2\c&H111214&\blur1}I want to spend every day surrounded by
 Dialogue: 0,0:06:30.16,0:06:30.20,On_Screen_Mincho_Signs,,0,0,0,,{\pos(720.3,295.27)\fscx86.02\fscy86.02\frz270.7\fnBrush Stroke\fs48\fsp2\c&H111214&\blur1}I want to spend every day surrounded by
 Dialogue: 0,0:06:30.20,0:06:30.24,On_Screen_Mincho_Signs,,0,0,0,,{\pos(716.88,298.41)\fscx82.52\fscy82.52\frz270.7\fnBrush Stroke\fs48\fsp2\c&H111214&\blur1}I want to spend every day surrounded by
-Dialogue: 0,0:06:30.24,0:06:30.28,On_Screen_Mincho_Signs,,0,0,0,,{\pos(714.59,300.81)\fscx80.08\fscy80.08\frz270.7\fnBrush Stroke\fs48\fsp2\c&H111214&\blur1}I want I want to spend every day surrounded by
+Dialogue: 0,0:06:30.24,0:06:30.28,On_Screen_Mincho_Signs,,0,0,0,,{\pos(714.59,300.81)\fscx80.08\fscy80.08\frz270.7\fnBrush Stroke\fs48\fsp2\c&H111214&\blur1}I want to spend every day surrounded by
 Dialogue: 0,0:06:30.28,0:06:30.32,On_Screen_Mincho_Signs,,0,0,0,,{\pos(713.27,301.94)\fscx78.72\fscy78.72\frz270.7\fnBrush Stroke\fs48\fsp2\c&H111214&\blur1}I want to spend every day surrounded by
 Dialogue: 0,0:06:30.32,0:06:30.36,On_Screen_Mincho_Signs,,0,0,0,,{\pos(712.25,302.99)\fscx77.64\fscy77.64\frz270.7\fnBrush Stroke\fs48\fsp2\c&H111214&\blur1}I want to spend every day surrounded by
 Dialogue: 0,0:06:30.36,0:06:30.41,On_Screen_Mincho_Signs,,0,0,0,,{\pos(711.42,303.7)\fscx76.82\fscy76.82\frz270.7\fnBrush Stroke\fs48\fsp2\c&H111214&\blur1}I want to spend every day surrounded by
