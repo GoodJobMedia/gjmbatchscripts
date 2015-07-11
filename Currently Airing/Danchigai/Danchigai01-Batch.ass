@@ -17,8 +17,8 @@ Keyframes File: danchigai 01 premux[4846B904]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 283
-Active Line: 284
+Scroll Position: 632
+Active Line: 644
 Video Position: 4915
 
 [V4+ Styles]
@@ -124,8 +124,8 @@ Dialogue: 0,0:03:02.91,0:03:10.33,DanchiED1-Eng,,0,0,0,,{\3c&H15A8FC&\blur0.6}So
 Comment: 10,0:02:19.28,0:02:21.28,GJM_Main,,0,0,0,,TS
 Dialogue: 8,0:00:05.77,0:00:09.11,Chh Sign,,0,0,0,,{\bord2.2\blur4\fs50\fscy110\shad0\fnIwata Maru Gothic Pro M-Kami\b1\3c&HF5B119&\c&HF5B119&\move(-850,93,53,93,0,945)\t(0,945,\blur0.6)}1
 Dialogue: 9,0:00:05.77,0:00:09.11,Chh Sign,,0,0,0,,{\bord0\blur4\fs50\fscy110\shad0\fnIwata Maru Gothic Pro M-Kami\b1\c&HD9F9F5&\move(-850,93,53,93,0,945)\4a&HFF&\t(0,945,\blur0.6)}1
-Dialogue: 0,0:00:05.77,0:00:09.11,Chh Sign,,0,0,0,,{\blur4\an1\bord4\fscx80\fscy80\shad0\p1\3c&H4076C9&\c&H4076C9&\move(-850,194,40.667,194,0,945)\t(0,945,\blur0.6)}m 0 0 l 0 -90 l 54 -90 l 54 -67 l 75 -67 l 75 -40 l 97 -40 l 97 0
-Dialogue: 1,0:00:05.77,0:00:09.11,Chh Sign,,0,0,0,,{\blur4\an1\bord0\fscx80\fscy80\shad0\p1\c&H4076C9&\move(-850,194,40.667,194,0,945)\4a&HFF&\t(0,945,\blur0.6)}m 0 0 l 0 -90 l 54 -90 l 54 -67 l 75 -67 l 75 -40 l 97 -40 l 97 0
+Dialogue: 0,0:00:05.77,0:00:09.11,Chh Sign,,0,0,0,,{\blur4\an1\bord4\fscx80\fscy80\shad0\p1\3c&H427BCA&\c&H427BCA&\move(-850,194,40.667,194,0,945)\t(0,945,\blur0.6)}m 0 0 l 0 -90 l 54 -90 l 54 -67 l 75 -67 l 75 -40 l 97 -40 l 97 0
+Dialogue: 1,0:00:05.77,0:00:09.11,Chh Sign,,0,0,0,,{\blur4\an1\bord0\fscx80\fscy80\shad0\p1\c&H427BCA&\move(-850,194,40.667,194,0,945)\4a&HFF&\t(0,945,\blur0.6)}m 0 0 l 0 -90 l 54 -90 l 54 -67 l 75 -67 l 75 -40 l 97 -40 l 97 0
 Dialogue: 8,0:00:05.77,0:00:09.11,Chh Sign,,0,0,0,,{\bord2.2\blur4\fs44\fsp0.5\fscy110\shad0\fnIwata Maru Gothic Pro M-Kami\b1\3c&HF5B119&\c&HF5B119&\move(-800,108,154.286,108,0,945)\t(0,945,\blur0.6)}Building No. 1 - Yumeno Apartment Complex
 Dialogue: 9,0:00:05.77,0:00:09.11,Chh Sign,,0,0,0,,{\bord0\blur4\fs44\fsp0.5\fscy110\shad0\fnIwata Maru Gothic Pro M-Kami\b1\c&HD9F9F5&\move(-800,108,154.286,108,0,945)\4a&HFF&\t(0,945,\blur0.6)}Building No. 1 - Yumeno Apartment Complex
 Comment: 0,0:00:07.77,0:00:08.40,Chh Sign,,0,0,0,,{\bord4\fscx90\fscy90\shad0\p1\c&H4076C9&\3c&H4076C9&\pos(276.286,574.857)}m 0 0 l 0 -90 l 54 -90 l 54 -67 l 75 -67 l 75 -40 l 97 -40 l 97 0
@@ -222,93 +222,93 @@ Dialogue: 0,0:00:08.82,0:00:08.86,Chh Sign,,0,0,0,,{\pos(1222.81,440.2)\frz18.92
 Dialogue: 0,0:00:08.86,0:00:08.90,Chh Sign,,0,0,0,,{\pos(1235.18,448.68)\frz18.92\fax0.04\fnKozuka Gothic Pro M - ENG\fs19\bord0\shad0\c&H4F403F&\blur0.8}Yumeno Apartment Complex Information Board
 Dialogue: 0,0:00:08.90,0:00:08.94,Chh Sign,,0,0,0,,{\pos(1247.58,456.99)\frz18.92\fax0.04\fnKozuka Gothic Pro M - ENG\fs19\bord0\shad0\c&H4F403F&\blur0.8}Yumeno Apartment Complex Information Board
 Dialogue: 0,0:00:08.94,0:00:08.98,Chh Sign,,0,0,0,,{\pos(1259.56,463.13)\frz18.92\fax0.04\fnKozuka Gothic Pro M - ENG\fs19\bord0\shad0\c&H4F403F&\blur0.8}Yumeno Apartment Complex Information Board
-Dialogue: 0,0:00:12.99,0:00:13.03,Chh Sign,,0,0,0,,{\pos(165,569)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.03,0:00:13.07,Chh Sign,,0,0,0,,{\pos(150.59,536.45)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.07,0:00:13.11,Chh Sign,,0,0,0,,{\pos(136.18,503.92)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.11,0:00:13.15,Chh Sign,,0,0,0,,{\pos(121.8,471.38)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.15,0:00:13.20,Chh Sign,,0,0,0,,{\pos(107.4,438.85)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.20,0:00:13.24,Chh Sign,,0,0,0,,{\pos(92.97,406.32)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.24,0:00:13.28,Chh Sign,,0,0,0,,{\pos(78.54,373.79)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.28,0:00:13.32,Chh Sign,,0,0,0,,{\pos(64.09,341.28)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.32,0:00:13.36,Chh Sign,,0,0,0,,{\pos(49.66,308.75)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.36,0:00:13.40,Chh Sign,,0,0,0,,{\pos(35.25,276.2)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.40,0:00:13.45,Chh Sign,,0,0,0,,{\pos(20.83,243.65)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.45,0:00:13.49,Chh Sign,,0,0,0,,{\pos(6.44,211.08)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.49,0:00:13.53,Chh Sign,,0,0,0,,{\pos(-7.95,178.54)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.53,0:00:13.57,Chh Sign,,0,0,0,,{\pos(-22.32,146.01)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.57,0:00:13.61,Chh Sign,,0,0,0,,{\pos(-36.68,113.46)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.61,0:00:13.66,Chh Sign,,0,0,0,,{\pos(-51.05,80.91)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 0,0:00:13.66,0:00:13.70,Chh Sign,,0,0,0,,{\pos(-65.47,48.36)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:12.99,0:00:13.03,Chh Sign,,0,0,0,,{\pos(165,569)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.03,0:00:13.07,Chh Sign,,0,0,0,,{\pos(150.59,536.45)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.07,0:00:13.11,Chh Sign,,0,0,0,,{\pos(136.18,503.92)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.11,0:00:13.15,Chh Sign,,0,0,0,,{\pos(121.8,471.38)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.15,0:00:13.20,Chh Sign,,0,0,0,,{\pos(107.4,438.85)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.20,0:00:13.24,Chh Sign,,0,0,0,,{\pos(92.97,406.32)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.24,0:00:13.28,Chh Sign,,0,0,0,,{\pos(78.54,373.79)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.28,0:00:13.32,Chh Sign,,0,0,0,,{\pos(64.09,341.28)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.32,0:00:13.36,Chh Sign,,0,0,0,,{\pos(49.66,308.75)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.36,0:00:13.40,Chh Sign,,0,0,0,,{\pos(35.25,276.2)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.40,0:00:13.45,Chh Sign,,0,0,0,,{\pos(20.83,243.65)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.45,0:00:13.49,Chh Sign,,0,0,0,,{\pos(6.44,211.08)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.49,0:00:13.53,Chh Sign,,0,0,0,,{\pos(-7.95,178.54)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.53,0:00:13.57,Chh Sign,,0,0,0,,{\pos(-22.32,146.01)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.57,0:00:13.61,Chh Sign,,0,0,0,,{\pos(-36.68,113.46)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.61,0:00:13.66,Chh Sign,,0,0,0,,{\pos(-51.05,80.91)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:13.66,0:00:13.70,Chh Sign,,0,0,0,,{\pos(-65.47,48.36)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC6F2F8&\4a&HFF&\blur0.6}It's morning{\fscx300}-
-Dialogue: 1,0:00:14.66,0:00:14.70,Chh Sign,,0,0,0,,{\pos(940.14,688)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:14.70,0:00:14.74,Chh Sign,,0,0,0,,{\pos(953.14,649.69)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:14.74,0:00:14.78,Chh Sign,,0,0,0,,{\pos(966.76,612.07)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:14.78,0:00:14.82,Chh Sign,,0,0,0,,{\pos(978.69,579.03)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:14.82,0:00:14.86,Chh Sign,,0,0,0,,{\pos(987.14,552.7)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:14.86,0:00:14.91,Chh Sign,,0,0,0,,{\pos(995.23,527.61)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:14.91,0:00:14.95,Chh Sign,,0,0,0,,{\pos(1004.46,499.81)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:14.95,0:00:14.99,Chh Sign,,0,0,0,,{\pos(1012.68,474.7)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:14.99,0:00:15.03,Chh Sign,,0,0,0,,{\pos(1021.86,446.84)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.03,0:00:15.07,Chh Sign,,0,0,0,,{\pos(1031,419)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.07,0:00:15.11,Chh Sign,,0,0,0,,{\pos(1040.23,391.09)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.11,0:00:15.16,Chh Sign,,0,0,0,,{\pos(1049.42,363.42)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.16,0:00:15.20,Chh Sign,,0,0,0,,{\pos(1058.58,335.86)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.20,0:00:15.24,Chh Sign,,0,0,0,,{\pos(1067.78,308.21)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.24,0:00:15.28,Chh Sign,,0,0,0,,{\pos(1076.98,280.6)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.28,0:00:15.32,Chh Sign,,0,0,0,,{\pos(1086.17,253.03)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.32,0:00:15.37,Chh Sign,,0,0,0,,{\pos(1095.39,225.42)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.37,0:00:15.41,Chh Sign,,0,0,0,,{\pos(1104.6,197.73)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.41,0:00:15.45,Chh Sign,,0,0,0,,{\pos(1113.89,169.85)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.45,0:00:15.49,Chh Sign,,0,0,0,,{\pos(1123.11,142.1)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.49,0:00:15.53,Chh Sign,,0,0,0,,{\pos(1132.29,114.43)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.53,0:00:15.57,Chh Sign,,0,0,0,,{\pos(1141.58,86.5)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.57,0:00:15.62,Chh Sign,,0,0,0,,{\pos(1150.66,59.01)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.62,0:00:15.66,Chh Sign,,0,0,0,,{\pos(1159.86,31.27)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.66,0:00:15.70,Chh Sign,,0,0,0,,{\pos(1168.81,4.11)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.70,0:00:15.74,Chh Sign,,0,0,0,,{\pos(1177.89,-23.36)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 1,0:00:15.74,0:00:15.78,Chh Sign,,0,0,0,,{\pos(1187.05,-50.97)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H709EF0&\3c&H709EF0&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:14.66,0:00:14.70,Chh Sign,,0,0,0,,{\pos(940.14,688)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:14.70,0:00:14.74,Chh Sign,,0,0,0,,{\pos(953.14,649.69)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:14.74,0:00:14.78,Chh Sign,,0,0,0,,{\pos(966.76,612.07)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:14.78,0:00:14.82,Chh Sign,,0,0,0,,{\pos(978.69,579.03)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:14.82,0:00:14.86,Chh Sign,,0,0,0,,{\pos(987.14,552.7)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:14.86,0:00:14.91,Chh Sign,,0,0,0,,{\pos(995.23,527.61)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:14.91,0:00:14.95,Chh Sign,,0,0,0,,{\pos(1004.46,499.81)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:14.95,0:00:14.99,Chh Sign,,0,0,0,,{\pos(1012.68,474.7)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:14.99,0:00:15.03,Chh Sign,,0,0,0,,{\pos(1021.86,446.84)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.03,0:00:15.07,Chh Sign,,0,0,0,,{\pos(1031,419)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.07,0:00:15.11,Chh Sign,,0,0,0,,{\pos(1040.23,391.09)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.11,0:00:15.16,Chh Sign,,0,0,0,,{\pos(1049.42,363.42)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.16,0:00:15.20,Chh Sign,,0,0,0,,{\pos(1058.58,335.86)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.20,0:00:15.24,Chh Sign,,0,0,0,,{\pos(1067.78,308.21)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.24,0:00:15.28,Chh Sign,,0,0,0,,{\pos(1076.98,280.6)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.28,0:00:15.32,Chh Sign,,0,0,0,,{\pos(1086.17,253.03)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.32,0:00:15.37,Chh Sign,,0,0,0,,{\pos(1095.39,225.42)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.37,0:00:15.41,Chh Sign,,0,0,0,,{\pos(1104.6,197.73)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.41,0:00:15.45,Chh Sign,,0,0,0,,{\pos(1113.89,169.85)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.45,0:00:15.49,Chh Sign,,0,0,0,,{\pos(1123.11,142.1)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.49,0:00:15.53,Chh Sign,,0,0,0,,{\pos(1132.29,114.43)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.53,0:00:15.57,Chh Sign,,0,0,0,,{\pos(1141.58,86.5)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.57,0:00:15.62,Chh Sign,,0,0,0,,{\pos(1150.66,59.01)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.62,0:00:15.66,Chh Sign,,0,0,0,,{\pos(1159.86,31.27)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.66,0:00:15.70,Chh Sign,,0,0,0,,{\pos(1168.81,4.11)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
-Dialogue: 2,0:00:15.70,0:00:15.74,Chh Sign,,0,0,0,,{\pos(1177.89,-23.36)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC8EFF7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 0,0:00:12.99,0:00:13.03,Chh Sign,,0,0,0,,{\pos(165,569)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.03,0:00:13.07,Chh Sign,,0,0,0,,{\pos(150.59,536.45)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.07,0:00:13.11,Chh Sign,,0,0,0,,{\pos(136.18,503.92)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.11,0:00:13.15,Chh Sign,,0,0,0,,{\pos(121.8,471.38)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.15,0:00:13.20,Chh Sign,,0,0,0,,{\pos(107.4,438.85)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.20,0:00:13.24,Chh Sign,,0,0,0,,{\pos(92.97,406.32)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.24,0:00:13.28,Chh Sign,,0,0,0,,{\pos(78.54,373.79)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.28,0:00:13.32,Chh Sign,,0,0,0,,{\pos(64.09,341.28)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.32,0:00:13.36,Chh Sign,,0,0,0,,{\pos(49.66,308.75)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.36,0:00:13.40,Chh Sign,,0,0,0,,{\pos(35.25,276.2)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.40,0:00:13.45,Chh Sign,,0,0,0,,{\pos(20.83,243.65)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.45,0:00:13.49,Chh Sign,,0,0,0,,{\pos(6.44,211.08)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.49,0:00:13.53,Chh Sign,,0,0,0,,{\pos(-7.95,178.54)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.53,0:00:13.57,Chh Sign,,0,0,0,,{\pos(-22.32,146.01)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.57,0:00:13.61,Chh Sign,,0,0,0,,{\pos(-36.68,113.46)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.61,0:00:13.66,Chh Sign,,0,0,0,,{\pos(-51.05,80.91)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 0,0:00:13.66,0:00:13.70,Chh Sign,,0,0,0,,{\pos(-65.47,48.36)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:12.99,0:00:13.03,Chh Sign,,0,0,0,,{\pos(165,569)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.03,0:00:13.07,Chh Sign,,0,0,0,,{\pos(150.59,536.45)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.07,0:00:13.11,Chh Sign,,0,0,0,,{\pos(136.18,503.92)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.11,0:00:13.15,Chh Sign,,0,0,0,,{\pos(121.8,471.38)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.15,0:00:13.20,Chh Sign,,0,0,0,,{\pos(107.4,438.85)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.20,0:00:13.24,Chh Sign,,0,0,0,,{\pos(92.97,406.32)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.24,0:00:13.28,Chh Sign,,0,0,0,,{\pos(78.54,373.79)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.28,0:00:13.32,Chh Sign,,0,0,0,,{\pos(64.09,341.28)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.32,0:00:13.36,Chh Sign,,0,0,0,,{\pos(49.66,308.75)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.36,0:00:13.40,Chh Sign,,0,0,0,,{\pos(35.25,276.2)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.40,0:00:13.45,Chh Sign,,0,0,0,,{\pos(20.83,243.65)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.45,0:00:13.49,Chh Sign,,0,0,0,,{\pos(6.44,211.08)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.49,0:00:13.53,Chh Sign,,0,0,0,,{\pos(-7.95,178.54)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.53,0:00:13.57,Chh Sign,,0,0,0,,{\pos(-22.32,146.01)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.57,0:00:13.61,Chh Sign,,0,0,0,,{\pos(-36.68,113.46)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.61,0:00:13.66,Chh Sign,,0,0,0,,{\pos(-51.05,80.91)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:13.66,0:00:13.70,Chh Sign,,0,0,0,,{\pos(-65.47,48.36)\frz23.94\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\4a&HFF&\blur0.6}It's morning{\fscx300}-
+Dialogue: 1,0:00:14.66,0:00:14.70,Chh Sign,,0,0,0,,{\pos(940.14,688)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:14.70,0:00:14.74,Chh Sign,,0,0,0,,{\pos(953.14,649.69)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:14.74,0:00:14.78,Chh Sign,,0,0,0,,{\pos(966.76,612.07)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:14.78,0:00:14.82,Chh Sign,,0,0,0,,{\pos(978.69,579.03)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:14.82,0:00:14.86,Chh Sign,,0,0,0,,{\pos(987.14,552.7)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:14.86,0:00:14.91,Chh Sign,,0,0,0,,{\pos(995.23,527.61)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:14.91,0:00:14.95,Chh Sign,,0,0,0,,{\pos(1004.46,499.81)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:14.95,0:00:14.99,Chh Sign,,0,0,0,,{\pos(1012.68,474.7)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:14.99,0:00:15.03,Chh Sign,,0,0,0,,{\pos(1021.86,446.84)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.03,0:00:15.07,Chh Sign,,0,0,0,,{\pos(1031,419)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.07,0:00:15.11,Chh Sign,,0,0,0,,{\pos(1040.23,391.09)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.11,0:00:15.16,Chh Sign,,0,0,0,,{\pos(1049.42,363.42)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.16,0:00:15.20,Chh Sign,,0,0,0,,{\pos(1058.58,335.86)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.20,0:00:15.24,Chh Sign,,0,0,0,,{\pos(1067.78,308.21)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.24,0:00:15.28,Chh Sign,,0,0,0,,{\pos(1076.98,280.6)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.28,0:00:15.32,Chh Sign,,0,0,0,,{\pos(1086.17,253.03)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.32,0:00:15.37,Chh Sign,,0,0,0,,{\pos(1095.39,225.42)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.37,0:00:15.41,Chh Sign,,0,0,0,,{\pos(1104.6,197.73)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.41,0:00:15.45,Chh Sign,,0,0,0,,{\pos(1113.89,169.85)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.45,0:00:15.49,Chh Sign,,0,0,0,,{\pos(1123.11,142.1)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.49,0:00:15.53,Chh Sign,,0,0,0,,{\pos(1132.29,114.43)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.53,0:00:15.57,Chh Sign,,0,0,0,,{\pos(1141.58,86.5)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.57,0:00:15.62,Chh Sign,,0,0,0,,{\pos(1150.66,59.01)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.62,0:00:15.66,Chh Sign,,0,0,0,,{\pos(1159.86,31.27)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.66,0:00:15.70,Chh Sign,,0,0,0,,{\pos(1168.81,4.11)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.70,0:00:15.74,Chh Sign,,0,0,0,,{\pos(1177.89,-23.36)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 1,0:00:15.74,0:00:15.78,Chh Sign,,0,0,0,,{\pos(1187.05,-50.97)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord2\shad0\c&H689EDF&\3c&H689EDF&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:14.66,0:00:14.70,Chh Sign,,0,0,0,,{\pos(940.14,688)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:14.70,0:00:14.74,Chh Sign,,0,0,0,,{\pos(953.14,649.69)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:14.74,0:00:14.78,Chh Sign,,0,0,0,,{\pos(966.76,612.07)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:14.78,0:00:14.82,Chh Sign,,0,0,0,,{\pos(978.69,579.03)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:14.82,0:00:14.86,Chh Sign,,0,0,0,,{\pos(987.14,552.7)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:14.86,0:00:14.91,Chh Sign,,0,0,0,,{\pos(995.23,527.61)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:14.91,0:00:14.95,Chh Sign,,0,0,0,,{\pos(1004.46,499.81)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:14.95,0:00:14.99,Chh Sign,,0,0,0,,{\pos(1012.68,474.7)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:14.99,0:00:15.03,Chh Sign,,0,0,0,,{\pos(1021.86,446.84)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.03,0:00:15.07,Chh Sign,,0,0,0,,{\pos(1031,419)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.07,0:00:15.11,Chh Sign,,0,0,0,,{\pos(1040.23,391.09)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.11,0:00:15.16,Chh Sign,,0,0,0,,{\pos(1049.42,363.42)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.16,0:00:15.20,Chh Sign,,0,0,0,,{\pos(1058.58,335.86)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.20,0:00:15.24,Chh Sign,,0,0,0,,{\pos(1067.78,308.21)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.24,0:00:15.28,Chh Sign,,0,0,0,,{\pos(1076.98,280.6)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.28,0:00:15.32,Chh Sign,,0,0,0,,{\pos(1086.17,253.03)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.32,0:00:15.37,Chh Sign,,0,0,0,,{\pos(1095.39,225.42)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.37,0:00:15.41,Chh Sign,,0,0,0,,{\pos(1104.6,197.73)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.41,0:00:15.45,Chh Sign,,0,0,0,,{\pos(1113.89,169.85)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.45,0:00:15.49,Chh Sign,,0,0,0,,{\pos(1123.11,142.1)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.49,0:00:15.53,Chh Sign,,0,0,0,,{\pos(1132.29,114.43)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.53,0:00:15.57,Chh Sign,,0,0,0,,{\pos(1141.58,86.5)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.57,0:00:15.62,Chh Sign,,0,0,0,,{\pos(1150.66,59.01)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.62,0:00:15.66,Chh Sign,,0,0,0,,{\pos(1159.86,31.27)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.66,0:00:15.70,Chh Sign,,0,0,0,,{\pos(1168.81,4.11)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
+Dialogue: 2,0:00:15.70,0:00:15.74,Chh Sign,,0,0,0,,{\pos(1177.89,-23.36)\frz-20.41\fnPlaytime With Hot Toddies\fs70\b1\bord0\shad0\c&HC9F0F7&\3c&H7D99DD&\4a&HFF&\blur0.6}Mew{\fscx300}-
 Dialogue: 1,0:00:37.47,0:00:37.72,Chh Sign,,0,0,0,,{\blur6\an5\fsp2\bord5\fs160\shad0\fnChinacat\b1\4a&HFF&\3c&HA696E3&\c&HA696E3&\alpha&H78&\t(0,234,\move(-100,989,420,186,0,234))\blur2\alpha&H50&)\1a&HFF&}Pounce
 Dialogue: 2,0:00:37.47,0:00:37.72,Chh Sign,,0,0,0,,{\blur6\an5\fsp2\bord0\fs160\shad0\fnChinacat\b1\4a&HFF&\c&HCBF5FA&\alpha&H78&\t(0,234,\move(-100,989,420,186,0,234)\blur2\alpha&H50&)\4a&HFF&}Pounce
 Dialogue: 1,0:00:37.47,0:00:37.72,Chh Sign,,0,0,0,,{\blur6\an5\fsp2\bord5\fs160\shad0\fnChinacat\b1\4a&HFF&\3c&H7D99DD&\c&H7D99DD&\alpha&H78&\t(0,234,\move(1380,989,860,186,0,234))\blur2\alpha&H50&)\1a&HFF&}Pounce
