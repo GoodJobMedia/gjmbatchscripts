@@ -16,8 +16,8 @@ Video File: God Eater 01 [C4E8CFCE] (pls be alright edition).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 221
-Active Line: 227
+Scroll Position: 2611
+Active Line: 2617
 Video Position: 34029
 
 [V4+ Styles]
@@ -2648,4 +2648,4 @@ Dialogue: 0,0:16:44.82,0:16:46.45,FyuSigns,,0,0,0,,{\pos(646,574)\fax-0.2\fnKozu
 Dialogue: 2,0:16:46.57,0:16:48.20,FyuSigns,,0,0,0,,{\pos(646,574)\fax-0.2\fnKozuka Gothic Pro M - ENG\blur0.5}"Dangers of Unknown Cells"
 Dialogue: 1,0:16:46.57,0:16:48.20,FyuSigns,,0,0,0,,{\pos(646,574)\fax-0.2\fnKozuka Gothic Pro M - ENG\bord1\c&H000000&\blur0.5}"Dangers of Unknown Cells"
 Dialogue: 0,0:16:46.57,0:16:48.20,FyuSigns,,0,0,0,,{\pos(646,574)\fax-0.2\fnKozuka Gothic Pro M - ENG\shad2\c&H000000&\4a&H50&\blur0.5}"Dangers of Unknown Cells"
-Dialogue: 0,2:00:01.87,2:00:03.88,GJM_Main,,0,0,0,,
+Dialogue: 0,0:23:46.74,0:23:46.78,GJM_Main,,0,0,0,,
