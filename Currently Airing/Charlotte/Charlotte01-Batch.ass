@@ -20,8 +20,9 @@ Video File: D:/Fansubbing/GoodJob/Charlotte/01/charlotte 01 premux[CA8D0274].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 385
-Active Line: 391
+Scroll Position: 118
+Active Line: 128
+Video Position: 12825
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -164,8 +165,8 @@ Dialogue: 10,0:08:24.01,0:08:25.31,GJM_Main,,0,0,0,,Great!
 Dialogue: 10,0:08:40.92,0:08:43.47,GJM_Main,,0,0,0,,{\i1}Oops, I shouldn't have let that out.
 Dialogue: 10,0:08:44.00,0:08:45.19,GJM_Main,,0,0,0,,{\i1}I'd better go.
 Dialogue: 10,0:08:45.19,0:08:49.80,GJM_Main,,0,0,0,,Would Otosaka Yuu-kun from Class 1-1\Nplease come to the student council office?
-Dialogue: 10,0:08:51.01,0:08:56.05,GJM_Main,,0,0,0,,{\an8}I repeat, would Otosaka Yuu-kun from Class 1-1\Nplease come to the student council office? {the timing is cut but it's a repeat and there's a sign here}{want to veto this, the timing cutoff is more jarring and there's enough time with the sign onscreen to read it proper after the line finishes}
-Dialogue: 10,0:08:51.01,0:08:51.86,GJM_Main,,0,0,0,,What's this?
+Dialogue: 10,0:08:51.01,0:08:51.51,GJM_Main,,0,0,0,,What's this?
+Dialogue: 10,0:08:51.51,0:08:56.05,GJM_Main,,0,0,0,,I repeat, would Otosaka Yuu-kun from Class 1-1\Nplease come to the student council office? {the timing is cut but it's a repeat and there's a sign here}{want to veto this, the timing cutoff is more jarring and there's enough time with the sign onscreen to read it proper after the line finishes}
 Dialogue: 10,0:08:58.02,0:08:59.89,GJM_Main,,0,0,0,,I'm Oomura, the student council president.
 Dialogue: 10,0:08:59.89,0:09:01.69,GJM_Main,,0,0,0,,What do you need from me?
 Dialogue: 10,0:09:01.69,0:09:05.04,GJM_Main,,0,0,0,,I have someone waiting for me,\Nso I'd like to make this quick.
