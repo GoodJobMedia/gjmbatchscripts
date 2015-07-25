@@ -11,15 +11,15 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Danchigai
-Audio File: danchigai 02 premux[1C9A975A].mkv
-Video File: danchigai 02 premux[1C9A975A].mkv
-Keyframes File: danchigai 02 premux[1C9A975A]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Danchigai/02/danchigai 02 premux[1C9A975A].mkv
+Video File: D:/Fansubbing/GoodJob/Danchigai/02/danchigai 02 premux[1C9A975A].mkv
+Keyframes File: D:/Fansubbing/GoodJob/Danchigai/02/danchigai 02 premux[1C9A975A]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 20
-Active Line: 32
-Video Position: 1781
+Scroll Position: 72
+Active Line: 79
+Video Position: 4727
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -111,14 +111,14 @@ Dialogue: 10,0:03:24.97,0:03:26.51,GJM_Main,Mutsuki,0,0,0,,I'm Nakano Mutsuki.
 Dialogue: 10,0:03:26.51,0:03:28.39,GJM_Main,Haruki,0,0,0,,Building No. 3 - Mutsuki's Default Demeanor.
 Dialogue: 10,0:03:28.39,0:03:29.60,GJM_Main,Mutsuki,0,0,0,,Look forward to it!
 Comment: 0,0:03:29.60,0:03:31.60,GJM_Main,,0,0,0,,ED
-Dialogue: 0,0:02:55.65,0:03:02.28,DanchiED1-Rom,,0,0,0,,{\k13}{\k20}a{\k22}ri{\k22}ga{\k81}tou{\k35} {\k20}a{\k23}ri{\k23}ga{\k79}tou{\k34} {\k23}ma{\k20}i{\k23}ni{\k22}chi {\k24}a{\k18}ri{\k25}ga{\k123}tou{\k13}
-Dialogue: 0,0:03:02.74,0:03:09.50,DanchiED1-Rom,,0,0,0,,{\k17}{\k22}o{\k21}to{\k23}me {\k82}no{\k32} {\k22}ko{\k23}ko{\k21}ro {\k82}e{\k34} {\k21}ta{\k23}no{\k21}shi{\k24}ku {\k21}a{\k23}ka{\k23}ru{\k131}ku{\k10}
-Dialogue: 0,0:03:09.96,0:03:16.59,DanchiED1-Rom,,0,0,0,,{\k15}{\k20}a{\k22}ri{\k23}ga{\k81}tou{\k33} {\k21}a{\k22}ri{\k23}ga{\k68}tou{\k22} {\k22}se{\k44}ka{\k23}i {\k23}no {\k27}mi{\k17}n{\k23}na {\k110}ni{\k24}
-Dialogue: 0,0:03:17.13,0:03:23.89,DanchiED1-Rom,,0,0,0,,{\k12}{\k23}o{\k21}to{\k22}me {\k89}no{\k24} {\k25}ha{\k22}ji{\k21}ra{\k86}i{\k28} {\k43}cho{\k23}ppi{\k21}ri {\k24}i{\k22}ta{\k23}zu{\k124}ra{\k23}
-Dialogue: 0,0:02:55.65,0:03:02.28,DanchiED1-Eng,,0,0,0,,I want to thank you so much for every day
-Dialogue: 0,0:03:02.74,0:03:09.50,DanchiED1-Eng,,0,0,0,,The road to growing up is full of smiles
-Dialogue: 0,0:03:09.96,0:03:16.59,DanchiED1-Eng,,0,0,0,,I want to thank everyone in the world
-Dialogue: 0,0:03:17.13,0:03:23.89,DanchiED1-Eng,,0,0,0,,The mischief I cause sometimes is to hide my shyness
+Dialogue: 0,0:02:55.65,0:03:02.28,DanchiED1-Rom,,0,0,0,,{\k13\blur0.6}{\k20}a{\k22}ri{\k22}ga{\k81}{\3c&HEEB860&\2c&HF2C989&}tou{\k35} {\k20}{\3c&H15A8FC&\2c&H75CBFC&}a{\k23}ri{\k23}ga{\k79}tou{\k34} {\k23}ma{\k20}i{\k23}ni{\k22}chi {\k24}a{\k18}ri{\k25}{\3c&HEEB860&\2c&HF2C989&}ga{\k123}{\3c&H15A8FC&\2c&H75CBFC&}tou{\k13}
+Dialogue: 0,0:03:02.74,0:03:09.50,DanchiED1-Rom,,0,0,0,,{\k17\blur0.6}{\k22}o{\k21}to{\k23}{\3c&HEEB860&\2c&HF2C989&}me {\k82}{\3c&H15A8FC&\2c&H75CBFC&}no{\k32} {\k22}ko{\k23}ko{\k21}ro {\k82}e{\k34} {\k21}ta{\k23}no{\k21}shi{\k24}ku {\k21}a{\k23}{\3c&HEEB860&\2c&HF2C989&}ka{\k23}{\3c&H15A8FC&\2c&H75CBFC&}ru{\k131}ku{\k10}
+Dialogue: 0,0:03:09.96,0:03:16.59,DanchiED1-Rom,,0,0,0,,{\k15\blur0.6}{\k20}a{\k22}ri{\k23}{\3c&HEEB860&\2c&HF2C989&}ga{\k81}{\3c&H15A8FC&\2c&H75CBFC&}tou{\k33} {\k21}a{\k22}ri{\k23}ga{\k68}tou{\k22} {\k22}se{\k44}ka{\k23}i {\k23}no {\k27}mi{\k17}n{\k23}{\3c&HEEB860&\2c&HF2C989&}na {\k110}{\3c&H15A8FC&\2c&H75CBFC&}ni{\k24}
+Dialogue: 0,0:03:17.13,0:03:23.89,DanchiED1-Rom,,0,0,0,,{\k12\blur0.6}{\k23}o{\k21}to{\k22}{\3c&HEEB860&\2c&HF2C989&}me {\k89}{\3c&H15A8FC&\2c&H75CBFC&}no{\k24} {\k25}ha{\k22}ji{\k21}ra{\k86}i{\k28} {\k43}cho{\k23}ppi{\k21}ri {\k24}i{\k22}{\3c&HEEB860&\2c&HF2C989&}ta{\k23}{\3c&H15A8FC&\2c&H75CBFC&}zu{\k124}ra{\k23}
+Dialogue: 0,0:02:55.65,0:03:02.28,DanchiED1-Eng,,0,0,0,,{\blur0.6}I {\3c&HEEB860&\2c&HF2C989&}want {\3c&H15A8FC&\2c&H75CBFC&}to thank you so much {\3c&HEEB860&\2c&HF2C989&}for {\3c&H15A8FC&\2c&H75CBFC&}every day
+Dialogue: 0,0:03:02.74,0:03:09.50,DanchiED1-Eng,,0,0,0,,{\blur0.6}The {\3c&HEEB860&\2c&HF2C989&}road {\3c&H15A8FC&\2c&H75CBFC&}to growing up is {\3c&HEEB860&\2c&HF2C989&}full {\3c&H15A8FC&\2c&H75CBFC&}of smiles
+Dialogue: 0,0:03:09.96,0:03:16.59,DanchiED1-Eng,,0,0,0,,{\blur0.6}I {\3c&HEEB860&\2c&HF2C989&}want {\3c&H15A8FC&\2c&H75CBFC&}to thank everyone in {\3c&HEEB860&\2c&HF2C989&}the {\3c&H15A8FC&\2c&H75CBFC&}world
+Dialogue: 0,0:03:17.13,0:03:23.89,DanchiED1-Eng,,0,0,0,,{\blur0.6}The mischief {\3c&HEEB860&\2c&HF2C989&}I {\3c&H15A8FC&\2c&H75CBFC&}cause sometimes is to {\3c&HEEB860&\2c&HF2C989&}hide {\3c&H15A8FC&\2c&H75CBFC&}my shyness
 Comment: 0,0:03:31.60,0:03:33.60,GJM_Main,,0,0,0,,TS
 Dialogue: 8,0:00:05.77,0:00:10.11,Chh Sign,,0,0,0,,{\move(-850,93,53,93,0,945)\fscy110\fnIwata Maru Gothic Pro M-Kami\fs50\b1\bord2.2\shad0\c&HF5B119&\3c&HF5B119&\blur4\t(0,945,\blur0.6)}2
 Dialogue: 9,0:00:05.77,0:00:10.11,Chh Sign,,0,0,0,,{\move(-850,93,53,93,0,945)\fscy110\fnIwata Maru Gothic Pro M-Kami\fs50\b1\bord0\shad0\c&HD9F9F5&\4a&HFF&\blur4\t(0,945,\blur0.6)}2
