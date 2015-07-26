@@ -11,14 +11,12 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Danchigai
-Audio File: danchigai 03 premux[FF323A72].mkv
-Video File: danchigai 03 premux[FF323A72].mkv
+Audio File: D:/Fansubbing/GoodJob/Danchigai/03/danchigai 03 premux[FF323A72].mkv
+Video File: D:/Fansubbing/GoodJob/Danchigai/03/danchigai 03 premux[FF323A72].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 41
-Active Line: 50
-Video Position: 3736
+Video Position: 1523
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,65 +32,65 @@ Style: Chh Sign,AR CENA,52,&H00FFFFFF,&H000000FF,&H00A089F1,&HB2000000,0,0,0,0,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:16.52,0:00:19.84,GJM_Main,Haruki,0,0,0,,I come back just to see this? You're a mess!
-Dialogue: 0,0:00:19.84,0:00:21.72,GJM_Main,Haruki,0,0,0,,Why do you always end up sleeping in my room?
-Dialogue: 0,0:00:21.72,0:00:23.12,GJM_Main,Haruki,0,0,0,,Can't you sleep in your own?
-Dialogue: 0,0:00:26.90,0:00:30.94,GJM_Main,Haruki,0,0,0,,J-Just so you know, I'm not trying to look at your panties, okay?!
-Dialogue: 0,0:00:31.93,0:00:33.42,GJM_Main,Haruki,0,0,0,,C'mon, hey! Wake up!
-Dialogue: 0,0:00:33.42,0:00:35.13,GJM_Main,Haruki,0,0,0,,I wanna change out of\Nmy uniform and play games!
-Dialogue: 0,0:00:40.51,0:00:44.01,GJM_Main,Haruki,0,0,0,,{\i1}Always the perfect sister in front of\Nthe rest of our family as well as at school.{CR has this as internal}
-Dialogue: 0,0:00:44.01,0:00:47.43,GJM_Main,Haruki,0,0,0,,{\i1}Sometimes, I wish you'd\Nact like one in front of me too.{CR internal}
-Dialogue: 0,0:00:51.18,0:00:52.31,GJM_Main,Haruki,0,0,0,,Jeez.
-Dialogue: 0,0:00:52.31,0:00:53.46,GJM_Main,Uzuki,0,0,0,,We're home!
-Dialogue: 0,0:00:53.46,0:00:54.21,GJM_Main,Satsuki,0,0,0,,Home!
-Dialogue: 0,0:00:54.21,0:00:55.74,GJM_Main,Haruki,0,0,0,,Oh, welcome home.
-Dialogue: 0,0:00:55.74,0:00:57.07,GJM_Main,Mutsuki,0,0,0,,Welcome home.
-Dialogue: 0,0:00:57.07,0:00:58.18,GJM_Main,Uzuki,0,0,0,,We're home!
-Dialogue: 0,0:00:58.18,0:00:58.70,GJM_Main,Satsuki,0,0,0,,Home!
-Dialogue: 0,0:00:57.80,0:00:58.70,GJM_Overlap,Haruki,0,0,0,,{\i1}Talk about fast!
-Dialogue: 0,0:01:00.45,0:01:01.20,GJM_Main,Haruki,0,0,0,,Move!
-Dialogue: 0,0:01:01.64,0:01:03.12,GJM_Main,Haruki,0,0,0,,All better now!
-Dialogue: 0,0:01:07.25,0:01:09.99,GJM_Main,Yayoi,0,0,0,,Why the heck are you flipping up your own sister's skirt?!
-Dialogue: 0,0:01:09.99,0:01:11.75,GJM_Main,Yayoi,0,0,0,,Pervy, stupid Haru-idiot!{did we put uh, haru-jerk last time?}{yeah, but this time she says haru-aho. last time it was haru-baka}{oh, okay}
-Dialogue: 0,0:01:11.75,0:01:13.75,GJM_Main,Mutsuki,0,0,0,,W-Welcome home.
-Dialogue: 0,0:01:13.75,0:01:14.78,GJM_Main,Uzuki,0,0,0,,Welcome home!
-Dialogue: 0,0:01:14.78,0:01:15.38,GJM_Main,Satsuki,0,0,0,,Home!
-Dialogue: 0,0:01:13.46,0:01:15.38,GJM_Overlap,Yayoi,0,0,0,,Stupid! Stupid!
-Dialogue: 0,0:01:15.38,0:01:17.38,GJM_Overlap,Yayoi,0,0,0,,{\an8}Perv! Haru-perv!
-Dialogue: 0,0:01:15.72,0:01:20.31,GJM_Main,Mutsuki,0,0,0,,Yayoi, he may be your brother,\Nbut that's no reason to resort to violence.
-Dialogue: 0,0:01:20.31,0:01:23.39,GJM_Main,Yayoi,0,0,0,,Mutsuki-nee, he was flipping your skirt!\NThere's no room to be calm about this!
-Dialogue: 0,0:01:23.71,0:01:26.36,GJM_Main,Mutsuki,0,0,0,,You do have a point.\NI'll try to be more careful.
-Dialogue: 0,0:01:26.36,0:01:29.73,GJM_Main,Yayoi,0,0,0,,Well, I guess I can't really blame you\Nfor letting down your guard occasionally.{Original- Well, I guess it's okay if you let your guard down every now and then. < doesn't make much sense though}
-Dialogue: 0,0:01:30.18,0:01:32.27,GJM_Main,Yayoi,0,0,0,,Just leave him and go change.
-Dialogue: 0,0:01:32.27,0:01:33.03,GJM_Main,Mutsuki,0,0,0,,Okay.
-Dialogue: 0,0:01:33.03,0:01:35.07,GJM_Main,Uzuki,0,0,0,,We're going out to play!
-Dialogue: 0,0:01:35.07,0:01:35.86,GJM_Main,Satsuki,0,0,0,,Play!
-Dialogue: 0,0:01:36.62,0:01:42.46,GJM_Main,Haruki,0,0,0,,{\i1}Another day's work of protecting\Nher image as the perfect older sister... {internal?}
-Dialogue: 0,0:01:44.82,0:01:46.73,GJM_Main,Mutsuki,0,0,0,,I'm going to take a bath.
-Dialogue: 0,0:01:46.73,0:01:48.22,GJM_Main,Yayoi,0,0,0,,I call dibs on going second!
-Dialogue: 0,0:01:48.22,0:01:49.17,GJM_Main,Yayoi,0,0,0,,Let me know when you're done.
-Dialogue: 0,0:01:49.71,0:01:51.26,GJM_Main,Yayoi,0,0,0,,I'll be watching TV.
-Dialogue: 0,0:01:56.03,0:01:58.64,GJM_Main,Haruki,0,0,0,,You almost forgot to bring a towel with you again.
-Dialogue: 0,0:01:58.64,0:02:00.72,GJM_Main,Mutsuki,0,0,0,,O-Oh, thanks.
-Dialogue: 0,0:02:01.88,0:02:03.76,GJM_Main,Haruki,0,0,0,,{\i1}That's my older sister all right.
-Dialogue: 0,0:02:03.76,0:02:08.10,GJM_Main,Haruki,0,0,0,,{\i1}The moment she lets her guard down,\Nher head goes off into the clouds.{Is there a "I remember last time..." here?}{nop}
-Dialogue: 0,0:02:09.28,0:02:11.74,GJM_Main,Mutsuki,0,0,0,,Um... I forgot my undergarments.
-Dialogue: 0,0:02:11.74,0:02:13.73,GJM_Main,Mutsuki,0,0,0,,Would you mind getting them for me?
-Dialogue: 0,0:02:13.73,0:02:16.61,GJM_Main,Yayoi,0,0,0,,What are you doing\Ndigging through her drawers?!
-Dialogue: 0,0:02:16.61,0:02:19.95,GJM_Main,Haruki,0,0,0,,{\i1}That brings back painful memories.
-Dialogue: 0,0:02:20.57,0:02:23.74,GJM_Main,Haruki,0,0,0,,{\i1}Anyway, enough of that!\NTime to play more games!
-Dialogue: 0,0:02:26.66,0:02:29.87,GJM_Main,Haruki,0,0,0,,Mutsuki!{eeeh, he says aneki buuut}
-Dialogue: 0,0:02:30.20,0:02:30.94,GJM_Main,Mutsuki,0,0,0,,Hm?
-Dialogue: 0,0:02:31.56,0:02:35.08,GJM_Main,Haruki,0,0,0,,Why on earth are you lounging around\Nin my room dressed like {\i1}that{\i0}?!
-Dialogue: 0,0:02:35.81,0:02:38.54,GJM_Main,Mutsuki,0,0,0,,Getting dressed right after\Ntaking a {shower}bath seemed like a hassle. {shower or bath? don't tell me she took both...}
-Dialogue: 0,0:02:39.10,0:02:41.55,GJM_Main,Mutsuki,0,0,0,,I'll leave in a bit, okay?
-Dialogue: 0,0:02:42.15,0:02:46.93,GJM_Main,Haruki,0,0,0,,{\i1}Should I assume that she's\Nletting me see her natural self?{#}{this line needs editor assistance}{"Should I assume she's okay with showing me the real her?" idk, current line seems fine anyhow}
-Dialogue: 0,0:02:48.62,0:02:50.31,GJM_Main,Haruki,0,0,0,,{\i1}Such a pain, and yet...
-Dialogue: 0,0:02:51.26,0:02:52.75,GJM_Main,Haruki,0,0,0,,{\i1}How am I supposed to feel about this?
-Comment: 0,0:02:55.07,0:03:25.01,GJM_Main,Haruki,0,0,0,,## ED ##
-Dialogue: 0,0:03:25.01,0:03:27.11,GJM_Main,Yayoi,0,0,0,,Haruki was never the athletic type.
-Dialogue: 0,0:03:27.11,0:03:28.80,GJM_Main,Haruki,0,0,0,,Building No. 4 - Curry and Rice.
-Dialogue: 0,0:03:28.80,0:03:29.72,GJM_Main,,0,0,0,,It's delish!{you're delish ?? ??!?}{Thanks, but i already knew that}
+Dialogue: 10,0:00:16.52,0:00:19.84,GJM_Main,Haruki,0,0,0,,I come back just to see this? You're a mess!
+Dialogue: 10,0:00:19.84,0:00:21.72,GJM_Main,Haruki,0,0,0,,Why do you always end up sleeping in my room?
+Dialogue: 10,0:00:21.72,0:00:23.12,GJM_Main,Haruki,0,0,0,,Can't you sleep in your own?
+Dialogue: 10,0:00:26.90,0:00:30.94,GJM_Main,Haruki,0,0,0,,J-Just so you know, I'm not trying to look at your panties, okay?!
+Dialogue: 10,0:00:31.93,0:00:33.42,GJM_Main,Haruki,0,0,0,,C'mon, hey! Wake up!
+Dialogue: 10,0:00:33.42,0:00:35.13,GJM_Main,Haruki,0,0,0,,I wanna change out of\Nmy uniform and play games!
+Dialogue: 10,0:00:40.51,0:00:44.01,GJM_Main,Haruki,0,0,0,,{\i1}Always the perfect sister in front of\Nthe rest of our family as well as at school.{CR has this as internal}
+Dialogue: 10,0:00:44.01,0:00:47.43,GJM_Main,Haruki,0,0,0,,{\i1}Sometimes, I wish you'd\Nact like one in front of me too.{CR internal}
+Dialogue: 10,0:00:51.18,0:00:52.31,GJM_Main,Haruki,0,0,0,,Jeez.
+Dialogue: 10,0:00:52.31,0:00:53.46,GJM_Main,Uzuki,0,0,0,,We're home!
+Dialogue: 10,0:00:53.46,0:00:54.21,GJM_Main,Satsuki,0,0,0,,Home!
+Dialogue: 10,0:00:54.21,0:00:55.74,GJM_Main,Haruki,0,0,0,,Oh, welcome home.
+Dialogue: 10,0:00:55.74,0:00:57.07,GJM_Main,Mutsuki,0,0,0,,Welcome home.
+Dialogue: 10,0:00:57.07,0:00:58.18,GJM_Main,Uzuki,0,0,0,,We're home!
+Dialogue: 10,0:00:58.18,0:00:58.70,GJM_Main,Satsuki,0,0,0,,Home!
+Dialogue: 10,0:00:57.80,0:00:58.70,GJM_Overlap,Haruki,0,0,0,,{\i1}Talk about fast!
+Dialogue: 10,0:01:00.45,0:01:01.20,GJM_Main,Haruki,0,0,0,,Move!
+Dialogue: 10,0:01:01.64,0:01:03.12,GJM_Main,Haruki,0,0,0,,All better now!
+Dialogue: 10,0:01:07.25,0:01:09.99,GJM_Main,Yayoi,0,0,0,,Why the heck are you flipping up your own sister's skirt?!
+Dialogue: 10,0:01:09.99,0:01:11.75,GJM_Main,Yayoi,0,0,0,,Pervy, stupid Haru-idiot!{did we put uh, haru-jerk last time?}{yeah, but this time she says haru-aho. last time it was haru-baka}{oh, okay}
+Dialogue: 10,0:01:11.75,0:01:13.75,GJM_Main,Mutsuki,0,0,0,,W-Welcome home.
+Dialogue: 10,0:01:13.75,0:01:14.78,GJM_Main,Uzuki,0,0,0,,Welcome home!
+Dialogue: 10,0:01:14.78,0:01:15.38,GJM_Main,Satsuki,0,0,0,,Home!
+Dialogue: 10,0:01:13.46,0:01:15.38,GJM_Overlap,Yayoi,0,0,0,,Stupid! Stupid!
+Dialogue: 10,0:01:15.38,0:01:17.38,GJM_Overlap,Yayoi,0,0,0,,{\an8}Perv! Haru-perv!
+Dialogue: 10,0:01:15.72,0:01:20.31,GJM_Main,Mutsuki,0,0,0,,Yayoi, he may be your brother,\Nbut that's no reason to resort to violence.
+Dialogue: 10,0:01:20.31,0:01:23.39,GJM_Main,Yayoi,0,0,0,,Mutsuki-nee, he was flipping your skirt!\NThere's no room to be calm about this!
+Dialogue: 10,0:01:23.71,0:01:26.36,GJM_Main,Mutsuki,0,0,0,,You do have a point.\NI'll try to be more careful.
+Dialogue: 10,0:01:26.36,0:01:29.73,GJM_Main,Yayoi,0,0,0,,Well, I guess I can't really blame you\Nfor letting down your guard occasionally.{Original- Well, I guess it's okay if you let your guard down every now and then. < doesn't make much sense though}
+Dialogue: 10,0:01:30.18,0:01:32.27,GJM_Main,Yayoi,0,0,0,,Just leave him and go change.
+Dialogue: 10,0:01:32.27,0:01:33.03,GJM_Main,Mutsuki,0,0,0,,Okay.
+Dialogue: 10,0:01:33.03,0:01:35.07,GJM_Main,Uzuki,0,0,0,,We're going out to play!
+Dialogue: 10,0:01:35.07,0:01:35.86,GJM_Main,Satsuki,0,0,0,,Play!
+Dialogue: 10,0:01:36.62,0:01:42.46,GJM_Main,Haruki,0,0,0,,{\i1}Another day's work of protecting\Nher image as the perfect older sister... {internal?}
+Dialogue: 10,0:01:44.82,0:01:46.73,GJM_Main,Mutsuki,0,0,0,,I'm going to take a bath.
+Dialogue: 10,0:01:46.73,0:01:48.22,GJM_Main,Yayoi,0,0,0,,I call dibs on going second!
+Dialogue: 10,0:01:48.22,0:01:49.17,GJM_Main,Yayoi,0,0,0,,Let me know when you're done.
+Dialogue: 10,0:01:49.71,0:01:51.26,GJM_Main,Yayoi,0,0,0,,I'll be watching TV.
+Dialogue: 10,0:01:56.03,0:01:58.64,GJM_Main,Haruki,0,0,0,,You almost forgot to bring a towel with you again.
+Dialogue: 10,0:01:58.64,0:02:00.72,GJM_Main,Mutsuki,0,0,0,,O-Oh, thanks.
+Dialogue: 10,0:02:01.88,0:02:03.76,GJM_Main,Haruki,0,0,0,,{\i1}That's my older sister all right.
+Dialogue: 10,0:02:03.76,0:02:08.10,GJM_Main,Haruki,0,0,0,,{\i1}The moment she lets her guard down,\Nher head goes off into the clouds.{Is there a "I remember last time..." here?}{nop}
+Dialogue: 10,0:02:09.28,0:02:11.74,GJM_Main,Mutsuki,0,0,0,,Um... I forgot my undergarments.
+Dialogue: 10,0:02:11.74,0:02:13.73,GJM_Main,Mutsuki,0,0,0,,Would you mind getting them for me?
+Dialogue: 10,0:02:13.73,0:02:16.61,GJM_Main,Yayoi,0,0,0,,What are you doing\Ndigging through her drawers?!
+Dialogue: 10,0:02:16.61,0:02:19.95,GJM_Main,Haruki,0,0,0,,{\i1}That brings back painful memories.
+Dialogue: 10,0:02:20.57,0:02:23.74,GJM_Main,Haruki,0,0,0,,{\i1}Anyway, enough of that!\NTime to play more games!
+Dialogue: 10,0:02:26.66,0:02:29.87,GJM_Main,Haruki,0,0,0,,Mutsuki!{eeeh, he says aneki buuut}
+Dialogue: 10,0:02:30.20,0:02:30.94,GJM_Main,Mutsuki,0,0,0,,Hm?
+Dialogue: 10,0:02:31.56,0:02:35.08,GJM_Main,Haruki,0,0,0,,Why on earth are you lounging around\Nin my room dressed like {\i1}that{\i0}?!
+Dialogue: 10,0:02:35.81,0:02:38.54,GJM_Main,Mutsuki,0,0,0,,Getting dressed right after\Ntaking a {shower}bath seemed like a hassle. {shower or bath? don't tell me she took both...}
+Dialogue: 10,0:02:39.10,0:02:41.55,GJM_Main,Mutsuki,0,0,0,,I'll leave in a bit, okay?
+Dialogue: 10,0:02:42.15,0:02:46.93,GJM_Main,Haruki,0,0,0,,{\i1}Should I assume that she's\Nletting me see her natural self?{#}{this line needs editor assistance}{"Should I assume she's okay with showing me the real her?" idk, current line seems fine anyhow}
+Dialogue: 10,0:02:48.62,0:02:50.31,GJM_Main,Haruki,0,0,0,,{\i1}Such a pain, and yet...
+Dialogue: 10,0:02:51.26,0:02:52.75,GJM_Main,Haruki,0,0,0,,{\i1}How am I supposed to feel about this?
+Comment: 10,0:02:55.07,0:03:25.01,GJM_Main,Haruki,0,0,0,,## ED ##
+Dialogue: 10,0:03:25.01,0:03:27.11,GJM_Main,Yayoi,0,0,0,,Haruki was never the athletic type.
+Dialogue: 10,0:03:27.11,0:03:28.80,GJM_Main,Haruki,0,0,0,,Building No. 4 - Curry and Rice.
+Dialogue: 10,0:03:28.80,0:03:29.72,GJM_Main,,0,0,0,,It's delish!{you're delish ?? ??!?}{Thanks, but i already knew that}
 Comment: 0,0:00:00.00,0:00:00.00,GJM_Main,,0,0,0,,ED
 Dialogue: 0,0:02:55.94,0:03:03.49,DanchiED1-Rom,,0,0,0,,{\k14\blur0.6}{\k49}mi{\k46}ra{\k36}i {\k37}{\3c&HEEB860&\2c&HF2C989&}ga {\k33}{\3c&H15A8FC&\2c&H75CBFC&}do{\k32}n{\k52}na {\k38}wa{\k29}ta{\k29}shi {\k47}ka {\k48}wa {\k25}wa{\k23}ka{\k24}ra{\k49}{\3c&HEEB860&\2c&HF2C989&}na{\k23}i {\k24}{\3c&H15A8FC&\2c&H75CBFC&}ke{\k66}do{\k31}
 Dialogue: 0,0:03:03.49,0:03:14.00,DanchiED1-Rom,,0,0,0,,{\k22}{\blur0.6}{\k45}de{\k47}mo {\k37}{\3c&HEEB860&\2c&HF2C989&}chi{\k27}i{\k30}{\3c&H15A8FC&\2c&H75CBFC&}sa{\k47}na {\k52}shi{\k36}a{\k29}wa{\k30}se {\k44}ga{\k28} {\k19}a{\k52}shi{\k23}ta {\k70}{\3c&HEEB860&\2c&HF2C989&}wo{\k48} {\k49}{\3c&H15A8FC&\2c&H75CBFC&}ka{\k24}e{\k69}te {\k25}yu{\k181}ku{\k17}
