@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: akagami 05 premux[579B43D1].mkv
-Video File: akagami 05 premux[579B43D1].mkv
-Keyframes File: akagami 05 premux[579B43D1]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/05/akagami 05 premux[579B43D1].mkv
+Video File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/05/akagami 05 premux[579B43D1].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 359
-Active Line: 376
-Video Position: 30081
+Video Zoom Percent: 0.875000
+Scroll Position: 8120
+Active Line: 8123
+Video Position: 1579
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -8143,8 +8142,20 @@ Dialogue: 2,0:23:29.96,0:23:35.97,AkagamiEDEnglish,ao,0,0,0,fx,{\pos(980,696)\1c
 Dialogue: 3,0:23:29.96,0:23:35.97,AkagamiEDEnglish,ao,0,0,0,fx,{\an7\move(969,681,959,670,0,6010)\fscx26\fscy26\bord1\1c&HE9E4F3&\3c&HD0C3E6&\alpha&H60&\blur1.5\fad(170,200)\t(945,1095,\1c&HDFDFFF&\3c&HC5C9FE&\alpha&H00&\bord1.5\blur2.5)\p1}m -4 0 b -4 -2 -2 -4 0 -4 2 -4 4 -2 4 0 4 2 2 4 0 4 -2 4 -4 2 -4 0
 Dialogue: 3,0:23:29.96,0:23:35.97,AkagamiEDEnglish,ao,0,0,0,fx,{\an7\move(986,673,988,684,0,6010)\fscx13.5\fscy13.5\bord1\1c&HE9E4F3&\3c&HD0C3E6&\alpha&H60&\blur1.5\fad(170,200)\t(945,1095,\1c&HDFDFFF&\3c&HC5C9FE&\alpha&H00&\bord1.5\blur2.5)\p1}m 22.16 22.16 b 17.43 26.88 18.5 37 18.5 37 18.5 37 19.33 26.65 14.84 22.16 10.45 17.76 0 18.5 0 18.5 0 18.5 10.24 19.58 14.91 14.91 19.27 10.54 18.5 0 18.5 0 18.5 0 17.45 10.14 22.16 14.84 26.56 19.25 37 18.5 37 18.5 37 18.5 26.92 17.39 22.16 22.16
 Comment: 0,0:24:11.34,0:24:13.34,GJM_Main,,0,0,0,,TS
-Dialogue: 0,0:00:54.20,0:00:58.53,NoteScript,,0,0,0,,{\an5\pos(1093,378)\frz6.127\fsp7\c&H293748&\blur0.8}LAXDO
-Dialogue: 1,0:00:54.20,0:00:58.53,NoteScript,,0,0,0,,{\an5\pos(1092,380)\frz6.127\fsp7\c&H799AB4&\blur0.8}LAXDO
+Dialogue: 0,0:00:54.20,0:00:54.99,NoteScript,,0,0,0,,{\an5\pos(1093,378)\frz6.127\fsp7\c&H293748&\blur0.8}LAXDO
+Dialogue: 1,0:00:54.20,0:00:54.99,NoteScript,,0,0,0,,{\an5\pos(1092,380)\frz6.127\fsp7\c&H799AB4&\blur0.8}LAXDO
+Dialogue: 0,0:00:54.99,0:00:55.07,NoteScript,,0,0,0,,{\an5\pos(1093,378)\frz6.127\fsp7\c&H293748&\blur0.8\clip(m 1064 356 l 1063 380 1064 401 987 414 976 363)}LAXDO
+Dialogue: 1,0:00:54.99,0:00:55.07,NoteScript,,0,0,0,,{\an5\pos(1092,380)\frz6.127\fsp7\c&H799AB4&\blur0.8\clip(m 1064 356 l 1063 380 1064 401 987 414 976 363)}LAXDO
+Dialogue: 0,0:00:55.41,0:00:55.49,NoteScript,,0,0,0,,{\an5\pos(1093,378)\frz6.127\fsp7\c&H293748&\blur0.8\iclip(m 1078 352 l 1082 360 1082 368 1084 373 1089 379 1109 392 1136 402 1134 409 1101 397 1083 389 1077 385 1065 402 1013 405 1010 350)}LAXDO
+Dialogue: 1,0:00:55.41,0:00:55.49,NoteScript,,0,0,0,,{\an5\pos(1092,380)\frz6.127\fsp7\c&H799AB4&\blur0.8\iclip(m 1078 352 l 1082 360 1082 368 1084 373 1089 379 1109 392 1136 402 1134 409 1101 397 1083 389 1077 385 1065 402 1013 405 1010 350)}LAXDO
+Dialogue: 0,0:00:55.49,0:00:55.57,NoteScript,,0,0,0,,{\an5\pos(1093,378)\frz6.127\fsp7\c&H293748&\blur0.8\iclip(m 1021 392 l 1032 395 1050 400 1048 406 1027 402 1013 395)}LAXDO
+Dialogue: 1,0:00:55.49,0:00:55.57,NoteScript,,0,0,0,,{\an5\pos(1092,380)\frz6.127\fsp7\c&H799AB4&\blur0.8\iclip(m 1021 392 l 1032 395 1050 400 1048 406 1027 402 1013 395)}LAXDO
+Dialogue: 0,0:00:55.57,0:00:55.66,NoteScript,,0,0,0,,{\an5\pos(1093,378)\frz6.127\fsp7\c&H293748&\blur0.8}LAXDO
+Dialogue: 1,0:00:55.57,0:00:55.66,NoteScript,,0,0,0,,{\an5\pos(1092,380)\frz6.127\fsp7\c&H799AB4&\blur0.8}LAXDO
+Dialogue: 0,0:00:55.66,0:00:55.74,NoteScript,,0,0,0,,{\an5\pos(1093,378)\frz6.127\fsp7\c&H293748&\blur0.8\iclip(m 1022 392 l 1032 395 1045 401 1040 407 1018 396)}LAXDO
+Dialogue: 1,0:00:55.66,0:00:55.74,NoteScript,,0,0,0,,{\an5\pos(1092,380)\frz6.127\fsp7\c&H799AB4&\blur0.8\iclip(m 1022 392 l 1032 395 1045 401 1040 407 1018 396)}LAXDO
+Dialogue: 0,0:00:55.74,0:00:58.53,NoteScript,,0,0,0,,{\an5\pos(1093,378)\frz6.127\fsp7\c&H293748&\blur0.8}LAXDO
+Dialogue: 1,0:00:55.74,0:00:58.53,NoteScript,,0,0,0,,{\an5\pos(1092,380)\frz6.127\fsp7\c&H799AB4&\blur0.8}LAXDO
 Dialogue: 0,0:00:58.53,0:01:01.66,NoteScript,,0,0,0,,{\an5\pos(131,382)\frz341\fax0.4\fs32\fsp3\c&H293748&\blur0.9}L{\fs31.5}A{\fs31}X{\fs30.5}D{\fs30}O
 Dialogue: 1,0:00:58.53,0:01:01.66,NoteScript,,0,0,0,,{\an5\pos(130,384)\frz341\fax0.4\fs32\fsp3\c&H829AB1&\blur0.9}L{\fs31.5}A{\fs31}X{\fs30.5}D{\fs30}O
 Dialogue: 0,0:01:01.66,0:01:07.54,NoteScript,,0,0,0,,{\an5\pos(1296,464)\frz357.7\fs90\fsp14\c&H293748&\blur0.9}LAXDO
