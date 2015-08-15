@@ -17,8 +17,8 @@ Keyframes File: akagami 03 premux[A81570AE]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 5020
-Active Line: 5036
+Scroll Position: 236
+Active Line: 279
 Video Position: 31307
 
 [V4+ Styles]
@@ -214,7 +214,7 @@ Dialogue: 10,0:13:11.80,0:13:17.34,GJM_Main,,0,0,0,,{\i1}"Red-haired visitor, ta
 Dialogue: 10,0:13:19.49,0:13:20.40,GJM_Main,,0,0,0,,I'm...
 Dialogue: 10,0:13:21.15,0:13:23.05,GJM_Main,,0,0,0,,being warned not to go near Zen.
 Dialogue: 10,0:13:25.40,0:13:26.61,GJM_Main,,0,0,0,,Who would do this?
-Dialogue: 10,0:13:27.73,0:13:33.16,GJM_Main,,0,0,0,,{\i1}Someone in this castle really doesn't want\NZen and I to be around each other.
+Dialogue: 10,0:13:27.73,0:13:33.16,GJM_Main,,0,0,0,,{\i1}Someone in this castle really doesn't want\Nme and Zen to be around each other.
 Dialogue: 10,0:13:35.12,0:13:36.00,GJM_Main,,0,0,0,,{\i1}However...
 Dialogue: 10,0:13:38.26,0:13:40.88,GJM_Main,,0,0,0,,{\i1}Zen is here!
 Dialogue: 10,0:13:43.76,0:13:46.88,GJM_Main,,0,0,0,,What? No way, no way.
@@ -315,7 +315,7 @@ Dialogue: 10,0:19:25.19,0:19:26.97,GJM_Main,,0,0,0,,That was the wrong way to go
 Dialogue: 10,0:19:28.35,0:19:32.12,GJM_Main,,0,0,0,,If things had taken a turn for the worse,\Nit could have caused an uproar in the castle.
 Dialogue: 10,0:19:32.80,0:19:33.73,GJM_Main,,0,0,0,,Sir.
 Dialogue: 10,0:19:33.73,0:19:36.77,GJM_Main,,0,0,0,,Were you listening the whole time?
-Dialogue: 10,0:19:36.77,0:19:39.90,GJM_Main,,0,0,0,,Yes, from when I found the marquess\Nand saw him talking to you.
+Dialogue: 10,0:19:36.77,0:19:39.90,GJM_Main,,0,0,0,,Yes, from when I found the marquis\Nand saw him talking to you.
 Dialogue: 10,0:19:39.90,0:19:43.91,GJM_Main,,0,0,0,,Let me tell you, I had to use all my self-control\Nnot to reveal my presence.
 Dialogue: 10,0:19:44.53,0:19:46.28,GJM_Main,,0,0,0,,At least forgive me for eavesdropping.
 Dialogue: 10,0:19:46.28,0:19:49.29,GJM_Main,,0,0,0,,What an answer, Zen...
@@ -8099,7 +8099,7 @@ Dialogue: 2,0:00:01.14,0:00:04.23,NoteScript,,0,0,0,,{\an6\pos(1023,300)\frz24.1
 Dialogue: 2,0:00:01.14,0:00:04.23,NoteScript,,0,0,0,,{\an6\pos(1042,327)\frz24.75\fry2\frx16\fax0.3\fs30\c&H304A4F&\blur5\fad(275,0)\t(278,1279,\blur0.6)}began to switch to using only mugworts.
 Dialogue: 2,0:00:01.14,0:00:04.23,NoteScript,,0,0,0,,{\an6\pos(1073,374)\frz24.75\fry2\frx16\fax0.3\fs30\c&H304A4F&\blur5\fad(275,0)\t(278,1279,\blur0.6)}However, depending on the area the name of
 Dialogue: 2,0:00:01.14,0:00:04.23,NoteScript,,0,0,0,,{\an6\pos(1091,404)\frz25.78\fry2\frx16\fax0.3\fs30\c&H304A4F&\blur5\fad(275,0)\t(278,1279,\blur0.6)}the plant varies. Regardless, this plant
-Dialogue: 2,0:00:01.14,0:00:04.23,NoteScript,,0,0,0,,{\an6\pos(1112,435)\frz26.61\fry2\frx16\fax0.3\fs30\c&H304A4F&\blur5\fad(275,0)\t(278,1279,\blur0.6)}was a frequently used ingrenient
+Dialogue: 2,0:00:01.14,0:00:04.23,NoteScript,,0,0,0,,{\an6\pos(1112,435)\frz26.61\fry2\frx16\fax0.3\fs30\c&H304A4F&\blur5\fad(275,0)\t(278,1279,\blur0.6)}was a frequently used ingredient
 Dialogue: 2,0:00:01.14,0:00:04.23,NoteScript,,0,0,0,,{\an6\pos(1134,468)\frz26.61\fry2\frx16\fax0.3\fs30\c&H304A4F&\blur5\fad(275,0)\t(278,1279,\blur0.6)}throughout the 19th century.
 Dialogue: 0,0:00:01.56,0:00:04.23,Signs,,0,0,0,,{\pos(568.205,570.78)\1c&HAECBCE&\fad(275,0)\p1}m 0 25.49 l 2.37 29.12 b 2.37 29.12 6.5 26.25 7.51 22.5 8.53 18.75 12.87 10.37 14.75 7.5 16.62 4.62 17.5 2.62 23.25 1.37 23.25 1.37 22.28 0.82 20.81 0 l 0 0 m 24.25 3 b 24.25 3 22 7.25 21.25 15.5 20.5 23.75 13.87 37.5 10 46.37 10 46.37 10.06 46.53 10.18 46.8 l 30.15 11.83 b 28.3 9.46 26.48 6.49 24.25 3
 Dialogue: 0,0:00:01.56,0:00:04.23,Signs,,0,0,0,,{\pos(582.3,597.98)\1c&HADCACD&\fad(275,0)\p1}m 41.92 17.5 b 39.92 15.25 39.8 16.25 34.8 14.25 29.8 12.25 26.92 7.25 22.3 0 22.3 0 20.05 4.25 19.3 12.5 18.55 20.75 11.92 34.5 8.05 43.37 8.05 43.37 18.3 67 28.3 92.75 28.3 92.75 28.42 90.62 30.17 87.12 30.82 85.82 31.72 85.13 32.72 84.58 l 41.05 63.17 b 41.05 58.95 40.8 55.11 40.8 52.75 40.8 46.87 43.8 47.62 44.3 40.87 44.7 35.41 47.88 32.49 53.58 30.98 l 54.44 28.78 b 49.47 25.9 43.5 19.28 41.92 17.5 m 15.75 95.2 b 15.75 95.2 16.5 90.2 13.67 86.54 10.84 82.87 2.25 61.12 2.25 61.12 l 0 74.04 b 0 74.04 9.17 88.95 15.75 95.2
