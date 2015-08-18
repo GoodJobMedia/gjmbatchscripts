@@ -11,15 +11,15 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: shirayuki02_premux.mkv
-Video File: shirayuki02_premux.mkv
-Keyframes File: shirayuki02_premux_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/02/shirayuki02_premux.mkv
+Video File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/02/shirayuki02_premux.mkv
+Keyframes File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/02/shirayuki02_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 4986
-Active Line: 5016
-Video Position: 32076
+Scroll Position: 116
+Active Line: 119
+Video Position: 11450
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -154,8 +154,7 @@ Dialogue: 10,0:07:45.06,0:07:46.90,GJM_Main,,0,0,0,,Wow, this place {sure }is bu
 Dialogue: 10,0:07:47.19,0:07:50.03,GJM_Main,,0,0,0,,People from various countries\Npass through this place.
 Dialogue: 10,0:07:50.03,0:07:52.15,GJM_Main,,0,0,0,,It's the center point where all cultures meet.{It's a melting pot of tons of different cultures.}
 Dialogue: 10,0:07:52.15,0:07:53.86,GJM_Main,,0,0,0,,Oh? Prince Zen!
-Dialogue: 10,0:07:54.20,0:07:55.07,GJM_Main,,0,0,0,,Hm?
-Dialogue: 10,0:07:55.07,0:07:57.87,GJM_Main,,0,0,0,,I just got some very fine wine. Might you be interested?
+Dialogue: 10,0:07:54.20,0:07:57.87,GJM_Main,,0,0,0,,I just got some very fine wine.\NMight you be interested?
 Dialogue: 10,0:07:58.37,0:08:00.37,GJM_Main,,0,0,0,,Not today. I'll come back later.
 Dialogue: 10,0:08:00.37,0:08:01.12,GJM_Main,,0,0,0,,Yes, sir.
 Dialogue: 10,0:08:02.12,0:08:03.50,GJM_Main,,0,0,0,,Do you know him?
