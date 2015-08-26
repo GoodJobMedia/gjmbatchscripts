@@ -21,8 +21,8 @@ Keyframes File: charlotte 08 premux[FD94E129]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 22643
-Active Line: 22647
+Scroll Position: 401
+Active Line: 421
 Video Position: 33005
 
 [V4+ Styles]
@@ -469,7 +469,7 @@ Dialogue: 1,0:06:17.69,0:06:20.61,Charlotte-IN01-Rom,,0,0,0,,{\fad(150,150)\be2}
 Dialogue: 1,0:06:20.61,0:06:23.61,Charlotte-IN01-Rom,,0,0,0,,{\fad(150,150)\be2}doko ni mukatterunda
 Dialogue: 1,0:06:23.61,0:06:26.61,Charlotte-IN01-Rom,,0,0,0,,{\fad(150,150)\be2}I can do it! Once me there you!
 Dialogue: 1,0:06:26.61,0:06:29.61,Charlotte-IN01-Rom,,0,0,0,,{\fad(150,150)\be2}nani mo wakaranai
-Dialogue: 1,0:06:29.61,0:06:33.28,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can't do it! Not the side there you!
+Dialogue: 1,0:06:29.61,0:06:33.28,Charlotte-IN01-Rom,,0,0,0,,{\fad(150,150)\be2}I can't do it! Not the side there you!
 Comment: 0,0:05:04.95,0:05:07.66,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can do it! Once me there you!
 Comment: 0,0:05:10.79,0:05:13.58,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can't do it! Not the side there you!
 Dialogue: 0,0:05:13.70,0:05:16.75,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I was never the strongest
