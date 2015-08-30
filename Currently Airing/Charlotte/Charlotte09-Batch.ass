@@ -15,15 +15,14 @@ Original Timing: Etoce
 
 [Aegisub Project Garbage]
 Last Style Storage: Charlotte
-Audio File: charlotte 09 premux[DDEB6451].mkv
-Video File: charlotte 09 premux[DDEB6451].mkv
-Keyframes File: charlotte 09 premux[DDEB6451]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Charlotte/09/charlotte 09 premux[DDEB6451].mkv
+Video File: D:/Fansubbing/GoodJob/Charlotte/09/charlotte 09 premux[DDEB6451].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 348
-Active Line: 360
-Video Position: 31984
+Video Zoom Percent: 0.750000
+Scroll Position: 3
+Active Line: 15
+Video Position: 3895
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -63,7 +62,7 @@ Dialogue: 10,0:02:28.67,0:02:31.95,GJM_Main,,0,0,0,,I didn't take you to be such
 Dialogue: 10,0:02:31.95,0:02:34.84,GJM_Main,,0,0,0,,You really should've come\Nand seen Sala yesterday.
 Dialogue: 10,0:02:34.84,0:02:38.94,GJM_Main,,0,0,0,,I'm not there to buy\Nthe usual T-shirts and hoodies.
 Dialogue: 10,0:02:38.94,0:02:42.43,GJM_Main,,0,0,0,,There's just this high-tech\Nsmartphone case I've had my eyes on!
-Dialogue: 10,0:02:42.43,0:02:46.81,GJM_Main,,0,0,0,,It has an internal battery, and it comes\Nwith a high-pitch linear PCM recorder!
+Dialogue: 10,0:02:42.43,0:02:46.81,GJM_Main,,0,0,0,,It has an internal battery, and it comes\Nwith a hi-fi linear PCM recorder!
 Dialogue: 10,0:02:46.81,0:02:49.64,GJM_Main,,0,0,0,,All right, I get it. Sounds really nice.
 Dialogue: 10,0:02:49.64,0:02:51.13,GJM_Main,,0,0,0,,Don't you want one too?
 Dialogue: 10,0:02:51.13,0:02:53.76,GJM_Main,,0,0,0,,We'd have matching phones.\NAre you okay with that?
