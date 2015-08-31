@@ -17,7 +17,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
 Scroll Position: 52
-Active Line: 63
+Active Line: 76
 Video Position: 3780
 
 [V4+ Styles]
@@ -110,7 +110,7 @@ Dialogue: 10,0:02:54.34,0:02:55.07,GJM_Main,Yayoi,0,0,0,,Achoo!
 Comment: 10,0:02:55.07,0:03:25.01,GJM_Main,Yayoi,0,0,0,,{ED}
 Dialogue: 10,0:03:25.34,0:03:26.16,GJM_Main,Satsuki,0,0,0,,I...
 Dialogue: 10,0:03:26.16,0:03:28.10,GJM_Main,Haruki,0,0,0,,Building No. 8 - We're Related.
-Dialogue: 10,0:03:28.10,0:03:29.43,GJM_Main,Satsuki,0,0,0,,A Demon Princess?{I'm guesslating for now}
+Dialogue: 10,0:03:28.10,0:03:29.43,GJM_Main,Satsuki,0,0,0,,A devil princess?
 Comment: 0,0:03:28.14,0:03:29.57,GJM_Main,,0,0,0,,ED
 Dialogue: 0,0:02:55.94,0:03:03.49,DanchiED1-Rom,,0,0,0,,{\k16\blur0.6}{\k49}mi{\k46}ra{\k36}i {\k37}{\3c&HEEB860&\2c&HF2C989&}ga {\k33}{\3c&H15A8FC&\2c&H75CBFC&}do{\k32}n{\k52}na {\k38}wa{\k29}ta{\k29}shi {\k47}ka {\k48}wa {\k25}wa{\k23}ka{\k24}ra{\k49}{\3c&HEEB860&\2c&HF2C989&}na{\k23}i {\k24}{\3c&H15A8FC&\2c&H75CBFC&}ke{\k66}do{\k31}
 Dialogue: 0,0:03:03.49,0:03:14.00,DanchiED1-Rom,,0,0,0,,{\k24}{\blur0.6}{\k45}de{\k47}mo {\k37}{\3c&HEEB860&\2c&HF2C989&}chi{\k27}i{\k30}{\3c&H15A8FC&\2c&H75CBFC&}sa{\k47}na {\k52}shi{\k36}a{\k29}wa{\k30}se {\k44}ga{\k28} {\k19}a{\k52}shi{\k23}ta {\k70}{\3c&HEEB860&\2c&HF2C989&}wo{\k48} {\k49}{\3c&H15A8FC&\2c&H75CBFC&}ka{\k24}e{\k69}te {\k25}yu{\k181}ku{\k17}
