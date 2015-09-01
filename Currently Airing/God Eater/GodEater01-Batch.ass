@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
 Scroll Position: 3
-Active Line: 8
-Video Position: 2263
+Active Line: 9
+Video Position: 2264
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,9 +40,9 @@ Dialogue: 10,0:01:18.89,0:01:21.93,GJM_Main,,0,0,0,,Outstanding talent is always
 Dialogue: 10,0:01:22.77,0:01:26.14,GJM_Main,,0,0,0,,I suppose we've taken\Nanother step closer to God.
 Dialogue: 10,0:01:28.02,0:01:30.15,GJM_Main,,0,0,0,,To God? That's rather arrogant of you, Paylor.
 Dialogue: 10,0:01:30.52,0:01:34.40,GJM_Main,,0,0,0,,We need to truly understand\Nwhat it is we're doing here, Johannes.{We have to face what\Nwe're doing here, Johannes.}{I'm talking about self-awareness, Johannes.}
-Dialogue: 10,0:01:34.40,0:01:41.91,GJM_Main,,0,0,0,,Creating a new energy source would mean\Ntaking a step closer to becoming God.{Mankind creating new energy is\Nequivalent to taking a step into God's realm.}{For Man to create new energy is the equivalent to him taking a step into God's realm.}
-Dialogue: 10,0:01:41.91,0:01:43.79,GJM_Main,,0,0,0,,What you say may be true.
-Dialogue: 10,0:01:45.25,0:01:48.75,GJM_Main,,0,0,0,,But be that as it may,\Nwe have no other options.{But humanity must keep living on,}
+Dialogue: 10,0:01:34.40,0:01:41.91,GJM_Main,,0,0,0,,Harnessing this newfound energy source\Nis akin to taking up the mantle of God.{Finding a new energy source like this\Nis akin to taking up the mantle of God.}
+Dialogue: 10,0:01:41.91,0:01:43.79,GJM_Main,,0,0,0,,That may be true.
+Dialogue: 10,0:01:45.25,0:01:48.75,GJM_Main,,0,0,0,,But even so, we clearly have no other options.{But be that as it may,\Nwe have no other options.}{But humanity must keep living on,}
 Dialogue: 10,0:01:48.75,0:01:51.00,GJM_Main,,0,0,0,,We've exhausted all current sources of natural energy.{even if they've exhausted their sources of natural energy.}
 Dialogue: 10,0:01:51.71,0:01:53.50,GJM_Main,,0,0,0,,I didn't say I was against it.{I didn't say I was opposed.}
 Dialogue: 10,0:01:53.50,0:01:55.47,GJM_Main,,0,0,0,,This is a representation of hope.
