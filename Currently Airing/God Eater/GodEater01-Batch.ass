@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: God Eater
-Audio File: God Eater 01 [C4E8CFCE] (pls be alright edition).mkv
-Video File: God Eater 01 [C4E8CFCE] (pls be alright edition).mkv
+Audio File: D:/Fansubbing/GoodJob/God Eater/01/God Eater 01 [C4E8CFCE] (pls be alright edition).mkv
+Video File: D:/Fansubbing/GoodJob/God Eater/01/God Eater 01 [C4E8CFCE] (pls be alright edition).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 2627
-Active Line: 2642
-Video Position: 34029
+Video Zoom Percent: 0.750000
+Scroll Position: 3
+Active Line: 8
+Video Position: 2263
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,13 +38,13 @@ Dialogue: 10,0:01:05.71,0:01:08.71,GJM_Main,,0,0,0,,to join the Anti-Aragami Pun
 Dialogue: 10,0:01:14.92,0:01:18.89,GJM_Main,,0,0,0,,I didn't think someone from the outside\Nwould show compatibility as a New-Type.
 Dialogue: 10,0:01:18.89,0:01:21.93,GJM_Main,,0,0,0,,Outstanding talent is always found\Nin the least likely of places.
 Dialogue: 10,0:01:22.77,0:01:26.14,GJM_Main,,0,0,0,,I suppose we've taken\Nanother step closer to God.
-Dialogue: 10,0:01:28.02,0:01:30.15,GJM_Main,,0,0,0,,To God? Rather pretentious of you, Paylor.
-Dialogue: 10,0:01:30.52,0:01:34.40,GJM_Main,,0,0,0,,I'm talking about self-awareness, Johannes.
-Dialogue: 10,0:01:34.40,0:01:41.91,GJM_Main,,0,0,0,,Mankind creating new energy is\Nequivalent to taking a step into God's realm.{For Man to create new energy is the equivalent to him taking a step into God's realm.}
+Dialogue: 10,0:01:28.02,0:01:30.15,GJM_Main,,0,0,0,,To God? That's rather arrogant of you, Paylor.
+Dialogue: 10,0:01:30.52,0:01:34.40,GJM_Main,,0,0,0,,We need to truly understand\Nwhat it is we're doing here, Johannes.{We have to face what\Nwe're doing here, Johannes.}{I'm talking about self-awareness, Johannes.}
+Dialogue: 10,0:01:34.40,0:01:41.91,GJM_Main,,0,0,0,,Creating a new energy source would mean\Ntaking a step closer to becoming God.{Mankind creating new energy is\Nequivalent to taking a step into God's realm.}{For Man to create new energy is the equivalent to him taking a step into God's realm.}
 Dialogue: 10,0:01:41.91,0:01:43.79,GJM_Main,,0,0,0,,What you say may be true.
-Dialogue: 10,0:01:45.25,0:01:48.75,GJM_Main,,0,0,0,,But humanity must keep living on,
-Dialogue: 10,0:01:48.75,0:01:51.00,GJM_Main,,0,0,0,,even if they've exhausted their sources of natural energy.
-Dialogue: 10,0:01:51.71,0:01:53.50,GJM_Main,,0,0,0,,I didn't say I was opposed.
+Dialogue: 10,0:01:45.25,0:01:48.75,GJM_Main,,0,0,0,,But be that as it may,\Nwe have no other options.{But humanity must keep living on,}
+Dialogue: 10,0:01:48.75,0:01:51.00,GJM_Main,,0,0,0,,We've exhausted all current sources of natural energy.{even if they've exhausted their sources of natural energy.}
+Dialogue: 10,0:01:51.71,0:01:53.50,GJM_Main,,0,0,0,,I didn't say I was against it.{I didn't say I was opposed.}
 Dialogue: 10,0:01:53.50,0:01:55.47,GJM_Main,,0,0,0,,This is a representation of hope.
 Dialogue: 10,0:01:58.47,0:02:02.68,GJM_Main,,0,0,0,,It will be a gift from us to future generations.
 Dialogue: 10,0:02:06.60,0:02:08.56,GJM_Main,,0,0,0,,The future, huh...
@@ -249,9 +249,9 @@ Dialogue: 10,0:20:06.69,0:20:08.15,GJM_Main,,0,0,0,,We'll take out the trash.
 Dialogue: 10,0:20:16.99,0:20:18.99,GJM_Main,,0,0,0,,The rescue unit will arrive soon,
 Dialogue: 10,0:20:18.99,0:20:20.87,GJM_Main,,0,0,0,,so close those eyes while you can, Eric.{so close your eyes for a bit, Eric.}
 Dialogue: 10,0:20:48.15,0:20:49.15,GJM_Main,,0,0,0,,Sakuya!
-Dialogue: 10,0:20:58.99,0:20:59.99,GJM_Main,,0,0,0,,{\i1}Reach...
-Dialogue: 10,0:21:01.62,0:21:02.66,GJM_Main,,0,0,0,,{\i1}Reach!
-Dialogue: 10,0:21:04.16,0:21:07.42,GJM_Main,,0,0,0,,Reach!
+Dialogue: 10,0:20:58.99,0:20:59.99,GJM_Main,,0,0,0,,{\i1}Hit it...
+Dialogue: 10,0:21:01.62,0:21:02.66,GJM_Main,,0,0,0,,{\i1}Hit it!
+Dialogue: 10,0:21:04.16,0:21:07.42,GJM_Main,,0,0,0,,Hit it!
 Dialogue: 10,0:21:24.06,0:21:27.02,GJM_Main,,0,0,0,,It... transformed?
 Dialogue: 10,0:21:28.27,0:21:30.06,GJM_Main,,0,0,0,,So he's a New-Type...
 Comment: 10,0:22:04.81,0:22:04.85,GJM_Main,,0,0,0,,{ED}
