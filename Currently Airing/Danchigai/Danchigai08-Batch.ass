@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Danchigai
-Audio File: danchigai 08 premux[E840DBB3].mkv
-Video File: danchigai 08 premux[E840DBB3].mkv
-Keyframes File: danchigai 08 premux[E840DBB3]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Danchigai/08/danchigai 08 premux[E840DBB3].mkv
+Video File: D:/Fansubbing/GoodJob/Danchigai/08/danchigai 08 premux[E840DBB3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 70
-Active Line: 76
-Video Position: 5027
+Scroll Position: 144
+Active Line: 145
+Video Position: 274
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -172,17 +171,17 @@ Dialogue: 1,0:00:05.77,0:00:05.81,FyuSigns,,0,0,0,,{=6}{\pos(289,134)\frz3.25\fa
 Dialogue: 1,0:00:05.81,0:00:05.86,FyuSigns,,0,0,0,,{=6}{\pos(289,134)\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H4E4B58&\blur0.8}Can't you \Ntell by our\N appearances?
 Dialogue: 1,0:00:05.86,0:00:05.90,FyuSigns,,0,0,0,,{=6}{\pos(289,134)\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H585563&\blur0.8}Can't you \Ntell by our\N appearances?
 Dialogue: 1,0:00:05.90,0:00:11.07,FyuSigns,,0,0,0,,{=6}{\pos(289,134)\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
-Dialogue: 1,0:00:11.07,0:00:11.11,FyuSigns,,0,0,0,,{=6}{\pos(288.96,133.98)\fscx100.01\fscy100.01\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
-Dialogue: 1,0:00:11.11,0:00:11.15,FyuSigns,,0,0,0,,{=6}{\pos(288.9,133.96)\fscx100.01\fscy100.01\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
-Dialogue: 1,0:00:11.15,0:00:11.19,FyuSigns,,0,0,0,,{=6}{\pos(288.86,133.95)\fscx100.02\fscy100.02\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
-Dialogue: 1,0:00:11.19,0:00:11.24,FyuSigns,,0,0,0,,{=6}{\pos(288.81,133.93)\fscx100.03\fscy100.03\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
-Dialogue: 1,0:00:11.24,0:00:11.28,FyuSigns,,0,0,0,,{=6}{\pos(288.76,133.91)\fscx100.03\fscy100.03\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
-Dialogue: 1,0:00:11.28,0:00:11.32,FyuSigns,,0,0,0,,{=6}{\pos(288.71,133.64)\fscx100.04\fscy100.04\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
-Dialogue: 1,0:00:11.32,0:00:11.36,FyuSigns,,0,0,0,,{=6}{\pos(287.67,123.32)\fscx100.18\fscy100.18\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
-Dialogue: 1,0:00:11.36,0:00:11.40,FyuSigns,,0,0,0,,{=6}{\pos(284.46,98.54)\fscx100.61\fscy100.61\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
-Dialogue: 1,0:00:11.40,0:00:11.44,FyuSigns,,0,0,0,,{=6}{\pos(282.02,63.75)\fscx100.94\fscy100.94\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
-Dialogue: 1,0:00:11.44,0:00:11.49,FyuSigns,,0,0,0,,{=6}{\pos(280.67,21.27)\fscx101.12\fscy101.12\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
-Dialogue: 1,0:00:11.49,0:00:11.53,FyuSigns,,0,0,0,,{=6}{\pos(278.53,-27.82)\fscx101.41\fscy101.41\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearance?
+Dialogue: 1,0:00:11.07,0:00:11.11,FyuSigns,,0,0,0,,{=6}{\pos(288.96,133.98)\fscx100.01\fscy100.01\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
+Dialogue: 1,0:00:11.11,0:00:11.15,FyuSigns,,0,0,0,,{=6}{\pos(288.9,133.96)\fscx100.01\fscy100.01\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
+Dialogue: 1,0:00:11.15,0:00:11.19,FyuSigns,,0,0,0,,{=6}{\pos(288.86,133.95)\fscx100.02\fscy100.02\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
+Dialogue: 1,0:00:11.19,0:00:11.24,FyuSigns,,0,0,0,,{=6}{\pos(288.81,133.93)\fscx100.03\fscy100.03\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
+Dialogue: 1,0:00:11.24,0:00:11.28,FyuSigns,,0,0,0,,{=6}{\pos(288.76,133.91)\fscx100.03\fscy100.03\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
+Dialogue: 1,0:00:11.28,0:00:11.32,FyuSigns,,0,0,0,,{=6}{\pos(288.71,133.64)\fscx100.04\fscy100.04\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
+Dialogue: 1,0:00:11.32,0:00:11.36,FyuSigns,,0,0,0,,{=6}{\pos(287.67,123.32)\fscx100.18\fscy100.18\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
+Dialogue: 1,0:00:11.36,0:00:11.40,FyuSigns,,0,0,0,,{=6}{\pos(284.46,98.54)\fscx100.61\fscy100.61\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
+Dialogue: 1,0:00:11.40,0:00:11.44,FyuSigns,,0,0,0,,{=6}{\pos(282.02,63.75)\fscx100.94\fscy100.94\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
+Dialogue: 1,0:00:11.44,0:00:11.49,FyuSigns,,0,0,0,,{=6}{\pos(280.67,21.27)\fscx101.12\fscy101.12\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
+Dialogue: 1,0:00:11.49,0:00:11.53,FyuSigns,,0,0,0,,{=6}{\pos(278.53,-27.82)\fscx101.41\fscy101.41\frz3.25\fax-0.07\fay-0.07\fnKozuka Mincho Pro Strippedv2 H\fs21\b1\1c&H625F6F&\blur0.8}Can't you \Ntell by our\N appearances?
 Comment: 0,0:00:05.15,0:00:11.74,FyuSigns,,0,0,0,,{=6}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(274,126)\p1\c&H000000&\t(-23,773,\c&HFDFDFD&)}m 675 -3 l 676 260 776 350 854 184 843 8
 Comment: 1,0:00:05.15,0:00:11.74,FyuSigns,,0,0,0,,{=6}{\an7\blur1\bord0\shad0\fscx100\fscy100\pos(274,126)\p1\c&H000000&\t(-23,773,\c&HFDFDFD&)}m -56 48 l 78 43 81 324 -25 338
 Comment: 0,0:00:11.44,0:00:17.91,Default,,0,0,0,,{right}How can we be twins when we don't look alike at all?\N{left}The truth is, I've been keeping a secret from you...\N\N
