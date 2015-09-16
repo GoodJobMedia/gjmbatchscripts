@@ -15,15 +15,14 @@ Original Timing: Etoce
 
 [Aegisub Project Garbage]
 Last Style Storage: Charlotte
-Audio File: charlotte 11 premux[CA665C8B].mkv
-Video File: charlotte 11 premux[CA665C8B].mkv
-Keyframes File: charlotte 11 premux[CA665C8B]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Charlotte/11/charlotte 11 premux[CA665C8B].mkv
+Video File: D:/Fansubbing/GoodJob/Charlotte/11/charlotte 11 premux[CA665C8B].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 335
-Active Line: 340
-Video Position: 26791
+Video Zoom Percent: 0.875000
+Scroll Position: 371
+Active Line: 374
+Video Position: 30073
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -422,7 +421,7 @@ Dialogue: 10,0:20:44.79,0:20:46.66,GJM_Main,,0,0,0,,Are those the ringleaders?
 Dialogue: 10,0:20:46.66,0:20:48.21,GJM_Main,,0,0,0,,Medoki, please.
 Dialogue: 10,0:20:48.21,0:20:48.81,GJM_Main,,0,0,0,,Okay.
 Dialogue: 10,0:20:51.29,0:20:52.43,GJM_Main,,0,0,0,,I found your brother!
-Dialogue: 10,0:20:54.28,0:20:56.61,GJM_Main,,0,0,0,,He saved himself with telepathy\Nat the last second?
+Dialogue: 10,0:20:54.28,0:20:56.61,GJM_Main,,0,0,0,,He saved himself with\Ntelekinesis at the last second?
 Dialogue: 10,0:20:57.74,0:20:59.13,GJM_Main,,0,0,0,,It's okay! He's alive!
 Dialogue: 10,0:20:59.13,0:20:59.90,GJM_Main,,0,0,0,,Just...
 Dialogue: 10,0:21:00.44,0:21:01.99,GJM_Main,,0,0,0,,...one of his eyes was put out.
