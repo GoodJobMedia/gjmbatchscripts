@@ -80,7 +80,7 @@ Dialogue: 10,0:05:09.16,0:05:13.33,GJM_Main,,0,0,0,,Alisa Ilinichina Amiella is 
 Dialogue: 10,0:05:13.33,0:05:15.83,GJM_Main,,0,0,0,,A psychiatric problem\Nis beyond our control, but...
 Dialogue: 10,0:05:15.83,0:05:17.67,GJM_Main,,0,0,0,,What about Lenka Utsugi's case?
 Dialogue: 10,0:05:17.67,0:05:19.54,GJM_Main,,0,0,0,,Can his God Arc be fixed?
-Dialogue: 10,0:05:20.21,0:05:22.71,GJM_Main,,0,0,0,,{I'll take a look right after this. Licca asked me to come.}I was going take a look\Nright after this, actually.
+Dialogue: 10,0:05:20.21,0:05:22.71,GJM_Main,,0,0,0,,{I'll take a look right after this. Licca asked me to come.}I was going to take a look\Nright after this, actually.
 Dialogue: 10,0:05:22.71,0:05:24.88,GJM_Main,,0,0,0,,Licca asked me to come.
 Dialogue: 10,0:05:24.88,0:05:28.01,GJM_Main,,0,0,0,,I won't know for sure until I can\Nget my hands on it, but I'll do what I can.{I won't know until I see it, but I'll do what I can.}{I can't make any conclusion until I see it, but I'll see what can be done.}
 Dialogue: 10,0:05:28.47,0:05:29.55,GJM_Main,,0,0,0,,{Please do your best.}I leave it in your hands.
@@ -105,7 +105,7 @@ Dialogue: 10,0:06:21.65,0:06:25.57,GJM_Main,,0,0,0,,A God Arc is created using t
 Dialogue: 10,0:06:26.19,0:06:29.66,GJM_Main,,0,0,0,,You might say it's a man-made Aragami.
 Dialogue: 10,0:06:30.74,0:06:35.54,GJM_Main,,0,0,0,,It is the sole weapon that can\Ntear apart fused Oracle cells.
 Dialogue: 10,0:06:40.42,0:06:44.84,GJM_Main,,0,0,0,,However, I've never seen one\Nsundered in such a manner before.{And for it to break in two... It's never happened before.}{editor-saaan hi}{does this work for you zenrii}{yes}
-Dialogue: 10,0:06:45.76,0:06:52.60,GJM_Main,,0,0,0,,Furthermore, a God Arc can be controlled\Nwhen it links with the God Eater's bracelet.
+Dialogue: 10,0:06:45.76,0:06:52.60,GJM_Main,,0,0,0,,Furthermore, a God Arc can be controlled\Nwhen it links with the God Eater's bracelet,
 Dialogue: 10,0:06:53.01,0:06:59.69,GJM_Main,,0,0,0,,{\q2}{And a God Arc's specs vary a lot depending on its compatibility with its user.}and the capabilities of that God Arc can\Nvary greatly depending on its user's compatibility.
 Dialogue: 10,0:07:01.60,0:07:04.44,GJM_Main,,0,0,0,,Now then, let's take a look at you.
 Dialogue: 10,0:07:09.07,0:07:14.03,GJM_Main,,0,0,0,,The report said he sustained\Nserious injuries while battling Pita.
@@ -305,7 +305,7 @@ Dialogue: 10,0:23:30.26,0:23:31.93,GJM_Main,,0,0,0,,No one else needs to die.
 Dialogue: 10,0:23:31.93,0:23:34.60,GJM_Main,,0,0,0,,It's an abomination born by killing its mother.
 Dialogue: 10,0:23:34.60,0:23:36.26,GJM_Main,,0,0,0,,The manifestation of the devil!
 Dialogue: 10,0:23:36.26,0:23:37.89,GJM_Main,,0,0,0,,There's no hope.
-Dialogue: 10,0:23:37.89,0:23:39.81,GJM_Main,,0,0,0,,You are not a harbinger of death.
+Dialogue: 10,0:23:37.89,0:23:39.81,GJM_Main,,0,0,0,,You are not a harbinger of death!
 Comment: 0,0:00:00.00,0:00:05.00,GJM_Main,,0,0,0,,OP
 Dialogue: 1,0:01:16.18,0:01:19.94,GodEaterOPRom,baseline,0,0,0,fx,{\an4\pos(0,47)\org(-1000,24)\fscx263\alpha&HFF&\t(210,226,\fscx268)\t(226,242,\fscx263)\t(242,258,\fscx268)\t(258,274,\fscx263)\t(274,290,\fscx268)\t(290,306,\fscx263)\t(306,322,\fscx268)\t(322,338,\fscx263)\t(338,354,\fscx268)\t(354,370,\fscx263)\t(370,386,\fscx268)\t(386,402,\fscx263)\t(402,418,\fscx268)\t(418,434,\fscx263)\t(434,450,\fscx268)\t(450,466,\fscx263)\t(466,482,\fscx268)\t(482,498,\fscx263)\t(498,514,\fscx268)\t(514,530,\fscx263)\t(530,546,\fscx268)\t(546,562,\fscx263)\t(562,578,\fscx268)\t(578,594,\fscx263)\t(594,610,\fscx268)\t(610,626,\fscx263)\t(626,642,\fscx268)\t(642,658,\fscx263)\t(658,674,\fscx268)\t(675,690,\fscx263)\p1}m 0 0 l 100 0 100 1 0 1{\fscx100\bord1.5\3c&H121777&\blur0.5\t(0,150,\alpha&H00&)\t(210,210,\3c&H05058E&\1c&H1102D5&)\t(850,1050,\3c&H121777&\1c&HFFFFFF&)\t(60,210,\frz0.35)\t(700,850,\frz0)\t(3610,3760,\alpha&HFF&)\p0}What
 Dialogue: 2,0:01:17.03,0:01:19.94,GodEaterOPRom,baseline,0,0,0,fx,{\an5\pos(284,50)\fnSplit splat splodge\fs26\b1\c&H1102D5&\1a&H60&\t(0,750,\c&H0000B0&)\t(2760,2910,\alpha&HFF&)}c
