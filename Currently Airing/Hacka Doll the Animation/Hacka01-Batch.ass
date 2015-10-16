@@ -17,8 +17,8 @@ Keyframes File: [GJM] Hacka Doll the Animation - 01_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 136
-Active Line: 141
+Scroll Position: 340
+Active Line: 364
 Video Position: 1044
 
 [V4+ Styles]
@@ -391,11 +391,11 @@ Dialogue: 0,0:01:45.91,0:01:46.71,OP,,0,0,0,,{\blur1\c&HCD99FD&\4c&HF070AE&}I {*
 Dialogue: 0,0:01:46.71,0:01:47.37,OP,,0,0,0,,{\blur1\c&H46E796&\4c&H29E1F8&}I lovehate you, lovehate you, baby, yeah!
 Dialogue: 0,0:01:47.37,0:01:48.04,OP,,0,0,0,,{\blur1\c&HA6DF4A&\alpha&H00&\t(470,670,\alpha&HFF&)}I lovehate you, lovehate you, baby, yeah!
 Comment: 0,0:01:57.05,0:01:59.05,GJM_Main,,0,0,0,,ED
-Dialogue: 0,0:07:25.00,0:07:27.92,ED,,0,0,0,,{\fad(150,150)\blur1}What's wrong with being happy all the time?
-Dialogue: 0,0:07:27.92,0:07:31.18,ED,,0,0,0,,{\fad(150,150)\blur1}We've got all the time in the world
-Dialogue: 0,0:07:31.18,0:07:34.35,ED,,0,0,0,,{\fad(150,150)\blur1}Let's take that big, first step
-Dialogue: 0,0:07:34.35,0:07:38.22,ED,,0,0,0,,{\fad(150,150)\blur1}and leap into the endless refrain
-Dialogue: 0,0:07:38.22,0:07:41.19,ED,,0,0,0,,{\fad(150,150)\blur1}One, two, three, let's go!
+Dialogue: 0,0:07:25.00,0:07:27.92,ED,,0,0,0,,{\fad(150,150)\blur2}What's wrong with being happy all the time?
+Dialogue: 0,0:07:27.92,0:07:31.18,ED,,0,0,0,,{\fad(150,150)\blur2}We've got all the time in the world
+Dialogue: 0,0:07:31.18,0:07:34.35,ED,,0,0,0,,{\fad(150,150)\blur2}Let's take that big, first step
+Dialogue: 0,0:07:34.35,0:07:38.22,ED,,0,0,0,,{\fad(150,150)\blur2}and leap into the endless refrain
+Dialogue: 0,0:07:38.22,0:07:41.19,ED,,0,0,0,,{\fad(150,150)\blur2}One, two, three, let's go!
 Comment: 0,0:01:57.05,0:01:59.05,FyuSigns,,0,0,0,,TS
 Dialogue: 0,0:00:00.52,0:00:02.44,FyuSigns,,0,0,0,,{\pos(640,615)\fnKozuka Mincho Pro Strippedv2 R\b1\bord2.5\c&H000000&\alpha&HFF&\blur0.5}.{\alpha&H00&}In 2XXX...
 Dialogue: 1,0:00:00.52,0:00:02.44,FyuSigns,,0,0,0,,{\pos(640,615)\fnKozuka Mincho Pro Strippedv2 R\b1\alpha&HFF&\blur0.5}.{\alpha&H00&}In 2XXX...
