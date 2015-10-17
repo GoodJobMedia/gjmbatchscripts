@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: akagami 03 premux[A81570AE].mkv
-Video File: akagami 03 premux[A81570AE].mkv
-Keyframes File: akagami 03 premux[A81570AE]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/03/akagami 03 premux[A81570AE].mkv
+Video File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/03/akagami 03 premux[A81570AE].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 5009
-Active Line: 5036
-Video Position: 31307
+Video Zoom Percent: 0.750000
+Scroll Position: 327
+Active Line: 333
+Video Position: 4466
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -369,7 +368,7 @@ Dialogue: 10,0:22:20.67,0:22:22.81,GJM_Main,,0,0,0,,{\i1}and acts as a guide, le
 Comment: 10,0:22:24.82,0:23:54.87,GJM_Main,,0,0,0,,{ED}
 Dialogue: 10,0:23:55.90,0:23:57.92,GJM_Main,,0,0,0,,I am the chief herbalist, Garak.
 Dialogue: 10,0:23:57.92,0:24:00.72,GJM_Main,,0,0,0,,You're about to take the examination, right?\NDo you feel ready?
-Dialogue: 10,0:24:00.72,0:24:03.42,GJM_Main,,0,0,0,,I mean, I'm a kid. It's weird.
+Dialogue: 10,0:24:00.72,0:24:03.42,GJM_Main,,0,0,0,,I'm a kid, though. It's weird.
 Dialogue: 10,0:24:03.80,0:24:05.50,GJM_Main,,0,0,0,,We're locked in, huh?
 Dialogue: 10,0:24:05.50,0:24:07.42,GJM_Main,,0,0,0,,Take a look for the sake of your resolve.
 Comment: 0,0:24:07.42,0:24:09.42,GJM_Main,,0,0,0,,OP
@@ -9590,193 +9589,193 @@ Dialogue: 1,0:00:16.91,0:00:18.54,Signs,,0,0,0,,{\pos(882.065,548.245)\1c&H93B7B
 Dialogue: 1,0:00:16.91,0:00:18.54,Signs,,0,0,0,,{\pos(965.15,597.285)\1c&H90B5B8&\p1}m 115.71 275.04 l 222.22 94.92 163.68 0 0 276.79
 Dialogue: 1,0:00:16.91,0:00:18.54,Signs,,0,0,0,,{\pos(1048.36,641.78)\1c&H8EB4B6&\p1}m 118.92 182.69 l 170.18 97 110.36 0 0 184.48
 Dialogue: 1,0:00:16.91,0:00:18.54,Signs,,0,0,0,,{\pos(1129.035,686.28)\1c&H8CB2B4&\p1}m 112.59 90.48 l 56.79 0 0 92.18
-Dialogue: 0,0:07:17.16,0:07:17.29,NoteScript,,0,0,0,,{\pos(704,584)\frz276.3\fry350\b1\c&HBCB4BA&\blur0.8}The Medicinal Effect of Weeds{\clip(m 668.75 520.75 b 668.75 520.75 764.75 509.05 799.25 509.39 l 796.25 342.83 649.25 359.35)}
-Dialogue: 0,0:07:17.29,0:07:17.41,NoteScript,,0,0,0,,{\pos(708,389)\frz273\fry354\frx358\b1\c&HBCB4BA&\blur0.8}The Medicinal Effect of Weeds{\clip(m 613.67 163 l 848.33 149 848.33 541 b 848.33 541 791.33 542 613.67 550)}
-Dialogue: 0,0:07:17.41,0:07:17.50,NoteScript,,0,0,0,,{\pos(713,193)\frz272.1\fry4\b1\c&HBCB4BA&\blur0.8}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.53,0:07:49.57,NoteScript,,0,0,0,,{=39}{\pos(680.14,717.59)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.57,0:07:49.61,NoteScript,,0,0,0,,{=39}{\pos(658.06,691.24)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.61,0:07:49.65,NoteScript,,0,0,0,,{=39}{\pos(637.95,667.48)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.65,0:07:49.69,NoteScript,,0,0,0,,{=39}{\pos(620.3,646.24)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.69,0:07:49.74,NoteScript,,0,0,0,,{=39}{\pos(604.52,627.56)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.74,0:07:49.78,NoteScript,,0,0,0,,{=39}{\pos(590.67,610.94)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.78,0:07:49.82,NoteScript,,0,0,0,,{=39}{\pos(578.55,596.46)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.82,0:07:49.86,NoteScript,,0,0,0,,{=39}{\pos(567.89,583.66)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.86,0:07:49.90,NoteScript,,0,0,0,,{=39}{\pos(558.95,573.1)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.90,0:07:49.94,NoteScript,,0,0,0,,{=39}{\pos(551.25,564.08)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.94,0:07:49.99,NoteScript,,0,0,0,,{=39}{\pos(545.12,556.63)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:49.99,0:07:50.03,NoteScript,,0,0,0,,{=39}{\pos(540.17,550.66)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:50.03,0:07:50.07,NoteScript,,0,0,0,,{=39}{\pos(536.53,546.4)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:50.07,0:07:50.11,NoteScript,,0,0,0,,{=39}{\pos(533.98,543.36)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:50.11,0:07:50.15,NoteScript,,0,0,0,,{=39}{\pos(532.55,541.62)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:50.15,0:07:50.19,NoteScript,,0,0,0,,{=39}{\pos(532.25,541.3)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:50.19,0:07:50.24,NoteScript,,0,0,0,,{=39}{\pos(532.01,540.97)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:50.24,0:07:50.32,NoteScript,,0,0,0,,{=39}{\pos(532,540.99)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:50.32,0:07:50.44,NoteScript,,0,0,0,,{=39}{\pos(531.99,540.98)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:07:50.44,0:07:50.53,NoteScript,,0,0,0,,{=39}{\pos(532,540.99)\frz306\fry180\frx118\fs18\b1\c&HB8AEBB&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.55,0:08:09.59,NoteScript,,0,0,0,,{=40}{\pos(709,588)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.59,0:08:09.63,NoteScript,,0,0,0,,{=40}{\pos(708.99,589.02)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.63,0:08:09.67,NoteScript,,0,0,0,,{=40}{\pos(710.78,592.03)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.67,0:08:09.71,NoteScript,,0,0,0,,{=40}{\pos(710.78,593.17)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.71,0:08:09.76,NoteScript,,0,0,0,,{=40}{\pos(710.78,594.21)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.76,0:08:09.80,NoteScript,,0,0,0,,{=40}{\pos(711.48,598.13)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.80,0:08:09.84,NoteScript,,0,0,0,,{=40}{\pos(711.5,599.12)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.84,0:08:09.88,NoteScript,,0,0,0,,{=40}{\pos(711.63,600.09)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.88,0:08:09.92,NoteScript,,0,0,0,,{=40}{\pos(710.63,598.57)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.92,0:08:09.96,NoteScript,,0,0,0,,{=40}{\pos(710.64,599.61)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:09.96,0:08:10.01,NoteScript,,0,0,0,,{=40}{\pos(710.64,600.7)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.01,0:08:10.05,NoteScript,,0,0,0,,{=40}{\pos(708.9,600.03)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.05,0:08:10.09,NoteScript,,0,0,0,,{=40}{\pos(708.92,600.95)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.09,0:08:10.13,NoteScript,,0,0,0,,{=40}{\pos(709.06,601.97)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.13,0:08:10.17,NoteScript,,0,0,0,,{=40}{\pos(706.41,601.25)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.17,0:08:10.21,NoteScript,,0,0,0,,{=40}{\pos(706.44,602.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.21,0:08:10.26,NoteScript,,0,0,0,,{=40}{\pos(706.42,603.37)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.26,0:08:10.30,NoteScript,,0,0,0,,{=40}{\pos(703.69,605.77)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.30,0:08:10.34,NoteScript,,0,0,0,,{=40}{\pos(703.77,606.65)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.34,0:08:10.38,NoteScript,,0,0,0,,{=40}{\pos(703.84,607.74)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.38,0:08:10.42,NoteScript,,0,0,0,,{=40}{\pos(701.32,610.54)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.42,0:08:10.46,NoteScript,,0,0,0,,{=40}{\pos(701.46,611.53)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.46,0:08:10.51,NoteScript,,0,0,0,,{=40}{\pos(701.56,612.57)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.51,0:08:10.55,NoteScript,,0,0,0,,{=40}{\pos(700.34,615.54)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.55,0:08:10.59,NoteScript,,0,0,0,,{=40}{\pos(700.39,616.55)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.59,0:08:10.63,NoteScript,,0,0,0,,{=40}{\pos(700.54,617.55)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.63,0:08:10.67,NoteScript,,0,0,0,,{=40}{\pos(701.36,617.13)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.67,0:08:10.72,NoteScript,,0,0,0,,{=40}{\pos(701.4,618.12)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.72,0:08:10.76,NoteScript,,0,0,0,,{=40}{\pos(701.4,619.12)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.76,0:08:10.80,NoteScript,,0,0,0,,{=40}{\pos(703.9,618.54)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.80,0:08:10.84,NoteScript,,0,0,0,,{=40}{\pos(703.95,619.61)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.84,0:08:10.88,NoteScript,,0,0,0,,{=40}{\pos(704.81,620.74)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.88,0:08:10.92,NoteScript,,0,0,0,,{=40}{\pos(705.97,622.79)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.92,0:08:10.97,NoteScript,,0,0,0,,{=40}{\pos(705.97,623.89)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:10.97,0:08:11.01,NoteScript,,0,0,0,,{=40}{\pos(705.97,624.99)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.01,0:08:11.05,NoteScript,,0,0,0,,{=40}{\pos(709.23,628.37)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.05,0:08:11.09,NoteScript,,0,0,0,,{=40}{\pos(709.22,629.39)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.09,0:08:11.13,NoteScript,,0,0,0,,{=40}{\pos(709.22,630.39)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.13,0:08:11.17,NoteScript,,0,0,0,,{=40}{\pos(711.04,634.22)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.17,0:08:11.22,NoteScript,,0,0,0,,{=40}{\pos(711.05,635.22)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.22,0:08:11.26,NoteScript,,0,0,0,,{=40}{\pos(711.07,636.35)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.26,0:08:11.30,NoteScript,,0,0,0,,{=40}{\pos(712.08,640.18)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.30,0:08:11.34,NoteScript,,0,0,0,,{=40}{\pos(712.14,641.24)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.34,0:08:11.38,NoteScript,,0,0,0,,{=40}{\pos(712.14,642.26)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.38,0:08:11.42,NoteScript,,0,0,0,,{=40}{\pos(711.13,640.78)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.42,0:08:11.47,NoteScript,,0,0,0,,{=40}{\pos(711.12,641.88)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.47,0:08:11.51,NoteScript,,0,0,0,,{=40}{\pos(711.28,642.92)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.51,0:08:11.55,NoteScript,,0,0,0,,{=40}{\pos(709.72,642.08)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.55,0:08:11.59,NoteScript,,0,0,0,,{=40}{\pos(709.55,643.19)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.59,0:08:11.63,NoteScript,,0,0,0,,{=40}{\pos(709.55,644.21)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.63,0:08:11.67,NoteScript,,0,0,0,,{=40}{\pos(707.03,643.41)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.67,0:08:11.72,NoteScript,,0,0,0,,{=40}{\pos(707.09,644.48)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.72,0:08:11.76,NoteScript,,0,0,0,,{=40}{\pos(707.14,645.51)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.76,0:08:11.80,NoteScript,,0,0,0,,{=40}{\pos(705.63,650.04)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.80,0:08:11.84,NoteScript,,0,0,0,,{=40}{\pos(705.64,651.07)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.84,0:08:11.88,NoteScript,,0,0,0,,{=40}{\pos(705.64,652.06)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.88,0:08:11.92,NoteScript,,0,0,0,,{=40}{\pos(703.64,655.21)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.92,0:08:11.97,NoteScript,,0,0,0,,{=40}{\pos(703.78,656.2)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:11.97,0:08:12.01,NoteScript,,0,0,0,,{=40}{\pos(703.8,657.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.01,0:08:12.05,NoteScript,,0,0,0,,{=40}{\pos(703.95,660.32)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.05,0:08:12.09,NoteScript,,0,0,0,,{=40}{\pos(704.03,661.33)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.09,0:08:12.13,NoteScript,,0,0,0,,{=40}{\pos(704.24,662.35)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.13,0:08:12.17,NoteScript,,0,0,0,,{=40}{\pos(704.47,659.67)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.17,0:08:12.22,NoteScript,,0,0,0,,{=40}{\pos(704.47,660.77)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.22,0:08:12.26,NoteScript,,0,0,0,,{=40}{\pos(704.47,661.87)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.26,0:08:12.30,NoteScript,,0,0,0,,{=40}{\pos(705.63,660.3)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.30,0:08:12.34,NoteScript,,0,0,0,,{=40}{\pos(705.7,661.3)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.34,0:08:12.38,NoteScript,,0,0,0,,{=40}{\pos(705.86,662.28)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.38,0:08:12.43,NoteScript,,0,0,0,,{=40}{\pos(708.12,661.06)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.43,0:08:12.47,NoteScript,,0,0,0,,{=40}{\pos(708.08,662.08)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.47,0:08:12.51,NoteScript,,0,0,0,,{=40}{\pos(708.07,663.23)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.51,0:08:12.55,NoteScript,,0,0,0,,{=40}{\pos(710.78,666.24)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.55,0:08:12.59,NoteScript,,0,0,0,,{=40}{\pos(710.96,667.21)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.59,0:08:12.63,NoteScript,,0,0,0,,{=40}{\pos(710.93,668.2)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.63,0:08:12.68,NoteScript,,0,0,0,,{=40}{\pos(712.72,671.18)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.68,0:08:12.72,NoteScript,,0,0,0,,{=40}{\pos(712.8,672.23)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.72,0:08:12.76,NoteScript,,0,0,0,,{=40}{\pos(712.79,673.36)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.76,0:08:12.80,NoteScript,,0,0,0,,{=40}{\pos(713.85,677.01)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.80,0:08:12.84,NoteScript,,0,0,0,,{=40}{\pos(713.93,678.12)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.84,0:08:12.88,NoteScript,,0,0,0,,{=40}{\pos(713.92,679.09)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.88,0:08:12.93,NoteScript,,0,0,0,,{=40}{\pos(712.92,677.54)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.93,0:08:12.97,NoteScript,,0,0,0,,{=40}{\pos(713.08,678.61)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:12.97,0:08:13.01,NoteScript,,0,0,0,,{=40}{\pos(713.09,679.72)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.01,0:08:13.05,NoteScript,,0,0,0,,{=40}{\pos(711.36,678.96)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.05,0:08:13.09,NoteScript,,0,0,0,,{=40}{\pos(711.34,679.97)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.09,0:08:13.13,NoteScript,,0,0,0,,{=40}{\pos(711.31,680.97)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.13,0:08:13.18,NoteScript,,0,0,0,,{=40}{\pos(708.79,680.19)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.18,0:08:13.22,NoteScript,,0,0,0,,{=40}{\pos(708.81,681.16)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.22,0:08:13.26,NoteScript,,0,0,0,,{=40}{\pos(708.84,682.35)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.26,0:08:13.30,NoteScript,,0,0,0,,{=40}{\pos(706.18,684.55)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.30,0:08:13.34,NoteScript,,0,0,0,,{=40}{\pos(706.31,685.56)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.34,0:08:13.38,NoteScript,,0,0,0,,{=40}{\pos(706.44,686.55)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.38,0:08:13.43,NoteScript,,0,0,0,,{=40}{\pos(703.85,689.27)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.43,0:08:13.47,NoteScript,,0,0,0,,{=40}{\pos(703.89,690.25)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.47,0:08:13.51,NoteScript,,0,0,0,,{=40}{\pos(704,691.34)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.51,0:08:13.55,NoteScript,,0,0,0,,{=40}{\pos(702.91,694.17)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.55,0:08:13.59,NoteScript,,0,0,0,,{=40}{\pos(702.98,695.18)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.59,0:08:13.63,NoteScript,,0,0,0,,{=40}{\pos(702.98,696.18)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.63,0:08:13.68,NoteScript,,0,0,0,,{=40}{\pos(703.99,695.5)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.68,0:08:13.72,NoteScript,,0,0,0,,{=40}{\pos(704.15,696.53)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.72,0:08:13.76,NoteScript,,0,0,0,,{=40}{\pos(704.23,697.61)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.76,0:08:13.80,NoteScript,,0,0,0,,{=40}{\pos(706.76,697.05)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.80,0:08:13.84,NoteScript,,0,0,0,,{=40}{\pos(706.76,698.04)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.84,0:08:13.88,NoteScript,,0,0,0,,{=40}{\pos(706.98,699.14)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.88,0:08:13.93,NoteScript,,0,0,0,,{=40}{\pos(709.4,699.07)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.93,0:08:13.97,NoteScript,,0,0,0,,{=40}{\pos(709.44,700.06)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:13.97,0:08:14.01,NoteScript,,0,0,0,,{=40}{\pos(709.63,701.06)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.01,0:08:14.05,NoteScript,,0,0,0,,{=40}{\pos(712.3,704.09)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.05,0:08:14.09,NoteScript,,0,0,0,,{=40}{\pos(712.36,705.03)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.09,0:08:14.14,NoteScript,,0,0,0,,{=40}{\pos(712.65,706.03)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.14,0:08:14.18,NoteScript,,0,0,0,,{=40}{\pos(714.41,708.98)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.18,0:08:14.22,NoteScript,,0,0,0,,{=40}{\pos(714.44,709.96)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.22,0:08:14.26,NoteScript,,0,0,0,,{=40}{\pos(714.55,711.04)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.26,0:08:14.30,NoteScript,,0,0,0,,{=40}{\pos(715.9,714.73)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.30,0:08:14.34,NoteScript,,0,0,0,,{=40}{\pos(716.13,715.63)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.34,0:08:14.39,NoteScript,,0,0,0,,{=40}{\pos(716.31,716.5)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.39,0:08:14.43,NoteScript,,0,0,0,,{=40}{\pos(715.16,715.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.43,0:08:14.47,NoteScript,,0,0,0,,{=40}{\pos(715.26,716.22)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.47,0:08:14.51,NoteScript,,0,0,0,,{=40}{\pos(715.32,717.1)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.51,0:08:14.55,NoteScript,,0,0,0,,{=40}{\pos(713.52,716.4)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.55,0:08:14.59,NoteScript,,0,0,0,,{=40}{\pos(713.73,717.42)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.59,0:08:14.64,NoteScript,,0,0,0,,{=40}{\pos(713.95,718.29)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.64,0:08:14.68,NoteScript,,0,0,0,,{=40}{\pos(711.3,717.79)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.68,0:08:14.72,NoteScript,,0,0,0,,{=40}{\pos(711.51,718.58)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.72,0:08:14.76,NoteScript,,0,0,0,,{=40}{\pos(711.95,719.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.76,0:08:14.80,NoteScript,,0,0,0,,{=40}{\pos(707.95,723.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.80,0:08:14.84,NoteScript,,0,0,0,,{=40}{\pos(705.95,725.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.84,0:08:14.89,NoteScript,,0,0,0,,{=40}{\pos(705.95,726.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.89,0:08:14.93,NoteScript,,0,0,0,,{=40}{\pos(703.95,728.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.93,0:08:14.97,NoteScript,,0,0,0,,{=40}{\pos(702.95,729.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:14.97,0:08:15.01,NoteScript,,0,0,0,,{=40}{\pos(701.95,730.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:15.01,0:08:15.05,NoteScript,,0,0,0,,{=40}{\pos(701.95,732.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:15.05,0:08:15.09,NoteScript,,0,0,0,,{=40}{\pos(701.95,733.31)\frz20.97\fry40\frx336\fs10.5\c&HB8AEBB&\blur1.3}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:42.08,0:08:49.34,NoteScript,,0,0,0,,{\pos(409,418)\frz20.27\fry22\frx326\fax-0.3\fs24\c&HCBC7CD&\blur5\t(6531,6949,\blur1)}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:49.34,0:08:49.42,NoteScript,,0,0,0,,{\pos(369,336)\frz34.59\fry22\frx342\fax-0.5\fs22\c&HCBC7CD&\blur0.8}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:49.42,0:08:49.50,NoteScript,,0,0,0,,{\pos(314,218)\frz38.35\fry64\frx358\fax-0.7\fs24\c&HCBC7CD&\blur0.8}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:49.50,0:08:49.59,NoteScript,,0,0,0,,{\pos(324,198)\frz43.4\fry74\frx358\fax-0.5\fs20\c&HCBC7CD&\blur0.8}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:55.26,0:08:55.30,NoteScript,,0,0,0,,{\pos(287,618)\frz34.41\fry358\frx354\fax-0.3\fs30\b1\c&HB6B1B5&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:55.30,0:08:55.34,NoteScript,,0,0,0,,{\pos(281,620)\frz34.41\fry358\frx354\fax-0.3\fs30\b1\c&HB6B1B5&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:55.34,0:08:55.38,NoteScript,,0,0,0,,{\pos(278,621)\frz34.41\fry358\frx354\fax-0.3\fs30\b1\c&HB6B1B5&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:08:55.38,0:08:59.60,NoteScript,,0,0,0,,{\pos(156,449)\frz40.49\fry352\frx352\fax-0.3\fs30\b1\c&HB6B1B5&\blur1}The Medicinal Effect of Weeds
-Dialogue: 0,0:09:05.44,0:09:05.52,NoteScript,,0,0,0,,{\pos(835,14)\frz202.5\fry358\frx70\fax0.8\fs33\b1\c&HB6B1B5&\blur0.7}The Medicinal Effect of Weeds
-Dialogue: 0,0:09:05.52,0:09:05.64,NoteScript,,0,0,0,,{\pos(816,130)\frz203.6\fry348\frx50\fax0.8\fs33\b1\c&HB6B1B5&\blur0.7}The Medicinal Effect of Weeds
-Dialogue: 0,0:09:05.64,0:09:05.77,NoteScript,,0,0,0,,{\pos(816,266)\frz199.6\fry2\frx26\fax0.6\fs33\b1\c&HB6B1B5&\blur0.7}The Medicinal Effect of Weeds
-Dialogue: 0,0:09:05.77,0:09:05.90,NoteScript,,0,0,0,,{\pos(789,389)\frz206.3\fry356\frx354\fax0.5\fs35\b1\c&HB6B1B5&\blur0.7}The Medicinal Effect of Weeds
-Dialogue: 0,0:09:05.90,0:09:06.02,NoteScript,,0,0,0,,{\pos(769,390)\frz206.1\fry358\fax0.5\fs35\b1\c&HB6B1B5&\blur0.7}The Medicinal Effect of Weeds
-Dialogue: 0,0:09:06.02,0:09:06.15,NoteScript,,0,0,0,,{\pos(744,398)\frz210.5\fry340\frx32\fax0.5\fs35\b1\c&HB6B1B5&\blur0.7}The Medicinal Effect of Weeds
-Dialogue: 0,0:09:06.15,0:09:06.69,NoteScript,,0,0,0,,{\pos(768,407)\frz205.8\fry344\frx34\fax0.5\fs35\b1\c&HB6B1B5&\blur0.7}T{\fax0.52}h{\fax0.54}e {\fax0.57}M{\fax0.59}e{\fax0.61}d{\fax0.63}i{\fax0.64}c{\fax0.66}i{\fax0.68}n{\fax0.7}a{\fax0.71}l {\fax0.75}E{\fax0.77}f{\fax0.79}f{\fax0.8}e{\fax0.82}c{\fax0.84}t {\fax0.88}o{\fax0.89}f {\fax0.93}W{\fax0.95}e{\fax0.96}e{\fax0.98}d{\fax1}s
-Dialogue: 0,0:09:06.69,0:09:06.81,NoteScript,,0,0,0,,{\pos(768,407)\frz205.8\fry344\frx34\fax0.5\fs35\b1\c&HB6B1B5&\blur1\iclip(m 794 397 l 805 399 815 400 824 395 828 387 831 382 828 376)}T{\fax0.52}h{\fax0.54}e {\fax0.57}M{\fax0.59}e{\fax0.61}d{\fax0.63}i{\fax0.64}c{\fax0.66}i{\fax0.68}n{\fax0.7}a{\fax0.71}l {\fax0.75}E{\fax0.77}f{\fax0.79}f{\fax0.8}e{\fax0.82}c{\fax0.84}t {\fax0.88}o{\fax0.89}f {\fax0.93}W{\fax0.95}e{\fax0.96}e{\fax0.98}d{\fax1}s
-Dialogue: 0,0:09:06.81,0:09:06.94,NoteScript,,0,0,0,,{\pos(768,407)\frz205.8\fry344\frx34\fax0.5\fs35\b1\c&HB6B1B5&\blur1\iclip(m 774 410 l 784 412 796 413 803 411 808 403 809 393 804 386)}T{\fax0.52}h{\fax0.54}e {\fax0.57}M{\fax0.59}e{\fax0.61}d{\fax0.63}i{\fax0.64}c{\fax0.66}i{\fax0.68}n{\fax0.7}a{\fax0.71}l {\fax0.75}E{\fax0.77}f{\fax0.79}f{\fax0.8}e{\fax0.82}c{\fax0.84}t {\fax0.88}o{\fax0.89}f {\fax0.93}W{\fax0.95}e{\fax0.96}e{\fax0.98}d{\fax1}s
-Dialogue: 0,0:09:06.94,0:09:07.86,NoteScript,,0,0,0,,{\pos(768,407)\frz205.8\fry344\frx34\fax0.5\fs35\b1\c&HB6B1B5&\blur1\iclip(m 736 420 l 748 425 762 428 779 424 786 420 791 412 788 409 789 405 785 398 771 391)}T{\fax0.52}h{\fax0.54}e {\fax0.57}M{\fax0.59}e{\fax0.61}d{\fax0.63}i{\fax0.64}c{\fax0.66}i{\fax0.68}n{\fax0.7}a{\fax0.71}l {\fax0.75}E{\fax0.77}f{\fax0.79}f{\fax0.8}e{\fax0.82}c{\fax0.84}t {\fax0.88}o{\fax0.89}f {\fax0.93}W{\fax0.95}e{\fax0.96}e{\fax0.98}d{\fax1}s
-Dialogue: 0,0:12:42.90,0:12:42.99,NoteScript,,0,0,0,,{=41}{\pos(624,151)\frz307.5\fry6\frx14\fax-0.6\fs26\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:42.99,0:12:43.07,NoteScript,,0,0,0,,{=41}{\pos(724,222)\frz325.1\fry6\frx8\fax-0.6\fs28\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.07,0:12:43.15,NoteScript,,0,0,0,,{=65}{\pos(768.6,265.64)\frz328.6\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.15,0:12:43.20,NoteScript,,0,0,0,,{=65}{\pos(841.76,289.86)\frz329.5\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.20,0:12:43.24,NoteScript,,0,0,0,,{=65}{\pos(841.77,289.85)\frz329.6\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.24,0:12:43.28,NoteScript,,0,0,0,,{=65}{\pos(910.86,317.39)\frz331\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.28,0:12:43.32,NoteScript,,0,0,0,,{=65}{\pos(910.85,317.4)\frz331.4\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.32,0:12:43.40,NoteScript,,0,0,0,,{=65}{\pos(974.07,347.22)\frz332.5\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.40,0:12:43.45,NoteScript,,0,0,0,,{=65}{\pos(983.17,348.87)\frz332.9\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.45,0:12:43.49,NoteScript,,0,0,0,,{=65}{\pos(983.18,348.88)\frz332.6\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.49,0:12:43.57,NoteScript,,0,0,0,,{=65}{\pos(990.34,350.48)\frz333.4\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.57,0:12:43.61,NoteScript,,0,0,0,,{=65}{\pos(993.81,351.48)\frz333.1\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.61,0:12:43.65,NoteScript,,0,0,0,,{=65}{\pos(993.82,351.47)\frz333.2\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
-Dialogue: 0,0:12:43.65,0:12:44.03,NoteScript,,0,0,0,,{=65}{\pos(999,352)\frz333.5\fry10\frx26\fax-0.6\fs30\b1\c&HC4C5CA&\blur0.6}The Medicinal Effect of Weeds
+Dialogue: 0,0:07:17.16,0:07:17.29,NoteScript,,0,0,0,,{\pos(704,584)\frz276.3\fry350\b1\c&HBCB4BA&\blur0.8\fs42.5}The Medicinal Properties of Weeds{\clip(m 668.75 520.75 b 668.75 520.75 764.75 509.05 799.25 509.39 l 796.25 342.83 649.25 359.35)}
+Dialogue: 0,0:07:17.29,0:07:17.41,NoteScript,,0,0,0,,{\pos(708,389)\frz273\fry354\frx358\b1\c&HBCB4BA&\blur0.8\fs42.5}The Medicinal Properties of Weeds{\clip(m 613.67 163 l 848.33 149 848.33 541 b 848.33 541 791.33 542 613.67 550)}
+Dialogue: 0,0:07:17.41,0:07:17.50,NoteScript,,0,0,0,,{\pos(713,193)\frz272.1\fry4\b1\c&HBCB4BA&\blur0.8\fs42.5}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.53,0:07:49.57,NoteScript,,0,0,0,,{\pos(680.14,717.59)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.57,0:07:49.61,NoteScript,,0,0,0,,{\pos(658.06,691.24)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.61,0:07:49.65,NoteScript,,0,0,0,,{\pos(637.95,667.48)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.65,0:07:49.69,NoteScript,,0,0,0,,{\pos(620.3,646.24)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.69,0:07:49.74,NoteScript,,0,0,0,,{\pos(604.52,627.56)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.74,0:07:49.78,NoteScript,,0,0,0,,{\pos(590.67,610.94)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.78,0:07:49.82,NoteScript,,0,0,0,,{\pos(578.55,596.46)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.82,0:07:49.86,NoteScript,,0,0,0,,{\pos(567.89,583.66)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.86,0:07:49.90,NoteScript,,0,0,0,,{\pos(558.95,573.1)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.90,0:07:49.94,NoteScript,,0,0,0,,{\pos(551.25,564.08)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.94,0:07:49.99,NoteScript,,0,0,0,,{\pos(545.12,556.63)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:49.99,0:07:50.03,NoteScript,,0,0,0,,{\pos(540.17,550.66)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:50.03,0:07:50.07,NoteScript,,0,0,0,,{\pos(536.53,546.4)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:50.07,0:07:50.11,NoteScript,,0,0,0,,{\pos(533.98,543.36)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:50.11,0:07:50.15,NoteScript,,0,0,0,,{\pos(532.55,541.62)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:50.15,0:07:50.19,NoteScript,,0,0,0,,{\pos(532.25,541.3)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:50.19,0:07:50.24,NoteScript,,0,0,0,,{\pos(532.01,540.97)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:50.24,0:07:50.32,NoteScript,,0,0,0,,{\pos(532,540.99)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:50.32,0:07:50.44,NoteScript,,0,0,0,,{\pos(531.99,540.98)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:07:50.44,0:07:50.53,NoteScript,,0,0,0,,{\pos(532,540.99)\frz306\fry180\frx118\fs15.3\b1\c&HB8AEBB&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.55,0:08:09.59,NoteScript,,0,0,0,,{\pos(709,588)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.59,0:08:09.63,NoteScript,,0,0,0,,{\pos(708.99,589.02)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.63,0:08:09.67,NoteScript,,0,0,0,,{\pos(710.78,592.03)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.67,0:08:09.71,NoteScript,,0,0,0,,{\pos(710.78,593.17)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.71,0:08:09.76,NoteScript,,0,0,0,,{\pos(710.78,594.21)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.76,0:08:09.80,NoteScript,,0,0,0,,{\pos(711.48,598.13)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.80,0:08:09.84,NoteScript,,0,0,0,,{\pos(711.5,599.12)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.84,0:08:09.88,NoteScript,,0,0,0,,{\pos(711.63,600.09)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.88,0:08:09.92,NoteScript,,0,0,0,,{\pos(710.63,598.57)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.92,0:08:09.96,NoteScript,,0,0,0,,{\pos(710.64,599.61)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:09.96,0:08:10.01,NoteScript,,0,0,0,,{\pos(710.64,600.7)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.01,0:08:10.05,NoteScript,,0,0,0,,{\pos(708.9,600.03)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.05,0:08:10.09,NoteScript,,0,0,0,,{\pos(708.92,600.95)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.09,0:08:10.13,NoteScript,,0,0,0,,{\pos(709.06,601.97)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.13,0:08:10.17,NoteScript,,0,0,0,,{\pos(706.41,601.25)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.17,0:08:10.21,NoteScript,,0,0,0,,{\pos(706.44,602.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.21,0:08:10.26,NoteScript,,0,0,0,,{\pos(706.42,603.37)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.26,0:08:10.30,NoteScript,,0,0,0,,{\pos(703.69,605.77)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.30,0:08:10.34,NoteScript,,0,0,0,,{\pos(703.77,606.65)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.34,0:08:10.38,NoteScript,,0,0,0,,{\pos(703.84,607.74)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.38,0:08:10.42,NoteScript,,0,0,0,,{\pos(701.32,610.54)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.42,0:08:10.46,NoteScript,,0,0,0,,{\pos(701.46,611.53)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.46,0:08:10.51,NoteScript,,0,0,0,,{\pos(701.56,612.57)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.51,0:08:10.55,NoteScript,,0,0,0,,{\pos(700.34,615.54)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.55,0:08:10.59,NoteScript,,0,0,0,,{\pos(700.39,616.55)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.59,0:08:10.63,NoteScript,,0,0,0,,{\pos(700.54,617.55)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.63,0:08:10.67,NoteScript,,0,0,0,,{\pos(701.36,617.13)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.67,0:08:10.72,NoteScript,,0,0,0,,{\pos(701.4,618.12)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.72,0:08:10.76,NoteScript,,0,0,0,,{\pos(701.4,619.12)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.76,0:08:10.80,NoteScript,,0,0,0,,{\pos(703.9,618.54)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.80,0:08:10.84,NoteScript,,0,0,0,,{\pos(703.95,619.61)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.84,0:08:10.88,NoteScript,,0,0,0,,{\pos(704.81,620.74)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.88,0:08:10.92,NoteScript,,0,0,0,,{\pos(705.97,622.79)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.92,0:08:10.97,NoteScript,,0,0,0,,{\pos(705.97,623.89)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:10.97,0:08:11.01,NoteScript,,0,0,0,,{\pos(705.97,624.99)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.01,0:08:11.05,NoteScript,,0,0,0,,{\pos(709.23,628.37)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.05,0:08:11.09,NoteScript,,0,0,0,,{\pos(709.22,629.39)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.09,0:08:11.13,NoteScript,,0,0,0,,{\pos(709.22,630.39)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.13,0:08:11.17,NoteScript,,0,0,0,,{\pos(711.04,634.22)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.17,0:08:11.22,NoteScript,,0,0,0,,{\pos(711.05,635.22)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.22,0:08:11.26,NoteScript,,0,0,0,,{\pos(711.07,636.35)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.26,0:08:11.30,NoteScript,,0,0,0,,{\pos(712.08,640.18)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.30,0:08:11.34,NoteScript,,0,0,0,,{\pos(712.14,641.24)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.34,0:08:11.38,NoteScript,,0,0,0,,{\pos(712.14,642.26)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.38,0:08:11.42,NoteScript,,0,0,0,,{\pos(711.13,640.78)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.42,0:08:11.47,NoteScript,,0,0,0,,{\pos(711.12,641.88)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.47,0:08:11.51,NoteScript,,0,0,0,,{\pos(711.28,642.92)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.51,0:08:11.55,NoteScript,,0,0,0,,{\pos(709.72,642.08)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.55,0:08:11.59,NoteScript,,0,0,0,,{\pos(709.55,643.19)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.59,0:08:11.63,NoteScript,,0,0,0,,{\pos(709.55,644.21)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.63,0:08:11.67,NoteScript,,0,0,0,,{\pos(707.03,643.41)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.67,0:08:11.72,NoteScript,,0,0,0,,{\pos(707.09,644.48)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.72,0:08:11.76,NoteScript,,0,0,0,,{\pos(707.14,645.51)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.76,0:08:11.80,NoteScript,,0,0,0,,{\pos(705.63,650.04)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.80,0:08:11.84,NoteScript,,0,0,0,,{\pos(705.64,651.07)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.84,0:08:11.88,NoteScript,,0,0,0,,{\pos(705.64,652.06)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.88,0:08:11.92,NoteScript,,0,0,0,,{\pos(703.64,655.21)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.92,0:08:11.97,NoteScript,,0,0,0,,{\pos(703.78,656.2)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:11.97,0:08:12.01,NoteScript,,0,0,0,,{\pos(703.8,657.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.01,0:08:12.05,NoteScript,,0,0,0,,{\pos(703.95,660.32)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.05,0:08:12.09,NoteScript,,0,0,0,,{\pos(704.03,661.33)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.09,0:08:12.13,NoteScript,,0,0,0,,{\pos(704.24,662.35)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.13,0:08:12.17,NoteScript,,0,0,0,,{\pos(704.47,659.67)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.17,0:08:12.22,NoteScript,,0,0,0,,{\pos(704.47,660.77)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.22,0:08:12.26,NoteScript,,0,0,0,,{\pos(704.47,661.87)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.26,0:08:12.30,NoteScript,,0,0,0,,{\pos(705.63,660.3)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.30,0:08:12.34,NoteScript,,0,0,0,,{\pos(705.7,661.3)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.34,0:08:12.38,NoteScript,,0,0,0,,{\pos(705.86,662.28)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.38,0:08:12.43,NoteScript,,0,0,0,,{\pos(708.12,661.06)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.43,0:08:12.47,NoteScript,,0,0,0,,{\pos(708.08,662.08)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.47,0:08:12.51,NoteScript,,0,0,0,,{\pos(708.07,663.23)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.51,0:08:12.55,NoteScript,,0,0,0,,{\pos(710.78,666.24)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.55,0:08:12.59,NoteScript,,0,0,0,,{\pos(710.96,667.21)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.59,0:08:12.63,NoteScript,,0,0,0,,{\pos(710.93,668.2)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.63,0:08:12.68,NoteScript,,0,0,0,,{\pos(712.72,671.18)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.68,0:08:12.72,NoteScript,,0,0,0,,{\pos(712.8,672.23)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.72,0:08:12.76,NoteScript,,0,0,0,,{\pos(712.79,673.36)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.76,0:08:12.80,NoteScript,,0,0,0,,{\pos(713.85,677.01)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.80,0:08:12.84,NoteScript,,0,0,0,,{\pos(713.93,678.12)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.84,0:08:12.88,NoteScript,,0,0,0,,{\pos(713.92,679.09)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.88,0:08:12.93,NoteScript,,0,0,0,,{\pos(712.92,677.54)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.93,0:08:12.97,NoteScript,,0,0,0,,{\pos(713.08,678.61)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:12.97,0:08:13.01,NoteScript,,0,0,0,,{\pos(713.09,679.72)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.01,0:08:13.05,NoteScript,,0,0,0,,{\pos(711.36,678.96)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.05,0:08:13.09,NoteScript,,0,0,0,,{\pos(711.34,679.97)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.09,0:08:13.13,NoteScript,,0,0,0,,{\pos(711.31,680.97)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.13,0:08:13.18,NoteScript,,0,0,0,,{\pos(708.79,680.19)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.18,0:08:13.22,NoteScript,,0,0,0,,{\pos(708.81,681.16)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.22,0:08:13.26,NoteScript,,0,0,0,,{\pos(708.84,682.35)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.26,0:08:13.30,NoteScript,,0,0,0,,{\pos(706.18,684.55)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.30,0:08:13.34,NoteScript,,0,0,0,,{\pos(706.31,685.56)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.34,0:08:13.38,NoteScript,,0,0,0,,{\pos(706.44,686.55)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.38,0:08:13.43,NoteScript,,0,0,0,,{\pos(703.85,689.27)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.43,0:08:13.47,NoteScript,,0,0,0,,{\pos(703.89,690.25)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.47,0:08:13.51,NoteScript,,0,0,0,,{\pos(704,691.34)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.51,0:08:13.55,NoteScript,,0,0,0,,{\pos(702.91,694.17)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.55,0:08:13.59,NoteScript,,0,0,0,,{\pos(702.98,695.18)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.59,0:08:13.63,NoteScript,,0,0,0,,{\pos(702.98,696.18)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.63,0:08:13.68,NoteScript,,0,0,0,,{\pos(703.99,695.5)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.68,0:08:13.72,NoteScript,,0,0,0,,{\pos(704.15,696.53)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.72,0:08:13.76,NoteScript,,0,0,0,,{\pos(704.23,697.61)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.76,0:08:13.80,NoteScript,,0,0,0,,{\pos(706.76,697.05)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.80,0:08:13.84,NoteScript,,0,0,0,,{\pos(706.76,698.04)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.84,0:08:13.88,NoteScript,,0,0,0,,{\pos(706.98,699.14)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.88,0:08:13.93,NoteScript,,0,0,0,,{\pos(709.4,699.07)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.93,0:08:13.97,NoteScript,,0,0,0,,{\pos(709.44,700.06)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:13.97,0:08:14.01,NoteScript,,0,0,0,,{\pos(709.63,701.06)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.01,0:08:14.05,NoteScript,,0,0,0,,{\pos(712.3,704.09)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.05,0:08:14.09,NoteScript,,0,0,0,,{\pos(712.36,705.03)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.09,0:08:14.14,NoteScript,,0,0,0,,{\pos(712.65,706.03)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.14,0:08:14.18,NoteScript,,0,0,0,,{\pos(714.41,708.98)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.18,0:08:14.22,NoteScript,,0,0,0,,{\pos(714.44,709.96)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.22,0:08:14.26,NoteScript,,0,0,0,,{\pos(714.55,711.04)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.26,0:08:14.30,NoteScript,,0,0,0,,{\pos(715.9,714.73)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.30,0:08:14.34,NoteScript,,0,0,0,,{\pos(716.13,715.63)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.34,0:08:14.39,NoteScript,,0,0,0,,{\pos(716.31,716.5)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.39,0:08:14.43,NoteScript,,0,0,0,,{\pos(715.16,715.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.43,0:08:14.47,NoteScript,,0,0,0,,{\pos(715.26,716.22)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.47,0:08:14.51,NoteScript,,0,0,0,,{\pos(715.32,717.1)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.51,0:08:14.55,NoteScript,,0,0,0,,{\pos(713.52,716.4)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.55,0:08:14.59,NoteScript,,0,0,0,,{\pos(713.73,717.42)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.59,0:08:14.64,NoteScript,,0,0,0,,{\pos(713.95,718.29)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.64,0:08:14.68,NoteScript,,0,0,0,,{\pos(711.3,717.79)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.68,0:08:14.72,NoteScript,,0,0,0,,{\pos(711.51,718.58)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.72,0:08:14.76,NoteScript,,0,0,0,,{\pos(711.95,719.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.76,0:08:14.80,NoteScript,,0,0,0,,{\pos(707.95,723.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.80,0:08:14.84,NoteScript,,0,0,0,,{\pos(705.95,725.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.84,0:08:14.89,NoteScript,,0,0,0,,{\pos(705.95,726.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.89,0:08:14.93,NoteScript,,0,0,0,,{\pos(703.95,728.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.93,0:08:14.97,NoteScript,,0,0,0,,{\pos(702.95,729.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:14.97,0:08:15.01,NoteScript,,0,0,0,,{\pos(701.95,730.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:15.01,0:08:15.05,NoteScript,,0,0,0,,{\pos(701.95,732.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:15.05,0:08:15.09,NoteScript,,0,0,0,,{\pos(701.95,733.31)\frz20.97\fry40\frx336\fs8.93\c&HB8AEBB&\blur1.3}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:42.08,0:08:49.34,NoteScript,,0,0,0,,{\pos(409,418)\frz20.27\fry22\frx326\fax-0.3\fs20.4\c&HCBC7CD&\blur5\t(6531,6949,\blur1)}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:49.34,0:08:49.42,NoteScript,,0,0,0,,{\pos(369,336)\frz34.59\fry22\frx342\fax-0.5\fs18.7\c&HCBC7CD&\blur0.8}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:49.42,0:08:49.50,NoteScript,,0,0,0,,{\pos(314,218)\frz38.35\fry64\frx358\fax-0.7\fs20.4\c&HCBC7CD&\blur0.8}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:49.50,0:08:49.59,NoteScript,,0,0,0,,{\pos(324,198)\frz43.4\fry74\frx358\fax-0.5\fs17\c&HCBC7CD&\blur0.8}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:55.26,0:08:55.30,NoteScript,,0,0,0,,{\pos(287,618)\frz34.41\fry358\frx354\fax-0.3\fs25.5\b1\c&HB6B1B5&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:55.30,0:08:55.34,NoteScript,,0,0,0,,{\pos(281,620)\frz34.41\fry358\frx354\fax-0.3\fs25.5\b1\c&HB6B1B5&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:55.34,0:08:55.38,NoteScript,,0,0,0,,{\pos(278,621)\frz34.41\fry358\frx354\fax-0.3\fs25.5\b1\c&HB6B1B5&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:08:55.38,0:08:59.60,NoteScript,,0,0,0,,{\pos(156,449)\frz40.49\fry352\frx352\fax-0.3\fs25.5\b1\c&HB6B1B5&\blur1}The Medicinal Properties of Weeds
+Dialogue: 0,0:09:05.44,0:09:05.52,NoteScript,,0,0,0,,{\pos(835,14)\frz202.5\fry358\frx70\fax0.8\fs28.05\b1\c&HB6B1B5&\blur0.7}The Medicinal Properties of Weeds
+Dialogue: 0,0:09:05.52,0:09:05.64,NoteScript,,0,0,0,,{\pos(816,130)\frz203.6\fry348\frx50\fax0.8\fs28.05\b1\c&HB6B1B5&\blur0.7}The Medicinal Properties of Weeds
+Dialogue: 0,0:09:05.64,0:09:05.77,NoteScript,,0,0,0,,{\pos(816,266)\frz199.6\fry2\frx26\fax0.6\fs28.05\b1\c&HB6B1B5&\blur0.7}The Medicinal Properties of Weeds
+Dialogue: 0,0:09:05.77,0:09:05.90,NoteScript,,0,0,0,,{\pos(789,389)\frz206.3\fry356\frx354\fax0.5\fs29.75\b1\c&HB6B1B5&\blur0.7}The Medicinal Properties of Weeds
+Dialogue: 0,0:09:05.90,0:09:06.02,NoteScript,,0,0,0,,{\pos(769,390)\frz206.1\fry358\fax0.5\fs29.75\b1\c&HB6B1B5&\blur0.7}The Medicinal Properties of Weeds
+Dialogue: 0,0:09:06.02,0:09:06.15,NoteScript,,0,0,0,,{\pos(744,398)\frz210.5\fry340\frx32\fax0.5\fs29.75\b1\c&HB6B1B5&\blur0.7}The Medicinal Properties of Weeds
+Dialogue: 0,0:09:06.15,0:09:06.69,NoteScript,,0,0,0,,{\pos(768,407)\frz205.8\fry344\frx34\fax0.5\fs29.75\b1\c&HB6B1B5&\blur0.7}T{\fax0.52}h{\fax0.54}e {\fax0.57}M{\fax0.59}e{\fax0.61}d{\fax0.63}i{\fax0.64}c{\fax0.66}i{\fax0.68}n{\fax0.7}a{\fax0.71}l {\fax0.75}E{\fax0.77}f{\fax0.79}f{\fax0.8}e{\fax0.82}c{\fax0.84}t {\fax0.88}o{\fax0.89}f {\fax0.93}W{\fax0.95}e{\fax0.96}e{\fax0.98}d{\fax1}s
+Dialogue: 0,0:09:06.69,0:09:06.81,NoteScript,,0,0,0,,{\pos(768,407)\frz205.8\fry344\frx34\fax0.5\fs29.75\b1\c&HB6B1B5&\blur1\iclip(m 794 397 l 805 399 815 400 824 395 828 387 831 382 828 376)}T{\fax0.52}h{\fax0.54}e {\fax0.57}M{\fax0.59}e{\fax0.61}d{\fax0.63}i{\fax0.64}c{\fax0.66}i{\fax0.68}n{\fax0.7}a{\fax0.71}l {\fax0.75}E{\fax0.77}f{\fax0.79}f{\fax0.8}e{\fax0.82}c{\fax0.84}t {\fax0.88}o{\fax0.89}f {\fax0.93}W{\fax0.95}e{\fax0.96}e{\fax0.98}d{\fax1}s
+Dialogue: 0,0:09:06.81,0:09:06.94,NoteScript,,0,0,0,,{\pos(768,407)\frz205.8\fry344\frx34\fax0.5\fs29.75\b1\c&HB6B1B5&\blur1\iclip(m 774 410 l 784 412 796 413 803 411 808 403 809 393 804 386)}T{\fax0.52}h{\fax0.54}e {\fax0.57}M{\fax0.59}e{\fax0.61}d{\fax0.63}i{\fax0.64}c{\fax0.66}i{\fax0.68}n{\fax0.7}a{\fax0.71}l {\fax0.75}E{\fax0.77}f{\fax0.79}f{\fax0.8}e{\fax0.82}c{\fax0.84}t {\fax0.88}o{\fax0.89}f {\fax0.93}W{\fax0.95}e{\fax0.96}e{\fax0.98}d{\fax1}s
+Dialogue: 0,0:09:06.94,0:09:07.86,NoteScript,,0,0,0,,{\pos(768,407)\frz205.8\fry344\frx34\fax0.5\fs29.75\b1\c&HB6B1B5&\blur1\iclip(m 736 420 l 748 425 762 428 779 424 786 420 791 412 788 409 789 405 785 398 771 391)}T{\fax0.52}h{\fax0.54}e {\fax0.57}M{\fax0.59}e{\fax0.61}d{\fax0.63}i{\fax0.64}c{\fax0.66}i{\fax0.68}n{\fax0.7}a{\fax0.71}l {\fax0.75}E{\fax0.77}f{\fax0.79}f{\fax0.8}e{\fax0.82}c{\fax0.84}t {\fax0.88}o{\fax0.89}f {\fax0.93}W{\fax0.95}e{\fax0.96}e{\fax0.98}d{\fax1}s
+Dialogue: 0,0:12:42.90,0:12:42.99,NoteScript,,0,0,0,,{\pos(624,151)\frz307.5\fry6\frx14\fax-0.6\fs22.1\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:42.99,0:12:43.07,NoteScript,,0,0,0,,{\pos(724,222)\frz325.1\fry6\frx8\fax-0.6\fs23.8\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.07,0:12:43.15,NoteScript,,0,0,0,,{\pos(768.6,265.64)\frz328.6\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.15,0:12:43.20,NoteScript,,0,0,0,,{\pos(841.76,289.86)\frz329.5\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.20,0:12:43.24,NoteScript,,0,0,0,,{\pos(841.77,289.85)\frz329.6\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.24,0:12:43.28,NoteScript,,0,0,0,,{\pos(910.86,317.39)\frz331\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.28,0:12:43.32,NoteScript,,0,0,0,,{\pos(910.85,317.4)\frz331.4\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.32,0:12:43.40,NoteScript,,0,0,0,,{\pos(974.07,347.22)\frz332.5\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.40,0:12:43.45,NoteScript,,0,0,0,,{\pos(983.17,348.87)\frz332.9\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.45,0:12:43.49,NoteScript,,0,0,0,,{\pos(983.18,348.88)\frz332.6\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.49,0:12:43.57,NoteScript,,0,0,0,,{\pos(990.34,350.48)\frz333.4\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.57,0:12:43.61,NoteScript,,0,0,0,,{\pos(993.81,351.48)\frz333.1\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.61,0:12:43.65,NoteScript,,0,0,0,,{\pos(993.82,351.47)\frz333.2\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
+Dialogue: 0,0:12:43.65,0:12:44.03,NoteScript,,0,0,0,,{\pos(999,352)\frz333.5\fry10\frx26\fax-0.6\fs25.5\b1\c&HC4C5CA&\blur0.6}The Medicinal Properties of Weeds
 Dialogue: 0,0:24:07.42,0:24:09.88,EpTitle,,0,0,0,,{\pos(648,549)\c&H755AFA&\blur0.5}Episode 4:\NFrom the Small Hand, a Burgeoning Concerto Resonates
 Comment: 0,0:24:13.42,0:24:15.42,GJM_Main,,0,0,0,,

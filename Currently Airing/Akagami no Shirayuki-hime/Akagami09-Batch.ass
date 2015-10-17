@@ -11,15 +11,15 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: akagami09_premux[AD20740B].mkv
-Video File: akagami09_premux[AD20740B].mkv
-Keyframes File: akagami09_premux[AD20740B]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/09/akagami09_premux[222C7908].mkv
+Video File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/09/akagami09_premux[222C7908].mkv
+Keyframes File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/09/akagami09_premux[AD20740B]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 241
-Active Line: 252
-Video Position: 27647
+Scroll Position: 70
+Active Line: 77
+Video Position: 8902
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,7 +112,8 @@ Dialogue: 10,0:05:55.97,0:05:56.16,GJM_Main,Red,0,0,0,,Hm?
 Dialogue: 10,0:05:56.83,0:05:58.12,GJM_Main,Red,0,0,0,,Huh, um...
 Dialogue: 10,0:06:02.75,0:06:05.10,GJM_Main,Guy,0,0,0,,Damn. Did they notice me?{is this the guy that zen was asking reports from in the last ep?}
 Dialogue: 10,0:06:05.10,0:06:07.63,GJM_Main,Guy,0,0,0,,That doesn't matter.\NI just need to write today's report.
-Dialogue: 10,0:06:09.33,0:06:11.17,GJM_Main,Obi,0,0,0,,Could you wait here for a little bit?
+Dialogue: 10,0:06:09.33,0:06:11.26,GJM_Main,Obi,0,0,0,,Could you wait here for a little bit?
+Dialogue: 10,0:06:11.26,0:06:12.68,GJM_Main,Red,0,0,0,,S-Sure...
 Dialogue: 10,0:06:27.38,0:06:29.03,GJM_Main,Obi,0,0,0,,"Red. Came in contact.
 Dialogue: 10,0:06:29.03,0:06:30.97,GJM_Main,Obi,0,0,0,,Still winds past sunset."
 Dialogue: 10,0:06:30.97,0:06:34.93,GJM_Main,Obi,0,0,0,,I assume "Red" refers to Missy and\N"came in contact" means that you met Zen.
