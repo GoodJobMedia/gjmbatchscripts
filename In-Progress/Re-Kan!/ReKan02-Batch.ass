@@ -17,14 +17,14 @@ Video File: D:/Fansubbing/GoodJob/Re-Kan!/02/re-kan 02 premux[792BA7C7].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 3098
-Active Line: 3106
-Video Position: 34597
+Scroll Position: 302
+Active Line: 303
+Video Position: 1109
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: GJM_Main,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
-Style: GJM_Overlap,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00491F12,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: GJM_Overlap,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
 Style: ReKan-OP-TL,Profile,42,&H00FFFFFF,&H000000FF,&H00B62CA8,&H00000000,0,0,0,0,100,100,0,0,1,2.5,0,3,30,30,30,1
 Style: ReKan-ED-TL,Andy,42,&H00FFFFFF,&H000000FF,&H00692B8A,&H00000000,0,0,0,0,100,100,0,0,1,2.3,0,3,30,30,30,1
 Style: On_Screen_Mincho_Signs,Kozuka Mincho Pro Strippedv2 H,30,&H00A7E8EB,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
@@ -85,13 +85,13 @@ Dialogue: 10,0:04:15.58,0:04:18.45,GJM_Main,Ino,0,0,0,,Dreams like that are all 
 Dialogue: 10,0:04:18.45,0:04:20.33,GJM_Main,Ino,0,0,0,,Come on, let's get you to the infirmary.
 Dialogue: 10,0:04:20.77,0:04:22.65,GJM_Main,Ino,0,0,0,,You need some rest.
 Dialogue: 10,0:04:23.61,0:04:25.48,GJM_Main,Ama,0,0,0,,Thank you.
-Dialogue: 10,0:04:25.96,0:04:28.41,GJM_Main,Oga,0,0,0,,Inoue{*}-san{*}'s so nice.
+Dialogue: 10,0:04:25.96,0:04:28.41,GJM_Main,Oga,0,0,0,,Inoue{**-san}'s so nice.
 Dialogue: 10,0:04:34.24,0:04:36.75,GJM_Main,Ue,0,0,0,,Inoue gives me such great pictures.
 Dialogue: 10,0:04:52.65,0:04:56.73,GJM_Main,Ino,0,0,0,,No way! I refuse to believe this is a ghost!
 Dialogue: 10,0:04:57.73,0:04:59.74,GJM_Main,Ino,0,0,0,,It wasn't a ghost. It wasn't a ghost.
 Dialogue: 10,0:04:59.74,0:05:01.48,GJM_Main,Ino,0,0,0,,It wasn't a ghost. It wasn't a ghost.
 Dialogue: 10,0:05:01.48,0:05:03.30,GJM_Main,Ino,0,0,0,,It wasn't a ghost...
-Dialogue: 10,0:05:04.05,0:05:07.10,GJM_Main,Oga,0,0,0,,Welcome back, Amami{*}-san{*}. Are you okay now?
+Dialogue: 10,0:05:04.05,0:05:07.10,GJM_Main,Oga,0,0,0,,Welcome back, Amami{**-san}. Are you okay now?
 Dialogue: 10,0:05:07.10,0:05:09.95,GJM_Main,Ama,0,0,0,,Yes, I feel much better. Thank you.
 Dialogue: 10,0:05:09.95,0:05:11.71,GJM_Main,Oga,0,0,0,,Did you sleep soundly?
 Dialogue: 10,0:05:11.71,0:05:12.87,GJM_Main,Ama,0,0,0,,Yes.
@@ -116,18 +116,18 @@ Dialogue: 10,0:06:22.35,0:06:23.65,GJM_Main,Ama,0,0,0,,What scares me is...
 Dialogue: 10,0:06:23.97,0:06:25.90,GJM_Main,PervCat,0,0,0,,Show me those panties!
 Dialogue: 10,0:06:27.09,0:06:29.16,GJM_Main,Ama,0,0,0,,C-Cats...
 Dialogue: 10,0:06:29.44,0:06:31.03,GJM_Main,Yama,0,0,0,,Why are you holding your skirt?
-Dialogue: 10,0:06:31.53,0:06:32.85,GJM_Main,Yama,0,0,0,,What about you, Inoue{*}-san{*}?
+Dialogue: 10,0:06:31.53,0:06:32.85,GJM_Main,Yama,0,0,0,,What about you, Inoue{**-san}?
 Dialogue: 10,0:06:33.90,0:06:36.32,GJM_Main,Ino,0,0,0,,D-Don't ask me dumb questions like that.
 Dialogue: 10,0:06:37.57,0:06:39.24,GJM_Main,Yama,0,0,0,,I guess I don't have to ask.
 Dialogue: 10,0:06:39.24,0:06:40.85,GJM_Main,Ino,0,0,0,,O-Obviously...
 Dialogue: 10,0:06:48.49,0:06:50.18,GJM_Main,Ino,0,0,0,,Humans are scarier!
 Dialogue: 10,0:06:50.18,0:06:52.39,GJM_Main,Yama,0,0,0,,Your spirit guardian's your grandma, after all.
-Dialogue: 10,0:06:52.92,0:06:54.53,GJM_Main,Yama,0,0,0,,And what about you, Uehara{*}-san{*}?
+Dialogue: 10,0:06:52.92,0:06:54.53,GJM_Main,Yama,0,0,0,,And what about you, Uehara{**-san}?
 Dialogue: 10,0:06:57.73,0:06:59.63,GJM_Main,Ue,0,0,0,,I'd say humans.
 Dialogue: 10,0:07:00.96,0:07:02.36,GJM_Main,Ue,0,0,0,,I mean, look.
 Dialogue: 10,0:07:04.31,0:07:08.00,GJM_Main,Ue,0,0,0,,Nothing can compare to this kind of carnal desire.
 Dialogue: 10,0:07:08.00,0:07:09.41,GJM_Main,Yama,0,0,0,,Wow.
-Dialogue: 10,0:07:09.99,0:07:12.26,GJM_Main,Yama,0,0,0,,And you, Esumi{*}-san{*}?
+Dialogue: 10,0:07:09.99,0:07:12.26,GJM_Main,Yama,0,0,0,,And you, Esumi{**-san}?
 Dialogue: 10,0:07:13.18,0:07:14.58,GJM_Main,Esu,0,0,0,,Let's see...
 Dialogue: 10,0:07:14.58,0:07:16.41,GJM_Main,Esu,0,0,0,,Ghosts, I guess.
 Dialogue: 10,0:07:16.74,0:07:19.32,GJM_Main,Yama,0,0,0,,Wow, I'm surprised.
@@ -145,7 +145,7 @@ Dialogue: 10,0:07:51.74,0:07:53.24,GJM_Main,Ue,0,0,0,,Yep.
 Dialogue: 10,0:07:57.48,0:08:00.00,GJM_Main,Esu,0,0,0,,I like that humans can be punched.
 Dialogue: 10,0:08:00.00,0:08:01.75,GJM_Main,Ue,0,0,0,,Yep.
 Dialogue: 10,0:08:01.75,0:08:04.83,GJM_Main,Both,0,0,0,,{\i1}Wh-What have those two been through?
-Dialogue: 10,0:08:06.75,0:08:08.30,GJM_Main,Yama,0,0,0,,Ogawa{*}-san{*}!
+Dialogue: 10,0:08:06.75,0:08:08.30,GJM_Main,Yama,0,0,0,,Ogawa{**-san}!
 Dialogue: 10,0:08:08.30,0:08:11.63,GJM_Main,Yama,0,0,0,,This is kinda out of nowhere, but do you\Nthink humans or ghosts are scarier?
 Dialogue: 10,0:08:12.15,0:08:14.50,GJM_Main,Oga,0,0,0,,I wouldn't say either is scary,
 Dialogue: 10,0:08:15.03,0:08:17.14,GJM_Main,Oga,0,0,0,,but my favorite is somewhere in between.
@@ -156,17 +156,17 @@ Dialogue: 10,0:08:33.29,0:08:36.21,GJM_Main,Ama,0,0,0,,{\i1}He asked which is sc
 Dialogue: 10,0:08:52.86,0:08:53.89,GJM_Main,Ama,0,0,0,,Watch out!
 Dialogue: 10,0:09:03.36,0:09:04.56,GJM_Main,Ama,0,0,0,,Are you okay?
 Dialogue: 10,0:09:14.27,0:09:15.89,GJM_Main,Ino,0,0,0,,What are you doing?
-Dialogue: 10,0:09:17.57,0:09:18.93,GJM_Main,Ama,0,0,0,,Inoue{*}-san{*}!
+Dialogue: 10,0:09:17.57,0:09:18.93,GJM_Main,Ama,0,0,0,,Inoue{**-san}!
 Dialogue: 10,0:09:21.83,0:09:22.62,GJM_Main,Ino,0,0,0,,Sheesh.
 Dialogue: 10,0:09:23.71,0:09:27.29,GJM_Main,Ino,0,0,0,,You're totally soaked now. Are you crazy?{Are you crazy? Look, you're soaked now.}
 Dialogue: 10,0:09:28.29,0:09:29.34,GJM_Main,Ino,0,0,0,,Here.
 Dialogue: 10,0:09:29.77,0:09:30.84,GJM_Main,Ino,0,0,0,,Wipe yourself off.
-Dialogue: 10,0:09:31.86,0:09:33.30,GJM_Main,Ama,0,0,0,,Inoue{*}-san{*}...
-Dialogue: 10,0:09:37.62,0:09:39.36,GJM_Main,Ama,0,0,0,,Inoue{*}-san{*},
+Dialogue: 10,0:09:31.86,0:09:33.30,GJM_Main,Ama,0,0,0,,Inoue{**-san}...
+Dialogue: 10,0:09:37.62,0:09:39.36,GJM_Main,Ama,0,0,0,,Inoue{**-san},
 Dialogue: 10,0:09:39.36,0:09:42.53,GJM_Main,Ama,0,0,0,,if you'd seen her, you would have done the same thing.
 Dialogue: 10,0:09:42.53,0:09:43.89,GJM_Main,Ino,0,0,0,,Did you say something?
 Dialogue: 10,0:09:44.77,0:09:45.61,GJM_Main,Ama,0,0,0,,Nope.
-Dialogue: 10,0:09:49.42,0:09:51.41,GJM_Main,Oga,0,0,0,,What's wrong, Amami{*}-san{*}?
+Dialogue: 10,0:09:49.42,0:09:51.41,GJM_Main,Oga,0,0,0,,What's wrong, Amami{**-san}?
 Dialogue: 10,0:09:52.95,0:09:55.60,GJM_Main,Oga,0,0,0,,Why do you look so sleepy again?
 Dialogue: 10,0:09:55.60,0:09:56.82,GJM_Main,Ama,0,0,0,,Actually...
 Dialogue: 10,0:09:57.30,0:10:00.15,GJM_Main,Ama,0,0,0,,The cat came after me in my dreams again...
@@ -219,8 +219,8 @@ Dialogue: 10,0:13:05.52,0:13:07.85,GJM_Main,Girl,0,0,0,,Need an umbrella?
 Dialogue: 10,0:13:08.24,0:13:11.31,GJM_Main,Yama,0,0,0,,...asks a mysterious girl.
 Dialogue: 10,0:13:15.46,0:13:18.27,GJM_Main,Girl,0,0,0,,Now give me your face in return!
 Dialogue: 10,0:13:20.11,0:13:22.38,GJM_Main,Ino,0,0,0,,Yamada, you jerk!
-Dialogue: 10,0:13:25.19,0:13:27.43,GJM_Main,Yama,0,0,0,,Amami{*}-san{*}, have you heard about that?
-Dialogue: 10,0:13:33.74,0:13:36.45,GJM_Main,Oga,0,0,0,,Even Amami{*}-san{*}, the girl with the sixth sense...
+Dialogue: 10,0:13:25.19,0:13:27.43,GJM_Main,Yama,0,0,0,,Amami{**-san}, have you heard about that?
+Dialogue: 10,0:13:33.74,0:13:36.45,GJM_Main,Oga,0,0,0,,Even Amami{**-san}, the girl with the sixth sense...
 Dialogue: 10,0:13:36.45,0:13:38.92,GJM_Main,Ue,0,0,0,,...is going pale after hearing a ghost story.
 Dialogue: 10,0:13:39.42,0:13:41.33,GJM_Main,Yama,0,0,0,,Do you need to go to the bathroom?!
 Dialogue: 10,0:13:42.45,0:13:44.51,GJM_Main,Esu,0,0,0,,Is she possessed?
@@ -238,7 +238,7 @@ Dialogue: 10,0:14:15.66,0:14:21.46,GJM_Main,Ama,0,0,0,,Then I learned she didn't
 Dialogue: 10,0:14:22.12,0:14:25.24,GJM_Main,Ama,0,0,0,,I feel so awful for asking that of her!
 Dialogue: 10,0:14:26.05,0:14:29.65,GJM_Main,Yama,0,0,0,,Th-That's the part that shocked you?
 Dialogue: 10,0:14:29.65,0:14:32.44,GJM_Main,Oga,0,0,0,,So that's why you couldn't sleep.
-Dialogue: 10,0:14:43.29,0:14:45.32,GJM_Main,Yama,0,0,0,,What are you doing, Amami{*}-san{*}?
+Dialogue: 10,0:14:43.29,0:14:45.32,GJM_Main,Yama,0,0,0,,What are you doing, Amami{**-san}?
 Dialogue: 10,0:14:45.32,0:14:48.31,GJM_Main,Ue,0,0,0,,She wants to give that to the {no-face}faceless ghost as an apology.
 Dialogue: 10,0:14:50.07,0:14:54.56,GJM_Main,Ama,0,0,0,,{\i1}She comes out on rainy days \Nbecause she likes the rain.
 Dialogue: 10,0:15:01.21,0:15:04.37,GJM_Main,Ama,0,0,0,,{\i1}Then this will...
@@ -281,7 +281,7 @@ Dialogue: 10,0:17:53.66,0:17:55.24,GJM_Main,Ue,0,0,0,,That makes no sense!
 Dialogue: 10,0:17:56.30,0:17:57.96,GJM_Main,Esu,0,0,0,,What's the problem, Uehara?
 Dialogue: 10,0:17:57.96,0:18:02.21,GJM_Main,Ue,0,0,0,,Well, the roll-call samurai \Njust sent me a weird email.
 Dialogue: 10,0:18:02.21,0:18:03.81,GJM_Main,Yama,0,0,0,,The roll-call samurai?
-Dialogue: 10,0:18:04.27,0:18:06.14,GJM_Main,Yama,0,0,0,,Amami{*}-san{*}, the roll-call samurai—
+Dialogue: 10,0:18:04.27,0:18:06.14,GJM_Main,Yama,0,0,0,,Amami{**-san}, the roll-call samurai—
 Dialogue: 10,0:18:11.17,0:18:13.03,GJM_Main,Yama,0,0,0,,Slashed right across my back...
 Dialogue: 10,0:18:13.52,0:18:15.65,GJM_Main,Ue,0,0,0,,You're not cut.
 Dialogue: 10,0:18:15.65,0:18:17.11,GJM_Main,Ue,0,0,0,,Give me back my phone.
@@ -299,7 +299,7 @@ Dialogue: 10,0:18:45.62,0:18:48.60,GJM_Main,Ue,0,0,0,,Yeah. This is where he sai
 Dialogue: 10,0:18:48.60,0:18:50.71,GJM_Main,Ino,0,0,0,,Why did I have to come, too?
 Dialogue: 10,0:18:51.18,0:18:52.61,GJM_Main,Oga,0,0,0,,Is this...
 Dialogue: 10,0:18:53.05,0:18:55.11,GJM_Main,Yama,0,0,0,,The roll-call samurai's grave?
-Dialogue: 10,0:18:57.46,0:19:03.62,GJM_Main,Ue,0,0,0,,"It was {*}Amami-dono{*Lady Amami} who restored my worn \Nand weathered grave to a pristine state."
+Dialogue: 10,0:18:57.46,0:19:03.62,GJM_Main,Ue,0,0,0,,"It was {*}Lady Amami{*Amami-dono} who restored my worn \Nand weathered grave to a pristine state."
 Dialogue: 10,0:19:06.45,0:19:10.37,GJM_Main,Samurai,0,0,0,,"When she learned that I had starved to death,
 Dialogue: 10,0:19:11.41,0:19:14.81,GJM_Main,Samurai,0,0,0,,she left me a bounty of rice and soup...
 Dialogue: 10,0:19:16.25,0:19:17.17,GJM_Main,Samurai,0,0,0,,In a basin."
@@ -317,7 +317,7 @@ Dialogue: 10,0:20:17.89,0:20:19.10,GJM_Main,Esu,0,0,0,,This must be it.
 Dialogue: 10,0:20:27.67,0:20:30.69,GJM_Main,Ama,0,0,0,,Wow, look at them all!
 Dialogue: 10,0:20:33.27,0:20:34.92,GJM_Main,Ama,0,0,0,,I'll take good care of them.
 Dialogue: 10,0:20:35.78,0:20:39.18,GJM_Main,Ino,0,0,0,,{\i1}Well, if they all looked together, \NI can believe they found that many.
-Dialogue: 10,0:21:32.32,0:21:36.52,GJM_Main,Yama,0,0,0,,You all think Amami{*}-san{*} went to give \Nthe roll-call samurai a present, too?
+Dialogue: 10,0:21:32.32,0:21:36.52,GJM_Main,Yama,0,0,0,,You all think Amami{**-san} went to give \Nthe roll-call samurai a present, too?
 Dialogue: 10,0:21:37.04,0:21:40.75,GJM_Main,Esu,0,0,0,,He'll email us if he wants to thank her again.
 Dialogue: 10,0:21:42.05,0:21:43.07,GJM_Main,Ue,0,0,0,,That's him.
 Dialogue: 10,0:21:47.07,0:21:48.76,GJM_Main,Oga,0,0,0,,Isn't that...
@@ -338,61 +338,61 @@ Dialogue: 10,0:23:58.53,0:24:00.53,GJM_Main,Ino,0,0,0,,Hey, don't make me say th
 Dialogue: 10,0:24:00.53,0:24:04.08,GJM_Main,Ino,0,0,0,,Next time on Re-Kan!:\N"Delicious Fried Eggs."
 Dialogue: 10,0:24:04.08,0:24:09.39,GJM_Main,Ino,0,0,0,,Hey! Didn't Nana teach you to show \Ngratitude for your food before you eat?!
 Comment: 0,0:24:09.39,0:24:11.39,GJM_Main,,0,0,0,,OP
-Dialogue: 0,0:00:45.40,0:00:48.19,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\be2\fad(250,250)\3c&HD892BB&}Our story is starting, now let's walk together
+Dialogue: 0,0:00:45.40,0:00:48.19,ReKan-OP-TL,,0,0,0,,{\3c&HD892BB&\be2\fad(250,250)}Our story is starting, now let's walk together
 Dialogue: 0,0:00:48.19,0:00:54.15,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)}so that these miraculous days never end.
-Dialogue: 0,0:00:51.61,0:00:54.15,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\an1}Yes! Let's go now.
-Dialogue: 0,0:00:54.15,0:01:00.24,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\3c&HBD87E8&}After our boundless dreams.
+Dialogue: 0,0:00:51.61,0:00:54.15,ReKan-OP-TL,,0,0,0,,{\an1\be2\fad(250,250)}Yes! Let's go now.
+Dialogue: 0,0:00:54.15,0:01:00.24,ReKan-OP-TL,,0,0,0,,{\3c&HBD87E8&\be2\fad(250,250)}After our boundless dreams.
 Dialogue: 0,0:01:08.84,0:01:13.46,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)}When I lay out the map of my future,
-Dialogue: 0,0:01:14.63,0:01:20.35,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)}my heart starts throbbing, telling me to make my move.{telling me to get going.}
-Dialogue: 0,0:01:20.35,0:01:25.14,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\3c&HB62C54&}Sometimes I'll inevitably end up
-Dialogue: 0,0:01:25.98,0:01:28.40,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\3c&HB62C54&}shedding a few tears,
-Dialogue: 0,0:01:28.40,0:01:31.44,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\3c&H702CB6&}but let's keep our eyes on the future.
-Dialogue: 0,0:01:31.44,0:01:34.32,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\3c&HD362A3&}The curiosity that's driving me
-Dialogue: 0,0:01:34.32,0:01:37.20,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\3c&HD362A3&}right at this moment is still a mystery,
+Dialogue: 0,0:01:14.63,0:01:20.35,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)}my heart starts throbbing, telling me to make my move.
+Dialogue: 0,0:01:20.35,0:01:25.14,ReKan-OP-TL,,0,0,0,,{\3c&HB62C54&\be2\fad(250,250)}Sometimes I'll inevitably end up
+Dialogue: 0,0:01:25.98,0:01:28.40,ReKan-OP-TL,,0,0,0,,{\3c&HB62C54&\be2\fad(250,250)}shedding a few tears,
+Dialogue: 0,0:01:28.40,0:01:31.44,ReKan-OP-TL,,0,0,0,,{\3c&H702CB6&\be2\fad(250,250)}but let's keep our eyes on the future.
+Dialogue: 0,0:01:31.44,0:01:34.32,ReKan-OP-TL,,0,0,0,,{\3c&HD362A3&\be2\fad(250,250)}The curiosity that's driving me
+Dialogue: 0,0:01:34.32,0:01:37.20,ReKan-OP-TL,,0,0,0,,{\3c&HD362A3&\be2\fad(250,250)}right at this moment is still a mystery,
 Dialogue: 0,0:01:37.20,0:01:42.74,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\t(3238,3614,\3c&H9F2B37&)}but I do know that I want to find out the answers with you.
 Dialogue: 0,0:01:42.74,0:01:45.75,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)}Our story is starting, now let's walk together
 Dialogue: 0,0:01:45.75,0:01:51.54,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)}so that these miraculous days never end.
-Dialogue: 0,0:01:49.08,0:01:51.88,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\an1}Yes! Let's go now.
+Dialogue: 0,0:01:49.08,0:01:51.88,ReKan-OP-TL,,0,0,0,,{\an1\be2\fad(250,250)}Yes! Let's go now.
 Dialogue: 0,0:01:51.54,0:01:54.42,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)}Our harmony resounds throughout the world.
 Dialogue: 0,0:01:54.42,0:01:57.30,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)}We'll never forget to wear our smiles
 Dialogue: 0,0:01:57.30,0:02:03.06,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)}with everything that makes this moment shine.
-Dialogue: 0,0:02:00.55,0:02:03.06,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\an1}Yes! Go my way.
+Dialogue: 0,0:02:00.55,0:02:03.06,ReKan-OP-TL,,0,0,0,,{\an1\be2\fad(250,250)}Yes! Go my way.
 Dialogue: 0,0:02:03.06,0:02:09.31,ReKan-OP-TL,,0,0,0,,{\be2\fad(250,250)\t(1442,2381,\3c&HD44972&)}We'll keep dreaming on and on.
 Comment: 0,0:24:11.39,0:24:13.39,GJM_Main,,0,0,0,,ED
-Dialogue: 0,0:22:13.81,0:22:16.73,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2\an1}Wow!{yeah idk}
-Dialogue: 0,0:22:15.39,0:22:17.35,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Mysterious fluffballs!{"angel hair" is apparently a somewhat similar thing in eng}
-Dialogue: 0,0:22:16.73,0:22:19.56,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2\an1}Wow!
-Dialogue: 0,0:22:18.23,0:22:20.23,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Mysterious fluffballs!
-Dialogue: 0,0:22:19.56,0:22:21.27,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2\an1}Wow!
-Dialogue: 0,0:22:21.06,0:22:22.77,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Wow! Wow! Wow!
-Dialogue: 0,0:22:22.77,0:22:26.32,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}We won't tell the adults!
-Dialogue: 0,0:22:28.24,0:22:31.20,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Have you noticed it? Do you feel it?
-Dialogue: 0,0:22:31.20,0:22:34.20,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}See with the mind's eye.
-Dialogue: 0,0:22:34.20,0:22:36.79,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}I want to get possessed and be loved.
-Dialogue: 0,0:22:36.79,0:22:39.62,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}An after-school sensation.
-Dialogue: 0,0:22:39.62,0:22:45.71,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Common sense means nothing to high-school girls
-Dialogue: 0,0:22:45.71,0:22:48.55,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}with a "que sera, sera" attitude.
-Dialogue: 0,0:22:48.55,0:22:51.39,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Out of our way, ghosts!
-Dialogue: 0,0:22:51.39,0:22:54.22,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Abracadablovelove!
-Dialogue: 0,0:22:54.22,0:22:57.02,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Wow! Wow!
-Dialogue: 0,0:22:57.02,0:22:59.64,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}You should join us too!
-Dialogue: 0,0:22:59.64,0:23:03.36,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Smile! Smile! Smile!
-Dialogue: 0,0:23:03.36,0:23:05.65,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Let's have a blast!
-Dialogue: 0,0:23:05.65,0:23:09.11,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}We only have one chance to be young,{We get to be young only once,}{yolo}{god damn it convex w}
-Dialogue: 0,0:23:09.11,0:23:11.32,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}so we should enjoy it to the fullest.
-Dialogue: 0,0:23:11.32,0:23:14.20,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Evil spirits, vengeful spirits, all welcome.
-Dialogue: 0,0:23:13.87,0:23:14.20,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2\an1}Yeah!
-Dialogue: 0,0:23:14.20,0:23:17.12,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Nothing's impossible in this world.
-Dialogue: 0,0:23:17.12,0:23:20.00,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}There are all sorts of strange events and phantoms.
-Dialogue: 0,0:23:19.50,0:23:20.00,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2\an1}Yeah!
-Dialogue: 0,0:23:20.00,0:23:22.88,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Come what may, we'll never back down.
-Dialogue: 0,0:23:22.88,0:23:25.67,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}What does it mean to be ordinary?
-Dialogue: 0,0:23:25.17,0:23:25.67,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2\an1}Yeah?
-Dialogue: 0,0:23:25.67,0:23:28.51,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}If only the gods know the answer,
-Dialogue: 0,0:23:28.13,0:23:28.51,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2\an1}Yeah!
-Dialogue: 0,0:23:28.51,0:23:31.30,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}they can keep it to themselves!
-Dialogue: 0,0:23:30.84,0:23:31.30,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2\an1}After all...
-Dialogue: 0,0:23:31.30,0:23:37.06,ReKan-ED-TL,,0,0,0,,{\fad(250,250)\blur2}Ignorance is bliss.
+Dialogue: 0,0:22:13.81,0:22:16.73,ReKan-ED-TL,,0,0,0,,{\an1\blur2\fad(250,250)}Wow!
+Dialogue: 0,0:22:15.39,0:22:17.35,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Mysterious fluffballs!
+Dialogue: 0,0:22:16.73,0:22:19.56,ReKan-ED-TL,,0,0,0,,{\an1\blur2\fad(250,250)}Wow!
+Dialogue: 0,0:22:18.23,0:22:20.23,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Mysterious fluffballs!
+Dialogue: 0,0:22:19.56,0:22:21.27,ReKan-ED-TL,,0,0,0,,{\an1\blur2\fad(250,250)}Wow!
+Dialogue: 0,0:22:21.06,0:22:22.77,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Wow! Wow! Wow!
+Dialogue: 0,0:22:22.77,0:22:26.32,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}We won't tell the adults!
+Dialogue: 0,0:22:28.24,0:22:31.20,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Have you noticed it? Do you feel it?
+Dialogue: 0,0:22:31.20,0:22:34.20,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}See with the mind's eye.
+Dialogue: 0,0:22:34.20,0:22:36.79,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}I want to get possessed and be loved.
+Dialogue: 0,0:22:36.79,0:22:39.62,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}An after-school sensation.
+Dialogue: 0,0:22:39.62,0:22:45.71,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Common sense means nothing to high-school girls
+Dialogue: 0,0:22:45.71,0:22:48.55,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}with a "que sera, sera" attitude.
+Dialogue: 0,0:22:48.55,0:22:51.39,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Out of our way, ghosts!
+Dialogue: 0,0:22:51.39,0:22:54.22,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Abracadablovelove!
+Dialogue: 0,0:22:54.22,0:22:57.02,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Wow! Wow!
+Dialogue: 0,0:22:57.02,0:22:59.64,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}You should join us too!
+Dialogue: 0,0:22:59.64,0:23:03.36,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Smile! Smile! Smile!
+Dialogue: 0,0:23:03.36,0:23:05.65,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Let's have a blast!
+Dialogue: 0,0:23:05.65,0:23:09.11,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}We only have one chance to be young,
+Dialogue: 0,0:23:09.11,0:23:11.32,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}so we should enjoy it to the fullest.
+Dialogue: 0,0:23:11.32,0:23:14.20,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Evil spirits, vengeful spirits, all welcome.
+Dialogue: 0,0:23:13.87,0:23:14.20,ReKan-ED-TL,,0,0,0,,{\an1\blur2\fad(250,250)}Yeah!
+Dialogue: 0,0:23:14.20,0:23:17.12,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Nothing's impossible in this world.
+Dialogue: 0,0:23:17.12,0:23:20.00,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}There are all sorts of strange events and phantoms.
+Dialogue: 0,0:23:19.50,0:23:20.00,ReKan-ED-TL,,0,0,0,,{\an1\blur2\fad(250,250)}Yeah!
+Dialogue: 0,0:23:20.00,0:23:22.88,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Come what may, we'll never back down.
+Dialogue: 0,0:23:22.88,0:23:25.67,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}What does it mean to be ordinary?
+Dialogue: 0,0:23:25.17,0:23:25.67,ReKan-ED-TL,,0,0,0,,{\an1\blur2\fad(250,250)}Yeah?
+Dialogue: 0,0:23:25.67,0:23:28.51,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}If only the gods know the answer,
+Dialogue: 0,0:23:28.13,0:23:28.51,ReKan-ED-TL,,0,0,0,,{\an1\blur2\fad(250,250)}Yeah!
+Dialogue: 0,0:23:28.51,0:23:31.30,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}they can keep it to themselves!
+Dialogue: 0,0:23:30.84,0:23:31.30,ReKan-ED-TL,,0,0,0,,{\an1\blur2\fad(250,250)}After all...
+Dialogue: 0,0:23:31.30,0:23:37.06,ReKan-ED-TL,,0,0,0,,{\blur2\fad(250,250)}Ignorance is bliss.
 Comment: 0,0:24:13.39,0:24:15.39,GJM_Main,,0,0,0,,TS
 Dialogue: 0,0:00:02.52,0:00:02.56,ED Title,,0,0,0,,{\pos(1118.56,462)\fs48\bord2\c&H94798C&\3c&H94798C&\blur1\iclip(927.38,301.54,2148.31,579.08)}They're My Friends.
 Dialogue: 0,0:00:02.56,0:00:02.60,ED Title,,0,0,0,,{\pos(1086.8,462)\fs48\bord2\c&H94798C&\3c&H94798C&\blur1\iclip(927.38,301.54,2148.31,579.08)}They're My Friends.
