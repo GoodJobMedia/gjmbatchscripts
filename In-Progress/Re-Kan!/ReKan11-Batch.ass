@@ -87,7 +87,7 @@ Dialogue: 10,0:04:28.55,0:04:30.54,GJM_Main,Esu,0,0,0,,Then I'll wish for...
 Dialogue: 10,0:04:30.54,0:04:32.38,GJM_Main,Esu,0,0,0,,Total annihilation, again!
 Dialogue: 10,0:04:31.78,0:04:32.96,GJM_Overlap,Yama,0,0,0,,{\an8}Stop it!
 Dialogue: 10,0:04:34.24,0:04:35.75,GJM_Main,Ino,0,0,0,,What should I wish for?
-Dialogue: 10,0:04:35.75,0:04:37.78,GJM_Main,Both,0,0,0,,To stop being such a tsundere.{To get over being tsundere.}
+Dialogue: 10,0:04:35.75,0:04:37.78,GJM_Main,Both,0,0,0,,To stop being so difficult.{To get over being tsundere.}
 Dialogue: 10,0:04:37.78,0:04:38.88,GJM_Main,Ino,0,0,0,,It's already decided?!
 Dialogue: 10,0:04:39.16,0:04:44.09,GJM_Main,Ama,0,0,0,,I-I think you're great\Njust the way you are, Inoue{**-san}.
 Dialogue: 10,0:04:44.09,0:04:48.47,GJM_Main,Ino,0,0,0,,I'm not gonna make a wish like that, you jerk!{I'm not gonna wish to get over\Nbeing tsundere, you jerk!}
@@ -214,7 +214,7 @@ Dialogue: 10,0:11:56.11,0:12:01.15,GJM_Main,GalGhost,0,0,0,,What kinda gal would
 Dialogue: 10,0:12:01.72,0:12:03.61,GJM_Main,Samurai,0,0,0,,You're sure about this?
 Dialogue: 10,0:12:04.45,0:12:06.03,GJM_Main,GalGhost,0,0,0,,Don't sell me short.
 Dialogue: 10,0:12:06.03,0:12:09.54,GJM_Main,GalGhost,0,0,0,,I just want to return the favor.
-Dialogue: 10,0:12:15.07,0:12:17.75,GJM_Main,Samurai,0,0,0,,This must be what they mean by "tsundere."
+Dialogue: 10,0:12:15.07,0:12:17.75,GJM_Main,Samurai,0,0,0,,This must be what they mean by "difficult."
 Dialogue: 10,0:12:17.75,0:12:19.66,GJM_Main,Samurai,0,0,0,,{*}Lady Amami{*Amami-dono}, forgive me!
 Dialogue: 10,0:12:35.65,0:12:38.90,GJM_Main,GalGhost,0,0,0,,Are these... {*}Hibby{*Hibikicchi}'s memories?
 Dialogue: 10,0:12:42.67,0:12:46.84,GJM_Main,Samurai,0,0,0,,This must be {*}Lady Amami{*Amami-dono} before she met us.
