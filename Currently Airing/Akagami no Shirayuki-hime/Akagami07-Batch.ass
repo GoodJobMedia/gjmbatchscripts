@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: akagami 07 premux v2[A7535CB5].mkv
-Video File: akagami 07 premux v2[A7535CB5].mkv
-Keyframes File: akagami 07 premux[90C4E442]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/07/akagami 07 premux v2[A7535CB5].mkv
+Video File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/07/akagami 07 premux v2[A7535CB5].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 328
-Active Line: 345
-Video Position: 31919
+Video Zoom Percent: 0.875000
+Scroll Position: 103
+Active Line: 113
+Video Position: 12934
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -149,7 +148,7 @@ Dialogue: 10,0:08:46.47,0:08:49.30,GJM_Main,Izana,0,0,0,,you won't become aware 
 Dialogue: 10,0:08:50.37,0:08:51.41,GJM_Main,Izana,0,0,0,,{\i1}This man...
 Dialogue: 10,0:08:51.97,0:08:54.17,GJM_Main,Izana,0,0,0,,{\i1}was the sort of man who would\Nbecome the King of Clarines.{#please refer to 110}{I think it's kind of equally acceptable either way, based on what I've seen/read, but I think you always capitalize the title itself. The only person I could find who was referred to as Capital K "The King" was The King of Siam, King Mongkut.}
 Dialogue: 10,0:08:54.80,0:08:58.80,GJM_Main,Zen,0,0,0,,{\i1}I wanted to become the kind of person\Nwho could stand proudly next to this man.{What is the implication here? That he wants to be as great as his brother or that he wants his brother to recognize him as worthy? Standing at his brother's side could honestly mean either, }{the latter. well, considering that izana's going to become the next king, zen wants to become someone capable and fitting to support him. i dont think he wants to become like him}{I think what's here works then.}
-Dialogue: 10,0:08:59.43,0:09:01.31,GJM_Main,Zen,0,0,0,,{\i1}My heart and soul was set ablaze\Nwith determination.
+Dialogue: 10,0:08:59.43,0:09:01.31,GJM_Main,Zen,0,0,0,,{\i1}My heart and soul were set ablaze\Nwith determination.
 Dialogue: 10,0:09:10.13,0:09:12.90,GJM_Main,Zen,0,0,0,,Sorry, it's gotten pretty late.
 Dialogue: 10,0:09:12.90,0:09:13.94,GJM_Main,Red,0,0,0,,It's okay.
 Dialogue: 10,0:09:14.38,0:09:16.11,GJM_Main,Zen,0,0,0,,That's right, Shirayuki.
