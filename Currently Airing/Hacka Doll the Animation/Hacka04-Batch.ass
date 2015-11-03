@@ -11,14 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: hacka04_premux[CA5C2BE2].mkv
-Video File: hacka04_premux[CA5C2BE2].mkv
+Audio File: D:/Fansubbing/GoodJob/Hacka Doll/04/hacka04_premux[CA5C2BE2].mkv
+Video File: D:/Fansubbing/GoodJob/Hacka Doll/04/hacka04_premux[CA5C2BE2].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 121
-Active Line: 122
-Video Position: 11268
+Scroll Position: 115
+Active Line: 126
+Video Position: 89
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -335,31 +335,31 @@ Dialogue: 0,0:00:40.64,0:00:42.06,OP,,0,0,0,,{\c&H5C91F1&\4c&HCCE92E&\blur1\t(12
 Dialogue: 0,0:00:42.43,0:00:43.73,OP,,0,0,0,,{\c&H97D403&\4c&HAC65F8&\alpha&HFF&\blur1\t(0,200,\alpha&H00&)}that there are so many choices in front of me
 Dialogue: 0,0:00:43.73,0:00:44.85,OP,,0,0,0,,{\c&HADEB0B&\blur1}that there are so many choices in front of me
 Dialogue: 0,0:00:44.85,0:00:45.19,OP,,0,0,0,,{\c&H9DBCD6&\4c&H95D001&\blur1\t(140,340,\alpha&HFF&)}that there are so many choices in front of me
-Dialogue: 0,0:00:45.44,0:00:51.07,OP,,0,0,0,,{\alpha&HFF&\blur1\t(0,200,\alpha&H00&)}Which one do I pick? Won't you help me choose?
+Dialogue: 0,0:00:45.44,0:00:51.07,OP,,0,0,0,,{\c&H232433&\4c&H1629D5&\alpha&HFF&\blur1\t(0,200,\alpha&H00&)\t(430,520,\c&H42C94F&\4c&H823F12&)\t(1270,1350,\c&HB46CFC&\4c&H5DDC36&)\t(2230,2310,\c&HEEBB59&\4c&HEE67AC&)\t(3400,3480,\c&HCAE52D&\4c&HAD60F9&)}Which one do I pick? Won't you help me choose?
 Dialogue: 0,0:00:51.07,0:00:51.28,OP,,0,0,0,,{\c&HF8D771&\4c&H42C950&\blur1}Which one do I pick? Won't you help me choose?
 Dialogue: 0,0:00:51.28,0:00:51.48,OP,,0,0,0,,{\c&H00D8FF&\4c&HEEBB59&\blur1}Which one do I pick? Won't you help me choose?
 Dialogue: 0,0:00:51.48,0:00:51.69,OP,,0,0,0,,{\c&H84E95F&\4c&HA9B5FA&\blur1\t(10,210,\alpha&HFF&)}Which one do I pick? Won't you help me choose?
 Dialogue: 0,0:00:52.15,0:00:52.65,OP,,0,0,0,,{\c&HB9F61D&\4c&HAD63FA&\alpha&HFF&\blur1\t(0,200,\alpha&H00&)}Let's keep touching today, baby!
-Dialogue: 0,0:00:52.65,0:00:53.82,OP,,0,0,0,,{\c&HECAD5A&\4c&H9353D6&\blur1}L{\c&HECBC58&}e{\c&HECC357&}t{\c&HECCB57&}'{\c&HECD256&}s {\c&HECE254&}k{\c&HECEA53&}e{\c&HE7ED52&}e{\c&HDFED51&}p {\c&HCFED50&}t{\c&HC7ED4F&}o{\c&HBEED4E&}u{\c&HB6ED4D&}c{\c&HADED4C&}hi{\c&HBFED4E&}n{\c&HC8ED4F&}g {\c&HDAED51&}t{\c&HE2ED52&}o{\c&HEBEC53&}d{\c&HECE654&}a{\c&HECDD54&}y{\c&HECD555&}, {\c&HECC557&}b{\c&HECBD58&}a{\c&HECB559&}b{\c&HECAD5A&}y!
+Dialogue: 0,0:00:52.65,0:00:53.82,OP,,0,0,0,,{\c&H93CE08&\4c&HAD60F9&\blur1}Let's keep touching today, baby!
 Dialogue: 0,0:00:53.82,0:00:54.82,OP,,0,0,0,,{\c&HC88BEE&\4c&H93D007&\blur1\t(800,1000,\alpha&HFF&)}Let's keep touching today, baby!
-Dialogue: 0,0:00:54.82,0:00:56.91,OP,,0,0,0,,{\c&HECAD5A&\4c&H60DD3B&\blur1}H{\c&HEE7E5D&}o{\c&HEF675E&}w {\c&HF1618A&}d{\c&HF263A4&}o {\c&HF466D6&}y{\c&HF568EF&}o{\c&HE46AF6&}u {\c&HB76DF8&}wa{\c&HE869F6&}n{\c&HF567E9&}t {\c&HF364B1&}t{\c&HF26295&}o {\c&HF0615F&}f{\c&HEE7A5D&}e{\c&HED935C&}e{\c&HECAD5A&}l?
+Dialogue: 0,0:00:54.82,0:00:56.91,OP,,0,0,0,,{\c&HA778ED&\4c&H5DDC3D&\blur1}How do you want to feel?
 Dialogue: 0,0:00:56.91,0:00:57.82,OP,,0,0,0,,{\c&HD2DA2F&\4c&H6C5AEC&\blur1}How do you want to feel?
-Dialogue: 0,0:00:57.82,0:01:00.29,OP,,0,0,0,,{\c&HECAD5A&\4c&HEEBC5E&\blur1\fad(200,200)}I {\c&HEC985D&}c{\c&HED915E&}a{\c&HED8A5F&}n {\c&HED7C61&}b{\c&HED7662&}e {\c&HEE6963&}i{\c&HEE6466&}n {\c&HEE6677&}t{\c&HEE677F&}h{\c&HEE6887&}e {\c&HEF6A96&}m{\c&HEF6B9E&}i{\c&HEF6CA6&}n{\c&HEF6DAD&}or{\c&HEF6B9D&}i{\c&HEF6A95&}t{\c&HEE698D&}y {\c&HEE677C&}o{\c&HEE6674&}r {\c&HEE6564&}t{\c&HED6C63&}h{\c&HED7362&}e {\c&HED8160&}m{\c&HED885F&}a{\c&HED8F5E&}j{\c&HEC975D&}o{\c&HEC9E5C&}r{\c&HECA55B&}i{\c&HECAD5A&}ty
+Dialogue: 0,0:00:57.82,0:01:00.29,OP,,0,0,0,,{\c&HECBC5E&\4c&HF16DAE&\blur1\fad(200,200)}I can be in the minority or the majority
 Dialogue: 0,0:01:00.66,0:01:01.54,OP,,0,0,0,,{\c&H42C94F&\4c&HE6B138&\alpha&HFF&\blur1\t(0,150,\alpha&H00&)}They're both just as fun to me!
 Dialogue: 0,0:01:01.54,0:01:02.54,OP,,0,0,0,,{\c&H8289C1&\4c&H2D294C&\blur1}They're both just as fun to me!
 Dialogue: 0,0:01:02.54,0:01:03.66,OP,,0,0,0,,{\c&H5ABEFE&\4c&HAA5DF7&\blur1\t(920,1120,\alpha&HFF&)}They're both just as fun to me!
-Dialogue: 0,0:01:03.96,0:01:05.67,OP,,0,0,0,,{\c&HECAD5A&\4c&H2BDBF6&\alpha&HFF&\blur1\t(0,150,\alpha&H00&)}L{\c&HE8C657&}e{\c&HE7D255&}t{\c&HE5DE54&}'{\c&HDBE352&}s {\c&HBBDF50&}k{\c&HACDD4E&}e{\c&H9CDA4D&}e{\c&H8DD84C&}p {\c&H6FD44A&}t{\c&H60D149&}o{\c&H52CF48&}u{\c&H47CD4A&}c{\c&H46CA56&}hi{\c&H54CF48&}n{\c&H63D249&}g {\c&H83D74B&}t{\c&H93D94C&}o{\c&HA3DB4E&}d{\c&HB4DE4F&}a{\c&HC5E050&}y{\c&HD6E252&}, {\c&HE6D555&}b{\c&HE8C857&}a{\c&HEABA58&}b{\c&HECAD5A&}y!
+Dialogue: 0,0:01:03.96,0:01:05.67,OP,,0,0,0,,{\c&H42C94F&\4c&H823F12&\alpha&HFF&\blur1\t(0,150,\alpha&H00&)}Let's keep touching today, baby!
 Dialogue: 0,0:01:05.67,0:01:06.67,OP,,0,0,0,,{\c&HF9A746&\4c&H92D105&\blur1\t(810,1010,\alpha&HFF&)}Let's keep touching today, baby!
-Dialogue: 0,0:01:06.67,0:01:09.88,OP,,0,0,0,,{\c&HECAD5A&\4c&H969EB4&\blur1\fad(200,200)}S{\c&HE57752&}o {\c&HDD4B54&}w{\c&HD84768&}o{\c&HD4447B&}n{\c&HCF418E&}'{\c&HCA3FA0&}t {\c&HBA3DBD&}y{\c&H9F3EB4&}o{\c&H8740AB&}u {\c&H604299&}s{\c&H514291&}o{\c&H454389&}f{\c&H434B81&}tl{\c&H514291&}y {\c&H7241A2&}t{\c&H8740AB&}o{\c&H9F3EB4&}u{\c&HBA3DBD&}c{\c&HC53CB2&}h {\c&HCF418E&}m{\c&HD4447B&}e{\c&HD84768&}, {\c&HE15C4E&}b{\c&HE57752&}a{\c&HE99256&}b{\c&HECAD5A&}y?
+Dialogue: 0,0:01:06.67,0:01:09.88,OP,,0,0,0,,{\c&H30284C&\4c&H1B14B1&\blur1\fad(200,200)}So won't you softly touch me, baby?
 Dialogue: 0,0:01:10.34,0:01:10.80,OP,,0,0,0,,{\c&HCAC92C&\4c&HF85AAB&\alpha&HFF&\blur1\t(0,150,\alpha&H00&)}I want to be with you for as long as I can!
 Dialogue: 0,0:01:10.80,0:01:11.25,OP,,0,0,0,,{\c&H666AE9&\4c&H5DDC3C&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:11.25,0:01:11.71,OP,,0,0,0,,{\c&H42C94F&\4c&H42C94F&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:11.71,0:01:12.17,OP,,0,0,0,,{\c&H85E486&\4c&HAC60F9&\blur1}I want to be with you for as long as I can!
+Dialogue: 0,0:01:11.25,0:01:11.71,OP,,0,0,0,,{\c&H42C94F&\4c&H824211&\blur1}I want to be with you for as long as I can!
+Dialogue: 0,0:01:11.71,0:01:12.17,OP,,0,0,0,,{\c&HCBE72A&\4c&HAC60F9&\blur1}I want to be with you for as long as I can!
 Dialogue: 0,0:01:12.17,0:01:12.63,OP,,0,0,0,,{\c&HEEBB59&\4c&HF56DA5&\blur1}I want to be with you for as long as I can!
 Dialogue: 0,0:01:12.63,0:01:13.05,OP,,0,0,0,,{\c&HB08AF6&\4c&H5DDC36&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:13.05,0:01:13.38,OP,,0,0,0,,{\c&H43CA50&\4c&H7DCFE1&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:13.38,0:01:13.72,OP,,0,0,0,,{\c&H547CCA&\4c&H979EB2&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:13.72,0:01:14.05,OP,,0,0,0,,{\c&HA7EF2C&\blur1}I want to be with you for as long as I can!
+Dialogue: 0,0:01:13.05,0:01:13.38,OP,,0,0,0,,{\c&H43CA50&\4c&H824012&\blur1}I want to be with you for as long as I can!
+Dialogue: 0,0:01:13.38,0:01:13.72,OP,,0,0,0,,{\c&H30284C&\4c&H1B14B1&\blur1}I want to be with you for as long as I can!
+Dialogue: 0,0:01:13.72,0:01:14.05,OP,,0,0,0,,{\blur1}I want to be with you for as long as I can!
 Dialogue: 0,0:01:14.05,0:01:14.38,OP,,0,0,0,,{\c&HFA77B0&\4c&H8B7BED&\blur1}I want to be with you for as long as I can!
 Dialogue: 0,0:01:14.38,0:01:14.72,OP,,0,0,0,,{\c&H4D90FC&\4c&HEEBB59&\blur1}I want to be with you for as long as I can!
 Dialogue: 0,0:01:14.72,0:01:15.05,OP,,0,0,0,,{\c&H17D6B0&\4c&HAC60F9&\blur1}I want to be with you for as long as I can!
