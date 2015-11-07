@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: akagami10_premux[6C131817].mkv
-Video File: akagami10_premux[6C131817].mkv
-Keyframes File: akagami10_premux[6C131817]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/10/akagami10_premux[6C131817].mkv
+Video File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/10/akagami10_premux[6C131817].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 318
-Active Line: 330
-Video Position: 30776
+Video Zoom Percent: 0.750000
+Scroll Position: 4
+Active Line: 18
+Video Position: 1971
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,7 +53,7 @@ Dialogue: 10,0:00:47.81,0:00:50.44,GJM_Main,Red,0,0,0,,{\i1}I want to see what h
 Dialogue: 10,0:00:54.20,0:00:57.76,GJM_Main,Red,0,0,0,,{\i1}A view that I've never\Nseen before awaits me.
 Dialogue: 10,0:01:03.99,0:01:04.71,GJM_Main,Ryu,0,0,0,,Whoa!
 Dialogue: 10,0:01:08.93,0:01:11.30,GJM_Main,Red,0,0,0,,Oh, Ryu! We need to head back!
-Dialogue: 10,0:01:19.11,0:01:21.26,GJM_Main,Red,0,0,0,,Is she the one who blew the whistle?
+Dialogue: 10,0:01:19.11,0:01:21.26,GJM_Main,Red,0,0,0,,Did she just call that bird with a whistle?
 Dialogue: 10,0:01:21.26,0:01:22.43,GJM_Main,Obi,0,0,0,,It seems so.
 Comment: 10,0:01:25.89,0:02:55.94,GJM_Main,Obi,0,0,0,,{OP}
 Dialogue: 10,0:03:01.92,0:03:04.62,GJM_Main,Red,0,0,0,,Um, thank you very much!

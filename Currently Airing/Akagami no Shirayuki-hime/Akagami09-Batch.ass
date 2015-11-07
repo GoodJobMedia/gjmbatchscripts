@@ -13,13 +13,12 @@ PlayResY: 720
 Last Style Storage: Akagami
 Audio File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/09/akagami09_premux[222C7908].mkv
 Video File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/09/akagami09_premux[222C7908].mkv
-Keyframes File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/09/akagami09_premux[AD20740B]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 70
-Active Line: 77
-Video Position: 8902
+Video Zoom Percent: 0.750000
+Scroll Position: 250
+Active Line: 263
+Video Position: 28411
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -292,14 +291,14 @@ Dialogue: 10,0:19:07.38,0:19:12.17,GJM_Main,Zen,0,0,0,,Anyway, I had no other ch
 Dialogue: 10,0:19:13.09,0:19:15.92,GJM_Main,Zen,0,0,0,,I didn't bring any of that up. Why are you?
 Dialogue: 10,0:19:15.92,0:19:18.30,GJM_Main,Obi,0,0,0,,You were looking at me\Nas if you wanted to attack me.
 Dialogue: 10,0:19:18.30,0:19:19.26,GJM_Main,Zen,0,0,0,,I was not!
-Dialogue: 10,0:19:20.85,0:19:26.61,GJM_Main,Zen,0,0,0,,You only had to throw them out,\Nbut you went above and beyond that.
+Dialogue: 10,0:19:20.85,0:19:26.61,GJM_Main,Zen,0,0,0,,I told her she could dismiss you, but she didn't.
 Dialogue: 10,0:19:27.21,0:19:27.60,GJM_Main,Zen,0,0,0,,Obi.
 Dialogue: 10,0:19:30.70,0:19:31.81,GJM_Main,Zen,0,0,0,,A toast to your hard work.
 Dialogue: 10,0:19:35.12,0:19:36.82,GJM_Main,Obi,0,0,0,,Um, well...
 Dialogue: 10,0:19:36.82,0:19:38.78,GJM_Main,Obi,0,0,0,,It was dangerous to a degree.
 Dialogue: 10,0:19:40.03,0:19:41.58,GJM_Main,Zen,0,0,0,,I believe you.
 Dialogue: 10,0:19:41.58,0:19:44.95,GJM_Main,Zen,0,0,0,,You were with Shirayuki, after all.
-Dialogue: 10,0:19:44.95,0:19:48.07,GJM_Main,Zen,0,0,0,,I'm sure that even I would've\Nfaced troubles if I were there.
+Dialogue: 10,0:19:44.95,0:19:48.07,GJM_Main,Zen,0,0,0,,She would probably send even {\i1}me{\i0} away\Nwhen there's something troubling her.
 Dialogue: 10,0:19:51.24,0:19:53.79,GJM_Main,Zen,0,0,0,,I'm glad I made the right choice.
 Dialogue: 10,0:19:56.45,0:19:57.21,GJM_Main,Obi,0,0,0,,Hm? What's this?
 Dialogue: 10,0:19:59.13,0:20:00.55,GJM_Main,Obi,0,0,0,,An identity tag?
