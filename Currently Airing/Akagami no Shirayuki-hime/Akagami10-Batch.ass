@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/10/akagami10_premux[
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 4
-Active Line: 18
-Video Position: 1971
+Scroll Position: 66
+Active Line: 77
+Video Position: 8300
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,9 +112,9 @@ Dialogue: 10,0:05:26.35,0:05:29.85,GJM_Main,Kiharu,0,0,0,,"These rare feathers w
 Dialogue: 10,0:05:30.70,0:05:33.35,GJM_Main,Kiharu,0,0,0,,His so-called words of praise\Nfor the birds made my blood boil.
 Dialogue: 10,0:05:35.11,0:05:35.62,GJM_Main,Obi,0,0,0,,Oh.
 Dialogue: 10,0:05:37.68,0:05:41.78,GJM_Main,Kiharu,0,0,0,,During one of their hunts, they shot their\Narrows at Popo and injured him terribly.{lit - They also targeted Popo during one of their hunts and gave him a terrible injury.}
-Dialogue: 10,0:05:41.78,0:05:44.11,GJM_Main,Kiharu,0,0,0,,I've told them to stop so many times,\Nbut my pleas fell on deaf ears.
-Dialogue: 10,0:05:44.50,0:05:46.14,GJM_Main,Kiharu,0,0,0,,Then that viscount told me this:
-Dialogue: 10,0:05:47.16,0:05:52.87,GJM_Main,Kiharu,0,0,0,,"Why not ask the prince himself?\NI'll even take you to see him!"
+Dialogue: 10,0:05:41.78,0:05:46.20,GJM_Main,Kiharu,0,0,0,,I've told them to stop so many times,\Nbut my pleas fell on deaf ears.
+Dialogue: 10,0:05:47.15,0:05:49.20,GJM_Main,Kiharu,0,0,0,,Then that viscount told me this:
+Dialogue: 10,0:05:49.20,0:05:52.87,GJM_Main,Kiharu,0,0,0,,"Why not ask the prince himself?\NI'll even take you to see him!"
 Dialogue: 10,0:05:54.17,0:05:56.68,GJM_Main,Kiharu,0,0,0,,I can't imagine him listening to my pleas.
 Dialogue: 10,0:05:56.68,0:05:58.71,GJM_Main,Kiharu,0,0,0,,I'm sure he'll just laugh at me instead!
 Dialogue: 10,0:05:59.21,0:06:03.67,GJM_Main,Kiharu,0,0,0,,People of high status will only\Nbelittle those with lower standings.
