@@ -10,15 +10,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 04 [premux].mkv
-Video File: [GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 04 [premux].mkv
-Keyframes File: [GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 04 [premux]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Sakurako-san/04/[GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 04 [premux].mkv
+Video File: D:/Fansubbing/GoodJob/Sakurako-san/04/[GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 04 [premux].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 106
-Active Line: 117
-Video Position: 10594
+Video Zoom Percent: 0.875000
+Scroll Position: 649
+Active Line: 656
+Video Position: 1379
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -691,8 +690,6 @@ Dialogue: 1,0:00:57.49,0:00:57.54,OP-Romaji,split,0,0,0,fx,{\an8\pos(627,16)\org
 Dialogue: 1,0:00:57.49,0:00:57.54,OP-Romaji,split,0,0,0,fx,{\an8\pos(657,16)\org(-1280,16)\3c&H8866E7&\alpha&HFF&\blur0.5\t(-4980,-4880,\alpha&H00&)\t(-1010,-1010,\1c&HF6CDFF&\3c&HFFFFFF&\blur1.2)\t(-650,-300,\1c&HFFFFFF&\3c&H8866E7&\blur0.5)\t(-1055,-1010,\frz-0.15)\t(-1010,-650,\frz0)\t(740,840,\alpha&HFF&)}ra
 Dialogue: 1,0:00:57.49,0:00:57.54,OP-Romaji,split,0,0,0,fx,{\an8\pos(688,16)\org(-1280,16)\3c&H8866E7&\alpha&HFF&\blur0.5\t(-4965,-4865,\alpha&H00&)\t(-650,-650,\1c&HF6CDFF&\3c&HFFFFFF&\blur1.2)\t(-280,70,\1c&HFFFFFF&\3c&H8866E7&\blur0.5)\t(-695,-650,\frz-0.15)\t(-650,-280,\frz0)\t(740,840,\alpha&HFF&)}re
 Dialogue: 1,0:00:57.49,0:00:57.54,OP-Romaji,split,0,0,0,fx,{\an8\pos(722,16)\org(-1280,16)\3c&H8866E7&\alpha&HFF&\blur0.5\t(-4950,-4850,\alpha&H00&)\t(-280,-280,\1c&HF6CDFF&\3c&HFFFFFF&\blur1.2)\t(90,440,\1c&HFFFFFF&\3c&H8866E7&\blur0.5)\t(-325,-280,\frz-0.15)\t(-280,90,\frz0)\t(740,840,\alpha&HFF&)}na
-Dialogue: 0,0:01:02.48,0:01:02.83,OP-Romaji,split,0,0,0,fx,{\an5\move(773,41,748,41)\org(-1280,41)\fscx15\fscy15\frz-0.25\bord2\1c&HF6CDFF&\3c&HFFFFFF&\blur2\t(0,150,\frz1)\t(150,350,\frz-0.15)\t(0,350,\fscy100\fscx100\blur3)}i
-Dialogue: 0,0:01:02.48,0:01:02.83,OP-Romaji,split,0,0,0,fx,{\an5\move(773,41,748,41)\org(-1280,41)\fscx15\fscy15\frz-0.25\bord0\1c&HF6CDFF&\blur0.5\t(0,150,\frz1)\t(150,350,\frz-0.15)\t(0,350,\fscy100\fscx100\blur3)}i
 Dialogue: 1,0:00:57.49,0:00:57.54,OP-Romaji,split,0,0,0,fx,{\an8\pos(748,16)\org(-1280,16)\3c&H8866E7&\alpha&HFF&\blur0.5\t(-4935,-4835,\alpha&H00&)\t(90,90,\1c&HF6CDFF&\3c&HFFFFFF&\blur1.2)\t(610,960,\1c&HFFFFFF&\3c&H8866E7&\blur0.5)\t(45,90,\frz-0.15)\t(90,610,\frz0)\t(740,840,\alpha&HFF&)}i
 Dialogue: 1,0:00:57.54,0:00:57.58,OP-Romaji,split,0,0,0,fx,{\an8\pos(40,16)\org(-1280,16)\1c&HF6E8FF&\3c&H6B4AC3&\alpha&HFF&\blur0.5\t(-5285,-5185,\alpha&H00&)\t(-5170,-5170,\1c&HD9B9FA&\3c&HF6E8FF&\blur1.2)\t(-4980,-4630,\1c&HF6E8FF&\3c&H6B4AC3&\blur0.5)\t(-5215,-5170,\frz-0.15)\t(-5170,-4980,\frz0)\t(690,790,\alpha&HFF&)}wa
 Dialogue: 1,0:00:57.54,0:00:57.58,OP-Romaji,split,0,0,0,fx,{\an8\pos(79,16)\org(-1280,16)\1c&HF6E8FF&\3c&H6B4AC3&\alpha&HFF&\blur0.5\t(-5270,-5170,\alpha&H00&)\t(-4980,-4980,\1c&HD9B9FA&\3c&HF6E8FF&\blur1.2)\t(-4770,-4420,\1c&HF6E8FF&\3c&H6B4AC3&\blur0.5)\t(-5025,-4980,\frz-0.15)\t(-4980,-4770,\frz0)\t(690,790,\alpha&HFF&)}ta
@@ -712,8 +709,6 @@ Dialogue: 1,0:00:57.54,0:00:57.58,OP-Romaji,split,0,0,0,fx,{\an8\pos(627,16)\org
 Dialogue: 1,0:00:57.54,0:00:57.58,OP-Romaji,split,0,0,0,fx,{\an8\pos(657,16)\org(-1280,16)\1c&HF6E8FF&\3c&H6B4AC3&\alpha&HFF&\blur0.5\t(-5030,-4930,\alpha&H00&)\t(-1060,-1060,\1c&HD9B9FA&\3c&HF6E8FF&\blur1.2)\t(-700,-350,\1c&HF6E8FF&\3c&H6B4AC3&\blur0.5)\t(-1105,-1060,\frz-0.15)\t(-1060,-700,\frz0)\t(690,790,\alpha&HFF&)}ra
 Dialogue: 1,0:00:57.54,0:00:57.58,OP-Romaji,split,0,0,0,fx,{\an8\pos(688,16)\org(-1280,16)\1c&HF6E8FF&\3c&H6B4AC3&\alpha&HFF&\blur0.5\t(-5015,-4915,\alpha&H00&)\t(-700,-700,\1c&HD9B9FA&\3c&HF6E8FF&\blur1.2)\t(-330,20,\1c&HF6E8FF&\3c&H6B4AC3&\blur0.5)\t(-745,-700,\frz-0.15)\t(-700,-330,\frz0)\t(690,790,\alpha&HFF&)}re
 Dialogue: 1,0:00:57.54,0:00:57.58,OP-Romaji,split,0,0,0,fx,{\an8\pos(722,16)\org(-1280,16)\1c&HF6E8FF&\3c&H6B4AC3&\alpha&HFF&\blur0.5\t(-5000,-4900,\alpha&H00&)\t(-330,-330,\1c&HD9B9FA&\3c&HF6E8FF&\blur1.2)\t(40,390,\1c&HF6E8FF&\3c&H6B4AC3&\blur0.5)\t(-375,-330,\frz-0.15)\t(-330,40,\frz0)\t(690,790,\alpha&HFF&)}na
-Dialogue: 0,0:01:02.53,0:01:02.88,OP-Romaji,split,0,0,0,fx,{\an5\move(773,41,748,41)\org(-1280,41)\fscx15\fscy15\frz-0.25\bord2\1c&HD9B9FA&\3c&HF6E8FF&\blur2\t(0,150,\frz1)\t(150,350,\frz-0.15)\t(0,350,\fscy100\fscx100\blur3)}i
-Dialogue: 0,0:01:02.53,0:01:02.88,OP-Romaji,split,0,0,0,fx,{\an5\move(773,41,748,41)\org(-1280,41)\fscx15\fscy15\frz-0.25\bord0\1c&HD9B9FA&\blur0.5\t(0,150,\frz1)\t(150,350,\frz-0.15)\t(0,350,\fscy100\fscx100\blur3)}i
 Dialogue: 1,0:00:57.54,0:00:57.58,OP-Romaji,split,0,0,0,fx,{\an8\pos(748,16)\org(-1280,16)\1c&HF6E8FF&\3c&H6B4AC3&\alpha&HFF&\blur0.5\t(-4985,-4885,\alpha&H00&)\t(40,40,\1c&HD9B9FA&\3c&HF6E8FF&\blur1.2)\t(560,910,\1c&HF6E8FF&\3c&H6B4AC3&\blur0.5)\t(-5,40,\frz-0.15)\t(40,560,\frz0)\t(690,790,\alpha&HFF&)}i
 Dialogue: 1,0:00:57.58,0:00:57.62,OP-Romaji,split,0,0,0,fx,{\an8\pos(40,16)\org(-1280,16)\1c&HECD2FF&\3c&H4D2E9F&\alpha&HFF&\blur0.5\t(-5325,-5225,\alpha&H00&)\t(-5210,-5210,\1c&HBCA6F4&\3c&HECD2FF&\blur1.2)\t(-5020,-4670,\1c&HECD2FF&\3c&H4D2E9F&\blur0.5)\t(-5255,-5210,\frz-0.15)\t(-5210,-5020,\frz0)\t(650,750,\alpha&HFF&)}wa
 Dialogue: 1,0:00:57.58,0:00:57.62,OP-Romaji,split,0,0,0,fx,{\an8\pos(79,16)\org(-1280,16)\1c&HECD2FF&\3c&H4D2E9F&\alpha&HFF&\blur0.5\t(-5310,-5210,\alpha&H00&)\t(-5020,-5020,\1c&HBCA6F4&\3c&HECD2FF&\blur1.2)\t(-4810,-4460,\1c&HECD2FF&\3c&H4D2E9F&\blur0.5)\t(-5065,-5020,\frz-0.15)\t(-5020,-4810,\frz0)\t(650,750,\alpha&HFF&)}ta
