@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/Hacka Doll/03/hacka03_premux[6D27938E].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 140
-Active Line: 146
-Video Position: 54
+Scroll Position: 45
+Active Line: 61
+Video Position: 6392
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -105,7 +105,7 @@ Dialogue: 10,0:04:54.56,0:04:57.48,GJM_Main,Yama,0,0,0,,It's going to overload t
 Dialogue: 10,0:04:57.48,0:04:58.61,GJM_Main,Num 1,0,0,0,,What?! Does that mean...
 Dialogue: 10,0:04:58.90,0:05:01.82,GJM_Main,Yama,0,0,0,,If the power surge is strong enough\Nto burn out the UNI System,
 Dialogue: 10,0:05:01.82,0:05:04.24,GJM_Main,Yama,0,0,0,,it'll blow up this entire building!
-Dialogue: 10,0:05:04.24,0:05:05.28,GJM_Main,Yama,0,0,0,,Girls, help me!
+Dialogue: 10,0:05:04.24,0:05:05.28,GJM_Main,Yama,0,0,0,,Help me out here!
 Dialogue: 10,0:05:05.28,0:05:05.86,GJM_Main,Both,0,0,0,,Okay!
 Dialogue: 10,0:05:06.70,0:05:08.12,GJM_Main,Yama,0,0,0,,Order it to cancel!
 Dialogue: 10,0:05:08.12,0:05:12.12,GJM_Main,Num 2,0,0,0,,{\pos(960,680)}Count us in.
