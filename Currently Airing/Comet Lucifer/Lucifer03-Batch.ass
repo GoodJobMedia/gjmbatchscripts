@@ -17,7 +17,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
 Scroll Position: 227
-Active Line: 232
+Active Line: 251
 Video Position: 33836
 
 [V4+ Styles]
@@ -282,7 +282,7 @@ Dialogue: 0,0:02:30.92,0:02:35.25,OP,,0,0,0,,{\blur5\fad(200,200)}having waited 
 Dialogue: 0,0:02:35.25,0:02:39.72,OP,,0,0,0,,{\blur5\fad(200,200)}Never be afraid of the trust held in your heart
 Dialogue: 0,0:02:39.72,0:02:43.89,OP,,0,0,0,,{\blur5\fad(200,0)}It'll surely come to ease the loneliness one day
 Dialogue: 0,0:02:43.89,0:02:45.18,OP,,0,0,0,,{\3c&HFD9C7C&\blur5\fad(0,200)}I{\3c&HFC9277&}t{\3c&HFB8D75&}'{\3c&HFB8773&}l{\3c&HFA8271&}l {\3c&HF9776C&}s{\3c&HF8726A&}u{\3c&HF86C68&}r{\3c&HF76666&}e{\3c&HF66467&}l{\3c&HF66168&}y {\3c&HF45D6B&}c{\3c&HF35B6D&}o{\3c&HF3596F&}m{\3c&HF25771&}e {\3c&HF05375&}t{\3c&HEF5177&}o {\3c&HED4D7C&}e{\3c&HEC4C7E&}a{\3c&HEB4A80&}s{\3c&HEA4883&}e {\3c&HE84488&}t{\3c&HE7428A&}h{\3c&HE6418D&}e {\3c&HE43D92&}l{\3c&HE33B95&}o{\3c&HE23A97&}n{\3c&HE1389A&}e{\3c&HE0369D&}l{\3c&HDE35A0&}i{\3c&HDD33A2&}n{\3c&HDC31A5&}e{\3c&HDB30A8&}s{\3c&HDA2EAB&}s {\3c&HD72BB1&}o{\3c&HD62AB3&}n{\3c&HD32AB5&}e {\3c&HCC2BB8&}d{\3c&HC92BB9&}ay
-Dialogue: 0,0:02:45.18,0:02:50.19,OP,,0,0,0,,{\3c&HFD9C7C&\blur5\fad(200,200)}S{\3c&HFC9378&}o {\3c&HFB8A74&}w{\3c&HFB8672&}h{\3c&HFA8170&}e{\3c&HFA7D6E&}n {\3c&HF9736B&}t{\3c&HF86E69&}h{\3c&HF76A67&}e {\3c&HF66367&}t{\3c&HF66268&}i{\3c&HF56069&}m{\3c&HF45E6B&}e {\3c&HF35A6E&}c{\3c&HF2596F&}o{\3c&HF25771&}m{\3c&HF15573&}e{\3c&HF05475&}s {\3c&HEF5078&}f{\3c&HEE4F7A&}o{\3c&HED4D7C&}r {\3c&HEC4A80&}y{\3c&HEB4882&}o{\3c&HEA4784&}u {\3c&HE84489&}t{\3c&HE7428B&}o {\3c&HE53F8F&}r{\3c&HE43D91&}e{\3c&HE43C94&}t{\3c&HE33B96&}u{\3c&HE23998&}r{\3c&HE1389B&}n {\3c&HDF359F&}t{\3c&HDE33A2&}o {\3c&HDB31A7&}y{\3c&HDA2FA9&}o{\3c&HD92EAB&}u{\3c&HD82DAE&}r {\3c&HD62AB3&}p{\3c&HD42AB5&}l{\3c&HD12AB6&}a{\3c&HCE2AB7&}n{\3c&HCC2BB8&}e{\3c&HC92BB9&}t,
+Dialogue: 0,0:02:45.18,0:02:50.19,OP,,0,0,0,,{\3c&HFD9C7C&\blur5\fad(200,200)}S{\3c&HFC8F76&}o {\3c&HFA8270&}e{\3c&HF97B6E&}v{\3c&HF9746B&}e{\3c&HF86D68&}n {\3c&HF66367&}i{\3c&HF56069&}f {\3c&HF35B6E&}y{\3c&HF25870&}o{\3c&HF15673&}u {\3c&HEF5178&}d{\3c&HEE4E7B&}o {\3c&HEB4981&}r{\3c&HEA4784&}e{\3c&HE94587&}t{\3c&HE7428A&}u{\3c&HE6408D&}r{\3c&HE53E91&}n {\3c&HE23A97&}t{\3c&HE0379B&}o {\3c&HDD33A2&}t{\3c&HDC31A6&}h{\3c&HDA2FA9&}e {\3c&HD72BB0&}s{\3c&HD52AB4&}t{\3c&HD12AB6&}a{\3c&HCD2BB8&}r{\3c&HC92BB9&}s,
 Dialogue: 0,0:02:50.19,0:02:55.11,OP,,0,0,0,,{\3c&HFD9C7C&\blur5\fad(200,200)}l{\3c&HFB8572&}e{\3c&HF9796D&}t{\3c&HF86C68&}'{\3c&HF66367&}s {\3c&HF35A6E&}p{\3c&HF15573&}l{\3c&HEF5177&}a{\3c&HED4D7C&}n{\3c&HEB4882&}t {\3c&HE6408D&}m{\3c&HE43C93&}o{\3c&HE13999&}r{\3c&HDF359F&}e {\3c&HD92EAC&}s{\3c&HD62AB2&}e{\3c&HD02AB6&}e{\3c&HC92BB9&}ds
 Comment: 0,0:23:40.60,0:23:42.60,GJM_Main,,0,0,0,,ED
 Dialogue: 0,0:22:10.55,0:22:14.35,ED,,0,0,0,,{\blur3\fad(200,200)}T{\3c&HFC967B&}h{\3c&HFC947A&}e{\3c&HFB9179&}s{\3c&HFB8E79&}e {\3c&HFA8977&}s{\3c&HFA8677&}o{\3c&HF98376&}u{\3c&HF98076&}n{\3c&HF97D75&}d{\3c&HF87B74&}s {\3c&HF77573&}f{\3c&HF77373&}i{\3c&HF67275&}l{\3c&HF67176&}l{\3c&HF67178&}i{\3c&HF5707A&}n{\3c&HF5707B&}g {\3c&HF46F7F&}u{\3c&HF36E80&}p {\3c&HF26D84&}m{\3c&HF26D85&}y {\3c&HF16C89&}h{\3c&HF06B8B&}e{\3c&HF06A8C&}a{\3c&HEF6A8E&}rt
