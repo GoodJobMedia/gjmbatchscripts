@@ -336,12 +336,12 @@ Dialogue: 0,0:02:36.88,0:02:38.18,OP,,0,0,0,,{\3c&HFD9C7C&\blur5\fad(0,200)}I{\3
 Dialogue: 0,0:02:38.18,0:02:43.18,OP,,0,0,0,,{\3c&HFD9C7C&\blur5\fad(200,200)}S{\3c&HFC8F76&}o {\3c&HFA8270&}e{\3c&HF97B6E&}v{\3c&HF9746B&}e{\3c&HF86D68&}n {\3c&HF66367&}i{\3c&HF56069&}f {\3c&HF35B6E&}y{\3c&HF25870&}o{\3c&HF15673&}u {\3c&HEF5178&}d{\3c&HEE4E7B&}o {\3c&HEB4981&}r{\3c&HEA4784&}e{\3c&HE94587&}t{\3c&HE7428A&}u{\3c&HE6408D&}r{\3c&HE53E91&}n {\3c&HE23A97&}t{\3c&HE0379B&}o {\3c&HDD33A2&}t{\3c&HDC31A6&}h{\3c&HDA2FA9&}e {\3c&HD72BB0&}s{\3c&HD52AB4&}t{\3c&HD12AB6&}a{\3c&HCD2BB8&}r{\3c&HC92BB9&}s,
 Dialogue: 0,0:02:43.18,0:02:48.10,OP,,0,0,0,,{\3c&HFD9C7C&\blur5\fad(200,200)}l{\3c&HFB8572&}e{\3c&HF9796D&}t{\3c&HF86C68&}'{\3c&HF66367&}s {\3c&HF35A6E&}p{\3c&HF15573&}l{\3c&HEF5177&}a{\3c&HED4D7C&}n{\3c&HEB4882&}t {\3c&HE6408D&}m{\3c&HE43C93&}o{\3c&HE13999&}r{\3c&HDF359F&}e {\3c&HD92EAC&}s{\3c&HD62AB2&}e{\3c&HD02AB6&}e{\3c&HC92BB9&}ds
 Comment: 0,0:22:09.01,0:22:11.01,GJM_Main,,0,0,0,,ED
-Dialogue: 1,0:22:11.01,0:22:14.02,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(2810,2855,\1a&HFF&)}The first thing I tell myself
-Dialogue: 1,0:22:14.04,0:22:17.07,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(2830,2875,\1a&HFF&)}When I wake up in the morning
+Dialogue: 1,0:22:11.01,0:22:14.02,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(2810,2855,\1a&HFF&)}Waking up to a new morning every day,
+Dialogue: 1,0:22:14.04,0:22:17.07,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(2830,2875,\1a&HFF&)}The first thing I tell myself
 Dialogue: 1,0:22:17.07,0:22:20.04,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(2770,2815,\1a&HFF&)}Is that I love this world
 Dialogue: 1,0:22:20.04,0:22:23.12,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(2880,2925,\1a&HFF&)}I really, really do
-Dialogue: 1,0:22:23.12,0:22:26.14,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(2820,2865,\1a&HFF&)}The light calls for me
-Dialogue: 1,0:22:26.14,0:22:30.01,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(3670,3715,\1a&HFF&)}And I want to reach it, no matter what
+Dialogue: 1,0:22:23.12,0:22:26.14,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(2820,2865,\1a&HFF&)}When the light calls for me
+Dialogue: 1,0:22:26.14,0:22:30.01,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(3670,3715,\1a&HFF&)}I want to reach it even if it's on my bare feet
 Dialogue: 1,0:22:30.01,0:22:31.37,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(1160,1205,\1a&HFF&)}Don't stop me
 Dialogue: 1,0:22:31.37,0:22:34.83,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(3260,3305,\1a&HFF&)}I'll go further and further
 Dialogue: 1,0:22:34.83,0:22:37.77,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20\fad(200,200)\t(155,200,\1a&H00&)\t(2740,2785,\1a&HFF&)}One step at a time
@@ -357,12 +357,12 @@ Dialogue: 1,0:23:05.34,0:23:08.94,ED,,0,0,0,,{\c&H81A941&\1a&HFF&\3a&H64&\blur20
 Dialogue: 1,0:23:08.94,0:23:11.18,ED,,0,0,0,,{\bord4\c&H81A941&\1a&HFF&\3a&H64&\blur10\fad(200,200)\t(155,200,\1a&H00&)\t(2040,2085,\1a&HFF&)}I think I'll be able to do it if it's with you
 Dialogue: 1,0:23:11.18,0:23:13.34,ED,,0,0,0,,{\bord4\c&H81A941&\1a&HFF&\3a&H64&\blur10\fad(200,200)\t(155,200,\1a&H00&)\t(1960,2005,\1a&HFF&)}Because with you by my side,
 Dialogue: 1,0:23:13.34,0:23:17.69,ED,,0,0,0,,{\bord4\c&H81A941&\1a&HFF&\3a&H64&\blur10\fad(200,200)\t(155,200,\1a&H00&)\t(4150,4195,\1a&HFF&)}I won't be scared of anything
-Dialogue: 2,0:22:11.01,0:22:14.02,ED,,0,0,0,,{\blur4\fad(200,200)}The first thing I tell myself
-Dialogue: 2,0:22:14.04,0:22:17.07,ED,,0,0,0,,{\blur4\fad(200,200)}When I wake up in the morning
+Dialogue: 2,0:22:11.01,0:22:14.02,ED,,0,0,0,,{\blur4\fad(200,200)}Waking up to a new morning every day,
+Dialogue: 2,0:22:14.04,0:22:17.07,ED,,0,0,0,,{\blur4\fad(200,200)}The first thing I tell myself
 Dialogue: 2,0:22:17.07,0:22:20.04,ED,,0,0,0,,{\blur4\fad(200,200)}Is that I love this world
 Dialogue: 2,0:22:20.04,0:22:23.12,ED,,0,0,0,,{\blur4\fad(200,200)}I really, really do
-Dialogue: 2,0:22:23.12,0:22:26.14,ED,,0,0,0,,{\blur4\fad(200,200)}The light calls for me
-Dialogue: 2,0:22:26.14,0:22:30.01,ED,,0,0,0,,{\blur4\fad(200,200)}And I want to reach it, no matter what
+Dialogue: 2,0:22:23.12,0:22:26.14,ED,,0,0,0,,{\blur4\fad(200,200)}When the light calls for me
+Dialogue: 2,0:22:26.14,0:22:30.01,ED,,0,0,0,,{\blur4\fad(200,200)}I want to reach it even if it's on my bare feet
 Dialogue: 2,0:22:30.01,0:22:31.37,ED,,0,0,0,,{\blur4\fad(200,200)}Don't stop me
 Dialogue: 2,0:22:31.37,0:22:34.83,ED,,0,0,0,,{\blur4\fad(200,200)}I'll go further and further
 Dialogue: 2,0:22:34.83,0:22:37.77,ED,,0,0,0,,{\blur4\fad(200,200)}One step at a time
