@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/God Eater/02/God(dammit) Eater 02 v2 [75C2923B
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 4089
-Active Line: 4100
-Video Position: 29759
+Scroll Position: 208
+Active Line: 224
+Video Position: 33860
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -257,7 +257,7 @@ Dialogue: 10,0:23:26.55,0:23:28.09,GJM_Main,,0,0,0,,I don't need rescuing.{ep3, 
 Dialogue: 10,0:23:27.34,0:23:29.85,GJM_Overlap,,0,0,0,,{\an8}That girl sure knows\Nhow to handle her New-Type.{ep3, 05:15}
 Dialogue: 10,0:23:29.85,0:23:33.88,GJM_Main,,0,0,0,,Old-Types should just stick\Nto the things they're capable of doing.{ep3, 13:25}
 Dialogue: 10,0:23:30.85,0:23:32.23,GJM_Overlap,,0,0,0,,{\an8}Devoured?{ep3, 06:40}
-Dialogue: 10,0:23:32.22,0:23:34.48,GJM_Overlap,,0,0,0,,{\an8}So I'm counting on you, New-Type.{ep3, 13:22}
+Dialogue: 10,0:23:32.23,0:23:34.48,GJM_Overlap,,0,0,0,,{\an8}So I'm counting on you, New-Type.{ep3, 13:22}
 Dialogue: 10,0:23:35.52,0:23:37.98,GJM_Main,,0,0,0,,Those who devour gods...{ep3, 06:53}
 Comment: 0,0:23:37.98,0:23:39.98,GJM_Main,,0,0,0,,OP
 Dialogue: 1,0:01:38.20,0:01:41.96,GodEaterOPRom,baseline,0,0,0,fx,{\an4\pos(0,47)\org(-1000,24)\fscx263\alpha&HFF&\t(200,216,\fscx268)\t(216,232,\fscx263)\t(232,248,\fscx268)\t(248,264,\fscx263)\t(264,280,\fscx268)\t(280,296,\fscx263)\t(296,312,\fscx268)\t(312,328,\fscx263)\t(328,344,\fscx268)\t(344,360,\fscx263)\t(360,376,\fscx268)\t(376,392,\fscx263)\t(392,408,\fscx268)\t(408,424,\fscx263)\t(424,440,\fscx268)\t(440,456,\fscx263)\t(456,472,\fscx268)\t(472,488,\fscx263)\t(488,504,\fscx268)\t(504,520,\fscx263)\t(520,536,\fscx268)\t(536,552,\fscx263)\t(552,568,\fscx268)\t(568,584,\fscx263)\t(584,600,\fscx268)\t(600,616,\fscx263)\t(616,632,\fscx268)\t(632,648,\fscx263)\t(648,664,\fscx268)\t(665,680,\fscx263)\p1}m 0 0 l 100 0 100 1 0 1{\fscx100\bord1.5\3c&H121777&\blur0.5\t(0,150,\alpha&H00&)\t(200,200,\3c&H05058E&\1c&H1102D5&)\t(840,1040,\3c&H121777&\1c&HFFFFFF&)\t(50,200,\frz0.35)\t(690,840,\frz0)\t(3610,3760,\alpha&HFF&)\p0}What
