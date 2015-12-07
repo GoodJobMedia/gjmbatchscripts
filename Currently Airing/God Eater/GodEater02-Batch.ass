@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/God Eater/02/God(dammit) Eater 02 v2 [75C2923B
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 208
-Active Line: 224
-Video Position: 33860
+Scroll Position: 133
+Active Line: 146
+Video Position: 21690
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -179,7 +179,7 @@ Dialogue: 10,0:14:49.03,0:14:52.00,GJM_Main,,0,0,0,,I don't care if I'm dismisse
 Dialogue: 10,0:14:52.00,0:14:53.83,GJM_Main,,0,0,0,,but orders are orders.
 Dialogue: 10,0:14:54.83,0:14:56.08,GJM_Main,,0,0,0,,What about you?
 Dialogue: 10,0:15:01.51,0:15:04.05,GJM_Main,,0,0,0,,That's a scary look, Sis.
-Dialogue: 10,0:15:04.63,0:15:07.01,GJM_Main,,0,0,0,,Don't call me that when we're on duty, brat.
+Dialogue: 10,0:15:04.63,0:15:07.01,GJM_Main,,0,0,0,,Don't call me that\Nwhen we're on duty, brat.
 Dialogue: 10,0:15:32.91,0:15:33.83,GJM_Main,,0,0,0,,To Eric!
 Dialogue: 10,0:15:41.09,0:15:42.30,GJM_Main,,0,0,0,,It's tough to accept...
 Dialogue: 10,0:15:43.76,0:15:45.97,GJM_Main,,0,0,0,,only seeing a God Arc make it back.
