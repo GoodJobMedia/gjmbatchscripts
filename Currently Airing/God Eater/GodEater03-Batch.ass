@@ -17,9 +17,9 @@ Keyframes File: D:/Fansubbing/GoodJob/God Eater/03/God Eater 03 v1 (33AB919C)_ke
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 178
-Active Line: 191
-Video Position: 11786
+Scroll Position: 180
+Active Line: 188
+Video Position: 33910
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,17 +36,17 @@ Style: God Eater ED-Eng,Formal436 BT,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:16.48,0:00:17.41,GJM_Main,,0,0,105,,We're almost there.
 Dialogue: 10,0:00:18.35,0:00:21.79,GJM_Main,,0,0,105,,I'm sure you're already aware,\Nbut you won't get another shot.
-Dialogue: 10,0:00:25.17,0:00:30.12,GJM_Main,,0,0,0,,That said, if we can just manage\Nto deliver the target{ to the Far East Branch} in one piece,
-Dialogue: 10,0:00:30.12,0:00:32.26,GJM_Main,,0,0,0,,they'll call it a job well done.{It didn't really make sense why he said this without some kind of implication. That's literally the objective they were given last episode. Fyurie sugested that the implication was that they didn't care about the plane/cargo/etc. Just her. Tried to make that more apparent. -Fomal}
+Dialogue: 10,0:00:25.17,0:00:30.12,GJM_Main,,0,0,0,,That said, if we can just manage\Nto deliver the target in one piece,
+Dialogue: 10,0:00:30.12,0:00:32.26,GJM_Main,,0,0,0,,they'll call it a job well done.
 Dialogue: 10,0:00:33.67,0:00:38.12,GJM_Main,,0,0,0,,Speaking of which,\Nthe God Eater we're rescuing
 Dialogue: 10,0:00:38.81,0:00:41.18,GJM_Main,,0,0,0,,is a New-Type like you.
-Dialogue: 10,0:00:41.69,0:00:43.08,GJM_Main,,0,0,0,,A New-Type?
+Dialogue: 10,0:00:41.69,0:00:43.08,GJM_Main,,0,0,0,,A New-Type?{ep2 preview line}
 Dialogue: 10,0:00:43.08,0:00:46.71,GJM_Main,,0,0,0,,Hopefully that New-Type\Nisn't quite so reckless.
-Dialogue: 10,0:00:48.27,0:00:49.29,GJM_Main,,0,0,0,,Hey, wait!{no italics for flashbacks}
+Dialogue: 10,0:00:48.27,0:00:49.29,GJM_Main,,0,0,0,,Hey, wait!
 Dialogue: 10,0:00:52.83,0:00:54.20,GJM_Main,,0,0,0,,It's coming into view.
-Dialogue: 10,0:01:10.56,0:01:12.26,GJM_Main,,0,0,0,,There's so many of them!{So many of them!}
+Dialogue: 10,0:01:10.56,0:01:12.26,GJM_Main,,0,0,0,,There's so many of them!
 Comment: 10,0:01:16.93,0:02:46.93,GJM_Main,,0,0,0,,{OP}
-Dialogue: 10,0:02:50.56,0:02:52.90,GJM_Main,,0,0,0,,The fuselage doesn't look like it's gonna hold.{The fuselage isn't gonna hold.}
+Dialogue: 10,0:02:50.56,0:02:52.90,GJM_Main,,0,0,0,,The fuselage doesn't look like it's gonna hold.
 Dialogue: 10,0:02:53.61,0:02:55.31,GJM_Main,,0,0,105,,Any contact with the transport?
 Dialogue: 10,0:02:55.31,0:02:56.44,GJM_Main,,0,0,105,,There's been no response.
 Dialogue: 10,0:03:02.95,0:03:04.07,GJM_Main,,0,0,105,,I see someone!
@@ -55,8 +55,8 @@ Dialogue: 10,0:03:26.51,0:03:29.43,GJM_Main,,0,0,0,,Hey, get her on the radio!
 Dialogue: 10,0:03:30.50,0:03:34.49,GJM_Main,,0,0,0,,This is the Far East Branch, 1st Unit.\NDo you read me?
 Dialogue: 10,0:03:34.49,0:03:38.20,GJM_Main,,0,0,0,,Copy that. This is Alisa Ilinichina Amiella.
 Dialogue: 10,0:03:38.78,0:03:40.36,GJM_Main,,0,0,0,,I'm Unit Captain Amamiya.
-Dialogue: 10,0:03:40.81,0:03:42.50,GJM_Main,,0,0,0,,We're here to pick you up.{We've come to rescue you.}{Adding some more style to this line. It's already implied they're rescuing her.}
-Dialogue: 10,0:03:42.50,0:03:45.24,GJM_Main,,0,0,0,,Move to the rear of the plane.\NWe'll cover your escape.{##}
+Dialogue: 10,0:03:40.81,0:03:42.50,GJM_Main,,0,0,0,,We're here to pick you up.
+Dialogue: 10,0:03:42.50,0:03:45.24,GJM_Main,,0,0,0,,Move to the rear of the plane.\NWe'll cover your escape.
 Dialogue: 10,0:03:48.53,0:03:49.45,GJM_Main,,0,0,0,,My escape?
 Dialogue: 10,0:03:49.45,0:03:52.85,GJM_Main,,0,0,0,,There's no choice but to abandon the plane.
 Dialogue: 10,0:03:52.85,0:03:54.67,GJM_Main,,0,0,0,,We'll take you the rest of the way.
@@ -64,7 +64,7 @@ Dialogue: 10,0:03:54.97,0:03:56.46,GJM_Main,,0,0,0,,That's our mission.
 Dialogue: 10,0:03:57.78,0:03:59.16,GJM_Main,,0,0,0,,You're rescuing me?
 Dialogue: 10,0:04:08.74,0:04:10.05,GJM_Main,,0,0,0,,No thanks.
 Dialogue: 10,0:04:10.05,0:04:10.73,GJM_Main,,0,0,0,,What?
-Dialogue: 10,0:04:11.32,0:04:13.44,GJM_Main,,0,0,0,,I don't need rescuing.
+Dialogue: 10,0:04:11.32,0:04:13.44,GJM_Main,,0,0,0,,I don't need rescuing.{ep2 preview line}
 Dialogue: 10,0:04:14.92,0:04:17.11,GJM_Main,,0,0,0,,Hey! Answer me!
 Dialogue: 10,0:04:17.65,0:04:18.98,GJM_Main,,0,0,0,,What's she doing?
 Dialogue: 10,0:04:32.92,0:04:35.11,GJM_Main,,0,0,0,,She doesn't want our help?
@@ -76,32 +76,32 @@ Dialogue: 10,0:04:50.92,0:04:52.35,GJM_Main,,0,0,0,,Kid's got a point.
 Dialogue: 10,0:04:52.35,0:04:53.30,GJM_Main,,0,0,0,,Sakuya.
 Dialogue: 10,0:04:53.30,0:04:54.22,GJM_Main,,0,0,0,,Roger.
 Dialogue: 10,0:04:54.80,0:04:56.23,GJM_Main,,0,0,0,,Now then...
-Dialogue: 10,0:05:15.20,0:05:18.04,GJM_Main,,0,0,0,,That girl sure knows\Nhow to handle her New-Type.
+Dialogue: 10,0:05:15.20,0:05:18.04,GJM_Main,,0,0,0,,That girl sure knows\Nhow to handle her New-Type.{ep2 preview line}
 Dialogue: 10,0:05:19.34,0:05:20.78,GJM_Main,,0,0,0,,A New-Type...
 Dialogue: 10,0:05:37.21,0:05:38.12,GJM_Main,,0,0,0,,Lenka!
 Dialogue: 10,0:05:39.41,0:05:41.08,GJM_Main,,0,0,0,,Keep it loaded.
 Dialogue: 10,0:05:45.63,0:05:47.25,GJM_Main,,0,0,0,,No ammo...
-Dialogue: 10,0:06:02.68,0:06:03.96,GJM_Main,,0,0,0,,Go after Alisa.{Stay close to Alisa.}
+Dialogue: 10,0:06:02.68,0:06:03.96,GJM_Main,,0,0,0,,Go after Alisa.
 Dialogue: 10,0:06:10.80,0:06:11.80,GJM_Main,,0,0,0,,She's out of ammo!
 Dialogue: 10,0:06:11.80,0:06:13.18,GJM_Main,,0,0,0,,I figured as much.
 Dialogue: 10,0:06:13.18,0:06:14.29,GJM_Main,,0,0,0,,Sakuya!
-Dialogue: 10,0:06:14.29,0:06:17.56,GJM_Main,,0,0,0,,It's too risky! The engine's right there!{We're too close to the engine!}{Implying instead of repeating the structure. -Fomal}
+Dialogue: 10,0:06:14.29,0:06:17.56,GJM_Main,,0,0,0,,It's too risky! The engine's right there!
 Dialogue: 10,0:06:34.84,0:06:37.88,GJM_Main,,0,0,0,,Is that an Aragami?
 Dialogue: 10,0:06:37.88,0:06:39.52,GJM_Main,,0,0,0,,She devoured it...
-Dialogue: 10,0:06:40.04,0:06:41.10,GJM_Main,,0,0,0,,Devoured?
+Dialogue: 10,0:06:40.04,0:06:41.10,GJM_Main,,0,0,0,,Devoured?{ep2 preview line}
 Dialogue: 10,0:06:41.96,0:06:45.09,GJM_Main,,0,0,0,,C'mon, you know what they call us.
 Dialogue: 10,0:06:48.08,0:06:51.08,GJM_Main,,0,0,0,,God Eaters...
-Dialogue: 10,0:06:53.26,0:06:55.74,GJM_Main,,0,0,0,,Those who devour gods...
-Dialogue: 10,0:07:04.44,0:07:05.61,GJM_Main,,0,0,0,,How?!{Why...?!}
+Dialogue: 10,0:06:53.26,0:06:55.74,GJM_Main,,0,0,0,,Those who devour gods...{ep2 preview line}
+Dialogue: 10,0:07:04.44,0:07:05.61,GJM_Main,,0,0,0,,How?!
 Dialogue: 10,0:07:05.61,0:07:08.24,GJM_Main,,0,0,0,,She devoured it and converted it into energy?
-Dialogue: 10,0:07:08.24,0:07:11.32,GJM_Main,,0,0,0,,So that's what the shapeshifting mechanism is for...{This seemed more like a realization than a question to me. -Fomal}
+Dialogue: 10,0:07:08.24,0:07:11.32,GJM_Main,,0,0,0,,So that's what the\Nshapeshifting mechanism is for...
 Dialogue: 10,0:07:12.12,0:07:13.74,GJM_Main,,0,0,0,,Now that's useful...
 Dialogue: 10,0:07:14.16,0:07:17.50,GJM_Main,,0,0,0,,We just might get through this.
 Dialogue: 10,0:07:41.25,0:07:41.94,GJM_Main,,0,0,0,,What?!
 Dialogue: 10,0:07:41.94,0:07:44.21,GJM_Main,,0,0,0,,It... evolved?
 Dialogue: 10,0:07:49.58,0:07:51.96,GJM_Main,,0,0,0,,It's calling the others!
 Dialogue: 10,0:07:55.53,0:07:57.09,GJM_Main,,0,0,0,,Take a look at this.
-Dialogue: 10,0:08:04.30,0:08:06.29,GJM_Main,,0,0,0,,They didn't show a reaction like this yesterday.
+Dialogue: 10,0:08:04.30,0:08:06.29,GJM_Main,,0,0,0,,They didn't show a\Nreaction like this yesterday.
 Dialogue: 10,0:08:06.88,0:08:09.36,GJM_Main,,0,0,0,,It appears to be a learned response.
 Dialogue: 10,0:08:09.96,0:08:11.57,GJM_Main,,0,0,0,,They're calling to each other.
 Dialogue: 10,0:08:11.57,0:08:13.14,GJM_Main,,0,0,0,,A resonance phenomenon...
@@ -110,11 +110,11 @@ Dialogue: 10,0:08:17.80,0:08:20.39,GJM_Main,,0,0,0,,They can feel it even in a s
 Dialogue: 10,0:08:25.76,0:08:27.75,GJM_Main,,0,0,0,,Our lab is too small for this.
 Dialogue: 10,0:08:29.73,0:08:30.74,GJM_Main,,0,0,0,,This is bad!
 Dialogue: 10,0:08:31.52,0:08:32.90,GJM_Main,,0,0,0,,If that swarm joins the fight...
-Dialogue: 10,0:08:33.55,0:08:35.49,GJM_Main,,0,0,0,,We can still make this work if we act quickly.
+Dialogue: 10,0:08:33.55,0:08:35.49,GJM_Main,,0,0,0,,We can still make\Nthis work if we act quickly.
 Dialogue: 10,0:08:36.15,0:08:38.24,GJM_Main,,0,0,0,,Get the chopper close to the transport.
 Dialogue: 10,0:08:38.80,0:08:40.41,GJM_Main,,0,0,0,,Sakuya, stay here and cover us.
 Dialogue: 10,0:08:41.08,0:08:43.78,GJM_Main,,0,0,0,,We'll bring Alisa on board\Nwith us before they get here.
-Dialogue: 10,0:08:44.29,0:08:47.46,GJM_Main,,0,0,0,,Newbie, you're with me.{Newbie, you come with me.}
+Dialogue: 10,0:08:44.29,0:08:47.46,GJM_Main,,0,0,0,,Newbie, you're with me.
 Dialogue: 10,0:08:48.64,0:08:49.67,GJM_Main,,0,0,0,,We're going down there.
 Dialogue: 10,0:09:28.89,0:09:30.62,GJM_Main,,0,0,105,,Circumstances have changed.
 Dialogue: 10,0:09:32.93,0:09:35.17,GJM_Main,,0,0,105,,Sorry, but you're coming with us.
@@ -124,81 +124,81 @@ Dialogue: 10,0:10:15.68,0:10:16.34,GJM_Main,,0,0,0,,Why you—
 Dialogue: 10,0:10:21.12,0:10:22.01,GJM_Main,,0,0,0,,Wait—
 Dialogue: 10,0:10:22.01,0:10:23.06,GJM_Main,,0,0,0,,Hey!
 Dialogue: 10,0:10:28.23,0:10:29.14,GJM_Main,,0,0,0,,Stop!
-Dialogue: 10,0:10:33.50,0:10:36.68,GJM_Main,,0,0,0,,Trying to make me go is a waste\Nof both your time and mine.{Implying with some sass. -Fomal}
+Dialogue: 10,0:10:33.50,0:10:36.68,GJM_Main,,0,0,0,,Trying to make me go is a waste\Nof both your time and mine.
 Dialogue: 10,0:10:38.65,0:10:40.78,GJM_Main,,0,0,0,,I'm not leaving this transport plane.
-Dialogue: 10,0:11:01.84,0:11:03.44,GJM_Main,,0,0,0,,It's too dangerous in the cabin. {"Here! Take this! /random rpg object"}{pls.}
-Dialogue: 10,0:11:03.99,0:11:06.48,GJM_Main,,0,0,0,,Please wait here. Just hold on a little longer.{Clumsy wording in the orig. -Fomal}
+Dialogue: 10,0:11:01.84,0:11:03.44,GJM_Main,,0,0,0,,It's too dangerous in the cabin.
+Dialogue: 10,0:11:03.99,0:11:06.48,GJM_Main,,0,0,0,,Please wait here. Just hold on a little longer.
 Dialogue: 10,0:11:06.99,0:11:09.26,GJM_Main,,0,0,0,,Sorry, Alisa.
-Dialogue: 10,0:11:09.26,0:11:10.18,GJM_Main,,0,0,0,,It's fine.{It's nothing.}
+Dialogue: 10,0:11:09.26,0:11:10.18,GJM_Main,,0,0,0,,It's fine.
 Dialogue: 10,0:11:12.96,0:11:16.64,GJM_Main,,0,0,0,,You may experience a little turbulence,\Nbut don't worry.
 Dialogue: 10,0:11:17.14,0:11:21.53,GJM_Main,,0,0,0,,I'll get you all to the Far East Branch. I promise!
-Dialogue: 10,0:11:23.31,0:11:25.16,GJM_Main,,0,0,0,,There are so many casualties!{So many wounded!}
+Dialogue: 10,0:11:23.31,0:11:25.16,GJM_Main,,0,0,0,,There are so many casualties!
 Dialogue: 10,0:11:26.91,0:11:28.65,GJM_Main,,0,0,0,,Why didn't you tell us sooner?!
-Dialogue: 10,0:11:30.51,0:11:35.09,GJM_Main,,0,0,0,,Were they included in your mission objectives?{Were they on your list of people to rescue?}{linebending/10}{sure}{fuck yeah}
+Dialogue: 10,0:11:30.51,0:11:35.09,GJM_Main,,0,0,0,,Were they included in your mission objectives?
 Dialogue: 10,0:11:50.05,0:11:51.17,GJM_Main,,0,0,0,,Rindou... sir.
 Dialogue: 10,0:11:51.17,0:11:53.16,GJM_Main,,0,0,0,,Drop the sir, newbie.
 Dialogue: 10,0:11:53.16,0:11:54.42,GJM_Main,,0,0,0,,What is it?
-Dialogue: 10,0:11:54.42,0:11:55.82,GJM_Main,,0,0,0,,We've got wounded down here.{There are injured on board.}{# }
+Dialogue: 10,0:11:54.42,0:11:55.82,GJM_Main,,0,0,0,,We've got wounded down here.
 Dialogue: 10,0:11:56.63,0:11:57.61,GJM_Main,,0,0,0,,How many?
 Dialogue: 10,0:11:57.97,0:11:59.56,GJM_Main,,0,0,0,,Too many for the chopper.
 Dialogue: 10,0:12:00.45,0:12:01.57,GJM_Main,,0,0,0,,So that's why...
-Dialogue: 10,0:12:02.08,0:12:03.67,GJM_Main,,0,0,0,,All right, I guess I get it.{can I get some T too?}
+Dialogue: 10,0:12:02.08,0:12:03.67,GJM_Main,,0,0,0,,All right, I guess I get it.
 Dialogue: 10,0:12:04.88,0:12:06.33,GJM_Main,,0,0,0,,But here's the deal:
 Dialogue: 10,0:12:06.84,0:12:09.68,GJM_Main,,0,0,0,,We'll only be able to save Alisa.
 Dialogue: 10,0:12:13.24,0:12:14.58,GJM_Main,,0,0,0,,I...
 Dialogue: 10,0:12:16.44,0:12:18.34,GJM_Main,,0,0,0,,want to save everyone.
 Dialogue: 10,0:12:20.66,0:12:21.39,GJM_Main,,0,0,0,,Rindou!
-Dialogue: 10,0:12:22.48,0:12:26.01,GJM_Main,,0,0,0,,We're taking the whole transport back to the Far East Branch!
+Dialogue: 10,0:12:22.48,0:12:26.01,GJM_Main,,0,0,0,,We're taking the whole transport\Nback to the Far East Branch!
 Dialogue: 10,0:12:28.61,0:12:31.27,GJM_Main,,0,0,0,,Sakuya, do we have any ammo left?
-Dialogue: 10,0:12:32.96,0:12:35.65,GJM_Main,,0,0,0,,It doesn't look like we'll\Nbe running out any time soon.{We have 'em coming out of our ears ...unfortunately.}{currently musing over the image of bullets coming out of ears}{this reply didn't make any sense to me}{well, she uses a japanese idiom. but the meaning is like "there's so much that we almost don't know what to do with it." so basically, abundance}{that was a poor idiom choice in this context from daisuki}{now im thinking of corn and ears}{w}{the simple way to do this is just say "Unfortunately, we've got more than plenty." "It doesn't look like we'll be running out of them any time soon."}
+Dialogue: 10,0:12:32.96,0:12:35.65,GJM_Main,,0,0,0,,It doesn't look like we'll\Nbe running out any time soon.
 Dialogue: 10,0:12:36.01,0:12:37.89,GJM_Main,,0,0,0,,Hear that, Alisa? How about it?
 Dialogue: 10,0:12:38.39,0:12:40.11,GJM_Main,,0,0,0,,Here's the plan.
 Dialogue: 10,0:12:40.54,0:12:42.64,GJM_Main,,0,0,0,,We'll join forces.
 Dialogue: 10,0:12:42.64,0:12:43.74,GJM_Main,,0,0,0,,You in?
 Dialogue: 10,0:12:51.70,0:12:54.16,GJM_Main,,0,0,0,,First, we'll have to get rid of the evolved ones.
-Dialogue: 10,0:12:55.17,0:12:58.04,GJM_Main,,0,0,0,,We've gotta destroy 'em before they call in more.
+Dialogue: 10,0:12:55.17,0:12:58.04,GJM_Main,,0,0,0,,We've gotta destroy 'em\Nbefore they call in more.
 Dialogue: 10,0:12:59.99,0:13:03.17,GJM_Main,,0,0,0,,We'll leave that to you two.
 Dialogue: 10,0:13:03.55,0:13:05.80,GJM_Main,,0,0,0,,Sakuya, you're their back-up.
-Dialogue: 10,0:13:05.80,0:13:10.30,GJM_Main,,0,0,0,,If you can't keep up,\Nguide them above the plane or shoot 'em.{Not entirely sure what this line meant. "Keep up" with what? Her shooting? Their speed? Also, isn't her job to shoot them? -Fomal}
+Dialogue: 10,0:13:05.80,0:13:10.30,GJM_Main,,0,0,0,,If you can't keep up,\Nguide them above the plane or shoot 'em.
 Dialogue: 10,0:13:12.03,0:13:14.41,GJM_Main,,0,0,0,,I'll finish whatever's left.
-Dialogue: 10,0:13:17.54,0:13:21.28,GJM_Main,,0,0,0,,Long-range attacks are impossible\Nfor an Old-Type like me.{Old-Types like me can't combat long-range.}{is Old-Types an actual term or}{in the official yes. im not sure why they arent doing that here}
+Dialogue: 10,0:13:17.54,0:13:21.28,GJM_Main,,0,0,0,,Long-range attacks are impossible\Nfor an Old-Type like me.
 Dialogue: 10,0:13:22.64,0:13:24.99,GJM_Main,,0,0,0,,So I'm counting on you, New-Type.
-Dialogue: 10,0:13:25.65,0:13:30.03,GJM_Main,,0,0,0,,Old-Types should just stick\Nto the things they're capable of doing.{Old types can keep on doing what they're used to doing.}{Old-Types should stick to what they're( only) capable of doing.}{similar line from game but sliightly different context - "Old-Types should stick to what Old-Types are capable of doing."}
+Dialogue: 10,0:13:25.65,0:13:30.03,GJM_Main,,0,0,0,,Old-Types should just stick\Nto the things they're capable of doing.{ep2 preview line}
 Dialogue: 10,0:13:38.06,0:13:39.88,GJM_Main,,0,0,0,,Like swatting at flies.
 Dialogue: 10,0:13:45.09,0:13:46.93,GJM_Main,,0,0,0,,Shoot the flares!
 Dialogue: 10,0:13:56.18,0:13:56.94,GJM_Main,,0,0,0,,Go!
 Dialogue: 10,0:14:16.79,0:14:18.86,GJM_Main,,0,0,0,,Lenka! Five o'clock!
-Dialogue: 10,0:14:22.19,0:14:23.63,GJM_Main,,0,0,0,,It's trying to evolve!{It's in the process of evolving!}{PRESS B PRESS B}{pls.}
+Dialogue: 10,0:14:22.19,0:14:23.63,GJM_Main,,0,0,0,,It's trying to evolve!
 Dialogue: 10,0:14:27.03,0:14:27.67,GJM_Main,,0,0,0,,Out of ammo?!
-Dialogue: 10,0:14:32.39,0:14:33.60,GJM_Main,,0,0,0,,That's right!{this guy seriously overkills things. clearly it's dead but he just has to fire at it to make sure}
+Dialogue: 10,0:14:32.39,0:14:33.60,GJM_Main,,0,0,0,,That's right!
 Dialogue: 10,0:14:55.03,0:14:56.79,GJM_Main,,0,0,0,,I forgot to tell you...
 Dialogue: 10,0:14:59.13,0:15:02.21,GJM_Main,,0,0,0,,He's a New-Type like you.
 Dialogue: 10,0:15:09.70,0:15:11.63,GJM_Main,,0,0,0,,Just remember that we're nothing alike.
 Dialogue: 10,0:15:25.57,0:15:26.94,GJM_Main,,0,0,0,,That girl...
 Dialogue: 10,0:15:31.95,0:15:32.87,GJM_Main,,0,0,0,,I get it now.
-Dialogue: 10,0:16:03.08,0:16:05.73,GJM_Main,,0,0,0,,So this is what two New-Types can do...{Two New-Types...}{# }{This is what /two/ New-Types can do...}
+Dialogue: 10,0:16:03.08,0:16:05.73,GJM_Main,,0,0,0,,So this is what two New-Types can do...
 Dialogue: 10,0:16:54.60,0:16:55.98,GJM_Main,,0,0,0,,Nice work.
-Dialogue: 10,0:16:58.03,0:17:00.87,GJM_Main,,0,0,0,,Finish off the remaining Aragami!{Destroy the remnant Aragami!}
+Dialogue: 10,0:16:58.03,0:17:00.87,GJM_Main,,0,0,0,,Finish off the remaining Aragami!
 Dialogue: 10,0:17:54.90,0:17:56.34,GJM_Main,,0,0,0,,The mission was a success.
 Dialogue: 10,0:17:56.88,0:18:01.62,GJM_Main,,0,0,0,,Alisa Ilinichina Amiella and the\Nother survivors are on their way here.
-Dialogue: 10,0:18:02.17,0:18:04.77,GJM_Main,,0,0,0,,That's a far better outcome than I had hoped for.
+Dialogue: 10,0:18:02.17,0:18:04.77,GJM_Main,,0,0,0,,That's a far better outcome\Nthan I had hoped for.
 Dialogue: 10,0:18:05.70,0:18:07.49,GJM_Main,,0,0,0,,Well done.
 Dialogue: 10,0:18:08.02,0:18:10.48,GJM_Main,,0,0,0,,Wish them a safe journey.
 Dialogue: 10,0:18:10.48,0:18:11.52,GJM_Main,,0,0,0,,Yes, sir.
 Dialogue: 10,0:18:12.24,0:18:13.94,GJM_Main,,0,0,0,,That's the message.
 Dialogue: 10,0:18:13.94,0:18:15.28,GJM_Main,,0,0,0,,Roger that.
 Dialogue: 10,0:18:18.62,0:18:21.78,GJM_Main,,0,0,0,,You're really important to them, huh?
-Dialogue: 10,0:18:22.26,0:18:25.79,GJM_Main,,0,0,0,,Am I the only one the Far East Branch cares about?{Am I the only one who's valued by the Far East Branch?}
+Dialogue: 10,0:18:22.26,0:18:25.79,GJM_Main,,0,0,0,,Am I the only one the Far East Branch cares about?
 Dialogue: 10,0:18:26.49,0:18:27.80,GJM_Main,,0,0,0,,I can't say...
 Dialogue: 10,0:18:28.45,0:18:31.63,GJM_Main,,0,0,0,,We just do what we're told.
 Dialogue: 10,0:18:37.94,0:18:40.09,GJM_Main,,0,0,0,,She sure doesn't like us.
-Dialogue: 10,0:18:44.09,0:18:45.76,GJM_Main,,0,0,0,,Come in, Rindou!{Rindou, please respond!}
+Dialogue: 10,0:18:44.09,0:18:45.76,GJM_Main,,0,0,0,,Come in, Rindou!
 Dialogue: 10,0:18:45.76,0:18:47.98,GJM_Main,,0,0,0,,An Oracle reaction has been confirmed!
-Dialogue: 10,0:18:48.72,0:18:50.38,GJM_Main,,0,0,0,,Not the same bastards as earlier?{Not the same earlier bastards?}{...really daisuki}{... yeah this line by them lmao}
+Dialogue: 10,0:18:48.72,0:18:50.38,GJM_Main,,0,0,0,,Not the same bastards as earlier?
 Dialogue: 10,0:18:50.38,0:18:51.44,GJM_Main,,0,0,0,,I'm not sure!
 Dialogue: 10,0:18:51.97,0:18:53.91,GJM_Main,,0,0,0,,But it's huge.
-Dialogue: 10,0:18:53.91,0:18:55.69,GJM_Main,,0,0,0,,Something unbelievably huge...{oi oi, im not up there...}
-Dialogue: 10,0:18:56.18,0:18:58.20,GJM_Main,,0,0,0,,is heading this way!{is there a better way to handle this split?}
+Dialogue: 10,0:18:53.91,0:18:55.69,GJM_Main,,0,0,0,,Something unbelievably huge...
+Dialogue: 10,0:18:56.18,0:18:58.20,GJM_Main,,0,0,0,,is heading this way!
 Dialogue: 10,0:19:04.13,0:19:05.20,GJM_Main,,0,0,0,,Rindou!
 Dialogue: 10,0:19:06.29,0:19:09.54,GJM_Main,,0,0,0,,Sakuya, turn on the chopper's decoy signal.
 Dialogue: 10,0:19:09.90,0:19:10.80,GJM_Main,,0,0,0,,Roger.
@@ -213,17 +213,17 @@ Dialogue: 10,0:20:25.88,0:20:26.81,GJM_Main,,0,0,0,,But...
 Dialogue: 10,0:20:30.07,0:20:32.91,GJM_Main,,0,0,0,,But... that means...
 Dialogue: 10,0:20:35.64,0:20:39.03,GJM_Main,,0,0,0,,All I can say is that the world's a big place.
 Dialogue: 10,0:21:00.25,0:21:01.34,GJM_Main,,0,0,0,,What?
-Dialogue: 10,0:21:01.34,0:21:04.27,GJM_Main,,0,0,0,,The reaction is different this time.{It's a different reaction from the last time.}
+Dialogue: 10,0:21:01.34,0:21:04.27,GJM_Main,,0,0,0,,The reaction is different this time.
 Dialogue: 10,0:21:12.06,0:21:13.18,GJM_Main,,0,0,0,,Put up the shield!
-Dialogue: 10,0:21:28.19,0:21:30.65,GJM_Main,,0,0,0,,What is going on?!{What... is this?!}
+Dialogue: 10,0:21:28.19,0:21:30.65,GJM_Main,,0,0,0,,What is going on?!
 Comment: 10,0:21:55.46,0:23:24.75,GJM_Main,,0,0,0,,{ED}
-Dialogue: 10,0:23:26.13,0:23:29.03,GJM_Main,,0,0,0,,{\an8}Effective immediately,\Nyou are assigned to the 1st Unit.
-Dialogue: 10,0:23:29.03,0:23:30.18,GJM_Main,,0,0,0,,{\an8}The same as me...
-Dialogue: 10,0:23:30.18,0:23:31.43,GJM_Main,,0,0,0,,{\an8}You're going outside?
-Dialogue: 10,0:23:31.43,0:23:32.79,GJM_Main,,0,0,0,,{\an8}Don't worry!
-Dialogue: 10,0:23:32.79,0:23:34.92,GJM_Main,,0,0,0,,{\an8}Just how prepared were you when you came here?
-Dialogue: 10,0:23:34.31,0:23:37.13,GJM_Main,,0,0,0,,Are you guys God Eaters?
-Dialogue: 10,0:23:37.13,0:23:39.30,GJM_Main,,0,0,0,,What can you do?
+Dialogue: 10,0:23:26.13,0:23:29.03,GJM_Main,,0,0,0,,{\an8}...you are all being\Nassigned to the 1st Unit.{ep4, 03:40}{partial line, intentional training}
+Dialogue: 10,0:23:29.03,0:23:30.18,GJM_Main,,0,0,0,,{\an8}They're just like mine...{ep4, 05:58}
+Dialogue: 10,0:23:30.18,0:23:31.43,GJM_Main,,0,0,0,,{\an8}So you'll be dispatched?{ep4, 07:53}
+Dialogue: 10,0:23:31.43,0:23:32.79,GJM_Main,,0,0,0,,{\an8}Don't worry!{ep4, 08:19}
+Dialogue: 10,0:23:32.79,0:23:34.92,GJM_Main,,0,0,0,,{\an8}...really ready for this?{ep4, 14:21}
+Dialogue: 10,0:23:34.31,0:23:37.13,GJM_Main,,0,0,0,,Are you guys God Eaters?{ep4, 17:56}
+Dialogue: 10,0:23:37.13,0:23:39.30,GJM_Main,,0,0,0,,Do you think you can do anything for them?{ep4, 20:18}
 Comment: 0,0:23:39.30,0:23:41.30,GJM_Main,,0,0,0,,OP
 Dialogue: 1,0:01:32.19,0:01:35.95,GodEaterOPRom,baseline,0,0,0,fx,{\an4\pos(0,47)\org(-1000,24)\fscx263\alpha&HFF&\t(240,256,\fscx268)\t(256,272,\fscx263)\t(272,288,\fscx268)\t(288,304,\fscx263)\t(304,320,\fscx268)\t(320,336,\fscx263)\t(336,352,\fscx268)\t(352,368,\fscx263)\t(368,384,\fscx268)\t(384,400,\fscx263)\t(400,416,\fscx268)\t(416,432,\fscx263)\t(432,448,\fscx268)\t(448,464,\fscx263)\t(464,480,\fscx268)\t(480,496,\fscx263)\t(496,512,\fscx268)\t(512,528,\fscx263)\t(528,544,\fscx268)\t(544,560,\fscx263)\t(560,576,\fscx268)\t(576,592,\fscx263)\t(592,608,\fscx268)\t(608,624,\fscx263)\t(624,640,\fscx268)\t(640,656,\fscx263)\t(656,672,\fscx268)\t(672,688,\fscx263)\t(688,704,\fscx268)\t(705,720,\fscx263)\p1}m 0 0 l 100 0 100 1 0 1{\fscx100\bord1.5\3c&H121777&\blur0.5\t(0,150,\alpha&H00&)\t(240,240,\3c&H05058E&\1c&H1102D5&)\t(880,1080,\3c&H121777&\1c&HFFFFFF&)\t(90,240,\frz0.35)\t(730,880,\frz0)\t(3610,3760,\alpha&HFF&)\p0}What
 Dialogue: 2,0:01:33.07,0:01:35.95,GodEaterOPRom,baseline,0,0,0,fx,{\an5\pos(284,50)\fnSplit splat splodge\fs26\b1\c&H1102D5&\1a&H60&\t(0,750,\c&H0000B0&)\t(2730,2880,\alpha&HFF&)}c
