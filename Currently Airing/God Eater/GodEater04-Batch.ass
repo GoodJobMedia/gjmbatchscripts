@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: God Eater
-Audio File: God Eater 04 v2 ().mkv
-Video File: God Eater 04 v2 ().mkv
-Keyframes File: God Eater 04 v2 ()_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/God Eater/04/God Eater 04 v2 ().mkv
+Video File: D:/Fansubbing/GoodJob/God Eater/04/God Eater 04 v2 ().mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 258
-Active Line: 267
-Video Position: 31784
+Video Zoom Percent: 0.750000
+Scroll Position: 243
+Active Line: 251
+Video Position: 29275
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,7 +64,7 @@ Dialogue: 0,0:03:29.82,0:03:30.69,GJM_Main,,0,0,0,,Line up.
 Dialogue: 0,0:03:34.60,0:03:35.98,GJM_Main,,0,0,0,,Kouta Fujiki...
 Dialogue: 0,0:03:36.40,0:03:38.48,GJM_Main,,0,0,0,,Alisa Ilinichina Amiella...
 Dialogue: 0,0:03:39.07,0:03:40.49,GJM_Main,,0,0,0,,Lenka Utsugi...
-Dialogue: 0,0:03:40.96,0:03:45.12,GJM_Main,,0,0,0,,As of this moment, you are all\N being assigned to the 1st Unit.{cutting the three, inferred}
+Dialogue: 0,0:03:40.96,0:03:45.12,GJM_Main,,0,0,0,,As of this moment, you are all\N being assigned to the 1st Unit.{cutting the three, inferred}{ep3 preview line}
 Dialogue: 0,0:03:48.06,0:03:48.85,GJM_Main,,0,0,0,,Roger!
 Dialogue: 0,0:03:50.51,0:03:53.75,GJM_Main,,0,0,0,,You will now take orders from the unit captain.
 Dialogue: 0,0:03:54.20,0:03:55.47,GJM_Main,,0,0,0,,Captain Amamiya!
@@ -102,7 +101,7 @@ Dialogue: 0,0:05:40.81,0:05:43.06,GJM_Main,,0,0,0,,The one named Utsugi...
 Dialogue: 0,0:05:43.06,0:05:45.03,GJM_Main,,0,0,0,,{Is that the New-Type youth?}Is that the other New-Type?
 Dialogue: 0,0:05:45.63,0:05:46.89,GJM_Main,,0,0,0,,His eyes...
 Dialogue: 0,0:05:47.37,0:05:47.94,GJM_Main,,0,0,0,,His eyes?
-Dialogue: 0,0:05:48.93,0:05:50.28,GJM_Main,,0,0,0,,{They're the same as mine.}They're just like mine...
+Dialogue: 0,0:05:48.93,0:05:50.28,GJM_Main,,0,0,0,,{They're the same as mine.}They're just like mine...{ep3 preview line}
 Dialogue: 0,0:05:53.27,0:05:54.22,GJM_Main,,0,0,0,,Uzhas.{quotes or italics for foreign languages?}
 Dialogue: 0,0:05:55.15,0:05:57.54,GJM_Main,,0,0,0,,As in "horror" in Russian?{Uzhas... as in "Hell"( in Russian)?}{im /assuming/ that's what it means}{apparently it literally means "horror". but as a saying like "oh, damn" or awful!", most often women use it.}
 Dialogue: 0,0:05:57.54,0:05:59.96,GJM_Main,,0,0,0,,{No, forget what I said.}It's nothing. Forget what I said.
@@ -138,13 +137,13 @@ Dialogue: 0,0:07:36.70,0:07:38.19,GJM_Main,,0,0,0,,{Here, from me.}This is for y
 Dialogue: 0,0:07:39.64,0:07:41.97,GJM_Main,,0,0,0,,{Oh, this is Lenka from my class.}Oh, this is my buddy, Lenka.
 Dialogue: 0,0:07:42.57,0:07:45.90,GJM_Main,,0,0,0,,{Mom, I'm officially assigned to a unit!}Mom, I got officially assigned to a unit!
 Dialogue: 0,0:07:49.54,0:07:52.22,GJM_Main,,0,0,0,,{So to celebrate, I got all your favorites...}So I got some food\Nyou can cook to celebrate...
-Dialogue: 0,0:07:53.75,0:07:55.26,GJM_Main,,0,0,0,,So you'll be dispatched?
+Dialogue: 0,0:07:53.75,0:07:55.26,GJM_Main,,0,0,0,,So you'll be dispatched?{ep3 preview line}
 Dialogue: 0,0:08:00.98,0:08:03.67,GJM_Main,,0,0,0,,I can't believe you're a God Eater...
 Dialogue: 0,0:08:07.93,0:08:10.67,GJM_Main,,0,0,0,,Y-You know what, Mom? I have to go.
 Dialogue: 0,0:08:10.67,0:08:12.33,GJM_Main,,0,0,0,,I have things to do.{I just remembered an errand.}{split from 108}
 Dialogue: 0,0:08:12.33,0:08:13.18,GJM_Main,,0,0,0,,Kouta!
 Dialogue: 0,0:08:13.80,0:08:15.48,GJM_Main,,0,0,0,,Come home safe.{I even toyed with "Come back to me." without the safe, but I'm not going to make that call as a QC. I think it adds a really serious tone her words, implying that she expects for him not to make it back at all. -Fomal}
-Dialogue: 0,0:08:19.08,0:08:20.68,GJM_Main,,0,0,0,,Don't worry!
+Dialogue: 0,0:08:19.08,0:08:20.68,GJM_Main,,0,0,0,,Don't worry!{ep3 preview line}
 Dialogue: 0,0:08:21.20,0:08:22.39,GJM_Main,,0,0,0,,I'll stop by again.
 Dialogue: 0,0:08:23.20,0:08:23.85,GJM_Main,,0,0,0,,Let's go.
 Dialogue: 0,0:08:36.37,0:08:37.29,GJM_Main,,0,0,0,,Kouta.
@@ -212,7 +211,7 @@ Dialogue: 0,0:13:48.84,0:13:49.60,GJM_Main,,0,0,0,,Or...
 Dialogue: 0,0:13:49.60,0:13:50.76,GJM_Main,,0,0,0,,Shut up.
 Dialogue: 0,0:14:17.33,0:14:19.18,GJM_Main,,0,0,0,,Um... I...
 Dialogue: 0,0:14:19.18,0:14:20.29,GJM_Main,,0,0,0,,Are you...
-Dialogue: 0,0:14:21.42,0:14:23.70,GJM_Main,,0,0,0,,really ready for this?
+Dialogue: 0,0:14:21.42,0:14:23.70,GJM_Main,,0,0,0,,really ready for this?{ep3 preview line}
 Dialogue: 0,0:14:36.02,0:14:36.83,GJM_Main,,0,0,0,,Lenka!
 Dialogue: 0,0:14:38.96,0:14:40.81,GJM_Main,,0,0,0,,Today's target is the Gboro.
 Dialogue: 0,0:14:43.82,0:14:44.70,GJM_Main,,0,0,0,,There's one!
@@ -252,7 +251,7 @@ Dialogue: 0,0:17:45.62,0:17:46.17,GJM_Main,,0,0,0,,No problem.{Sure.}
 Dialogue: 0,0:17:47.71,0:17:48.74,GJM_Main,,0,0,0,,Is this really okay?
 Dialogue: 0,0:17:48.74,0:17:51.05,GJM_Main,,0,0,0,,We can't exactly ignore them.
 Dialogue: 0,0:17:51.05,0:17:53.55,GJM_Main,,0,0,0,,I don't mean that. What if...
-Dialogue: 0,0:17:56.74,0:17:59.43,GJM_Main,,0,0,0,,Are you guys God Eaters?
+Dialogue: 0,0:17:56.74,0:17:59.43,GJM_Main,,0,0,0,,Are you guys God Eaters?{ep3 preview line}
 Dialogue: 0,0:18:01.48,0:18:02.19,GJM_Main,,0,0,0,,Yeah.
 Dialogue: 0,0:18:03.38,0:18:05.85,GJM_Main,,0,0,0,,Then did you kill the Aragami?
 Dialogue: 0,0:18:08.33,0:18:09.07,GJM_Main,,0,0,0,,Yeah.
