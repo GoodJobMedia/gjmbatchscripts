@@ -11,14 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Hacka
-Audio File: hacka07_premux[EB5EA609].mkv
-Video File: hacka07_premux[EB5EA609].mkv
+Audio File: D:/Fansubbing/GoodJob/Hacka Doll/07/hacka07_premux[EB5EA609].mkv
+Video File: D:/Fansubbing/GoodJob/Hacka Doll/07/hacka07_premux[EB5EA609].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 560
-Active Line: 562
-Video Position: 10724
+Video Zoom Percent: 0.500000
+Scroll Position: 104
+Active Line: 126
+Video Position: 689
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -317,9 +317,9 @@ Dialogue: 2,0:00:37.51,0:00:37.76,FyuSigns,,0,0,0,,{\pos(695,146)\fax-0.2\fnFOT 
 Dialogue: 0,0:00:37.51,0:00:37.76,FyuSigns,,0,0,0,,{\pos(695,221)\fax-0.2\fnFOT Comet Std Stripped\fs50\b1\bord4\3c&HFFFFFF&\blur1.8\clip(m 760 80 l 526 75 525 92 525 110 524 132 521 149 516 167 510 185 503 198 498 207 500 220 498 235 493 255 494 257 507 257 520 259 525 262 527 268 526 275 522 279 491 288 759 288 749 276 741 263 737 253 732 241 728 232 726 224 725 213 727 206 731 200 739 192 746 185 754 178 761 170 767 165 765 152 763 137 761 121 760 104)}The Animation
 Dialogue: 1,0:00:37.51,0:00:37.76,FyuSigns,,0,0,0,,{\pos(695,221)\fax-0.2\fnFOT Comet Std Stripped\fs50\c&HA5AD40&\blur0.8\clip(m 760 80 l 526 75 525 92 525 110 524 132 521 149 516 167 510 185 503 198 498 207 500 220 498 235 493 255 494 257 507 257 520 259 525 262 527 268 526 275 522 279 491 288 759 288 749 276 741 263 737 253 732 241 728 232 726 224 725 213 727 206 731 200 739 192 746 185 754 178 761 170 767 165 765 152 763 137 761 121 760 104)}The Animation
 Dialogue: 0,0:00:40.72,0:00:43.60,OP,,0,0,0,,{\blur1\fad(200,200)}You won't find anything ordinary around here!
-Dialogue: 0,0:00:43.89,0:00:44.14,OP,,0,0,0,,{\c&HD77FCC&\4c&H6F5FE9&\blur1}Just make a splash and I'll be yours!
-Dialogue: 0,0:00:44.14,0:00:44.81,OP,,0,0,0,,{\c&H6FC758&\blur1}Just make a splash and I'll be yours!
-Dialogue: 0,0:00:44.81,0:00:46.56,OP,,0,0,0,,{\c&HDDDC45&\blur1\t(1550,1750,\alpha&HFF&)}Just make a splash and I'll be yours!
+Dialogue: 0,0:00:43.89,0:00:44.14,OP,,0,0,0,,{\c&HD77FCC&\4c&H6F5FE9&\blur1}You have so much information at your fingertips!
+Dialogue: 0,0:00:44.14,0:00:44.81,OP,,0,0,0,,{\c&H6FC758&\blur1}You have so much information at your fingertips!
+Dialogue: 0,0:00:44.81,0:00:46.56,OP,,0,0,0,,{\c&HDDDC45&\blur1\t(1550,1750,\alpha&HFF&)}You have so much information at your fingertips!
 Dialogue: 0,0:00:46.81,0:00:47.90,OP,,0,0,0,,{\c&HFFAE34&\4c&HEC67AC&\alpha&HFF&\blur1\t(0,200,\alpha&H00&)}Don't be shy and don't run away!
 Dialogue: 0,0:00:47.90,0:00:49.48,OP,,0,0,0,,{\c&H61DC3A&\4c&HDE5CEA&\blur1\t(1390,1590,\alpha&HFF&)}Don't be shy and don't run away!
 Dialogue: 0,0:00:49.48,0:00:49.86,OP,,0,0,0,,{\c&H8E96FC&\4c&HEDBC5C&\alpha&HFF&\blur1\t(0,200,\alpha&H00&)}Bang! Bang! Just leave it to us!
@@ -355,21 +355,21 @@ Dialogue: 0,0:01:27.56,0:01:28.69,OP,,0,0,0,,{\c&H5ABEFE&\4c&HAA5DF7&\blur1\t(92
 Dialogue: 0,0:01:28.98,0:01:30.69,OP,,0,0,0,,{\c&H42C94F&\4c&H823F12&\alpha&HFF&\blur1\t(0,150,\alpha&H00&)}Let's keep touching today, baby!
 Dialogue: 0,0:01:30.69,0:01:31.69,OP,,0,0,0,,{\c&HF9A746&\4c&H92D105&\blur1\t(810,1010,\alpha&HFF&)}Let's keep touching today, baby!
 Dialogue: 0,0:01:31.69,0:01:34.90,OP,,0,0,0,,{\c&H30284C&\4c&H1B14B1&\blur1\fad(200,200)}So won't you softly touch me, baby?
-Dialogue: 0,0:01:35.36,0:01:35.82,OP,,0,0,0,,{\c&HCAC92C&\4c&HF85AAB&\alpha&HFF&\blur1\t(0,150,\alpha&H00&)}I want to be with you for as long as I can!
-Dialogue: 0,0:01:35.82,0:01:36.28,OP,,0,0,0,,{\c&H666AE9&\4c&H5DDC3C&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:36.28,0:01:36.74,OP,,0,0,0,,{\c&H42C94F&\4c&H824211&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:36.74,0:01:37.20,OP,,0,0,0,,{\c&HCBE72A&\4c&HAC60F9&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:37.20,0:01:37.66,OP,,0,0,0,,{\c&HEEBB59&\4c&HF56DA5&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:37.66,0:01:38.07,OP,,0,0,0,,{\c&HB08AF6&\4c&H5DDC36&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:38.07,0:01:38.41,OP,,0,0,0,,{\c&H43CA50&\4c&H824012&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:38.41,0:01:38.74,OP,,0,0,0,,{\c&H30284C&\4c&H1B14B1&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:38.74,0:01:39.07,OP,,0,0,0,,{\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:39.07,0:01:39.41,OP,,0,0,0,,{\c&HFA77B0&\4c&H8B7BED&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:39.41,0:01:39.74,OP,,0,0,0,,{\c&H4D90FC&\4c&HEEBB59&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:39.74,0:01:40.07,OP,,0,0,0,,{\c&H17D6B0&\4c&HAC60F9&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:40.07,0:01:40.41,OP,,0,0,0,,{\c&HE5A6FA&\4c&H5FDC38&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:40.41,0:01:40.74,OP,,0,0,0,,{\c&HF6AF68&\4c&HF568AB&\blur1}I want to be with you for as long as I can!
-Dialogue: 0,0:01:40.74,0:01:41.20,OP,,0,0,0,,{\c&HC9EA21&\blur1\t(250,450,\alpha&HFF&)}I want to be with you for as long as I can!
+Dialogue: 0,0:01:35.36,0:01:35.82,OP,,0,0,0,,{\c&HCAC92C&\4c&HF85AAB&\alpha&HFF&\blur1\t(0,150,\alpha&H00&)}I just can't wait to be with you!
+Dialogue: 0,0:01:35.82,0:01:36.28,OP,,0,0,0,,{\c&H666AE9&\4c&H5DDC3C&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:36.28,0:01:36.74,OP,,0,0,0,,{\c&H42C94F&\4c&H824211&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:36.74,0:01:37.20,OP,,0,0,0,,{\c&HCBE72A&\4c&HAC60F9&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:37.20,0:01:37.66,OP,,0,0,0,,{\c&HEEBB59&\4c&HF56DA5&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:37.66,0:01:38.07,OP,,0,0,0,,{\c&HB08AF6&\4c&H5DDC36&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:38.07,0:01:38.41,OP,,0,0,0,,{\c&H43CA50&\4c&H824012&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:38.41,0:01:38.74,OP,,0,0,0,,{\c&H30284C&\4c&H1B14B1&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:38.74,0:01:39.07,OP,,0,0,0,,{\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:39.07,0:01:39.41,OP,,0,0,0,,{\c&HFA77B0&\4c&H8B7BED&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:39.41,0:01:39.74,OP,,0,0,0,,{\c&H4D90FC&\4c&HEEBB59&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:39.74,0:01:40.07,OP,,0,0,0,,{\c&H17D6B0&\4c&HAC60F9&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:40.07,0:01:40.41,OP,,0,0,0,,{\c&HE5A6FA&\4c&H5FDC38&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:40.41,0:01:40.74,OP,,0,0,0,,{\c&HF6AF68&\4c&HF568AB&\blur1}I just can't wait to be with you!
+Dialogue: 0,0:01:40.74,0:01:41.20,OP,,0,0,0,,{\c&HC9EA21&\blur1\t(250,450,\alpha&HFF&)}I just can't wait to be with you!
 Dialogue: 0,0:01:41.20,0:01:41.91,OP,,0,0,0,,{\alpha&HFF&\blur1\t(0,200,\alpha&H00&)}I lovehate you, lovehate you, baby, yeah!
 Dialogue: 0,0:01:41.91,0:01:42.70,OP,,0,0,0,,{\c&HCD99FD&\4c&HF070AE&\blur1}I {\4c&HED6FB2&}l{\4c&HEB6FB4&}o{\4c&HE96EB6&}v{\4c&HE86EB8&}e{\4c&HE66DBA&}h{\4c&HE46DBC&}a{\4c&HE36DBE&}t{\4c&HE16CC0&}e {\4c&HDE6BC3&}y{\4c&HDC6BC5&}o{\4c&HDA6AC7&}u{\4c&HD96AC9&}, {\4c&HD569CD&}l{\4c&HD469CF&}o{\4c&HD268D1&}v{\4c&HD068D3&}e{\4c&HCE68D5&}h{\4c&HCD67D7&}a{\4c&HCB67D9&}t{\4c&HC966DB&}e {\4c&HC665DF&}y{\4c&HC465E1&}o{\4c&HC365E3&}u{\4c&HC164E5&}, {\4c&HBE63E8&}b{\4c&HBC63EA&}a{\4c&HBA62EC&}b{\4c&HB962EE&}y{\4c&HB762F0&}, {\4c&HB461F4&}y{\4c&HB260F6&}e{\4c&HB060F8&}a{\4c&HAF5FFA&}h{\4c&HAD5FFC&}!
 Dialogue: 0,0:01:42.70,0:01:43.37,OP,,0,0,0,,{\c&H46E796&\4c&H29E1F8&\blur1}I lovehate you, lovehate you, baby, yeah!
