@@ -10,15 +10,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 10 [premux].mkv
-Video File: [GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 10 [premux].mkv
-Keyframes File: [GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 10 [premux]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Sakurako-san/10/[GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 10 [premuxv2].mkv
+Video File: D:/Fansubbing/GoodJob/Sakurako-san/10/[GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 10 [premuxv2].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 390
-Active Line: 401
-Video Position: 16816
+Video Zoom Percent: 0.750000
+Scroll Position: 552
+Active Line: 566
+Video Position: 31549
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -604,7 +603,7 @@ Dialogue: 1,0:11:35.75,0:11:35.79,FyuSigns,,0,0,0,,{\an7\pos(496.01,149.12)\fnCo
 Dialogue: 1,0:11:35.79,0:11:35.84,FyuSigns,,0,0,0,,{\an7\pos(496.05,65.8)\fnCorporate Rounded\fs70\c&H464646&\blur1.2}I heard Hitoe modeled\Nfor a painting.
 Dialogue: 1,0:11:35.84,0:11:35.88,FyuSigns,,0,0,0,,{\an7\pos(496.11,-42.53)\fnCorporate Rounded\fs70\c&H464646&\blur1.2}I heard Hitoe modeled\Nfor a painting.
 Dialogue: 0,0:21:55.83,0:21:58.33,Signs,,0,0,0,,{\move(455.57,143.37,-319.34,143.37,26,2487)\fnKozuka Mincho Pr6N Toaru B\fs55\b1\c&H192E37&\blur1}F{\c&H192E38&}u{\c&H1A2F38&}t{\c&H1A2F39&}he{\c&H1A2F3A&}r{\c&H1B303A&}m{\c&H1B303B&}or{\c&H1C313C&}e, {\c&H1C323E&}i{\c&H1D323E&}n {\c&H1D323F&}a{\c&H1E3340&}dd{\c&H1E3341&}i{\c&H1F3441&}t{\c&H1F3442&}io{\c&H1F3443&}n {\c&H203544&}t{\c&H203543&}o {\c&H213440&}t{\c&H21333F&}h{\c&H21333E&}e{\c&H22323C&}s{\c&H22323B&}e {\c&H223139&}f{\c&H233037&}a{\c&H233036&}c{\c&H232F35&}t{\c&H232F34&}s{\c&H242E32&},
-Dialogue: 0,0:21:55.83,0:21:58.33,Signs,,0,0,0,,{\move(614.6,301.37,-171.74,301.37,26,2487)\fnKozuka Mincho Pr6N Toaru B\fs55\c&H1B2D33&\blur1}the {\c&H1C2D34&}phen{\c&H1C2E34&}oi{\c&H1D2E34&}d {\c&H1D2E35&}bone {\c&H1E2E35&}of {\c&H1E2E36&}th{\c&H1F2E36&}e {\c&H1F2F36&}vict{\c&H202F37&}im p{\c&H202F36&}r{\c&H202E36&}o{\c&H1F2E35&}t{\c&H1F2D34&}ru{\c&H1F2C33&}d{\c&H1F2C32&}e{\c&H1E2C32&}s {\c&H1E2B30&}u{\c&H1E2A30&}n{\c&H1E2A2F&}n{\c&H1E292E&}a{\c&H1D292E&}t{\c&H1D292D&}u{\c&H1D282C&}ra{\c&H1D272B&}l{\c&H1C272A&}l{\c&H1C262A&}y
+Dialogue: 0,0:21:55.83,0:21:58.33,Signs,,0,0,0,,{\move(678.6,301.37,-107.74,301.37,26,2487)\fnKozuka Mincho Pr6N Toaru B\fs55\c&H1B2D33&\blur1\q2}the {\c&H1B2D32&}p{\c&H1B2C32&}henoi{\c&H1B2C31&}d b{\c&H1B2B31&}one {\c&H1B2B30&}of t{\c&H1B2A30&}he {\c&H1B2A2F&}victi{\c&H1C292E&}m has {\c&H1C292D&}be{\c&H1C282D&}en su{\c&H1C282C&}rgi{\c&H1C272C&}cal{\c&H1C272B&}ly re{\c&H1C262B&}m{\c&H1C262A&}oved
 Dialogue: 0,0:21:55.83,0:21:58.33,Signs,,0,0,0,,{\move(589.09,455.8,-199.54,455.8,26,2487)\fnKozuka Mincho Pr6N Toaru B\fs55\c&H0C2329&\blur1}fr{\c&H0D232A&}om {\c&H0E232B&}t{\c&H0E242B&}h{\c&H0F242B&}e {\c&H0F242C&}s{\c&H10242C&}k{\c&H10242D&}ul{\c&H11242D&}l{\c&H11242E&}, {\c&H12242E&}f{\c&H12242F&}o{\c&H13242F&}r{\c&H13252F&}m{\c&H142530&}ing {\c&H152531&}a {\c&H15242F&}p{\c&H14232E&}o{\c&H14222D&}t{\c&H14212B&}e{\c&H14212A&}n{\c&H142029&}t{\c&H131F28&}i{\c&H131F27&}a{\c&H131E26&}l {\c&H121C24&}l{\c&H121C23&}i{\c&H121B22&}n{\c&H121A20&}k {\c&H11191E&}t{\c&H11181D&}o {\c&H11171B&}F{\c&H10161A&}i{\c&H101519&}l{\c&H101518&}e {\c&H101315&}0{\c&H0F1214&}3{\c&H0F1213&}9.
 Comment: 0,0:21:55.83,0:21:58.33,Signs,,0,0,0,,File 039 is a case which I encountered in the past, showing similar
 Dialogue: 0,0:01:30.27,0:01:32.69,PikminimanSigns,,0,0,0,,{\pos(640,331)\fnAlegreya\fs45\c&HEFEFEF&\blur0.6\fad(441,0)}- A Story Dedicated to Those Trapped by the Past -
