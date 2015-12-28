@@ -10,13 +10,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: ../../../../Encoding/sakurako/11/[GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 11 [premux].mkv
-Video File: ../../../../Encoding/sakurako/11/[GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 11 [premux].mkv
-Keyframes File: ../../../../Encoding/sakurako/11/[GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 11 [premux]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Sakurako-san/11/[GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 11 [premux].mkv
+Video File: D:/Fansubbing/GoodJob/Sakurako-san/11/[GJM-FFF] Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru - 11 [premux].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Video Position: 42
+Video Zoom Percent: 0.500000
+Scroll Position: 345
+Active Line: 352
+Video Position: 31778
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -382,7 +383,7 @@ Dialogue: 10,0:21:50.25,0:21:51.91,GJM_Main,,0,0,0,,Without raising a finger him
 Dialogue: 10,0:21:51.91,0:21:54.82,GJM_Main,,0,0,0,,he uses words to make victims do his bidding,
 Dialogue: 10,0:21:54.82,0:21:57.40,GJM_Main,,0,0,0,,then takes their sphenoids as trophies.
 Dialogue: 10,0:21:58.57,0:22:02.80,GJM_Main,,0,0,0,,No, perhaps he chooses victims for their sphenoid bones.
-Dialogue: 10,0:22:05.37,0:22:09.82,GJM_Main,,0,0,0,,I believe you said this about the\N very first case we solved together:
+Dialogue: 10,0:22:05.37,0:22:09.82,GJM_Main,,0,0,0,,I believe I said this to you on\Nthe very first case we solved together:
 Dialogue: 10,0:22:10.51,0:22:14.56,GJM_Main,,0,0,0,,"And if you gaze long into an abyss,\N the abyss also gazes into you."{I can't find this in ep1 or 2; it's a quote from Nietschze}
 Dialogue: 10,0:22:16.43,0:22:18.37,GJM_Main,,0,0,0,,You're exactly right.
 Dialogue: 10,0:22:18.37,0:22:22.70,GJM_Main,,0,0,0,,Hanabusa is probably already aware of both our existences.
