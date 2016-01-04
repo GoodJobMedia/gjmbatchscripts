@@ -17,12 +17,13 @@ Original Timing: Etoce
 Last Style Storage: Charlotte
 Audio File: D:/Fansubbing/GoodJob/Charlotte/09/charlotte 09 premux[DDEB6451].mkv
 Video File: D:/Fansubbing/GoodJob/Charlotte/09/charlotte 09 premux[DDEB6451].mkv
+Keyframes File: D:/Fansubbing/GoodJob/Charlotte/09/charlotte 09 premux[DDEB6451]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 3
-Active Line: 15
-Video Position: 3895
+Video Zoom Percent: 0.625000
+Scroll Position: 402
+Active Line: 420
+Video Position: 7580
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -412,36 +413,66 @@ Dialogue: 10,0:22:16.58,0:22:20.90,GJM_Main,,0,0,0,,Now then, are you ready\Nfor
 Dialogue: 10,0:22:21.87,0:22:23.23,GJM_Main,,0,0,0,,On the edge of my seat.
 Dialogue: 10,0:22:24.24,0:22:27.64,GJM_Main,,0,0,0,,{\i1}What am I about to hear?
 Comment: 0,0:22:27.64,0:22:29.64,GJM_Main,,0,0,0,,IN01
-Dialogue: 1,0:05:44.03,0:05:47.53,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Come now heading to the oblivion
-Dialogue: 1,0:05:47.53,0:05:49.37,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}To the darkness sink me
-Dialogue: 1,0:05:49.37,0:05:52.54,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Future is lonely as it seems to be
-Dialogue: 1,0:05:52.54,0:05:54.50,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}And I am reaching from there
-Dialogue: 1,0:06:04.88,0:06:12.10,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}My mind is clear now I feel like I can do anything
-Dialogue: 1,0:06:12.10,0:06:14.69,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}When I want to do it, yeah
-Dialogue: 1,0:06:14.69,0:06:18.69,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}I feel I'm notorious
-Dialogue: 1,0:06:18.69,0:06:21.81,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Do you know what you can handle?
-Dialogue: 1,0:06:21.81,0:06:24.28,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Do you know me?
-Dialogue: 1,0:06:24.28,0:06:26.07,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Spinning round and round
-Dialogue: 1,0:06:26.07,0:06:28.11,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Going back and forth
-Dialogue: 1,0:06:28.11,0:06:32.07,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Will be here as an angel that's fallen deep
-Dialogue: 1,0:06:32.07,0:06:35.29,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}See there's the dark side waiting for me
-Dialogue: 1,0:06:35.29,0:06:37.00,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Never end forever
-Dialogue: 1,0:06:37.00,0:06:41.21,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Out on the rim no need to breathe ever I'm{\fscx300}-
-Dialogue: 0,0:05:44.03,0:05:47.53,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}Come now heading to the oblivion
-Dialogue: 0,0:05:47.53,0:05:49.37,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}To the darkness sink me
-Dialogue: 0,0:05:49.37,0:05:52.54,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}Future is lonely as it seems to be
-Dialogue: 0,0:05:52.54,0:05:54.50,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}And I am reaching from there
-Dialogue: 0,0:06:04.88,0:06:12.10,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}My mind is clear now I feel like I can do anything
-Dialogue: 0,0:06:12.10,0:06:14.69,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}When I want to do it, yeah
-Dialogue: 0,0:06:14.69,0:06:18.69,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}I feel I'm notorious
-Dialogue: 0,0:06:18.69,0:06:21.81,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}Do you know what you can handle?
-Dialogue: 0,0:06:21.81,0:06:24.28,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}Do you know me?
-Dialogue: 0,0:06:24.28,0:06:26.07,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}Spinning round and round
-Dialogue: 0,0:06:26.07,0:06:28.11,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}Going back and forth
-Dialogue: 0,0:06:28.11,0:06:32.07,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}Will be here as an angel that's fallen deep
-Dialogue: 0,0:06:32.07,0:06:35.29,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}See there's the dark side waiting for me
-Dialogue: 0,0:06:35.29,0:06:37.00,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}Never end forever
-Dialogue: 0,0:06:37.00,0:06:41.21,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\blur3\bord3.5}Out on the rim no need to breathe ever I'm{\fscx300}-
+Dialogue: 1,0:05:44.03,0:05:47.53,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Come now heading to the oblivion
+Dialogue: 1,0:05:47.53,0:05:49.37,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}To the darkness sink me
+Dialogue: 1,0:05:49.37,0:05:52.54,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Future is lonely as it seems to be
+Dialogue: 1,0:05:52.54,0:05:54.50,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}And I am reaching from there
+Dialogue: 1,0:06:04.88,0:06:12.10,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}My mind is clear now I feel like I can do anything
+Dialogue: 1,0:06:12.10,0:06:14.69,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}When I want to do it, yeah
+Dialogue: 1,0:06:14.69,0:06:18.69,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}I feel I'm notorious
+Dialogue: 1,0:06:18.69,0:06:21.81,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Do you know what you can handle?
+Dialogue: 1,0:06:21.81,0:06:24.28,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Do you know me?
+Dialogue: 1,0:06:24.28,0:06:26.07,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Spinning round and round
+Dialogue: 1,0:06:26.07,0:06:28.11,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Going back and forth
+Dialogue: 1,0:06:28.11,0:06:32.07,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Will be here as an angel that's fallen deep
+Dialogue: 1,0:06:32.07,0:06:35.29,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}See there's the dark side waiting for me
+Dialogue: 1,0:06:35.29,0:06:37.00,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Never end forever
+Dialogue: 1,0:06:37.00,0:06:41.21,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Out on the rim no need to breathe even I'm{\fscx300}-
+Dialogue: 0,0:05:44.03,0:05:47.53,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Come now heading to the oblivion
+Dialogue: 0,0:05:47.53,0:05:49.37,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}To the darkness sink me
+Dialogue: 0,0:05:49.37,0:05:52.54,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Future is lonely as it seems to be
+Dialogue: 0,0:05:52.54,0:05:54.50,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}And I am reaching from there
+Dialogue: 0,0:06:04.88,0:06:12.10,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}My mind is clear now I feel like I can do anything
+Dialogue: 0,0:06:12.10,0:06:14.69,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}When I want to do it, yeah
+Dialogue: 0,0:06:14.69,0:06:18.69,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}I feel I'm notorious
+Dialogue: 0,0:06:18.69,0:06:21.81,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Do you know what you can handle?
+Dialogue: 0,0:06:21.81,0:06:24.28,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Do you know me?
+Dialogue: 0,0:06:24.28,0:06:26.07,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Spinning round and round
+Dialogue: 0,0:06:26.07,0:06:28.11,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Going back and forth
+Dialogue: 0,0:06:28.11,0:06:32.07,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Will be here as an angel that's fallen deep
+Dialogue: 0,0:06:32.07,0:06:35.29,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}See there's the dark side waiting for me
+Dialogue: 0,0:06:35.29,0:06:37.00,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Never end forever
+Dialogue: 0,0:06:37.00,0:06:41.21,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Out on the rim no need to breathe even I'm{\fscx300}-
+Comment: 0,0:06:41.21,0:06:43.21,Charlotte-IN02-Eng,,0,0,0,,IN02
+Dialogue: 1,0:06:43.21,0:06:44.55,Charlotte-IN02-Eng,,0,0,0,,{\fscx300\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}-{\fscx100}think of my sins
+Dialogue: 1,0:06:44.55,0:06:49.22,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Forgiveness came to this fake world where I was dreaming
+Dialogue: 0,0:06:43.21,0:06:44.55,Charlotte-IN02-Eng,,0,0,0,,{\fscx300\bord3.5\blur3\fad(150,150)}-{\fscx100}think of my sins
+Dialogue: 0,0:06:44.55,0:06:49.22,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Forgiveness came to this fake world where I was dreaming
+Comment: 0,0:04:36.54,0:04:38.54,Charlotte-IN02-Eng,,0,0,0,,IN03
+Dialogue: 1,0:04:34.83,0:04:46.59,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Lying before me, scene painted in green
+Dialogue: 1,0:04:47.14,0:04:58.19,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}I was never found when I played hide and seek
+Dialogue: 0,0:04:34.83,0:04:46.59,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Lying before me, scene painted in green
+Dialogue: 0,0:04:47.14,0:04:58.19,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}I was never found when I played hide and seek
+Comment: 0,0:04:58.19,0:05:00.19,Charlotte-IN02-Eng,,0,0,0,,IN04
+Dialogue: 1,0:04:58.19,0:05:04.61,Charlotte-IN02-Eng,,0,0,0,,{\fscx300\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}-{\fscx100}remains a little scar on your face still facing down
+Dialogue: 1,0:05:04.61,0:05:08.37,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}To the ground you hold yourself
+Dialogue: 1,0:05:08.37,0:05:12.70,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}and crouch like you've been wounded
+Dialogue: 0,0:04:58.19,0:05:04.61,Charlotte-IN02-Eng,,0,0,0,,{\fscx300\bord3.5\blur3\fad(150,150)}-{\fscx100}remains a little scar on your face still facing down
+Dialogue: 0,0:05:04.61,0:05:08.37,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}To the ground you hold yourself
+Dialogue: 0,0:05:08.37,0:05:12.79,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}and crouch like you've been wounded
+Comment: 0,0:05:15.00,0:05:17.00,Charlotte-IN02-Eng,,0,0,0,,IN05
+Dialogue: 1,0:05:12.79,0:05:14.50,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}I adored
+Dialogue: 1,0:05:14.50,0:05:17.50,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}the days when we just fought for things
+Dialogue: 1,0:05:17.50,0:05:19.17,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}with no means
+Dialogue: 1,0:05:19.17,0:05:21.50,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}Oh, I adored
+Dialogue: 1,0:05:21.50,0:05:24.34,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}when you were always just there for me
+Dialogue: 1,0:05:24.34,0:05:26.84,Charlotte-IN02-Eng,,0,0,0,,{\bord0.1\3c&HFFFFFF&\be2\fad(150,150)}by my side
+Dialogue: 0,0:05:12.79,0:05:14.50,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}I adored
+Dialogue: 0,0:05:14.50,0:05:17.50,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}the days when we just fought for things
+Dialogue: 0,0:05:17.50,0:05:19.17,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}with no means
+Dialogue: 0,0:05:19.17,0:05:21.50,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}Oh, I adored
+Dialogue: 0,0:05:21.50,0:05:24.34,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}when you were always just there for me
+Dialogue: 0,0:05:24.34,0:05:26.84,Charlotte-IN02-Eng,,0,0,0,,{\bord3.5\blur3\fad(150,150)}by my side
 Comment: 0,0:22:33.64,0:22:35.64,GJM_Main,,0,0,0,,OP
 Dialogue: 2,0:00:29.90,0:00:29.92,CharlotteOPRomaji,,0,0,0,fx,{\an5\pos(485,41)\bord3\1c&H6F4966&\3c&H6F4966&\alpha&HC8&\blur3\clip( m 455 11 l 455 31 504 60 504 11)}ku
 Dialogue: 4,0:00:29.90,0:00:29.92,CharlotteOPRomaji,,0,0,0,fx,{\an5\pos(485,41)\bord0\1c&HB4B2C9&\3c&H6F4966&\alpha&HC8&\blur0.8\clip( m 455 11 l 455 31 504 60 504 11)}ku
