@@ -15,15 +15,14 @@ Original Timing: Etoce
 
 [Aegisub Project Garbage]
 Last Style Storage: Charlotte
-Audio File: charlotte 08 premux[FD94E129].mkv
-Video File: charlotte 08 premux[FD94E129].mkv
-Keyframes File: charlotte 08 premux[FD94E129]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Charlotte/08/charlotte 08 premux[FD94E129].mkv
+Video File: D:/Fansubbing/GoodJob/Charlotte/08/charlotte 08 premux[FD94E129].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 19702
-Active Line: 19740
-Video Position: 33005
+Scroll Position: 435
+Active Line: 441
+Video Position: 31312
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -470,24 +469,16 @@ Dialogue: 1,0:06:20.61,0:06:23.61,Charlotte-IN01-Rom,,0,0,0,,{\fad(150,150)\be2}
 Dialogue: 1,0:06:23.61,0:06:26.61,Charlotte-IN01-Rom,,0,0,0,,{\fad(150,150)\be2}I can do it! Once me there you!
 Dialogue: 1,0:06:26.61,0:06:29.61,Charlotte-IN01-Rom,,0,0,0,,{\fad(150,150)\be2}nani mo wakaranai
 Dialogue: 1,0:06:29.61,0:06:33.28,Charlotte-IN01-Rom,,0,0,0,,{\fad(150,150)\be2}I can't do it! Not the side there you!
-Comment: 0,0:05:04.95,0:05:07.66,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can do it! Once me there you!
-Comment: 0,0:05:10.79,0:05:13.58,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can't do it! Not the side there you!
 Dialogue: 0,0:05:13.70,0:05:16.75,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I was never the strongest
-Comment: 0,0:05:16.83,0:05:19.71,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can do it! Once me there you!
 Dialogue: 0,0:05:19.71,0:05:22.88,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I was always the fussy type
-Comment: 0,0:05:22.88,0:05:25.84,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can't do it! Not the side there you!
 Dialogue: 0,0:05:25.84,0:05:31.85,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}When I wander my way home, I find myself alone
 Dialogue: 0,0:05:31.85,0:05:41.11,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}on this horrible feverish Friday
 Dialogue: 0,0:05:41.11,0:05:47.74,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I used to think I could just will myself stronger
 Dialogue: 0,0:05:47.74,0:05:53.24,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}but those days feel like an eternity ago
 Dialogue: 0,0:05:53.24,0:06:00.00,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}Where are you right now?
 Dialogue: 0,0:06:00.00,0:06:11.60,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I could scream my throat dry before reaching you
-Comment: 0,0:06:11.60,0:06:14.79,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can do it! Once me there you!
-Comment: 0,0:06:17.69,0:06:20.61,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can't do it! Not the side there you!
 Dialogue: 0,0:06:20.61,0:06:23.61,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}Where am I headed?
-Comment: 0,0:06:23.61,0:06:26.61,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can do it! Once me there you!
 Dialogue: 0,0:06:26.61,0:06:29.61,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I have no idea
-Comment: 0,0:06:29.61,0:06:33.28,Charlotte-IN01-Eng,,0,0,0,,{\fad(150,150)\be2}I can't do it! Not the side there you!
 Comment: 0,0:24:01.26,0:24:03.26,GJM_Main,,0,0,0,,IN02
 Dialogue: 1,0:20:42.76,0:20:46.30,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Looking up high
 Dialogue: 1,0:20:47.60,0:20:51.69,Charlotte-IN02-Eng,,0,0,0,,{\fad(150,150)\be2\bord0.1\3c&HFFFFFF&}Found a steel tower
