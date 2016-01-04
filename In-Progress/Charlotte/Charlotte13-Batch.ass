@@ -15,15 +15,14 @@ Original Timing: Etoce
 
 [Aegisub Project Garbage]
 Last Style Storage: Charlotte
-Audio File: charlotte 13 premux[F1FFEDD0].mkv
-Video File: charlotte 13 premux[F1FFEDD0].mkv
-Keyframes File: charlotte 13 premux[F1FFEDD0]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Charlotte/13/charlotte 13 premux[F1FFEDD0].mkv
+Video File: D:/Fansubbing/GoodJob/Charlotte/13/charlotte 13 premux[F1FFEDD0].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 272
-Active Line: 280
-Video Position: 33832
+Video Zoom Percent: 0.750000
+Scroll Position: 21554
+Active Line: 21571
+Video Position: 32382
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -21544,84 +21543,84 @@ Dialogue: 2,0:20:02.96,0:20:08.95,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,2
 Dialogue: 2,0:20:08.95,0:20:11.95,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}Or maybe we can't
 Dialogue: 2,0:20:11.95,0:20:17.99,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}But as long as I spend the days with you
 Dialogue: 2,0:20:17.99,0:20:24.83,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}that might be enough for me
-Dialogue: 2,0:20:30.13,0:20:35.34,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}We always seemed
-Dialogue: 2,0:20:35.34,0:20:44.75,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}to be drawn forward by a tiny string
+Dialogue: 2,0:20:30.13,0:20:35.34,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}We were always
+Dialogue: 2,0:20:35.34,0:20:44.75,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}a little bit of an odd pair
 Dialogue: 2,0:20:45.29,0:20:49.87,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}Maybe we still are
 Dialogue: 2,0:20:53.19,0:21:03.39,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}"Let's go shut those bad guys up"
 Dialogue: 2,0:21:03.94,0:21:12.79,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}There was a lot of that, wasn't there?
-Dialogue: 2,0:21:13.61,0:21:19.72,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}We exchanged some harsh words
-Dialogue: 2,0:21:19.72,0:21:25.60,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}but they never really stuck
+Dialogue: 2,0:21:13.61,0:21:19.72,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}We exchanged some harsh words back then
+Dialogue: 2,0:21:19.72,0:21:25.60,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}but we can look back on them fondly now
 Dialogue: 2,0:21:27.68,0:21:33.49,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}I want to live in peace
 Dialogue: 2,0:21:33.49,0:21:39.46,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}Together, I think we can do it
 Dialogue: 2,0:21:39.46,0:21:42.53,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}Or maybe we can't
 Dialogue: 2,0:21:42.53,0:21:48.46,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}I'm just going to keep praying
 Dialogue: 2,0:21:48.46,0:21:55.87,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}that my love confession will bear fruit
 Dialogue: 2,0:21:57.68,0:22:03.70,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}A peaceful wind blows
-Dialogue: 2,0:22:03.70,0:22:09.56,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}Maybe it'll lead me home
-Dialogue: 2,0:22:09.56,0:22:12.68,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}That's what I think
+Dialogue: 2,0:22:03.70,0:22:09.56,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}If only I could go back to that spring
+Dialogue: 2,0:22:09.56,0:22:12.68,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}I think so, at least
 Dialogue: 2,0:22:12.68,0:22:18.50,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}Was someone waiting for me?
 Dialogue: 2,0:22:18.50,0:22:21.65,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}Maybe they're still waiting
-Dialogue: 2,0:22:21.65,0:22:24.61,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}I'm forgetting
-Dialogue: 2,0:22:24.61,0:22:27.72,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}We're so far apart
+Dialogue: 2,0:22:21.65,0:22:24.61,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}I keep forgetting
+Dialogue: 2,0:22:24.61,0:22:27.72,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}It makes me cry
 Dialogue: 2,0:22:27.72,0:22:30.57,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}I keep apologizing
-Dialogue: 2,0:22:30.57,0:22:36.65,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}But I want to remember you
-Dialogue: 2,0:22:36.65,0:22:42.79,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}And if there's one thing I still know—
+Dialogue: 2,0:22:30.57,0:22:36.65,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}Yet I still can't remember you
+Dialogue: 2,0:22:36.65,0:22:42.79,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}But if there's one thing I still know—
 Dialogue: 2,0:22:42.79,0:22:49.18,CharlotteED3,,0,0,0,,{\bord0\blur0.5\fad(200,200)}It's that this is your handwriting
 Dialogue: 1,0:19:56.97,0:20:02.96,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}I want to live in peace
 Dialogue: 1,0:20:02.96,0:20:08.95,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}Together, I think we can do it
 Dialogue: 1,0:20:08.95,0:20:11.95,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}Or maybe we can't
 Dialogue: 1,0:20:11.95,0:20:17.99,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}But as long as I spend the days with you
 Dialogue: 1,0:20:17.99,0:20:24.83,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}that might be enough for me
-Dialogue: 1,0:20:30.13,0:20:35.34,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}We always seemed
-Dialogue: 1,0:20:35.34,0:20:44.75,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}to be drawn forward by a tiny string
+Dialogue: 1,0:20:30.13,0:20:35.34,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}We were always
+Dialogue: 1,0:20:35.34,0:20:44.75,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}a little bit of an odd pair
 Dialogue: 1,0:20:45.29,0:20:49.87,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}Maybe we still are
 Dialogue: 1,0:20:53.19,0:21:03.39,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}"Let's go shut those bad guys up"
 Dialogue: 1,0:21:03.94,0:21:12.79,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}There was a lot of that, wasn't there?
-Dialogue: 1,0:21:13.61,0:21:19.72,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}We exchanged some harsh words
-Dialogue: 1,0:21:19.72,0:21:25.60,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}but they never really stuck
+Dialogue: 1,0:21:13.61,0:21:19.72,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}We exchanged some harsh words back then
+Dialogue: 1,0:21:19.72,0:21:25.60,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}but we can look back on them fondly now
 Dialogue: 1,0:21:27.68,0:21:33.49,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}I want to live in peace
 Dialogue: 1,0:21:33.49,0:21:39.46,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}Together, I think we can do it
 Dialogue: 1,0:21:39.46,0:21:42.53,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}Or maybe we can't
 Dialogue: 1,0:21:42.53,0:21:48.46,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}I'm just going to keep praying
 Dialogue: 1,0:21:48.46,0:21:55.87,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}that my love confession will bear fruit
 Dialogue: 1,0:21:57.68,0:22:03.70,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}A peaceful wind blows
-Dialogue: 1,0:22:03.70,0:22:09.56,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}Maybe it'll lead me home
-Dialogue: 1,0:22:09.56,0:22:12.68,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}That's what I think
+Dialogue: 1,0:22:03.70,0:22:09.56,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}If only I could go back to that spring
+Dialogue: 1,0:22:09.56,0:22:12.68,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}I think so, at least
 Dialogue: 1,0:22:12.68,0:22:18.50,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}Was someone waiting for me?
 Dialogue: 1,0:22:18.50,0:22:21.65,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}Maybe they're still waiting
-Dialogue: 1,0:22:21.65,0:22:24.61,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}I'm forgetting
-Dialogue: 1,0:22:24.61,0:22:27.72,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}We're so far apart
+Dialogue: 1,0:22:21.65,0:22:24.61,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}I keep forgetting
+Dialogue: 1,0:22:24.61,0:22:27.72,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}It makes me cry
 Dialogue: 1,0:22:27.72,0:22:30.57,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}I keep apologizing
-Dialogue: 1,0:22:30.57,0:22:36.65,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}But I want to remember you
-Dialogue: 1,0:22:36.65,0:22:42.79,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}And if there's one thing I still know—
+Dialogue: 1,0:22:30.57,0:22:36.65,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}Yet I still can't remember you
+Dialogue: 1,0:22:36.65,0:22:42.79,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}But if there's one thing I still know—
 Dialogue: 1,0:22:42.79,0:22:49.18,CharlotteED3,,0,0,0,,{\c&H793E26&\be3\fad(200,200)}It's that this is your handwriting
 Dialogue: 0,0:19:56.97,0:20:02.96,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}I want to live in peace
 Dialogue: 0,0:20:02.96,0:20:08.95,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}Together, I think we can do it
 Dialogue: 0,0:20:08.95,0:20:11.95,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}Or maybe we can't
 Dialogue: 0,0:20:11.95,0:20:17.99,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}But as long as I spend the days with you
 Dialogue: 0,0:20:17.99,0:20:24.83,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}that might be enough for me
-Dialogue: 0,0:20:30.13,0:20:35.34,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}We always seemed
-Dialogue: 0,0:20:35.34,0:20:44.75,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}to be drawn forward by a tiny string
+Dialogue: 0,0:20:30.13,0:20:35.34,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}We were always
+Dialogue: 0,0:20:35.34,0:20:44.75,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}a little bit of an odd pair
 Dialogue: 0,0:20:45.29,0:20:49.87,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}Maybe we still are
 Dialogue: 0,0:20:53.19,0:21:03.39,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}"Let's go shut those bad guys up"
 Dialogue: 0,0:21:03.94,0:21:12.79,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}There was a lot of that, wasn't there?
-Dialogue: 0,0:21:13.61,0:21:19.72,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}We exchanged some harsh words
-Dialogue: 0,0:21:19.72,0:21:25.60,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}but they never really stuck
+Dialogue: 0,0:21:13.61,0:21:19.72,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}We exchanged some harsh words back then
+Dialogue: 0,0:21:19.72,0:21:25.60,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}but we can look back on them fondly now
 Dialogue: 0,0:21:27.68,0:21:33.49,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}I want to live in peace
 Dialogue: 0,0:21:33.49,0:21:39.46,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}Together, I think we can do it
 Dialogue: 0,0:21:39.46,0:21:42.53,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}Or maybe we can't
 Dialogue: 0,0:21:42.53,0:21:48.46,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}I'm just going to keep praying
 Dialogue: 0,0:21:48.46,0:21:55.87,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}that my love confession will bear fruit
 Dialogue: 0,0:21:57.68,0:22:03.70,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}A peaceful wind blows
-Dialogue: 0,0:22:03.70,0:22:09.56,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}Maybe it'll lead me home
-Dialogue: 0,0:22:09.56,0:22:12.68,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}That's what I think
+Dialogue: 0,0:22:03.70,0:22:09.56,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}If only I could go back to that spring
+Dialogue: 0,0:22:09.56,0:22:12.68,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}I think so, at least
 Dialogue: 0,0:22:12.68,0:22:18.50,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}Was someone waiting for me?
 Dialogue: 0,0:22:18.50,0:22:21.65,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}Maybe they're still waiting
-Dialogue: 0,0:22:21.65,0:22:24.61,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}I'm forgetting
-Dialogue: 0,0:22:24.61,0:22:27.72,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}We're so far apart
+Dialogue: 0,0:22:21.65,0:22:24.61,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}I keep forgetting
+Dialogue: 0,0:22:24.61,0:22:27.72,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}It makes me cry
 Dialogue: 0,0:22:27.72,0:22:30.57,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}I keep apologizing
-Dialogue: 0,0:22:30.57,0:22:36.65,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}But I want to remember you
-Dialogue: 0,0:22:36.65,0:22:42.79,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}And if there's one thing I still know—
+Dialogue: 0,0:22:30.57,0:22:36.65,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}Yet I still can't remember you
+Dialogue: 0,0:22:36.65,0:22:42.79,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}But if there's one thing I still know—
 Dialogue: 0,0:22:42.79,0:22:49.18,CharlotteED3,,0,0,0,,{\bord4\3c&HFFFFFF&\be3\fad(200,200)}It's that this is your handwriting
 Comment: 0,0:23:47.52,0:23:49.52,GJM_Main,,0,0,0,,TS
 Dialogue: 0,0:01:45.04,0:01:48.00,Charlotte-ripoff small title,,0,0,0,,{\pos(312,159)\blur0.6\fad(0,518)}What I'll {\c&HC9BB0E&}Record \N{\c&HFFFFFF&}From Here On Out
