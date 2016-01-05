@@ -20,9 +20,9 @@ Video File: D:/Fansubbing/GoodJob/Charlotte/08/charlotte 08 premux[FD94E129].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 435
-Active Line: 441
-Video Position: 31312
+Scroll Position: 22590
+Active Line: 22607
+Video Position: 2591
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -22653,8 +22653,8 @@ Dialogue: 3,0:23:48.97,0:23:49.37,CharlotteEDEnglish-NoFX,,0,0,0,fx,{\move(1026,
 Dialogue: 1,0:23:40.01,0:23:48.81,CharlotteEDEnglish-NoFX,,0,0,0,fx,{\an5\pos(1018,95)\1c&H9B5910&\3c&H9B5910&\alpha&HFF&\blur0.5\t(860,1010,\alpha&H00&)\t(1010,1160,\1c&HF8B564&\3c&HF8B564&\blur2)\t(1160,1310,\1c&H9B5910&\3c&H9B5910&\blur0.5)\t(9060,9210,\alpha&HFF&)}d
 Dialogue: 2,0:23:40.01,0:23:48.81,CharlotteEDEnglish-NoFX,,0,0,0,fx,{\an5\pos(1018,95)\bord0\1c&HBDD976&\alpha&HFF&\blur0.5\t(860,1010,\alpha&H00&)\t(1010,1160,\1c&HFFDCA7&)\t(9060,9210,\alpha&HFF&)}d
 Comment: 0,0:24:07.26,0:24:09.26,GJM_Main,,0,0,0,,TS
-Dialogue: 0,0:01:48.04,0:01:50.54,FyuSigns,,0,0,0,,{\pos(289.868,473.172)\fax-0.01\fnKozuka Gothic Pro M - ENG\fs12\xshad1.2\yshad0.8\c&H596148&\3c&H596148&\4a&H7A&\blur0.6}Hoshi-no-umi Academy
-Dialogue: 1,0:01:48.04,0:01:50.54,FyuSigns,,0,0,0,,{\pos(289.868,473.172)\fax-0.01\fnKozuka Gothic Pro M - ENG\fs12\xshad1.2\yshad0.8\c&H596148&\4a&HFF&\blur0.4}Hoshi-no-umi Academy
+Dialogue: 0,0:01:48.04,0:01:50.54,FyuSigns,,0,0,0,,{\pos(289.868,473.172)\fax-0.01\fnKozuka Gothic Pro M - ENG\fs12\xshad1.2\yshad0.8\c&H596148&\3c&H596148&\4a&H7A&\blur0.6}Star Ocean Academy
+Dialogue: 1,0:01:48.04,0:01:50.54,FyuSigns,,0,0,0,,{\pos(289.868,473.172)\fax-0.01\fnKozuka Gothic Pro M - ENG\fs12\xshad1.2\yshad0.8\c&H596148&\4a&HFF&\blur0.4}Star Ocean Academy
 Dialogue: 0,0:01:48.04,0:01:52.05,Charlotte-ripoff small title,,0,0,0,,{\pos(95,68)\c&H020100&\blur0.4\fad(0,480)}Chance {\c&HD2C000&}Encounter
 Dialogue: 1,0:04:12.23,0:04:12.27,FyuSigns,,0,0,0,,{=1}{\an7\pos(817.86,295.47)\fscx100.06\fscy100.06\blur1\p1}m -57 14 l -11 -7 -4 5 -48 23
 Dialogue: 1,0:04:12.27,0:04:12.31,FyuSigns,,0,0,0,,{=1}{\an7\pos(817.97,295.83)\fscx100.01\fscy100.01\blur1\p1}m -57 14 l -11 -7 -4 5 -48 23
