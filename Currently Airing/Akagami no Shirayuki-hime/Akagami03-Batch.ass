@@ -11,14 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/03/akagami 03 premux[A81570AE].mkv
-Video File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/03/akagami 03 premux[A81570AE].mkv
+Audio File: akagami 03 premux[A81570AE].mkv
+Video File: akagami 03 premux[A81570AE].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 327
-Active Line: 333
-Video Position: 4466
+Scroll Position: 318
+Active Line: 331
+Video Position: 34428
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -37,63 +37,63 @@ Style: AkagamiEDEnglish,Garton,45,&H00D1D1D1,&H009A9A9A,&H00383838,&H00000000,-1
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:11.89,0:00:14.24,GJM_Main,,0,0,0,,I fell asleep at my desk again...
 Dialogue: 10,0:00:39.86,0:00:41.45,GJM_Main,,0,0,0,,What a nice day...
-Dialogue: 10,0:00:44.23,0:00:48.98,GJM_Main,,0,0,0,,{\i1}The light that pours down on\Nthis town and this country shines...
-Dialogue: 10,0:00:50.29,0:00:52.15,GJM_Main,,0,0,0,,{\i1}on the places that I've yet gone to,
-Dialogue: 10,0:00:53.10,0:00:55.41,GJM_Main,,0,0,0,,{\i1}on these feelings that I've never felt before.
+Dialogue: 10,0:00:44.23,0:00:48.98,GJM_Main,,0,0,0,,{\i1}The light that washes over\Nthis town and this country...
+Dialogue: 10,0:00:50.29,0:00:52.15,GJM_Main,,0,0,0,,{\i1}shines on the places that I've yet to go,
+Dialogue: 10,0:00:53.10,0:00:55.41,GJM_Main,,0,0,0,,{\i1}on the feelings that I've yet to feel.
 Comment: 10,0:00:58.95,0:02:28.92,GJM_Main,,0,0,0,,{OP}
 Dialogue: 10,0:02:37.11,0:02:38.28,GJM_Main,,0,0,0,,Here you go.
 Dialogue: 10,0:02:38.28,0:02:38.93,GJM_Main,,0,0,0,,You're good.
 Dialogue: 10,0:02:41.57,0:02:43.10,GJM_Main,,0,0,0,,Oh, Miss Shirayuki!
 Dialogue: 10,0:02:43.60,0:02:45.01,GJM_Main,,0,0,0,,Morning!
-Dialogue: 10,0:02:45.46,0:02:47.54,GJM_Main,,0,0,0,,Are you here today to see Prince Zen?
+Dialogue: 10,0:02:45.46,0:02:47.54,GJM_Main,,0,0,0,,Are you here to see Prince Zen?
 Dialogue: 10,0:02:47.54,0:02:51.11,GJM_Main,,0,0,75,,No, Mitsuhide and Kiki requested my presence.
-Dialogue: 10,0:02:51.11,0:02:53.83,GJM_Main,,0,0,75,,Um, I've always wanted to ask,
+Dialogue: 10,0:02:51.11,0:02:53.83,GJM_Main,,0,0,75,,Um, I wanted to ask,
 Dialogue: 10,0:02:53.83,0:02:56.32,GJM_Main,,0,0,75,,but what was that man wearing around his neck?
 Dialogue: 10,0:02:56.32,0:02:59.35,GJM_Main,,0,0,75,,Oh, that's an identity tag.
 Dialogue: 10,0:02:59.35,0:03:01.20,GJM_Main,,0,0,75,,An identity tag?
 Dialogue: 10,0:03:01.56,0:03:04.88,GJM_Main,,0,0,75,,Everyone working at the castle carries one with them.
 Dialogue: 10,0:03:04.88,0:03:07.86,GJM_Main,,0,0,75,,Entry into the palace is prohibited without it.
 Dialogue: 10,0:03:08.79,0:03:11.93,GJM_Main,,0,0,0,,You don't have to worry though, Miss Shirayuki.
-Dialogue: 10,0:03:11.93,0:03:14.07,GJM_Main,,0,0,0,,Prince Zen informed us about you.
+Dialogue: 10,0:03:11.93,0:03:14.07,GJM_Main,,0,0,0,,Prince Zen already told us about you.
 Dialogue: 10,0:03:14.07,0:03:16.30,GJM_Main,,0,0,0,,Please make your way to\Nthe entrance and wait there.
 Dialogue: 10,0:03:16.88,0:03:18.38,GJM_Main,,0,0,0,,Thank you very much.
-Dialogue: 10,0:03:19.82,0:03:21.13,GJM_Main,,0,0,0,,Imagine befriending the prince.
-Dialogue: 10,0:03:21.13,0:03:24.03,GJM_Main,,0,0,0,,Miss Shirayuki's pretty awesome!
+Dialogue: 10,0:03:19.82,0:03:21.13,GJM_Main,,0,0,0,,Imagine being in with the prince.
+Dialogue: 10,0:03:21.13,0:03:24.03,GJM_Main,,0,0,0,,Miss Shirayuki sure is something!
 Dialogue: 10,0:03:24.03,0:03:26.00,GJM_Main,,0,0,0,,That's enough. Let's get back to work.
 Dialogue: 10,0:03:26.68,0:03:29.06,GJM_Main,,0,0,0,,Come on, I know you think so too!
 Dialogue: 10,0:03:45.47,0:03:47.73,GJM_Main,,0,0,0,,Your Grace, do you have business with the prince?
-Dialogue: 10,0:03:47.73,0:03:48.39,GJM_Main,,0,0,0,,Yes.
-Dialogue: 10,0:03:49.33,0:03:53.44,GJM_Main,,0,0,0,,M-My deepest apologies.\NHe is seeing someone else before you.
-Dialogue: 10,0:03:53.44,0:03:55.04,GJM_Main,,0,0,0,,Someone else?
+Dialogue: 10,0:03:47.73,0:03:48.39,GJM_Main,,0,0,0,,I do.
+Dialogue: 10,0:03:49.33,0:03:53.44,GJM_Main,,0,0,0,,M-My sincerest apologies.\NHe is currently speaking with someone.
+Dialogue: 10,0:03:53.44,0:03:55.04,GJM_Main,,0,0,0,,Speaking with someone?
 Dialogue: 10,0:03:58.68,0:04:00.97,GJM_Main,,0,0,0,,That girl again?
-Dialogue: 10,0:04:01.99,0:04:05.15,GJM_Main,,0,0,0,,Oh, they're so beautiful\Nregardless of when I come!
-Dialogue: 10,0:04:05.15,0:04:07.62,GJM_Main,,0,0,0,,She possesses no proof of her social standing.
-Dialogue: 10,0:04:07.62,0:04:10.89,GJM_Main,,0,0,0,,A red-haired girl who claims\Nto be a friend of the prince.
-Dialogue: 10,0:04:13.21,0:04:14.80,GJM_Main,,0,0,0,,Truly a vulgar color.
-Dialogue: 10,0:04:16.73,0:04:21.27,GJM_Main,,0,0,0,,We called you here today\Nto help out with Zen.
+Dialogue: 10,0:04:01.99,0:04:05.15,GJM_Main,,0,0,0,,Oh, every time I come here,\Nthey're always so beautiful!
+Dialogue: 10,0:04:05.15,0:04:07.62,GJM_Main,,0,0,0,,She has nothing to proove her social standing.
+Dialogue: 10,0:04:07.62,0:04:10.89,GJM_Main,,0,0,0,,Just some red-haired girl who claims\Nto be a friend of the prince...
+Dialogue: 10,0:04:13.21,0:04:14.80,GJM_Main,,0,0,0,,What a vulgar color...
+Dialogue: 10,0:04:16.73,0:04:21.27,GJM_Main,,0,0,0,,We called for you because\Nwe need you to help Zen.{We called you here today\Nto help out with Zen.}
 Dialogue: 10,0:04:21.27,0:04:22.53,GJM_Main,,0,0,0,,Is something the matter?
-Dialogue: 10,0:04:22.53,0:04:25.37,GJM_Main,,0,0,0,,He left the castle on\Nofficial business the other day,
-Dialogue: 10,0:04:25.37,0:04:28.12,GJM_Main,,0,0,0,,using it as a pretense to observe\Nthe local area in secret.
-Dialogue: 10,0:04:28.12,0:04:29.29,GJM_Main,,0,0,0,,In secret?
+Dialogue: 10,0:04:22.53,0:04:25.37,GJM_Main,,0,0,0,,The other day, he left\Nthe castle on official business,
+Dialogue: 10,0:04:25.37,0:04:28.12,GJM_Main,,0,0,0,,but it was just an excuse\Nto observe the lands nearby in secret.
+Dialogue: 10,0:04:28.12,0:04:29.29,GJM_Main,,0,0,0,,On his own?
 Dialogue: 10,0:04:29.29,0:04:32.50,GJM_Main,,0,0,0,,Well, that's nothing new.
-Dialogue: 10,0:04:33.75,0:04:38.27,GJM_Main,,0,0,0,,Except this time, he didn't notify anyone\Nof how late his return to the castle would be.
-Dialogue: 10,0:04:38.27,0:04:41.76,GJM_Main,,0,0,0,,The ministers gave him an earful afterwards.
-Dialogue: 10,0:04:41.76,0:04:44.18,GJM_Main,,0,0,0,,Is Zen feeling bad about it?
-Dialogue: 10,0:04:44.18,0:04:46.05,GJM_Main,,0,0,0,,No, it's just...
+Dialogue: 10,0:04:33.75,0:04:38.27,GJM_Main,,0,0,0,,This time, however, he didn't tell anyone\Nhow late he would return.
+Dialogue: 10,0:04:38.27,0:04:41.76,GJM_Main,,0,0,0,,The ministers gave him quite an earful.
+Dialogue: 10,0:04:41.76,0:04:44.18,GJM_Main,,0,0,0,,Is Zen feeling depressed because of that?
+Dialogue: 10,0:04:44.18,0:04:46.05,GJM_Main,,0,0,0,,No, it's more like...
 Dialogue: 10,0:04:48.60,0:04:51.07,GJM_Main,,0,0,0,,He decided to show his repentance
-Dialogue: 10,0:04:51.07,0:04:54.27,GJM_Main,,0,0,0,,by shutting himself in his office\Nand toiling away at his work.
+Dialogue: 10,0:04:51.07,0:04:54.27,GJM_Main,,0,0,0,,by shutting himself in his office\Nand slaving away at his work.
 Dialogue: 10,0:05:02.80,0:05:04.20,GJM_Main,,0,0,0,,Shirayuki?
 Dialogue: 10,0:05:05.85,0:05:07.10,GJM_Main,,0,0,0,,Am I hearing things?
-Dialogue: 10,0:05:07.10,0:05:10.58,GJM_Main,,0,0,0,,No, though I haven't said a word yet. It's really me.
+Dialogue: 10,0:05:07.10,0:05:10.58,GJM_Main,,0,0,0,,No, but I haven't even said a word yet. It's really me.
 Dialogue: 10,0:05:10.58,0:05:14.19,GJM_Main,,0,0,0,,Zen, Kiki and I asked for Shirayuki to come.
-Dialogue: 10,0:05:14.19,0:05:16.50,GJM_Main,,0,0,0,,"If I have time to sleep,\Nit's better spent with Shirayuki!"
+Dialogue: 10,0:05:14.19,0:05:16.50,GJM_Main,,0,0,0,,"If I have time to sleep,\NI'd rather spend it with Shirayuki!"
 Dialogue: 10,0:05:16.50,0:05:18.21,GJM_Main,,0,0,0,,Isn't that what you said?
 Dialogue: 10,0:05:18.21,0:05:20.66,GJM_Main,,0,0,0,,Only because you two kept nagging\Nme about getting some sleep!
 Dialogue: 10,0:05:20.66,0:05:25.13,GJM_Main,,0,0,0,,{\q2}Why don't you spend some time with her before\Nyou start writing her name all over your documents?
-Dialogue: 10,0:05:26.13,0:05:27.55,GJM_Main,,0,0,0,,What exactly are you\Ndiagnosing me with here?
+Dialogue: 10,0:05:26.13,0:05:27.55,GJM_Main,,0,0,0,,What are you implying?
 Dialogue: 10,0:05:27.55,0:05:30.80,GJM_Main,,0,0,0,,Before "Shirayuki" becomes\Nyour answer for everything, perhaps—
 Dialogue: 10,0:05:30.80,0:05:33.33,GJM_Main,,0,0,0,,Mitsuhide! I want a word with you later.
-Dialogue: 10,0:05:34.90,0:05:38.02,GJM_Main,,0,0,0,,Um... Maybe I should call it a day...
+Dialogue: 10,0:05:34.90,0:05:38.02,GJM_Main,,0,0,0,,Um... Maybe I should see myself out...
 Dialogue: 10,0:05:38.35,0:05:40.11,GJM_Main,,0,0,0,,Thank you for invi—
 Dialogue: 10,0:05:41.60,0:05:42.48,GJM_Main,,0,0,0,,Zen?
 Dialogue: 10,0:05:43.12,0:05:44.92,GJM_Main,,0,0,0,,You guys aren't playing fair.
@@ -106,21 +106,21 @@ Dialogue: 10,0:06:00.53,0:06:02.13,GJM_Main,,0,0,0,,Is that why you're overworki
 Dialogue: 10,0:06:02.13,0:06:04.47,GJM_Main,,0,0,0,,I've finished twice as much work as usual.
 Dialogue: 10,0:06:04.47,0:06:06.69,GJM_Main,,0,0,0,,They won't have any reason\Nto complain next time I'm away.
 Dialogue: 10,0:06:07.37,0:06:08.11,GJM_Main,,0,0,0,,Zen...
-Dialogue: 10,0:06:09.01,0:06:11.41,GJM_Main,,0,0,0,,I don't mind deskwork.
+Dialogue: 10,0:06:09.01,0:06:11.41,GJM_Main,,0,0,0,,I don't mind paperwork.
 Dialogue: 10,0:06:11.41,0:06:15.35,GJM_Main,,0,0,0,,It's just that you can easily\Nlose sight of the outside world.
-Dialogue: 10,0:06:15.35,0:06:19.64,GJM_Main,,0,0,0,,The real Clarines lies {\i1}beyond{\i0} the castle walls.
+Dialogue: 10,0:06:15.35,0:06:19.64,GJM_Main,,0,0,0,,The real Clarines lies {\i1}beyond{\i0} these castle walls.
 Dialogue: 10,0:06:20.66,0:06:21.94,GJM_Main,,0,0,0,,That's what I love about it.
 Dialogue: 10,0:06:23.89,0:06:26.19,GJM_Main,,0,0,0,,Zen, your country is really great.
 Dialogue: 10,0:06:31.07,0:06:32.53,GJM_Main,,0,0,0,,Oh right, Zen.
 Dialogue: 10,0:06:36.27,0:06:37.12,GJM_Main,,0,0,0,,What?
-Dialogue: 10,0:06:39.16,0:06:40.37,GJM_Main,,0,0,0,,Would you like to take a nap?
+Dialogue: 10,0:06:39.16,0:06:40.37,GJM_Main,,0,0,0,,Shouldn't you take a nap?
 Dialogue: 10,0:06:41.97,0:06:44.36,GJM_Main,,0,0,0,,Sorry, just for a little while.
 Dialogue: 10,0:06:44.36,0:06:48.18,GJM_Main,,0,0,0,,Will you stay here with me until Mitsuhide comes?
 Dialogue: 10,0:06:48.18,0:06:48.84,GJM_Main,,0,0,0,,Yeah.
 Dialogue: 10,0:06:48.84,0:06:49.99,GJM_Main,,0,0,0,,Thanks.
 Dialogue: 10,0:06:55.20,0:06:57.05,GJM_Main,,0,0,0,,He must've been exhausted.
-Dialogue: 10,0:07:06.02,0:07:11.28,GJM_Main,,0,0,0,,{\i1}Zen's working his hardest as this country's prince.
-Dialogue: 10,0:07:11.99,0:07:14.57,GJM_Main,,0,0,0,,{\i1}I need to strive toward my own goal, too!
+Dialogue: 10,0:07:06.02,0:07:11.28,GJM_Main,,0,0,0,,{\i1}Zen's working his hardest as\Nthe prince of the whole country.
+Dialogue: 10,0:07:11.99,0:07:14.57,GJM_Main,,0,0,0,,{\i1}I need to work towards my own goal, too!
 Dialogue: 10,0:07:15.48,0:07:16.41,GJM_Main,,0,0,0,,Let's do this!
 Dialogue: 10,0:07:24.64,0:07:25.85,GJM_Main,,0,0,0,,Oh?
 Dialogue: 10,0:07:25.85,0:07:30.84,GJM_Main,,0,0,0,,So that red-haired girl is Prince Zen's friend, huh?
@@ -135,23 +135,23 @@ Dialogue: 10,0:07:54.64,0:07:58.02,GJM_Main,,0,0,0,,Prince Zen, pardon me for in
 Dialogue: 10,0:07:58.69,0:08:01.21,GJM_Main,,0,0,0,,Oh, if it isn't Lord Haruka.
 Dialogue: 10,0:08:03.75,0:08:06.25,GJM_Main,,0,0,0,,I shouldn't meet with outsiders so carelessly?
 Dialogue: 10,0:08:06.25,0:08:09.55,GJM_Main,,0,0,0,,Needless to say, you are this country's prince.
-Dialogue: 10,0:08:09.55,0:08:13.46,GJM_Main,,0,0,0,,You must carefully select\Nthose whom you associate with.
+Dialogue: 10,0:08:09.55,0:08:13.46,GJM_Main,,0,0,0,,You must carefully select\Nthose with whom you associate.
 Dialogue: 10,0:08:14.06,0:08:17.79,GJM_Main,,0,0,0,,All to protect myself and my authority, right?
 Dialogue: 10,0:08:17.79,0:08:18.76,GJM_Main,,0,0,0,,I know.
 Dialogue: 10,0:08:19.06,0:08:25.08,GJM_Main,,0,0,0,,If you understand, then stop inviting\Nthat no-name town girl to the castle.
 Dialogue: 10,0:08:25.08,0:08:26.36,GJM_Main,,0,0,0,,Does it bother you?
-Dialogue: 10,0:08:26.36,0:08:28.77,GJM_Main,,0,0,0,,She'll start to have expectations and take advantage of you.
-Dialogue: 10,0:08:29.92,0:08:31.98,GJM_Main,,0,0,0,,She might ask for social status as she sees fit,
-Dialogue: 10,0:08:31.98,0:08:34.61,GJM_Main,,0,0,0,,or even request to be introduced to the king!
+Dialogue: 10,0:08:26.36,0:08:28.77,GJM_Main,,0,0,0,,She'll start to have expectations and forget her place.
+Dialogue: 10,0:08:29.92,0:08:31.98,GJM_Main,,0,0,0,,She might ask for privileges when she needs them
+Dialogue: 10,0:08:31.98,0:08:34.61,GJM_Main,,0,0,0,,or request to be introduced to the king!
 Dialogue: 10,0:08:34.61,0:08:37.07,GJM_Main,,0,0,0,,What will you do when she starts making such selfish demands?
-Dialogue: 10,0:08:37.60,0:08:42.08,GJM_Main,,0,0,0,,She'll quickly submit to your power,\Nas she lacks any to prove her own worth.
+Dialogue: 10,0:08:37.60,0:08:42.08,GJM_Main,,0,0,0,,She'll quickly submit to your power\Nas she lacks any way to prove her own worth.
 Dialogue: 10,0:08:42.38,0:08:46.84,GJM_Main,,0,0,0,,Keeping a girl like that by your side will\Ndraw nothing but criticism from your retainers.
 Dialogue: 10,0:08:46.84,0:08:48.25,GJM_Main,,0,0,0,,You have nothing to gain from it!
 Dialogue: 10,0:08:51.17,0:08:54.69,GJM_Main,,0,0,0,,She lacks the power to prove her own worth, huh?
 Dialogue: 10,0:08:55.26,0:08:59.60,GJM_Main,,0,0,0,,I see. Then, what if it was a girl\Nwho didn't have such expectations?
 Dialogue: 10,0:09:02.21,0:09:05.44,GJM_Main,,0,0,0,,Your Highness, where would you find a girl like that?
-Dialogue: 10,0:09:05.80,0:09:07.86,GJM_Main,,0,0,0,,I only inquired if you would accept one who doesn't.
-Dialogue: 10,0:09:08.21,0:09:11.96,GJM_Main,,0,0,0,,If you are saying such a girl exists\Nthen bring her here, by all means.
+Dialogue: 10,0:09:05.80,0:09:07.86,GJM_Main,,0,0,0,,I only inquired if you would accept such a person.
+Dialogue: 10,0:09:08.21,0:09:11.96,GJM_Main,,0,0,0,,If you are saying such a girl exists,\Nthen bring her here, by all means.
 Dialogue: 10,0:09:11.96,0:09:13.82,GJM_Main,,0,0,0,,She was here a moment ago.
 Dialogue: 10,0:09:14.36,0:09:16.28,GJM_Main,,0,0,0,,Surely you saw her, Lord Haruka?
 Dialogue: 10,0:09:17.44,0:09:21.08,GJM_Main,,0,0,0,,Your Highness! I did not come\Nto engage in wordplay with you!
@@ -175,7 +175,7 @@ Dialogue: 10,0:10:49.25,0:10:51.75,GJM_Main,,0,0,0,,Miss Shirayuki is henceforth
 Dialogue: 10,0:10:51.75,0:10:53.08,GJM_Main,,0,0,0,,For what reason?
 Dialogue: 10,0:10:53.08,0:10:57.57,GJM_Main,,0,0,0,,Miss Shirayuki has permission\Nas Prince Zen's personal guest!
 Dialogue: 10,0:10:57.57,0:10:58.93,GJM_Main,,0,0,0,,That has been rescinded.
-Dialogue: 10,0:10:58.93,0:11:00.55,GJM_Main,,0,0,0,,What? No way!
+Dialogue: 10,0:10:58.93,0:11:00.55,GJM_Main,,0,0,0,,What? I don't believe you!
 Dialogue: 10,0:11:01.08,0:11:02.88,GJM_Main,,0,0,0,,On the prince's order.
 Dialogue: 10,0:11:02.88,0:11:06.69,GJM_Main,,0,0,0,,"My retainers have voiced concerns\Nregarding Shirayuki's special treatment.
 Dialogue: 10,0:11:07.23,0:11:10.83,GJM_Main,,0,0,0,,As a result, she shall no longer\Nhave permission to enter the palace."
@@ -202,11 +202,11 @@ Dialogue: 10,0:12:16.42,0:12:18.00,GJM_Main,,0,0,0,,That's what I thought.
 Dialogue: 10,0:12:18.47,0:12:21.18,GJM_Main,,0,0,0,,I have been informed that\Nyou are the prince's guest.
 Dialogue: 10,0:12:21.18,0:12:23.72,GJM_Main,,0,0,0,,Please excuse me for stopping you so suddenly.
 Dialogue: 10,0:12:24.01,0:12:25.08,GJM_Main,,0,0,0,,That's all right.
-Dialogue: 10,0:12:25.08,0:12:26.70,GJM_Main,,0,0,0,,It's all good. She's not a problem.
-Dialogue: 10,0:12:30.07,0:12:32.89,GJM_Main,,0,0,0,,{\i1}I always knew...\Nor at least I thought I did.
-Dialogue: 10,0:12:36.26,0:12:41.32,GJM_Main,,0,0,0,,{\i1}That I'm reliant on Zen's power\Nto be able to see him.
+Dialogue: 10,0:12:25.08,0:12:26.70,GJM_Main,,0,0,0,,It's fine. She's not a problem.
+Dialogue: 10,0:12:30.07,0:12:32.89,GJM_Main,,0,0,0,,{\i1}I always knew...\Nor at least I thought I did...
+Dialogue: 10,0:12:36.26,0:12:41.32,GJM_Main,,0,0,0,,{\i1}that it's through Zen's goodwill\Nthat I'm able to see him.
 Dialogue: 10,0:12:52.92,0:12:53.66,GJM_Main,,0,0,0,,{\i1}That's why...
-Dialogue: 10,0:12:54.53,0:12:57.94,GJM_Main,,0,0,0,,{\i1}I'm aiming for a path that allows me\Nto be with him with my own power.
+Dialogue: 10,0:12:54.53,0:12:57.94,GJM_Main,,0,0,0,,{\i1}I'm aiming for a path that allows me\Nto be with him through my own power.
 Dialogue: 10,0:12:58.75,0:13:00.42,GJM_Main,,0,0,0,,{\i1}Then, I can—
 Dialogue: 10,0:13:06.18,0:13:07.85,GJM_Main,,0,0,0,,Wh-Why...?
 Dialogue: 10,0:13:11.80,0:13:17.34,GJM_Main,,0,0,0,,{\i1}"Red-haired visitor, take not another step forward and leave at once."
@@ -217,7 +217,7 @@ Dialogue: 10,0:13:27.73,0:13:33.16,GJM_Main,,0,0,0,,{\i1}Someone in this castle 
 Dialogue: 10,0:13:35.12,0:13:36.00,GJM_Main,,0,0,0,,{\i1}However...
 Dialogue: 10,0:13:38.26,0:13:40.88,GJM_Main,,0,0,0,,{\i1}Zen is here!
 Dialogue: 10,0:13:43.76,0:13:46.88,GJM_Main,,0,0,0,,What? No way, no way.
-Dialogue: 10,0:13:46.88,0:13:48.72,GJM_Main,,0,0,0,,That didn't send her packing?
+Dialogue: 10,0:13:46.88,0:13:48.72,GJM_Main,,0,0,0,,That didn't scare her away?
 Dialogue: 10,0:13:55.77,0:13:59.19,GJM_Main,,0,0,0,,{\i1}She sure is taking a roundabout route to the prince's rooms.
 Dialogue: 10,0:13:59.68,0:14:02.02,GJM_Main,,0,0,0,,Oh well, that's more than fine with me.
 Dialogue: 10,0:14:02.56,0:14:05.02,GJM_Main,,0,0,0,,Turn around and hurry home, Missy.
@@ -236,24 +236,24 @@ Dialogue: 10,0:14:38.39,0:14:44.20,GJM_Main,,0,0,0,,I can't believe you.\NWhy di
 Dialogue: 10,0:14:44.20,0:14:45.48,GJM_Main,,0,0,0,,Sorry...
 Dialogue: 10,0:14:45.48,0:14:48.11,GJM_Main,,0,0,0,,But hear me out before you get angry, Zen!
 Dialogue: 10,0:14:48.11,0:14:50.33,GJM_Main,,0,0,0,,How can you expect me to {\i1}not{\i0} be angry?
-Dialogue: 10,0:14:50.33,0:14:52.57,GJM_Main,,0,0,0,,Moreover, how can you be so calm about this?
-Dialogue: 10,0:14:52.95,0:14:56.20,GJM_Main,,0,0,0,,You know, I was scared!
-Dialogue: 10,0:14:56.20,0:14:57.54,GJM_Main,,0,0,0,,And angry!
-Dialogue: 10,0:14:58.60,0:15:04.10,GJM_Main,,0,0,0,,But I didn't want to sit idly\Nwhile I lost the ability to come here.
+Dialogue: 10,0:14:50.33,0:14:52.57,GJM_Main,,0,0,0,,Honestly, how can you be so calm about this?
+Dialogue: 10,0:14:52.95,0:14:56.20,GJM_Main,,0,0,0,,You know, I {\i1}was{\i0} scared!
+Dialogue: 10,0:14:56.20,0:14:57.54,GJM_Main,,0,0,0,,And angry, too!
+Dialogue: 10,0:14:58.60,0:15:04.10,GJM_Main,,0,0,0,,But I didn't want to sit idly by\Nwhile I lost the ability to come here.
 Dialogue: 10,0:15:04.82,0:15:07.62,GJM_Main,,0,0,0,,If there's someone who\Ndoesn't want us to see each other,
 Dialogue: 10,0:15:07.62,0:15:09.45,GJM_Main,,0,0,0,,then I'll have to confront them directly.
 Dialogue: 10,0:15:10.45,0:15:11.51,GJM_Main,,0,0,0,,On your own?
 Dialogue: 10,0:15:12.18,0:15:15.39,GJM_Main,,0,0,0,,If I'm by myself, then the other person might be willing to talk.
 Dialogue: 10,0:15:15.39,0:15:16.33,GJM_Main,,0,0,0,,You can't.
 Dialogue: 10,0:15:16.81,0:15:17.25,GJM_Main,,0,0,0,,Zen!
-Dialogue: 10,0:15:17.25,0:15:20.21,GJM_Main,,0,0,0,,...Is what I'd like to say, but all right.
-Dialogue: 10,0:15:20.69,0:15:22.55,GJM_Main,,0,0,0,,I won't jump in, Shirayuki.
+Dialogue: 10,0:15:17.25,0:15:20.21,GJM_Main,,0,0,0,,...is what I'd like to say, but all right.
+Dialogue: 10,0:15:20.69,0:15:22.55,GJM_Main,,0,0,0,,I won't interfere, Shirayuki.
 Dialogue: 10,0:15:23.89,0:15:27.15,GJM_Main,,0,0,0,,Just don't overdo it.
 Dialogue: 10,0:15:27.50,0:15:29.41,GJM_Main,,0,0,0,,If this person refuses to listen to you,
-Dialogue: 10,0:15:29.41,0:15:31.74,GJM_Main,,0,0,0,,do what you need to make them stop,\Neven if you have to use my name.
+Dialogue: 10,0:15:29.41,0:15:31.74,GJM_Main,,0,0,0,,do what you need to make them stop,\Neven if you have to call on me.
 Dialogue: 10,0:15:31.74,0:15:33.66,GJM_Main,,0,0,0,,It could also be the work\Nof more than one person.
 Dialogue: 10,0:15:33.66,0:15:34.53,GJM_Main,,0,0,0,,Right.
-Dialogue: 10,0:15:34.93,0:15:36.93,GJM_Main,,0,0,0,,If I can confirm who it is,\NI'll keep an eye on them.
+Dialogue: 10,0:15:34.93,0:15:36.93,GJM_Main,,0,0,0,,If I can figure out who it is,\NI'll keep an eye on them.
 Dialogue: 10,0:15:38.29,0:15:39.99,GJM_Main,,0,0,0,,Do you have an idea of who it might be?
 Dialogue: 10,0:15:39.99,0:15:43.46,GJM_Main,,0,0,0,,Not for certain, so I won't say...
 Dialogue: 10,0:15:44.45,0:15:45.66,GJM_Main,,0,0,0,,Zen...
@@ -267,7 +267,7 @@ Dialogue: 10,0:16:11.11,0:16:14.79,GJM_Main,,0,0,0,,{\i1}I've never seen Zen loo
 Dialogue: 10,0:16:16.12,0:16:19.24,GJM_Main,,0,0,0,,I will return to my estate.\NThe rest is in your hands.
 Dialogue: 10,0:16:19.24,0:16:19.83,GJM_Main,,0,0,0,,Yes, sir.
 Dialogue: 10,0:16:22.00,0:16:22.67,GJM_Main,,0,0,0,,Hm?
-Dialogue: 10,0:16:24.74,0:16:26.17,GJM_Main,,0,0,0,,{\i1}Certainty, huh?
+Dialogue: 10,0:16:24.74,0:16:26.17,GJM_Main,,0,0,0,,{\i1}Not so certain, he said...
 Dialogue: 10,0:16:26.97,0:16:29.77,GJM_Main,,0,0,0,,{\i1}Is there a way to figure out who's behind this?
 Dialogue: 10,0:16:30.72,0:16:31.98,GJM_Main,,0,0,0,,What are you doing?
 Dialogue: 10,0:16:33.92,0:16:35.35,GJM_Main,,0,0,0,,Do you work for the court?
@@ -275,17 +275,17 @@ Dialogue: 10,0:16:36.78,0:16:39.36,GJM_Main,,0,0,0,,No, I...
 Dialogue: 10,0:16:39.36,0:16:40.27,GJM_Main,,0,0,0,,What?
 Dialogue: 10,0:16:40.27,0:16:41.98,GJM_Main,,0,0,0,,Um...
 Dialogue: 10,0:16:42.48,0:16:44.44,GJM_Main,,0,0,0,,How did you get into the castle?
-Dialogue: 10,0:16:47.95,0:16:49.63,GJM_Main,,0,0,0,,I came through Poet's Gate.
-Dialogue: 10,0:16:50.23,0:16:52.09,GJM_Main,,0,0,0,,My entrance was granted by a certain personage.
-Dialogue: 10,0:16:53.01,0:16:54.86,GJM_Main,,0,0,0,,I was heading towards his whereabouts.
-Dialogue: 10,0:16:54.86,0:16:57.53,GJM_Main,,0,0,0,,If you find me to be suspicious,\Nfeel free to accompany me there.
+Dialogue: 10,0:16:47.95,0:16:49.63,GJM_Main,,0,0,0,,I came through the Poet's Gate.
+Dialogue: 10,0:16:50.23,0:16:52.09,GJM_Main,,0,0,0,,My entrance was allowed by a member of the house.
+Dialogue: 10,0:16:53.01,0:16:54.86,GJM_Main,,0,0,0,,I was on my way to see him.
+Dialogue: 10,0:16:54.86,0:16:57.53,GJM_Main,,0,0,0,,If you think me suspicious,\Nfeel free to accompany me there.
 Dialogue: 10,0:16:57.53,0:16:58.66,GJM_Main,,0,0,0,,What?
 Dialogue: 10,0:16:59.04,0:16:59.97,GJM_Main,,0,0,0,,This way.
 Dialogue: 10,0:17:05.07,0:17:05.71,GJM_Main,,0,0,0,,Halt!
 Dialogue: 10,0:17:09.13,0:17:12.97,GJM_Main,,0,0,0,,After finding an intruder,\NI am duty-bound to stop their advance.
 Dialogue: 10,0:17:13.56,0:17:15.43,GJM_Main,,0,0,0,,I will have you leave immediately.
 Dialogue: 10,0:17:17.29,0:17:21.75,GJM_Main,,0,0,0,,Only those with authority\Ncan invite outsiders into the castle.
-Dialogue: 10,0:17:22.58,0:17:27.85,GJM_Main,,0,0,0,,{\q2}You do not appear to possess the requisite\Nsocial status to receive an invitation from someone here.
+Dialogue: 10,0:17:22.58,0:17:27.85,GJM_Main,,0,0,0,,{\q2}You cannot possibly possess the requisite\Nsocial status to receive an invitation from someone here.
 Dialogue: 10,0:17:28.54,0:17:31.79,GJM_Main,,0,0,0,,{\i1}This man is so certain about me.
 Dialogue: 10,0:17:33.39,0:17:40.33,GJM_Main,,0,0,0,,If it is as you say, and I should not be here,\Nthen go ahead and stop me with your sword.
 Dialogue: 10,0:17:42.58,0:17:46.16,GJM_Main,,0,0,0,,{\i1}I didn't actually ask him,\Nbut seeing him was confirmation enough.
@@ -304,7 +304,7 @@ Dialogue: 10,0:18:52.56,0:18:56.20,GJM_Main,,0,0,0,,Looks like there's no escape
 Dialogue: 10,0:18:56.20,0:19:01.66,GJM_Main,,0,0,0,,That order and the threat on\Nthe arrow was not his doing, but mine.
 Dialogue: 10,0:19:02.68,0:19:04.71,GJM_Main,,0,0,0,,Stop spewing nonsense.
 Dialogue: 10,0:19:04.71,0:19:08.04,GJM_Main,,0,0,0,,I planned these acts with the prince in mind.
-Dialogue: 10,0:19:08.04,0:19:10.62,GJM_Main,,0,0,0,,I did not ask for help from\Nsomeone of humble birth.
+Dialogue: 10,0:19:08.04,0:19:10.62,GJM_Main,,0,0,0,,I did not ask for help from\Nsomeone of such humble birth.
 Dialogue: 10,0:19:12.26,0:19:14.97,GJM_Main,,0,0,0,,You've got a strange sense of pride for a lord...
 Dialogue: 10,0:19:15.44,0:19:16.57,GJM_Main,,0,0,0,,I agree.
 Dialogue: 10,0:19:18.12,0:19:19.13,GJM_Main,,0,0,0,,Your Highness!
@@ -344,7 +344,7 @@ Dialogue: 10,0:21:12.52,0:21:13.25,GJM_Main,,0,0,0,,Yes, sir!
 Dialogue: 10,0:21:13.64,0:21:15.45,GJM_Main,,0,0,0,,You'll be coming with us.
 Dialogue: 10,0:21:16.29,0:21:18.82,GJM_Main,,0,0,0,,I'll follow a pretty lady anywhere.
 Dialogue: 10,0:21:18.82,0:21:20.09,GJM_Main,,0,0,0,,You little...
-Dialogue: 10,0:21:20.44,0:21:23.05,GJM_Main,,0,0,0,,None of this "you". Call me Obi.
+Dialogue: 10,0:21:20.44,0:21:23.05,GJM_Main,,0,0,0,,I have a name, you know. Call me Obi.
 Dialogue: 10,0:21:24.38,0:21:26.52,GJM_Main,,0,0,0,,Who on earth is he?
 Dialogue: 10,0:21:26.52,0:21:27.59,GJM_Main,,0,0,0,,Who knows?
 Dialogue: 10,0:21:28.05,0:21:31.14,GJM_Main,,0,0,0,,We should be fine leaving it to them, though.
@@ -354,7 +354,7 @@ Dialogue: 10,0:21:38.54,0:21:39.50,GJM_Main,,0,0,0,,I see.
 Dialogue: 10,0:21:41.32,0:21:43.07,GJM_Main,,0,0,0,,Zen, look!
 Dialogue: 10,0:21:43.07,0:21:43.65,GJM_Main,,0,0,0,,Hm?
 Dialogue: 10,0:21:44.29,0:21:45.74,GJM_Main,,0,0,0,,Information on the appointment process?
-Dialogue: 10,0:21:45.74,0:21:48.35,GJM_Main,,0,0,0,,I'm letting you know\Nbecause I decided to apply.
+Dialogue: 10,0:21:45.74,0:21:48.35,GJM_Main,,0,0,0,,I'm letting you know\Nthat I've decided to apply.
 Dialogue: 10,0:21:48.35,0:21:50.46,GJM_Main,,0,0,0,,This... It's to become the castle's...
 Dialogue: 10,0:21:50.46,0:21:52.70,GJM_Main,,0,0,0,,Yup. The court herbalist.
 Dialogue: 10,0:21:53.56,0:21:57.21,GJM_Main,,0,0,0,,One day, I'd like to be able\Nto pass through the gates by myself
@@ -366,7 +366,7 @@ Dialogue: 10,0:22:11.52,0:22:13.87,GJM_Main,,0,0,0,,I'll be waiting in this cast
 Dialogue: 10,0:22:17.44,0:22:19.68,GJM_Main,,0,0,0,,{\i1}This is what pushes me forward
 Dialogue: 10,0:22:20.67,0:22:22.81,GJM_Main,,0,0,0,,{\i1}and acts as a guide, leading the way.
 Comment: 10,0:22:24.82,0:23:54.87,GJM_Main,,0,0,0,,{ED}
-Dialogue: 10,0:23:55.90,0:23:57.92,GJM_Main,,0,0,0,,I am the chief herbalist, Garak.
+Dialogue: 10,0:23:55.90,0:23:57.92,GJM_Main,,0,0,0,,I am the chief herbalist, Garak.{CHECK THE PREVIEW NOTES YOU NERD}
 Dialogue: 10,0:23:57.92,0:24:00.72,GJM_Main,,0,0,0,,You're about to take the examination, right?\NDo you feel ready?
 Dialogue: 10,0:24:00.72,0:24:03.42,GJM_Main,,0,0,0,,I'm a kid, though. It's weird.
 Dialogue: 10,0:24:03.80,0:24:05.50,GJM_Main,,0,0,0,,We're locked in, huh?
