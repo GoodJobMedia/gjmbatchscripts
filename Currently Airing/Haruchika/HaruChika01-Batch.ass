@@ -1960,7 +1960,7 @@ Dialogue: 0,0:01:34.49,0:01:39.95,FyuSigns,,0,0,0,,{\fscx110\fnFOT-MatisseHatsuh
 Dialogue: 0,0:08:43.66,0:08:46.92,FyuSigns,,0,0,0,,{\fscx110\fnFOT-MatisseHatsuhi Pro EN M\fs14\fsp3.8\b1\c&H000000&\blur0.45\fad(1153,0)\pos(997.714,683.096)}BLOSSOM
 Dialogue: 1,0:22:07.22,0:22:13.39,FyuSigns,,0,0,0,,{\pos(654.4,566)\fscx110\fnFOT-MatisseHatsuhi Pro EN M\fs36\fsp7.5\b1\c&H301A08&\blur0.6\fad(571,0)}BLOSSOM
 Dialogue: 0,0:22:07.22,0:22:13.39,FyuSigns,,0,0,0,,{\pos(655.5,566)\fscx110\fnFOT-MatisseHatsuhi Pro EN M\fs36\fsp7.5\b1\c&H927E6F&\blur0.6\fad(571,0)}BLOSSOM
-Dialogue: 0,0:23:36.89,0:23:39.89,FyuSigns,,0,0,0,,{\fscx110\fnKozuka Mincho Pro Strippedv2 R\fsp14\b1\c&H000000&\blur0.5\pos(843.543,439.857)}CLOTH CUBE
+Dialogue: 0,0:23:36.89,0:23:39.89,FyuSigns,,0,0,0,,{\fscx110\fnKozuka Mincho Pro Strippedv2 R\fsp13\b1\c&H000000&\blur0.5\pos(843.543,439.857)}CLOTH CUBE
 Dialogue: 0,0:05:46.20,0:05:49.33,ChhSigns,,0,0,0,,{\pos(616.857,425.429)\frz0.7\fax-0.03\fnKozuka Gothic Pro Stripped H\fs55\fsp1\b1\c&H3E3A43&\blur0.6}M{\c&H3F3C44&}u{\c&H413E45&}s{\c&H424046&}i{\c&H434148&}c {\c&H46454A&}P{\c&H48474B&}r{\c&H49494C&}e{\c&H4A4B4D&}p {\c&H4D4E50&}R{\c&H4E5051&}o{\c&H505252&}o{\c&H515453&}m
 Dialogue: 0,0:14:54.54,0:14:58.42,ChhSigns,,0,0,0,,{\move(188,315,208,315,27,3656)\fs50\shad4\c&H000000&\4c&H151C25&\1a&HFE&\3a&HFF&\4a&H32&\blur2\fad(227,0)\t(3530,3906,\blur5\alpha&HFF&)}Cipher
 Dialogue: 1,0:14:54.54,0:14:58.42,ChhSigns,,0,0,0,,{\move(188,315,208,315,27,3656)\fs50\shad3\c&HF6F2F2&\4c&H151C25&\4a&HFF&\blur0.6\fad(227,0)\t(3530,3906,\blur5\alpha&HFF&)}Cipher
