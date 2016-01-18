@@ -16,8 +16,8 @@ Keyframes File: haruchika_02_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 1450
-Active Line: 1451
+Scroll Position: 260
+Active Line: 292
 Video Position: 31833
 
 [V4+ Styles]
@@ -152,7 +152,7 @@ Dialogue: 10,0:06:48.20,0:06:53.47,GJM_Main,,0,0,0,,If we want you to join the c
 Dialogue: 10,0:06:55.18,0:06:56.36,GJM_Main,,0,0,0,,You're annoying me.
 Dialogue: 10,0:06:59.98,0:07:02.65,GJM_Main,,0,0,0,,The way she's acting,\Nwe won't get along even if she does join.
 Dialogue: 10,0:07:03.71,0:07:05.32,GJM_Main,,0,0,0,,Something's not right.
-Dialogue: 10,0:07:06.46,0:07:08.44,GJM_Main,,0,0,0,,Doesn't it seem off to you?
+Dialogue: 10,0:07:06.46,0:07:08.44,GJM_Main,,0,0,0,,Don't you sense anything?
 Dialogue: 10,0:07:08.44,0:07:09.56,GJM_Main,,0,0,0,,Not really.
 Dialogue: 10,0:07:09.56,0:07:10.75,GJM_Main,,0,0,0,,Thought as much.
 Dialogue: 10,0:07:12.66,0:07:16.15,GJM_Main,,0,0,0,,"He who would the daughter win,\Nmust with the mother first begin."
@@ -256,7 +256,7 @@ Dialogue: 10,0:11:56.40,0:11:57.73,GJM_Main,,0,0,0,,They're truly precious,\Nand
 Dialogue: 10,0:11:57.73,0:12:01.16,GJM_Main,,0,0,0,,Did you actually solve all of them?
 Dialogue: 10,0:12:02.90,0:12:03.95,GJM_Main,,0,0,0,,I'm not surprised.
 Dialogue: 10,0:12:03.95,0:12:05.98,GJM_Main,,0,0,0,,You couldn't have.\NNot in your current state.
-Dialogue: 10,0:12:05.98,0:12:07.33,GJM_Main,,0,0,0,,They're clearly out of your league.
+Dialogue: 10,0:12:05.98,0:12:07.33,GJM_Main,,0,0,0,,That should go without saying.
 Dialogue: 10,0:12:07.79,0:12:08.96,GJM_Main,,0,0,0,,Haruta!
 Dialogue: 10,0:12:08.96,0:12:13.62,GJM_Main,,0,0,0,,Because you're carrying a burden that you\Ncan never lighten, and you're doing it alone.
 Dialogue: 10,0:12:14.42,0:12:16.71,GJM_Main,,0,0,0,,And what could you possibly do?
@@ -325,9 +325,9 @@ Dialogue: 10,0:15:47.63,0:15:49.59,GJM_Main,,0,0,0,,as long as it's a puzzle.
 Dialogue: 10,0:15:50.02,0:15:51.48,GJM_Main,,0,0,0,,Kusakabe-sensei...
 Dialogue: 10,0:15:52.25,0:15:54.35,GJM_Main,,0,0,0,,So this is the Rubik's cube\Neveryone's talking about.
 Dialogue: 10,0:15:54.35,0:15:55.19,GJM_Main,,0,0,0,,Yes.
-Dialogue: 10,0:15:55.19,0:16:00.52,GJM_Main,,0,0,0,,The person who can tell us its solution\Nis no longer in this world.
-Dialogue: 10,0:16:01.23,0:16:09.49,GJM_Main,,0,0,0,,If its creator knew that they'd be gone\Nby the time it was attempted,
-Dialogue: 10,0:16:10.28,0:16:15.96,GJM_Main,,0,0,0,,they must've left some way\Nto tell when it's correctly solved.
+Dialogue: 10,0:15:55.19,0:16:00.52,GJM_Main,,0,0,0,,The person who can tell us its answer\Nis no longer in this world.
+Dialogue: 10,0:16:01.23,0:16:09.49,GJM_Main,,0,0,0,,If its creator knew that they'd be gone\Nby the time it was solved,
+Dialogue: 10,0:16:10.28,0:16:15.96,GJM_Main,,0,0,0,,they must've left some way\Nto prove when that had happened.
 Dialogue: 10,0:16:15.96,0:16:17.99,GJM_Main,,0,0,0,,On this cube?
 Dialogue: 10,0:16:18.50,0:16:24.71,GJM_Main,,0,0,0,,This cube is probably made so that the proof\Nwill show up by itself when it's solved.
 Dialogue: 10,0:16:24.71,0:16:30.13,GJM_Main,,0,0,0,,I think the steps that need to be taken to\Nfind that proof are the crux of this puzzle.
