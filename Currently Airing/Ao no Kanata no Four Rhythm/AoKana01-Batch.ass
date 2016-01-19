@@ -16,7 +16,9 @@ Video File: D:/Fansubbing/GoodJob/AoKana/01/aokana 01 premux[979CA7A3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Video Position: 104
+Scroll Position: 465
+Active Line: 476
+Video Position: 33738
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,7 +28,8 @@ Style: CicSigns,H_Baker Signet BT,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000
 Style: FyuSigns,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Show Title,Belleza,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Preview,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
-Style: AoKana-OP,Leelawadee UI Semilight,42,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,0,0,0,0,100,100,0,0,1,0,0,9,30,30,30,1
+Style: OP,Cicle Gordita,42,&H00F9F9F9,&H000000FF,&H50C68F37,&H85C68F37,0,0,0,0,100,100,0,0,1,2.5,1,9,30,30,20,1
+Style: ED,Gunny Rewritten,60,&H00FBFBFB,&H000000FF,&H1E6D4B00,&H85000000,0,0,0,0,100,100,0,0,1,2.6,0,9,30,30,12,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -496,51 +499,18 @@ Dialogue: 10,0:23:50.36,0:23:50.90,GJM_Main,,0,0,0,,I...
 Dialogue: 10,0:23:51.36,0:23:53.62,GJM_Main,,0,0,0,,Udon?!
 Dialogue: 10,0:23:53.62,0:23:56.53,GJM_Main,,0,0,0,,Extra large!
 Comment: 0,0:23:56.53,0:23:58.53,GJM_Main,,0,0,0,,OP
-Dialogue: 2,0:22:39.25,0:22:43.75,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}The birds and the wind
-Dialogue: 2,0:22:43.75,0:22:46.55,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}Pat my hair as if inviting me into the sky
-Dialogue: 2,0:22:46.55,0:22:50.13,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}And steal my attention
-Dialogue: 2,0:22:50.68,0:22:55.02,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}As the sunlight burns my cheeks
-Dialogue: 2,0:22:55.02,0:22:57.86,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}If I could go back to the days
-Dialogue: 2,0:22:57.86,0:23:00.85,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}When I could just gaze upwards and forget about the time
-Dialogue: 2,0:23:01.90,0:23:04.94,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}Open your ears and listen
-Dialogue: 2,0:23:04.94,0:23:07.69,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}To the beat of the beginning
-Dialogue: 2,0:23:07.69,0:23:11.24,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}It shakes this feather inside my heart
-Dialogue: 2,0:23:11.24,0:23:15.54,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}If I could soar to new heights and pierce this blue sky
-Dialogue: 2,0:23:16.16,0:23:22.21,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}I knew I would be able to find a miracle
-Dialogue: 2,0:23:22.21,0:23:24.96,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}That would captivate me
-Dialogue: 2,0:23:25.17,0:23:27.34,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}And so I brought it closer to my heart
-Dialogue: 2,0:23:27.34,0:23:34.10,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}To draw the lines of my dream
-Dialogue: 2,0:23:34.72,0:23:42.65,AoKana-OP,,0,0,0,,{\blur0.5\fad(120,120)}In the future I see beyond my fingertips
-Dialogue: 1,0:22:39.25,0:22:43.75,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(4380,4425,\1a&HFF&)}The birds and the wind
-Dialogue: 1,0:22:43.75,0:22:46.55,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(2680,2725,\1a&HFF&)}Pat my hair as if inviting me into the sky
-Dialogue: 1,0:22:46.55,0:22:50.13,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(3460,3505,\1a&HFF&)}And steal my attention
-Dialogue: 1,0:22:50.68,0:22:55.02,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(4220,4265,\1a&HFF&)}As the sunlight burns my cheeks
-Dialogue: 1,0:22:55.02,0:22:57.86,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(2720,2765,\1a&HFF&)}If I could go back to the days
-Dialogue: 1,0:22:57.86,0:23:00.85,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(2870,2915,\1a&HFF&)}When I could just gaze upwards and forget about the time
-Dialogue: 1,0:23:01.90,0:23:04.94,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(2920,2965,\1a&HFF&)}Open your ears and listen
-Dialogue: 1,0:23:04.94,0:23:07.69,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(2630,2675,\1a&HFF&)}To the beat of the beginning
-Dialogue: 1,0:23:07.69,0:23:11.24,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(3430,3475,\1a&HFF&)}It shakes this feather inside my heart
-Dialogue: 1,0:23:11.24,0:23:15.54,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(4180,4225,\1a&HFF&)}If I could soar to new heights and pierce this blue sky
-Dialogue: 1,0:23:16.16,0:23:22.21,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(5930,5975,\1a&HFF&)}I knew I would be able to find a miracle
-Dialogue: 1,0:23:22.21,0:23:24.96,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(2630,2675,\1a&HFF&)}That would captivate me
-Dialogue: 1,0:23:25.17,0:23:27.34,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(2050,2095,\1a&HFF&)}And so I brought it closer to my heart
-Dialogue: 1,0:23:27.34,0:23:34.10,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(6640,6685,\1a&HFF&)}To draw the lines of my dream
-Dialogue: 1,0:23:34.72,0:23:42.65,AoKana-OP,,0,0,0,,{\bord3\3c&HB69364&\1a&HFF&\blur2\fad(120,120)\t(75,120,\1a&H00&)\t(7810,7855,\1a&HFF&)}In the future I see beyond my fingertips
-Dialogue: 0,0:22:39.25,0:22:43.75,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(4380,4425,\1a&HFF&)}The birds and the wind
-Dialogue: 0,0:22:43.75,0:22:46.55,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(2680,2725,\1a&HFF&)}Pat my hair as if inviting me into the sky
-Dialogue: 0,0:22:46.55,0:22:50.13,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(3460,3505,\1a&HFF&)}And steal my attention
-Dialogue: 0,0:22:50.68,0:22:55.02,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(4220,4265,\1a&HFF&)}As the sunlight burns my cheeks
-Dialogue: 0,0:22:55.02,0:22:57.86,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(2720,2765,\1a&HFF&)}If I could go back to the days
-Dialogue: 0,0:22:57.86,0:23:00.85,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(2870,2915,\1a&HFF&)}When I could just gaze upwards and forget about the time
-Dialogue: 0,0:23:01.90,0:23:04.94,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(2920,2965,\1a&HFF&)}Open your ears and listen
-Dialogue: 0,0:23:04.94,0:23:07.69,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(2630,2675,\1a&HFF&)}To the beat of the beginning
-Dialogue: 0,0:23:07.69,0:23:11.24,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(3430,3475,\1a&HFF&)}It shakes this feather inside my heart
-Dialogue: 0,0:23:11.24,0:23:15.54,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(4180,4225,\1a&HFF&)}If I could soar to new heights and pierce this blue sky
-Dialogue: 0,0:23:16.16,0:23:22.21,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(5930,5975,\1a&HFF&)}I knew I would be able to find a miracle
-Dialogue: 0,0:23:22.21,0:23:24.96,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(2630,2675,\1a&HFF&)}That would captivate me
-Dialogue: 0,0:23:25.17,0:23:27.34,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(2050,2095,\1a&HFF&)}And so I brought it closer to my heart
-Dialogue: 0,0:23:27.34,0:23:34.10,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(6640,6685,\1a&HFF&)}To draw the lines of my dream
-Dialogue: 0,0:23:34.72,0:23:42.65,AoKana-OP,,0,0,0,,{\bord4\3c&HFFFFFF&\1a&HFF&\3a&H70&\blur1\fad(120,120)\t(75,120,\1a&H00&)\t(7810,7855,\1a&HFF&)}In the future I see beyond my fingertips
+Dialogue: 0,0:22:39.25,0:22:43.29,OP,,0,0,0,,{\blur3\fad(240,240)}The birds and the wind
+Dialogue: 0,0:22:43.75,0:22:46.55,OP,,0,0,0,,{\blur3\fad(240,240)}Pat my hair as if inviting me into the sky
+Dialogue: 0,0:22:46.55,0:22:49.84,OP,,0,0,0,,{\blur3\fad(240,240)}And steal my attention
+Dialogue: 0,0:22:50.68,0:22:54.56,OP,,0,0,0,,{\blur3\fad(240,240)}As the sunlight burns my cheeks
+Dialogue: 0,0:22:55.14,0:22:57.85,OP,,0,0,0,,{\blur3\fad(240,240)}I remember those days where I could just look into the sky
+Dialogue: 0,0:22:57.85,0:23:01.44,OP,,0,0,0,,{\blur3\fad(240,240)}And lose track of the time
+Dialogue: 0,0:23:01.94,0:23:09.45,OP,,0,0,0,,{\blur3\fad(240,240)}Open your ears and listen to the beat of the beginning
+Dialogue: 0,0:23:09.45,0:23:15.49,OP,,0,0,0,,{\blur3\fad(240,240)}It shakes the wings of my heart as it resounds through the blue skies
+Dialogue: 0,0:23:16.16,0:23:22.04,OP,,0,0,0,,{\blur3\fad(240,240)}Let's soar past these boring, monotonous days
+Dialogue: 0,0:23:22.04,0:23:27.17,OP,,0,0,0,,{\blur3\fad(240,240)}The miracle we've been looking for is just ahead
+Dialogue: 0,0:23:27.17,0:23:34.10,OP,,0,0,0,,{\blur3\fad(240,240)}With it, we can reach the future we've dreamed of
+Dialogue: 0,0:23:34.76,0:23:42.98,OP,,0,0,0,,{\blur3\fad(240,240)}It lies just beyond our fingertips
 Comment: 0,0:23:58.53,0:24:00.53,GJM_Main,,0,0,0,,TS
 Dialogue: 0,0:00:47.77,0:00:52.11,FyuSigns,,0,0,0,,{\an7\pos(725.343,116.447)\fnLiberation Sans\fs34\blur0.6\fad(987,0)}Episode One
 Dialogue: 0,0:00:47.77,0:00:52.11,FyuSigns,,0,0,0,,{\an7\pos(725.343,182.876)\fnLiberation Sans\fs34\blur0.6\fad(987,0)}I'm Flying!\NI'm Actually Flying!
