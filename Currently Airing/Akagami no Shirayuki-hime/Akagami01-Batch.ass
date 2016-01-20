@@ -17,8 +17,7 @@ Keyframes File: akagami 01 premux v2[C5E4A87E]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 303
-Active Line: 346
+Scroll Position: 315
 Video Position: 34705
 
 [V4+ Styles]
@@ -376,11 +375,11 @@ Dialogue: 10,0:22:17.56,0:22:20.15,GJM_Main,,0,0,0,,{\i1}will echo like the soun
 Dialogue: 10,0:22:21.36,0:22:22.36,GJM_Main,,0,0,0,,I...
 Comment: 10,0:22:25.49,0:23:54.99,GJM_Main,,0,0,0,,## ED ##
 Dialogue: 10,0:23:55.83,0:23:57.74,GJM_Main,,0,0,0,,It's good to see you again, Shirayuki.
-Dialogue: 10,0:23:57.74,0:23:59.58,GJM_Main,,0,0,0,,Clarines is a nice place.
-Dialogue: 10,0:23:59.96,0:24:01.29,GJM_Main,,0,0,0,,Sorry to make you wait.
+Dialogue: 10,0:23:57.74,0:23:59.58,GJM_Main,,0,0,0,,Clarines is a really nice place.
+Dialogue: 10,0:23:59.96,0:24:01.29,GJM_Main,,0,0,0,,Were you waiting for me?
 Dialogue: 10,0:24:01.87,0:24:04.13,GJM_Main,,0,0,0,,What? Shirayuki's not here?
-Dialogue: 10,0:24:04.46,0:24:06.96,GJM_Main,,0,0,0,,The reason I decided\Nto come to this country...
-Dialogue: 10,0:24:07.46,0:24:09.97,GJM_Main,,0,0,0,,Did you decide to stop running, Red?
+Dialogue: 10,0:24:04.46,0:24:06.96,GJM_Main,,0,0,0,,...the reason I decided\Nto come to this country.
+Dialogue: 10,0:24:07.46,0:24:09.97,GJM_Main,,0,0,0,,Did you give up on escaping, Red?
 Comment: 0,0:00:00.00,0:00:00.00,GJM_Main,,0,0,0,,OP
 Dialogue: 0,0:22:36.68,0:22:41.53,Akagami OP Romaji,,0,0,0,fx,{\an5\move(460,44,470,44,4180,4430)\org(-1000,24)\frz2\1c&H645DEF&\3c&H645DEF&\alpha&HFF&\blur8\t(35,385,0.5,\frz-0.5)\t(385,835,\frz0)\t(50,300,\alpha&H00&)\t(300,390,\bord4)\t(390,480,\bord2)\t(480,880,\alpha&HFF&)\t(4130,4180,\alpha&HFF&)}ha
 Dialogue: 0,0:22:36.71,0:22:37.71,Akagami OP Romaji,,0,0,0,fx,{\an5\move(443,29,465,110)\fscx20\fscy20\bord1.5\1c&HE9E7FE&\3c&HB2AEF7&\blur2.5\fad(150,100)\t(0,1800,\frz900\fry900\frx900)\p1}m -4 0 b -4 -2 -2 -4 0 -4 2 -4 4 -2 4 0 4 2 2 4 0 4 -2 4 -4 2 -4 0

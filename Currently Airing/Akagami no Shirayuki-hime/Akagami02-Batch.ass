@@ -16,8 +16,8 @@ Video File: D:/Fansubbing/GoodJob/Akagami no Shirayuki-hime/02/shirayuki02-v2_pr
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 8016
-Active Line: 8026
+Scroll Position: 282
+Active Line: 314
 Video Position: 4402
 
 [V4+ Styles]
@@ -345,9 +345,9 @@ Dialogue: 10,0:22:14.47,0:22:16.52,GJM_Main,,0,0,0,,{\i1}it's the place where I 
 Dialogue: 10,0:22:17.81,0:22:20.11,GJM_Main,,0,0,0,,{\i1}I'm sure a breathtaking\Nwind will push me forward.
 Comment: 10,0:22:24.86,0:23:54.87,GJM_Main,,0,0,0,,{ED}
 Dialogue: 10,0:23:55.49,0:23:57.74,GJM_Main,,0,0,0,,Zen, your country is really great.
-Dialogue: 10,0:23:57.74,0:23:59.79,GJM_Main,,0,0,0,,She'll start to have expectations and forget her place.
+Dialogue: 10,0:23:57.74,0:23:59.79,GJM_Main,,0,0,0,,She'll start to have expectations\Nand forget her place.
 Dialogue: 10,0:24:00.12,0:24:01.92,GJM_Main,,0,0,0,,I'm letting you know\Nthat I've decided to apply.
-Dialogue: 10,0:24:01.92,0:24:07.30,GJM_Main,,0,0,0,,Oh? So that red-haired girl is Prince Zen's friend, huh?
+Dialogue: 10,0:24:01.92,0:24:07.30,GJM_Main,,0,0,0,,Oh? So that red-haired girl\Nis Prince Zen's friend, huh?
 Dialogue: 10,0:24:07.30,0:24:09.46,GJM_Main,,0,0,0,,What a vulgar color...
 Comment: 0,0:24:09.46,0:24:11.46,GJM_Main,,0,0,0,,OP
 Dialogue: 0,0:01:40.63,0:01:41.57,Akagami OP English,,0,0,0,fx,{\an5\move(196,652,205,641)\fscx20\fscy20\bord1.5\1c&HE8E7FE&\3c&HACACF8&\blur2.5\fad(150,100)\t(0,1800,\frz900\fry900\frx900)\p1}m -4 0 b -4 -2 -2 -4 0 -4 2 -4 4 -2 4 0 4 2 2 4 0 4 -2 4 -4 2 -4 0
