@@ -16,8 +16,8 @@ Keyframes File: haruchika_02_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 260
-Active Line: 292
+Scroll Position: 4022
+Active Line: 4059
 Video Position: 31833
 
 [V4+ Styles]
@@ -4094,7 +4094,7 @@ Dialogue: 1,0:22:49.10,0:22:49.14,FyuSigns,,0,0,0,,{\pos(912.66,311.43)\fscx100.
 Dialogue: 1,0:22:49.14,0:22:49.47,FyuSigns,,0,0,0,,{\pos(912.67,311.42)\fscx100.17\fscy100.17\fnLEHN026\fs14\b1\c&HFFF3DE&\blur0.5}You've\Nsolved it,\NOnee-chan
 Dialogue: 1,0:22:49.47,0:22:49.81,FyuSigns,,0,0,0,,{\pos(912.68,311.41)\fscx100.2\fscy100.2\fnLEHN026\fs14\b1\c&HFFF3DE&\blur0.5}You've\Nsolved it,\NOnee-chan
 Dialogue: 1,0:22:49.81,0:22:49.89,FyuSigns,,0,0,0,,{\pos(912.69,311.4)\fscx100.23\fscy100.23\fnLEHN026\fs14\b1\c&HFFF3DE&\blur0.5}You've\Nsolved it,\NOnee-chan
-Dialogue: 0,0:23:36.90,0:23:39.89,FyuSigns,,0,0,0,,{\pos(453.829,439.857)\fscx110\fnKozuka Mincho Pro Strippedv2 R\fsp18\b1\c&H000000&\blur0.5}EXIT GAME
+Dialogue: 0,0:23:36.90,0:23:39.89,FyuSigns,,0,0,0,,{\pos(357.829,439.857)\fscx110\fnKozuka Mincho Pro Strippedv2 R\fsp20.2\b1\c&H000000&\blur0.5}THE EXIT GAME
 Dialogue: 0,0:03:47.62,0:03:47.67,ChhSigns,,0,0,0,,{\pos(1080.1,187.03)\fscx91.783\frz-0.02\fnKozuka Mincho Pro Strp B\fs55\b1\shad6\c&H000000&\alpha&H78&\1a&HFE&\4a&HC0&\blur6}National
 Dialogue: 0,0:03:47.67,0:03:47.79,ChhSigns,,0,0,0,,{\pos(1080.02,187.02)\fscx90\fnKozuka Mincho Pro Strp B\fs55\b1\shad6\c&H000000&\alpha&H5A&\1a&HFE&\4a&HB2&\blur6}National
 Dialogue: 0,0:03:47.79,0:03:51.63,ChhSigns,,0,0,0,,{\pos(1080,187)\fscx90\fnKozuka Mincho Pro Strp B\fs55\b1\shad6\c&H000000&\1a&HFE&\4a&H89&\blur6}National
