@@ -15,8 +15,8 @@ Video File: D:/Fansubbing/GoodJob/HaruChika/03/haruchika_03_premux_[6C0CB62C].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 1462
-Active Line: 1468
+Active Line: 3
+Video Position: 346
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:01.82,0:00:04.34,GJM_Main,,0,0,0,,{\i1}"When I was lost in that village,\Nwith nowhere to go,
 Dialogue: 10,0:00:04.90,0:00:09.13,GJM_Main,,0,0,0,,{\i1}my parents found me and took me\Nback home to the USA with them."
 Dialogue: 10,0:00:10.04,0:00:13.28,GJM_Main,,0,0,0,,{\i1}That fantasy was what\Nkept my world afloat.
-Dialogue: 10,0:00:14.42,0:00:18.68,GJM_Main,,0,0,0,,{\i1}My parents wish the best for me\Nand provide me with familiar warmth.
+Dialogue: 10,0:00:14.42,0:00:18.68,GJM_Main,,0,0,0,,{\i1}My parents wish the best for me\Nand provide me with familial warmth.
 Dialogue: 10,0:00:19.62,0:00:22.43,GJM_Main,,0,0,0,,{\i1}So I don't need any memories of my past life,
 Dialogue: 10,0:00:23.62,0:00:25.06,GJM_Main,,0,0,0,,{\i1}or of my previous name.
 Dialogue: 10,0:00:26.19,0:00:28.53,GJM_Main,,0,0,0,,So why...
