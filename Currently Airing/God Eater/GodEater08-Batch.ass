@@ -17,8 +17,8 @@ Keyframes File: godeater 08 premux[489AEFA3]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 261
-Active Line: 271
+Scroll Position: 219
+Active Line: 222
 Video Position: 34043
 
 [V4+ Styles]
@@ -256,7 +256,7 @@ Dialogue: 10,0:17:57.84,0:17:59.09,GJM_Main,,0,0,0,,Dr. Sakaki.
 Dialogue: 10,0:17:59.68,0:18:01.26,GJM_Main,,0,0,0,,Got a minute?
 Dialogue: 10,0:18:04.93,0:18:09.69,GJM_Main,,0,0,0,,We're being driven into a corner by an\Never-increasing number of Aragami.
 Dialogue: 10,0:18:10.40,0:18:14.86,GJM_Main,,0,0,0,,Our anti-Aragami power for\Nthe defense of the Branch is limited...
-Dialogue: 10,0:18:15.74,0:18:22.41,GJM_Main,,0,0,0,,{\q2}Thus, constructing the Aegis while maintaining\Nresources for daily survival has become difficult.
+Dialogue: 10,0:18:15.74,0:18:22.41,GJM_Main,,0,0,0,,{\q2}Thus, constructing Aegis while maintaining\Nresources for daily survival has become difficult.
 Dialogue: 10,0:18:37.92,0:18:40.97,GJM_Main,,0,0,0,,Hm? This route isn't on the map...
 Dialogue: 10,0:18:40.97,0:18:42.18,GJM_Main,,0,0,0,,However...
 Dialogue: 10,0:18:42.18,0:18:45.60,GJM_Main,,0,0,0,,If we can control the behavior of the Aragami...
