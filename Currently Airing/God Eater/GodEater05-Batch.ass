@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: God Eater
-Audio File: God Eater 05 v1.mkv
-Video File: God Eater 05 v1.mkv
-Keyframes File: God Eater 05 v1_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/God Eater/05/God Eater 05 v1.mkv
+Video File: D:/Fansubbing/GoodJob/God Eater/05/God Eater 05 v1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 169
-Active Line: 180
-Video Position: 33789
+Video Zoom Percent: 0.750000
+Scroll Position: 108
+Active Line: 112
+Video Position: 18232
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -40,14 +39,14 @@ Dialogue: 10,0:00:13.55,0:00:15.64,GJM_Main,,0,0,105,,All right, mission complet
 Dialogue: 10,0:00:16.06,0:00:17.12,GJM_Main,,0,0,105,,You fought well.{Good job.}{You all fought hard.}
 Dialogue: 10,0:00:20.82,0:00:21.66,GJM_Main,,0,0,0,,Rindou!
 Dialogue: 10,0:00:29.31,0:00:30.27,GJM_Main,,0,0,0,,Never mind.
-Dialogue: 10,0:00:36.48,0:00:40.43,GJM_Main,,0,0,0,,Um... Lenka's from outside the walls.
+Dialogue: 10,0:00:36.48,0:00:40.43,GJM_Main,,0,0,0,,Um... Lenka's from outside the walls.{ep4 preview line}
 Dialogue: 10,0:00:41.49,0:00:43.85,GJM_Main,,0,0,0,,It's probably about those people from earlier...{That incident earlier is probably bothering him still...}{He must be worried about those people...}{The people earlier must be weighing on his mind...}{worried isnt the right word. if anything, it's the entire incident with those people that's bothering him. that's what kouta's actually referring to, subtly. japanese is weird}{#}{maybe the literal would work better here. "It was probably about the people from before..."}{Okay I'm going back to this for now, maybe fomal will have a eureka moment}
 Dialogue: 10,0:00:44.90,0:00:46.08,GJM_Main,,0,0,0,,Outside the walls...
 Dialogue: 10,0:00:46.64,0:00:49.07,GJM_Main,,0,0,0,,You know that's just\Nhow it works around here.{You should know how it is here.}{You know that's just how things work here.}
 Dialogue: 10,0:00:49.91,0:00:54.45,GJM_Main,,0,0,0,,You two came from outside too.{You two came from the outside too, right?}{The two of you came from the outside too.}
 Dialogue: 10,0:00:57.23,0:00:58.45,GJM_Main,,0,0,0,,Soma...
-Dialogue: 10,0:00:59.14,0:01:02.29,GJM_Main,,0,0,0,,Do you know what it's like...
-Dialogue: 10,0:01:02.75,0:01:04.29,GJM_Main,,0,0,0,,to try and survive outside?
+Dialogue: 10,0:00:59.14,0:01:02.29,GJM_Main,,0,0,0,,Do you know what it's like...{ep4 preview line}
+Dialogue: 10,0:01:02.75,0:01:04.29,GJM_Main,,0,0,0,,to try and survive outside?{ep4 preview line}
 Comment: 10,0:01:39.91,0:03:13.33,GJM_Main,,0,0,0,,{OP}
 Dialogue: 10,0:03:15.32,0:03:16.11,GJM_Main,,0,0,100,,Miss Hibari.
 Dialogue: 10,0:03:16.55,0:03:17.46,GJM_Main,,0,0,100,,Yes?
@@ -67,7 +66,7 @@ Dialogue: 10,0:04:07.41,0:04:08.85,GJM_Main,,0,0,0,,This display.{That counter.}
 Dialogue: 10,0:04:09.55,0:04:12.10,GJM_Main,,0,0,0,,Oh... the number of survivors.
 Dialogue: 10,0:04:12.63,0:04:14.02,GJM_Main,,0,0,0,,Survivors?
 Dialogue: 10,0:04:15.23,0:04:16.11,GJM_Main,,0,0,0,,But...
-Dialogue: 10,0:04:18.13,0:04:22.28,GJM_Main,,0,0,0,,...there are survivors who\Nhaven't been{weren't} counted, right?
+Dialogue: 10,0:04:18.13,0:04:22.28,GJM_Main,,0,0,0,,...there are survivors who\Nhaven't been{weren't} counted, right?{ep4 preview line}
 Dialogue: 10,0:04:26.77,0:04:27.57,GJM_Main,,0,0,0,,What is it?
 Dialogue: 10,0:04:27.99,0:04:29.54,GJM_Main,,0,0,0,,Oh, Soma, sir!
 Dialogue: 10,0:04:30.16,0:04:32.75,GJM_Main,,0,0,0,,The Director has a special mission for you.
@@ -129,7 +128,7 @@ Dialogue: 10,0:09:25.42,0:09:27.94,GJM_Main,,0,0,0,,Why are there people in a Va
 Dialogue: 10,0:09:41.63,0:09:43.02,GJM_Main,,0,0,0,,Everyone, stay together!
 Dialogue: 10,0:09:46.24,0:09:49.15,GJM_Main,,0,0,0,,M-Miss Sakuya, what do we do?!
 Dialogue: 10,0:09:50.82,0:09:54.40,GJM_Main,,0,0,0,,We have to bring one down to open up an escape route!
-Dialogue: 10,0:10:30.19,0:10:32.84,GJM_Main,,0,0,0,,A black... Vajra.{preview in ep 04 has to change accordingly}
+Dialogue: 10,0:10:30.19,0:10:32.84,GJM_Main,,0,0,0,,A black... Vajra.{ep4 preview line}
 Dialogue: 10,0:10:57.82,0:10:58.86,GJM_Main,,0,0,0,,It's feeding!
 Dialogue: 10,0:10:59.58,0:11:01.64,GJM_Main,,0,0,0,,A mutant Vajra?
 Dialogue: 10,0:11:01.64,0:11:05.39,GJM_Main,,0,0,0,,I've never seen anything like it!
@@ -145,8 +144,8 @@ Dialogue: 10,0:11:36.05,0:11:37.85,GJM_Main,,0,0,100,,S-Save us!
 Dialogue: 10,0:12:01.58,0:12:04.86,GJM_Main,,0,0,0,,Right now, you all need to\Nget as far away as you can!{For now, all of you must get away from here!}
 Dialogue: 10,0:12:04.86,0:12:06.24,GJM_Main,,0,0,0,,Miss Sakuya!
 Dialogue: 10,0:12:31.37,0:12:33.44,GJM_Main,,0,0,0,,Lenka...
-Dialogue: 10,0:12:34.44,0:12:35.97,GJM_Main,,0,0,0,,Please...
-Dialogue: 10,0:12:38.54,0:12:40.44,GJM_Main,,0,0,0,,save everyone...{this and prior needs to be looked at in ep 04 preview}
+Dialogue: 10,0:12:34.44,0:12:35.97,GJM_Main,,0,0,0,,Please...{ep4 preview line}
+Dialogue: 10,0:12:38.54,0:12:40.44,GJM_Main,,0,0,0,,save everyone...{ep4 preview line}
 Dialogue: 10,0:13:18.47,0:13:19.54,GJM_Main,,0,0,0,,Where is it?!
 Dialogue: 10,0:15:26.49,0:15:27.54,GJM_Main,,0,0,0,,Stop...
 Dialogue: 10,0:15:32.20,0:15:33.35,GJM_Main,,0,0,0,,Just stop...

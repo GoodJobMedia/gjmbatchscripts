@@ -16,8 +16,8 @@ Video File: D:/Fansubbing/GoodJob/God Eater/04/God Eater 04 v2 ().mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 243
-Active Line: 251
+Scroll Position: 4132
+Active Line: 4144
 Video Position: 29275
 
 [V4+ Styles]
@@ -35,150 +35,150 @@ Style: God Eater ED-Eng,Formal436 BT,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:00:07.91,0:00:10.53,GJM_Main,,0,0,0,,{\an8}Johannes, the report is ready.
 Dialogue: 0,0:00:10.53,0:00:12.95,GJM_Main,,0,0,0,,{\an8}Good. Send it over to me.
-Dialogue: 0,0:00:15.14,0:00:18.49,GJM_Main,,0,0,0,,{\an8}What do you think Headquarters\Nwill do when they see the report?{How will Headquarters react when they see this report?}
-Dialogue: 0,0:00:19.00,0:00:20.61,GJM_Main,,0,0,0,,{\an8}There's only one thing to do.{You should know.}{There's only one answer.}{being liberal here. there's probably a better way to word this than using mine though. it's saying headquarter's decision should be obvious, while directing it at sakaki.}
-Dialogue: 0,0:00:20.61,0:00:22.25,GJM_Main,,0,0,0,,{\an8}They'll shut down the project.{It'll be the end for our project.}
-Dialogue: 0,0:00:29.23,0:00:31.46,GJM_Main,,0,0,0,,{\an8}As well as any prospects for the future.{As well as our future prospects.}{As well as for any prospects of the future.}
+Dialogue: 0,0:00:15.14,0:00:18.49,GJM_Main,,0,0,0,,{\an8}What do you think Headquarters\Nwill do when they see the report?
+Dialogue: 0,0:00:19.00,0:00:20.61,GJM_Main,,0,0,0,,{\an8}There's only one thing to do.
+Dialogue: 0,0:00:20.61,0:00:22.25,GJM_Main,,0,0,0,,{\an8}They'll shut down the project.
+Dialogue: 0,0:00:29.23,0:00:31.46,GJM_Main,,0,0,0,,{\an8}As well as any prospects for the future.
 Dialogue: 0,0:00:41.06,0:00:42.18,GJM_Main,,0,0,0,,Excuse me.
-Dialogue: 0,0:00:44.53,0:00:49.86,GJM_Main,,0,0,0,,I brought Alisa Ilinichina Amiella and Lenka Utsugi.
+Dialogue: 0,0:00:44.53,0:00:49.86,GJM_Main,,0,0,0,,I brought Alisa Ilinichina Amiella and Utsugi Lenka.
 Dialogue: 0,0:00:51.13,0:00:52.86,GJM_Main,,0,0,0,,Thank you.
 Dialogue: 0,0:00:54.20,0:00:56.62,GJM_Main,,0,0,0,,I'm Johannes von Schicksal,
 Dialogue: 0,0:00:57.24,0:00:59.93,GJM_Main,,0,0,0,,Director of Fenrir's Far East Branch.
 Comment: 0,0:01:01.87,0:02:30.17,GJM_Main,,0,0,0,,{OP}
-Dialogue: 0,0:02:33.62,0:02:36.81,GJM_Main,,0,0,0,,I want to welcome you,\NAlisa Ilinichina Amiella.{Welcome to our branch, Alisa linichina Amiella.}
-Dialogue: 0,0:02:37.85,0:02:40.05,GJM_Main,,0,0,0,,You're here at the Far East Branch...{We requested you here to the Far East Branch...}
-Dialogue: 0,0:02:40.47,0:02:42.06,GJM_Main,,0,0,0,,...to take part in the Aegis Project.{...for the Aegis Project.}
+Dialogue: 0,0:02:33.62,0:02:36.81,GJM_Main,,0,0,0,,I want to welcome you,\NAlisa Ilinichina Amiella.
+Dialogue: 0,0:02:37.85,0:02:40.05,GJM_Main,,0,0,0,,You're here at the Far East Branch...
+Dialogue: 0,0:02:40.47,0:02:42.06,GJM_Main,,0,0,0,,...to take part in the Aegis Project.
 Dialogue: 0,0:02:43.65,0:02:44.39,GJM_Main,,0,0,0,,Yes.
-Dialogue: 0,0:02:44.98,0:02:49.63,GJM_Main,,0,0,100,,Humanity's{Mankind's} fate rests on the shoulders\Nof New-Type God Eaters like you.
-Dialogue: 0,0:02:50.41,0:02:51.40,GJM_Main,,0,0,100,,Lenka Utsugi.
-Dialogue: 0,0:02:52.00,0:02:54.61,GJM_Main,,0,0,100,,Because of your commendable contributions,{In view of your laudable actions,}
-Dialogue: 0,0:02:54.61,0:02:58.49,GJM_Main,,0,0,100,,the charges of insubordination\Nagainst you have been dropped.{the charges against you for insubordination are suspended.}
+Dialogue: 0,0:02:44.98,0:02:49.63,GJM_Main,,0,0,100,,Humanity's fate rests on the shoulders\Nof New-Type God Eaters like you.
+Dialogue: 0,0:02:50.41,0:02:51.40,GJM_Main,,0,0,100,,Utsugi Lenka.
+Dialogue: 0,0:02:52.00,0:02:54.61,GJM_Main,,0,0,100,,Because of your commendable contributions,
+Dialogue: 0,0:02:54.61,0:02:58.49,GJM_Main,,0,0,100,,the charges of insubordination\Nagainst you have been dropped.
 Dialogue: 0,0:02:59.02,0:02:59.79,GJM_Main,,0,0,100,,Thank you.
-Dialogue: 0,0:03:00.75,0:03:03.74,GJM_Main,,0,0,100,,{Both of you, live up to our expectations.}We're counting on the two of you.
+Dialogue: 0,0:03:00.75,0:03:03.74,GJM_Main,,0,0,100,,We're counting on the two of you.
 Dialogue: 0,0:03:06.23,0:03:07.07,GJM_Main,,0,0,100,,Utsugi...
 Dialogue: 0,0:03:08.04,0:03:12.64,GJM_Main,,0,0,100,,If it were up to me, I would prefer\Nto train you properly from scratch,
 Dialogue: 0,0:03:12.64,0:03:14.75,GJM_Main,,0,0,0,,but orders are orders.
-Dialogue: 0,0:03:15.34,0:03:17.98,GJM_Main,,0,0,0,,You will be assigned to a unit right away.{Both of you are going to be assigned to a unit.}
+Dialogue: 0,0:03:15.34,0:03:17.98,GJM_Main,,0,0,0,,You will be assigned to a unit right away.
 Dialogue: 0,0:03:27.54,0:03:28.38,GJM_Main,,0,0,0,,Kouta!
 Dialogue: 0,0:03:29.82,0:03:30.69,GJM_Main,,0,0,0,,Line up.
-Dialogue: 0,0:03:34.60,0:03:35.98,GJM_Main,,0,0,0,,Kouta Fujiki...
+Dialogue: 0,0:03:34.60,0:03:35.98,GJM_Main,,0,0,0,,Fujiki Kouta...
 Dialogue: 0,0:03:36.40,0:03:38.48,GJM_Main,,0,0,0,,Alisa Ilinichina Amiella...
-Dialogue: 0,0:03:39.07,0:03:40.49,GJM_Main,,0,0,0,,Lenka Utsugi...
-Dialogue: 0,0:03:40.96,0:03:45.12,GJM_Main,,0,0,0,,As of this moment, you are all\N being assigned to the 1st Unit.{cutting the three, inferred}{ep3 preview line}
+Dialogue: 0,0:03:39.07,0:03:40.49,GJM_Main,,0,0,0,,Utsugi Lenka...
+Dialogue: 0,0:03:40.96,0:03:45.12,GJM_Main,,0,0,0,,As of this moment, you are all\Nbeing assigned to the 1st Unit.{ep3 preview line}
 Dialogue: 0,0:03:48.06,0:03:48.85,GJM_Main,,0,0,0,,Roger!
 Dialogue: 0,0:03:50.51,0:03:53.75,GJM_Main,,0,0,0,,You will now take orders from the unit captain.
 Dialogue: 0,0:03:54.20,0:03:55.47,GJM_Main,,0,0,0,,Captain Amamiya!
 Dialogue: 0,0:03:57.04,0:03:58.66,GJM_Main,,0,0,0,,Roger that.
-Dialogue: 0,0:03:59.18,0:04:00.72,GJM_Main,,0,0,0,,{Anyway...}You heard the lady.
+Dialogue: 0,0:03:59.18,0:04:00.72,GJM_Main,,0,0,0,,You heard the lady.
 Dialogue: 0,0:04:01.55,0:04:03.32,GJM_Main,,0,0,0,,I'm Amamiya, unit captain.
 Dialogue: 0,0:04:03.85,0:04:05.07,GJM_Main,,0,0,0,,Call me Rindou.
-Dialogue: 0,0:04:05.07,0:04:06.72,GJM_Main,,0,0,0,,Yes, Rindou, sir!{Yes, Lindow, sir!}{The orig is closer to real American military speech, imo. Putting someone's name without any kind of title or honorific at the end like that is a pretty casual tone. -Fomal}
-Dialogue: 0,0:04:07.20,0:04:09.43,GJM_Main,,0,0,0,,At ease. No need to stand on ceremony.{Relax. There's no need to stand on ceremony.}
-Dialogue: 0,0:04:10.14,0:04:12.60,GJM_Main,,0,0,0,,I'm Sakuya Tachibana, second-in-command.{sub-captain's second in command, im assuming? also is there a need for hyphens in the latter part of the line?}
+Dialogue: 0,0:04:05.07,0:04:06.72,GJM_Main,,0,0,0,,Yes, Rindou, sir!
+Dialogue: 0,0:04:07.20,0:04:09.43,GJM_Main,,0,0,0,,At ease. No need to stand on ceremony.
+Dialogue: 0,0:04:10.14,0:04:12.60,GJM_Main,,0,0,0,,I'm Tachibana Sakuya, second-in-command.
 Dialogue: 0,0:04:13.29,0:04:14.29,GJM_Main,,0,0,0,,Good to meet you.
 Dialogue: 0,0:04:14.95,0:04:17.28,GJM_Main,,0,0,0,,Right! Glad to meet you, Miss Sakuya!
 Dialogue: 0,0:04:18.46,0:04:19.86,GJM_Main,,0,0,0,,Your turn.
 Dialogue: 0,0:04:20.49,0:04:21.75,GJM_Main,,0,0,0,,Introduce yourself.
 Dialogue: 0,0:04:23.10,0:04:24.57,GJM_Main,,0,0,0,,I'm Soma.
 Dialogue: 0,0:04:24.87,0:04:27.21,GJM_Main,,0,0,0,,Nice to meet you. Soma, sir!
-Dialogue: 0,0:04:27.69,0:04:29.30,GJM_Main,,0,0,0,,{Never mind the name.}Don't bother remembering my name.
-Dialogue: 0,0:04:29.30,0:04:32.91,GJM_Main,,0,0,0,,{Get up to speed fast, so you can have our backs.}Learn fast, so that we can\Ntrust you to have our backs.{lit meaning - learn the ropes and become skilled fighters so you've got our backs.}
+Dialogue: 0,0:04:27.69,0:04:29.30,GJM_Main,,0,0,0,,Don't bother remembering my name.
+Dialogue: 0,0:04:29.30,0:04:32.91,GJM_Main,,0,0,0,,Learn fast, so that we can\Ntrust you to have our backs.
 Dialogue: 0,0:04:33.56,0:04:34.84,GJM_Main,,0,0,0,,You start tomorrow,
 Dialogue: 0,0:04:35.34,0:04:37.13,GJM_Main,,0,0,0,,so rest up today.
-Dialogue: 0,0:04:43.59,0:04:44.72,GJM_Main,,0,0,0,,{Got my back?}Let's get along.
+Dialogue: 0,0:04:43.59,0:04:44.72,GJM_Main,,0,0,0,,Let's get along.
 Dialogue: 0,0:04:45.09,0:04:45.79,GJM_Main,,0,0,0,,Yeah.
 Dialogue: 0,0:04:47.28,0:04:49.10,GJM_Main,,0,0,0,,Kouta, your clothes...
 Dialogue: 0,0:04:49.10,0:04:51.23,GJM_Main,,0,0,0,,Nice, huh?
-Dialogue: 0,0:04:51.23,0:04:54.70,GJM_Main,,0,0,0,,{It's a present from my mom for finishing training.}My mom sent this to me as a present\Nfor completing training.
+Dialogue: 0,0:04:51.23,0:04:54.70,GJM_Main,,0,0,0,,My mom sent this to me as a present\Nfor completing training.
 Dialogue: 0,0:04:54.70,0:04:55.48,GJM_Main,,0,0,0,,Oh, hey!
-Dialogue: 0,0:04:57.10,0:04:59.94,GJM_Main,,0,0,0,,{It's our day off. Why don't we go into town?}We've got today off,\Nso why don't we go into town?
-Dialogue: 0,0:04:59.94,0:05:03.32,GJM_Main,,0,0,0,,{C'mon, Lenka. To mark our unit assignment.}You too, Lenka.\NLet's celebrate our unit assignment.
+Dialogue: 0,0:04:57.10,0:04:59.94,GJM_Main,,0,0,0,,We've got today off,\Nso why don't we go into town?
+Dialogue: 0,0:04:59.94,0:05:03.32,GJM_Main,,0,0,0,,You too, Lenka.\NLet's celebrate our unit assignment.
 Dialogue: 0,0:05:06.40,0:05:07.80,GJM_Main,,0,0,0,,Hey! Wait!
-Dialogue: 0,0:05:10.31,0:05:12.54,GJM_Main,,0,0,0,,{Oh well, let's go, Lenka.}Well, whatever. Let's go, Lenka.
-Dialogue: 0,0:05:12.98,0:05:15.21,GJM_Main,,0,0,0,,No thanks, I want to train.{shut. down.}
-Dialogue: 0,0:05:38.21,0:05:40.05,GJM_Main,,0,0,0,,How are you doing here?{How are things going?}{Is everything going well over here?}
+Dialogue: 0,0:05:10.31,0:05:12.54,GJM_Main,,0,0,0,,Well, whatever. Let's go, Lenka.
+Dialogue: 0,0:05:12.98,0:05:15.21,GJM_Main,,0,0,0,,No thanks, I want to train.
+Dialogue: 0,0:05:38.21,0:05:40.05,GJM_Main,,0,0,0,,How are you doing here?
 Dialogue: 0,0:05:40.81,0:05:43.06,GJM_Main,,0,0,0,,The one named Utsugi...
-Dialogue: 0,0:05:43.06,0:05:45.03,GJM_Main,,0,0,0,,{Is that the New-Type youth?}Is that the other New-Type?
+Dialogue: 0,0:05:43.06,0:05:45.03,GJM_Main,,0,0,0,,Is that the other New-Type?
 Dialogue: 0,0:05:45.63,0:05:46.89,GJM_Main,,0,0,0,,His eyes...
 Dialogue: 0,0:05:47.37,0:05:47.94,GJM_Main,,0,0,0,,His eyes?
-Dialogue: 0,0:05:48.93,0:05:50.28,GJM_Main,,0,0,0,,{They're the same as mine.}They're just like mine...{ep3 preview line}
-Dialogue: 0,0:05:53.27,0:05:54.22,GJM_Main,,0,0,0,,Uzhas.{quotes or italics for foreign languages?}
-Dialogue: 0,0:05:55.15,0:05:57.54,GJM_Main,,0,0,0,,As in "horror" in Russian?{Uzhas... as in "Hell"( in Russian)?}{im /assuming/ that's what it means}{apparently it literally means "horror". but as a saying like "oh, damn" or awful!", most often women use it.}
-Dialogue: 0,0:05:57.54,0:05:59.96,GJM_Main,,0,0,0,,{No, forget what I said.}It's nothing. Forget what I said.
+Dialogue: 0,0:05:48.93,0:05:50.28,GJM_Main,,0,0,0,,They're just like mine...{ep3 preview line}
+Dialogue: 0,0:05:53.27,0:05:54.22,GJM_Main,,0,0,0,,Uzhas.
+Dialogue: 0,0:05:55.15,0:05:57.54,GJM_Main,,0,0,0,,As in "horror" in Russian?
+Dialogue: 0,0:05:57.54,0:05:59.96,GJM_Main,,0,0,0,,It's nothing. Forget what I said.
 Dialogue: 0,0:06:00.90,0:06:02.68,GJM_Main,,0,0,0,,Things here are very...
-Dialogue: 0,0:06:03.49,0:06:04.77,GJM_Main,,0,0,0,,{...peaceful?}It's peaceful, isn't it?
-Dialogue: 0,0:06:06.24,0:06:09.78,GJM_Main,,0,0,0,,{It gives you time, so I think it's good.}I think it's good that\Nyou'll have time to yourself.
-Dialogue: 0,0:06:11.54,0:06:14.10,GJM_Main,,0,0,0,,You have things that\Nyou need to do, don't you?{You have things you must do, right?}{signs that people are dying}
+Dialogue: 0,0:06:03.49,0:06:04.77,GJM_Main,,0,0,0,,It's peaceful, isn't it?
+Dialogue: 0,0:06:06.24,0:06:09.78,GJM_Main,,0,0,0,,I think it's good that you'll have time to yourself.
+Dialogue: 0,0:06:11.54,0:06:14.10,GJM_Main,,0,0,0,,You have things that you need to do, don't you?
 Dialogue: 0,0:06:16.09,0:06:16.70,GJM_Main,,0,0,0,,Yes.
-Dialogue: 0,0:06:24.27,0:06:27.17,GJM_Main,,0,0,0,,Man, this is good for relieving stress!{Finally! I can relax.}
-Dialogue: 0,0:06:28.45,0:06:30.47,GJM_Main,,0,0,0,,It's been nothing but training so far...{We've been training so much...}{It's been training after training so far.}
-Dialogue: 0,0:06:31.32,0:06:31.92,GJM_Main,,0,0,0,,Hm?{Hey?}
+Dialogue: 0,0:06:24.27,0:06:27.17,GJM_Main,,0,0,0,,Man, this is good for relieving stress!
+Dialogue: 0,0:06:28.45,0:06:30.47,GJM_Main,,0,0,0,,It's been nothing but training so far...
+Dialogue: 0,0:06:31.32,0:06:31.92,GJM_Main,,0,0,0,,Hm?
 Dialogue: 0,0:06:33.32,0:06:35.49,GJM_Main,,0,0,0,,What's up, Lenka?
 Dialogue: 0,0:06:35.49,0:06:37.12,GJM_Main,,0,0,0,,Well... Look.
 Dialogue: 0,0:06:41.47,0:06:44.19,GJM_Main,,0,0,0,,Oh, food distribution.
 Dialogue: 0,0:06:44.76,0:06:45.99,GJM_Main,,0,0,0,,Distribution?
 Dialogue: 0,0:06:47.51,0:06:49.59,GJM_Main,,0,0,0,,They're passing out food?
 Dialogue: 0,0:06:49.59,0:06:50.97,GJM_Main,,0,0,0,,To all those people?
-Dialogue: 0,0:06:52.15,0:06:55.24,GJM_Main,,0,0,0,,{Don't tell me you're from outside the walls?}Wait... are you from outside the walls?
+Dialogue: 0,0:06:52.15,0:06:55.24,GJM_Main,,0,0,0,,Wait... are you from outside the walls?
 Dialogue: 0,0:06:56.94,0:06:57.60,GJM_Main,,0,0,0,,Yeah...
-Dialogue: 0,0:06:58.01,0:07:00.95,GJM_Main,,0,0,0,,{Ah man, why didn't you say so?}What? Say so sooner!
-Dialogue: 0,0:07:00.95,0:07:02.94,GJM_Main,,0,0,0,,{You just arrived here?}{So you're new around here.}You just got here, huh?
+Dialogue: 0,0:06:58.01,0:07:00.95,GJM_Main,,0,0,0,,What? Say so sooner!
+Dialogue: 0,0:07:00.95,0:07:02.94,GJM_Main,,0,0,0,,You just got here, huh?
 Dialogue: 0,0:07:03.46,0:07:06.07,GJM_Main,,0,0,0,,Food and other daily essentials
-Dialogue: 0,0:07:06.07,0:07:09.82,GJM_Main,,0,0,0,,are distributed to all residents of Fenrir.{are distributed in Fenrir to all residents here.}
+Dialogue: 0,0:07:06.07,0:07:09.82,GJM_Main,,0,0,0,,are distributed to all residents of Fenrir.
 Dialogue: 0,0:07:11.84,0:07:13.03,GJM_Main,,0,0,0,,To everyone?
 Dialogue: 0,0:07:13.87,0:07:15.73,GJM_Main,,0,0,0,,Hey, let's go!
-Dialogue: 0,0:07:16.41,0:07:17.79,GJM_Main,,0,0,0,,S-Sure.{Yeah.}
+Dialogue: 0,0:07:16.41,0:07:17.79,GJM_Main,,0,0,0,,S-Sure.
 Dialogue: 0,0:07:24.00,0:07:25.84,GJM_Main,,0,0,0,,Wait here, okay?
 Dialogue: 0,0:07:26.97,0:07:28.00,GJM_Main,,0,0,0,,I'm home!
 Dialogue: 0,0:07:28.99,0:07:30.20,GJM_Main,,0,0,0,,Kouta!
 Dialogue: 0,0:07:31.38,0:07:32.43,GJM_Main,,0,0,0,,Welcome home.
-Dialogue: 0,0:07:33.42,0:07:36.18,GJM_Main,,0,0,0,,{Hey, did Nozomi go out?}Oh, is Nozomi out right now?
-Dialogue: 0,0:07:36.70,0:07:38.19,GJM_Main,,0,0,0,,{Here, from me.}This is for you.
-Dialogue: 0,0:07:39.64,0:07:41.97,GJM_Main,,0,0,0,,{Oh, this is Lenka from my class.}Oh, this is my buddy, Lenka.
-Dialogue: 0,0:07:42.57,0:07:45.90,GJM_Main,,0,0,0,,{Mom, I'm officially assigned to a unit!}Mom, I got officially assigned to a unit!
-Dialogue: 0,0:07:49.54,0:07:52.22,GJM_Main,,0,0,0,,{So to celebrate, I got all your favorites...}So I got some food\Nyou can cook to celebrate...
+Dialogue: 0,0:07:33.42,0:07:36.18,GJM_Main,,0,0,0,,Oh, is Nozomi out right now?
+Dialogue: 0,0:07:36.70,0:07:38.19,GJM_Main,,0,0,0,,This is for you.
+Dialogue: 0,0:07:39.64,0:07:41.97,GJM_Main,,0,0,0,,Oh, this is my buddy, Lenka.
+Dialogue: 0,0:07:42.57,0:07:45.90,GJM_Main,,0,0,0,,Mom, I got officially assigned to a unit!
+Dialogue: 0,0:07:49.54,0:07:52.22,GJM_Main,,0,0,0,,So I got some food\Nyou can cook to celebrate...
 Dialogue: 0,0:07:53.75,0:07:55.26,GJM_Main,,0,0,0,,So you'll be dispatched?{ep3 preview line}
 Dialogue: 0,0:08:00.98,0:08:03.67,GJM_Main,,0,0,0,,I can't believe you're a God Eater...
 Dialogue: 0,0:08:07.93,0:08:10.67,GJM_Main,,0,0,0,,Y-You know what, Mom? I have to go.
-Dialogue: 0,0:08:10.67,0:08:12.33,GJM_Main,,0,0,0,,I have things to do.{I just remembered an errand.}{split from 108}
+Dialogue: 0,0:08:10.67,0:08:12.33,GJM_Main,,0,0,0,,I have things to do.
 Dialogue: 0,0:08:12.33,0:08:13.18,GJM_Main,,0,0,0,,Kouta!
-Dialogue: 0,0:08:13.80,0:08:15.48,GJM_Main,,0,0,0,,Come home safe.{I even toyed with "Come back to me." without the safe, but I'm not going to make that call as a QC. I think it adds a really serious tone her words, implying that she expects for him not to make it back at all. -Fomal}
+Dialogue: 0,0:08:13.80,0:08:15.48,GJM_Main,,0,0,0,,Come home safe.
 Dialogue: 0,0:08:19.08,0:08:20.68,GJM_Main,,0,0,0,,Don't worry!{ep3 preview line}
 Dialogue: 0,0:08:21.20,0:08:22.39,GJM_Main,,0,0,0,,I'll stop by again.
 Dialogue: 0,0:08:23.20,0:08:23.85,GJM_Main,,0,0,0,,Let's go.
 Dialogue: 0,0:08:36.37,0:08:37.29,GJM_Main,,0,0,0,,Kouta.
-Dialogue: 0,0:08:43.19,0:08:44.21,GJM_Main,,0,0,0,,This is...{This place...}
+Dialogue: 0,0:08:43.19,0:08:44.21,GJM_Main,,0,0,0,,This is...
 Dialogue: 0,0:08:57.41,0:08:58.78,GJM_Main,,0,0,0,,...where {\i1}it{\i0} happened.
 Dialogue: 0,0:08:59.34,0:09:00.68,GJM_Main,,0,0,0,,This is terrible.
-Dialogue: 0,0:09:09.59,0:09:12.41,GJM_Main,,0,0,0,,They'd better hurry up and finish Aegis.{They'd better complete Aegis in a hurry.}{Aegis needs to be completed soon.}
+Dialogue: 0,0:09:09.59,0:09:12.41,GJM_Main,,0,0,0,,They'd better hurry up and finish Aegis.
 Dialogue: 0,0:09:12.95,0:09:13.89,GJM_Main,,0,0,0,,Aegis?
 Dialogue: 0,0:09:14.59,0:09:17.03,GJM_Main,,0,0,0,,Oh, you don't know about Aegis either.
 Dialogue: 0,0:09:18.26,0:09:19.02,GJM_Main,,0,0,0,,Follow me.
-Dialogue: 0,0:09:28.08,0:09:29.82,GJM_Main,,0,0,0,,{See that?}Do you see that over there?
+Dialogue: 0,0:09:28.08,0:09:29.82,GJM_Main,,0,0,0,,Do you see that over there?
 Dialogue: 0,0:09:29.82,0:09:30.75,GJM_Main,,0,0,0,,Huh?
 Dialogue: 0,0:09:37.82,0:09:38.82,GJM_Main,,0,0,0,,An island?
 Dialogue: 0,0:09:39.60,0:09:41.20,GJM_Main,,0,0,0,,That's Aegis.
 Dialogue: 0,0:09:41.99,0:09:43.66,GJM_Main,,0,0,0,,That island is Aegis?
 Dialogue: 0,0:09:43.66,0:09:44.54,GJM_Main,,0,0,0,,Yup.
-Dialogue: 0,0:09:44.54,0:09:48.64,GJM_Main,,0,0,0,,The Aegis Project is a plan\Nto turn that entire island into a shelter.{The Aegis Project is to make that entire island a shelter.}
+Dialogue: 0,0:09:44.54,0:09:48.64,GJM_Main,,0,0,0,,The Aegis Project is a plan\Nto turn that entire island into a shelter.
 Dialogue: 0,0:09:49.16,0:09:51.52,GJM_Main,,0,0,0,,A huge island like that?
-Dialogue: 0,0:09:52.65,0:09:55.16,GJM_Main,,0,0,0,,{A place where Aragami cannot attack...}A place that can't be attacked by Aragami.
-Dialogue: 0,0:09:55.16,0:09:59.03,GJM_Main,,0,0,0,,{Mankind's last hope, the Aegis Project.}The Aegis Project is humanity's last hope.
+Dialogue: 0,0:09:52.65,0:09:55.16,GJM_Main,,0,0,0,,A place that can't be attacked by Aragami.
+Dialogue: 0,0:09:55.16,0:09:59.03,GJM_Main,,0,0,0,,The Aegis Project is humanity's last hope.
 Dialogue: 0,0:10:01.08,0:10:04.70,GJM_Main,,0,0,0,,How many people will it house once it's completed?
-Dialogue: 0,0:10:05.48,0:10:06.81,GJM_Main,,0,0,0,,Everyone.{The entire population of humanity.}{mankind/humanity keeps getting thrown about. so personally, id prefer a rewording that doesnt have it. anyway, the original is the lit}{It's implied if you just say "everyone" that he means literally *everyone*. Good way to avoid literally wording jinrui -Fomal}
+Dialogue: 0,0:10:05.48,0:10:06.81,GJM_Main,,0,0,0,,Everyone.
 Dialogue: 0,0:10:09.02,0:10:12.75,GJM_Main,,0,0,0,,It can house every last person on Earth.
 Dialogue: 0,0:10:30.53,0:10:32.45,GJM_Main,,0,0,0,,Every person on Earth?
 Dialogue: 0,0:10:34.15,0:10:36.18,GJM_Main,,0,0,0,,Feels strange, doesn't it?
 Dialogue: 0,0:10:36.18,0:10:39.13,GJM_Main,,0,0,0,,The future of mankind rests with us.
-Dialogue: 0,0:10:40.20,0:10:46.45,GJM_Main,,0,0,0,,The 1st Unit's mission is to take down\Nthe Aragami and bring back their cores.{merged}{actually my question is, while the aragami come in different forms, they're all just one huge colony of cells. is it appropriate to use plural pronouns?}{I guess so, they're all seperate full entities as far as discussing them is concerned.}{I'm going to say yes here because they are separate bodies, even if they're one gestalt organism. As a counter point, if it's a gestalt colony of cells, each cell can be considered a component of the group, so plural is fine, but that's just me coming up with pointless explanations. -Fomal}
+Dialogue: 0,0:10:40.20,0:10:46.45,GJM_Main,,0,0,0,,The 1st Unit's mission is to take down\Nthe Aragami and bring back their cores.
 Dialogue: 0,0:10:47.08,0:10:48.37,GJM_Main,,0,0,0,,Cores?
 Dialogue: 0,0:10:48.37,0:10:51.67,GJM_Main,,0,0,0,,The cores are used to construct Aegis.
 Dialogue: 0,0:10:53.94,0:10:55.67,GJM_Main,,0,0,0,,We have to give it our all.
-Dialogue: 0,0:11:02.17,0:11:02.86,GJM_Main,,0,0,0,,Yeah.{im cringing}
+Dialogue: 0,0:11:02.17,0:11:02.86,GJM_Main,,0,0,0,,Yeah.
 Dialogue: 0,0:11:23.27,0:11:26.41,GJM_Main,,0,0,100,,Kouta, this'll be your first real battle, right?
 Dialogue: 0,0:11:26.92,0:11:28.90,GJM_Main,,0,0,100,,I-I'll be fine!
 Dialogue: 0,0:11:28.90,0:11:30.92,GJM_Main,,0,0,100,,I'm fully trained and ready to go!
-Dialogue: 0,0:11:32.17,0:11:34.44,GJM_Main,,0,0,100,,We'll go in pairs today.{"cells" are typically used to describe terrorist circles. The engrish is really shitty here. -Fomal}
+Dialogue: 0,0:11:32.17,0:11:34.44,GJM_Main,,0,0,100,,We'll go in pairs today.
 Dialogue: 0,0:11:34.44,0:11:37.80,GJM_Main,,0,0,100,,As for the match-ups...
 Dialogue: 0,0:11:38.13,0:11:40.35,GJM_Main,,0,0,100,,Alisa and her gun with me.
 Dialogue: 0,0:11:40.35,0:11:42.99,GJM_Main,,0,0,100,,Newbie and his blade with Sakuya.
@@ -199,10 +199,10 @@ Dialogue: 0,0:12:17.25,0:12:18.40,GJM_Main,,0,0,0,,Make it count.
 Dialogue: 0,0:12:29.97,0:12:31.58,GJM_Main,,0,0,0,,Lenka, divert it!
 Dialogue: 0,0:12:39.63,0:12:41.15,GJM_Main,,0,0,0,,Lenka, devour!
 Dialogue: 0,0:12:41.75,0:12:43.00,GJM_Main,,0,0,0,,Straight into the body!
-Dialogue: 0,0:12:56.95,0:12:59.99,GJM_Main,,0,0,0,,That's it!{That's the way.} Let's go find the next one.
+Dialogue: 0,0:12:56.95,0:12:59.99,GJM_Main,,0,0,0,,That's it! Let's go find the next one.
 Dialogue: 0,0:13:06.86,0:13:07.64,GJM_Main,,0,0,0,,Alisa!
 Dialogue: 0,0:13:14.02,0:13:14.73,GJM_Main,,0,0,0,,Okay!
-Dialogue: 0,0:13:22.74,0:13:27.66,GJM_Main,,0,0,0,,Say, Alisa... You {\i1}do{\i0} know what a pair is, right?{Same as before. Cell sounds weird. -Fomal}
+Dialogue: 0,0:13:22.74,0:13:27.66,GJM_Main,,0,0,0,,Say, Alisa... You {\i1}do{\i0} know what a pair is, right?
 Dialogue: 0,0:13:28.11,0:13:30.99,GJM_Main,,0,0,0,,I simply took the most effective action.
 Dialogue: 0,0:13:39.22,0:13:41.25,GJM_Main,,0,0,0,,I don't see any.
 Dialogue: 0,0:13:43.75,0:13:44.70,GJM_Main,,0,0,0,,By the way...
@@ -219,8 +219,8 @@ Dialogue: 0,0:14:48.67,0:14:49.70,GJM_Main,,0,0,0,,Lenka!
 Dialogue: 0,0:15:02.90,0:15:03.75,GJM_Main,,0,0,0,,Alisa!
 Dialogue: 0,0:15:06.87,0:15:07.80,GJM_Main,,0,0,0,,Finish it!
 Dialogue: 0,0:15:10.93,0:15:12.01,GJM_Main,,0,0,0,,Alisa?
-Dialogue: 0,0:15:15.49,0:15:17.02,GJM_Main,,0,0,0,,{What is she up to?}What is she doing?{Just what's going through her mind?}
-Dialogue: 0,0:15:36.27,0:15:39.29,GJM_Main,,0,0,0,,Just get one good hit in, newbie.{Bring it down with one blow. You're being sloppy.}{Implies the same, and way more rude. Good characterization, imo. -Fomal}
+Dialogue: 0,0:15:15.49,0:15:17.02,GJM_Main,,0,0,0,,What is she doing?
+Dialogue: 0,0:15:36.27,0:15:39.29,GJM_Main,,0,0,0,,Just get one good hit in, newbie.
 Dialogue: 0,0:15:49.06,0:15:51.47,GJM_Main,,0,0,0,,Why didn't you finish it off, Alisa?!
 Dialogue: 0,0:15:51.47,0:15:52.70,GJM_Main,,0,0,0,,I didn't have to.
 Dialogue: 0,0:15:53.24,0:15:55.55,GJM_Main,,0,0,0,,I already fulfilled my quota.
@@ -231,23 +231,23 @@ Dialogue: 0,0:16:04.31,0:16:05.24,GJM_Main,,0,0,0,,A unit is—
 Dialogue: 0,0:16:05.24,0:16:07.79,GJM_Main,,0,0,0,,How many did you guys get?
 Dialogue: 0,0:16:08.47,0:16:09.75,GJM_Main,,0,0,0,,Just one.
 Dialogue: 0,0:16:10.84,0:16:11.72,GJM_Main,,0,0,0,,Kouta?
-Dialogue: 0,0:16:11.72,0:16:14.61,GJM_Main,,0,0,0,,Uh... two with this one just now.{Um... two if you count the one just now.}
+Dialogue: 0,0:16:11.72,0:16:14.61,GJM_Main,,0,0,0,,Uh... two with this one just now.
 Dialogue: 0,0:16:15.04,0:16:16.30,GJM_Main,,0,0,0,,At least, Soma did.
 Dialogue: 0,0:16:16.82,0:16:19.96,GJM_Main,,0,0,0,,And... I got one.
 Dialogue: 0,0:16:23.50,0:16:24.79,GJM_Main,,0,0,0,,Let's head back.
 Dialogue: 0,0:16:46.51,0:16:48.63,GJM_Main,,0,0,0,,Hey!
-Dialogue: 0,0:16:51.30,0:16:52.24,GJM_Main,,0,0,0,,People?{lenka just loves one word responses. it makes me worry if he's right in the head or if he's suffering from PTSD and needs to be checked by a doctor immediately}
+Dialogue: 0,0:16:51.30,0:16:52.24,GJM_Main,,0,0,0,,People?
 Dialogue: 0,0:17:01.52,0:17:02.70,GJM_Main,,0,0,0,,We're saved...
 Dialogue: 0,0:17:03.72,0:17:05.06,GJM_Main,,0,0,0,,We're saved!
 Dialogue: 0,0:17:14.44,0:17:16.80,GJM_Main,,0,0,0,,I thought it was over for us.
 Dialogue: 0,0:17:16.80,0:17:18.37,GJM_Main,,0,0,0,,We sure were lucky.
-Dialogue: 0,0:17:19.20,0:17:20.58,GJM_Main,,0,0,0,,You were going to the Far East Branch?{Trying to reduce CPS, but I don't think it'll even be noticeable. ;_; -Fomal}
+Dialogue: 0,0:17:19.20,0:17:20.58,GJM_Main,,0,0,0,,You were going to the Far East Branch?
 Dialogue: 0,0:17:21.87,0:17:24.22,GJM_Main,,0,0,0,,We lost most of the others.
 Dialogue: 0,0:17:27.83,0:17:28.46,GJM_Main,,0,0,0,,Here.
 Dialogue: 0,0:17:35.04,0:17:36.63,GJM_Main,,0,0,0,,Th-Thank you!
 Dialogue: 0,0:17:39.62,0:17:41.20,GJM_Main,,0,0,0,,Go ahead and drink first.
 Dialogue: 0,0:17:43.11,0:17:44.62,GJM_Main,,0,0,0,,Thank you.
-Dialogue: 0,0:17:45.62,0:17:46.17,GJM_Main,,0,0,0,,No problem.{Sure.}
+Dialogue: 0,0:17:45.62,0:17:46.17,GJM_Main,,0,0,0,,No problem.
 Dialogue: 0,0:17:47.71,0:17:48.74,GJM_Main,,0,0,0,,Is this really okay?
 Dialogue: 0,0:17:48.74,0:17:51.05,GJM_Main,,0,0,0,,We can't exactly ignore them.
 Dialogue: 0,0:17:51.05,0:17:53.55,GJM_Main,,0,0,0,,I don't mean that. What if...
@@ -255,7 +255,7 @@ Dialogue: 0,0:17:56.74,0:17:59.43,GJM_Main,,0,0,0,,Are you guys God Eaters?{ep3 
 Dialogue: 0,0:18:01.48,0:18:02.19,GJM_Main,,0,0,0,,Yeah.
 Dialogue: 0,0:18:03.38,0:18:05.85,GJM_Main,,0,0,0,,Then did you kill the Aragami?
 Dialogue: 0,0:18:08.33,0:18:09.07,GJM_Main,,0,0,0,,Yeah.
-Dialogue: 0,0:18:11.60,0:18:13.07,GJM_Main,,0,0,0,,Wow...{Awesome.}
+Dialogue: 0,0:18:11.60,0:18:13.07,GJM_Main,,0,0,0,,Wow...
 Dialogue: 0,0:18:23.18,0:18:26.26,GJM_Main,,0,0,0,,The civilian gate is over there.
 Dialogue: 0,0:18:26.26,0:18:29.00,GJM_Main,,0,0,0,,Thank you so much.
 Dialogue: 0,0:18:29.45,0:18:31.81,GJM_Main,,0,0,0,,Now then, we'll be going.
@@ -272,11 +272,11 @@ Dialogue: 0,0:19:22.94,0:19:23.86,GJM_Main,,0,0,0,,Stop this!
 Dialogue: 0,0:19:26.94,0:19:29.02,GJM_Main,,0,0,0,,Why won't you let them enter?
 Dialogue: 0,0:19:29.52,0:19:32.65,GJM_Main,,0,0,0,,None of them passed the patch test.
 Dialogue: 0,0:19:33.16,0:19:33.77,GJM_Main,,0,0,0,,Patch test?
-Dialogue: 0,0:19:34.71,0:19:40.72,GJM_Main,,0,0,0,,Only those with God Arc compatibility\Nand their families are permitted to enter Fenrir!{merged}
+Dialogue: 0,0:19:34.71,0:19:40.72,GJM_Main,,0,0,0,,Only those with God Arc compatibility\Nand their families are permitted to enter Fenrir!
 Dialogue: 0,0:19:41.34,0:19:42.44,GJM_Main,,0,0,0,,What?
 Dialogue: 0,0:19:42.84,0:19:44.74,GJM_Main,,0,0,0,,So you're turning them away?!
 Dialogue: 0,0:19:45.11,0:19:47.40,GJM_Main,,0,0,0,,We can't let just anyone enter!
-Dialogue: 0,0:19:48.77,0:19:50.79,GJM_Main,,0,0,0,,You of all people should know that.{You know all too well...!}{/You/ should know this.}
+Dialogue: 0,0:19:48.77,0:19:50.79,GJM_Main,,0,0,0,,You of all people should know that.
 Dialogue: 0,0:20:02.03,0:20:03.11,GJM_Main,,0,0,0,,Let's go.
 Dialogue: 0,0:20:04.31,0:20:06.20,GJM_Main,,0,0,0,,Go? But to where?!
 Dialogue: 0,0:20:06.20,0:20:08.68,GJM_Main,,0,0,0,,Where will we be safe? Tell me!
@@ -284,21 +284,21 @@ Dialogue: 0,0:20:08.68,0:20:11.14,GJM_Main,,0,0,0,,After we finally made it here
 Dialogue: 0,0:20:11.14,0:20:11.59,GJM_Main,,0,0,0,,Wai—
 Dialogue: 0,0:20:11.59,0:20:12.48,GJM_Main,,0,0,0,,Newbie!
 Dialogue: 0,0:20:15.60,0:20:16.60,GJM_Main,,0,0,0,,Rindou...
-Dialogue: 0,0:20:18.83,0:20:21.05,GJM_Main,,0,0,0,,{Just what do you think you can do?}Do you think you can do anything for them?
+Dialogue: 0,0:20:18.83,0:20:21.05,GJM_Main,,0,0,0,,Do you think you can do anything for them?
 Dialogue: 0,0:20:24.90,0:20:26.58,GJM_Main,,0,0,0,,That's...
-Dialogue: 0,0:20:27.54,0:20:29.13,GJM_Main,,0,0,0,,{That's just how things work here.}That's just how it is.{This is how things works here.}
+Dialogue: 0,0:20:27.54,0:20:29.13,GJM_Main,,0,0,0,,That's just how it is.
 Dialogue: 0,0:20:30.83,0:20:31.91,GJM_Main,,0,0,0,,Rindou!
 Dialogue: 0,0:21:20.74,0:21:22.69,GJM_Main,,0,0,0,,{\i1}We can't stop now.
 Dialogue: 0,0:21:28.28,0:21:31.52,GJM_Main,,0,0,0,,{\i1}Even if... it's the wrong decision.
 Dialogue: 0,0:21:33.73,0:21:35.38,GJM_Main,,0,0,0,,{\i1}If there's hope...
 Comment: 0,0:22:01.55,0:23:24.63,GJM_Main,,0,0,0,,{ED}
-Dialogue: 0,0:23:26.16,0:23:27.66,GJM_Main,,0,0,0,,Lenka's from the outside.
-Dialogue: 0,0:23:27.66,0:23:29.74,GJM_Main,,0,0,0,,Survivors who weren't counted...
-Dialogue: 0,0:23:29.74,0:23:32.77,GJM_Main,,0,0,0,,{Trying survive on the outside...}Do you know what it's like...
-Dialogue: 0,0:23:32.77,0:23:33.54,GJM_Main,,0,0,0,,It's black.
-Dialogue: 0,0:23:33.54,0:23:35.12,GJM_Main,,0,0,0,,{You know what that's like?}to try and survive outside?
-Dialogue: 0,0:23:35.12,0:23:36.53,GJM_Main,,0,0,0,,A Vajra.
-Dialogue: 0,0:23:36.53,0:23:39.35,GJM_Main,,0,0,0,,Please... protect everyone...
+Dialogue: 0,0:23:26.16,0:23:27.66,GJM_Main,,0,0,0,,Lenka's from outside the walls.{ep5, 00:36}
+Dialogue: 0,0:23:27.66,0:23:29.74,GJM_Main,,0,0,0,,There are survivors\Nwho haven't been counted...{ep5, 04:18}
+Dialogue: 0,0:23:29.74,0:23:32.77,GJM_Main,,0,0,0,,Do you know what it's like...{ep5, 00:59}
+Dialogue: 0,0:23:32.77,0:23:33.54,GJM_Main,,0,0,0,,A black...{ep5, 10:30}
+Dialogue: 0,0:23:33.54,0:23:35.12,GJM_Main,,0,0,0,,to try and survive outside?{ep5, 01:02}
+Dialogue: 0,0:23:35.12,0:23:36.53,GJM_Main,,0,0,0,,Vajra.{ep5, 10:30}
+Dialogue: 0,0:23:36.53,0:23:39.35,GJM_Main,,0,0,0,,Please... save everyone...{ep5, 12:34+12:38}
 Comment: 0,0:23:39.35,0:23:41.35,GJM_Main,,0,0,0,,OP
 Dialogue: 1,0:01:17.14,0:01:20.90,GodEaterOPRom,baseline,0,0,0,fx,{\an4\pos(0,47)\org(-1000,24)\fscx263\alpha&HFF&\t(210,226,\fscx268)\t(226,242,\fscx263)\t(242,258,\fscx268)\t(258,274,\fscx263)\t(274,290,\fscx268)\t(290,306,\fscx263)\t(306,322,\fscx268)\t(322,338,\fscx263)\t(338,354,\fscx268)\t(354,370,\fscx263)\t(370,386,\fscx268)\t(386,402,\fscx263)\t(402,418,\fscx268)\t(418,434,\fscx263)\t(434,450,\fscx268)\t(450,466,\fscx263)\t(466,482,\fscx268)\t(482,498,\fscx263)\t(498,514,\fscx268)\t(514,530,\fscx263)\t(530,546,\fscx268)\t(546,562,\fscx263)\t(562,578,\fscx268)\t(578,594,\fscx263)\t(594,610,\fscx268)\t(610,626,\fscx263)\t(626,642,\fscx268)\t(642,658,\fscx263)\t(658,674,\fscx268)\t(675,690,\fscx263)\p1}m 0 0 l 100 0 100 1 0 1{\fscx100\bord1.5\3c&H121777&\blur0.5\t(0,150,\alpha&H00&)\t(210,210,\3c&H05058E&\1c&H1102D5&)\t(850,1050,\3c&H121777&\1c&HFFFFFF&)\t(60,210,\frz0.35)\t(700,850,\frz0)\t(3610,3760,\alpha&HFF&)\p0}What
 Dialogue: 2,0:01:17.99,0:01:20.90,GodEaterOPRom,baseline,0,0,0,fx,{\an5\pos(284,50)\fnSplit splat splodge\fs26\b1\c&H1102D5&\1a&H60&\t(0,750,\c&H0000B0&)\t(2760,2910,\alpha&HFF&)}c
@@ -4175,6 +4175,6 @@ Dialogue: 1,0:23:15.38,0:23:22.78,God Eater ED-Eng,sun,0,0,0,fx,{\an5\move(1193,
 Dialogue: 2,0:23:15.38,0:23:22.63,God Eater ED-Eng,sun,0,0,0,fx,{\an5\move(1193,683,1213,683,905,1355)\bord0\1c&H7292E3&\alpha&HFF&\blur0.5\t(705,805,\alpha&H00&)\t(905,1055,\blur6\fscx110\fscy110\alpha&H80&)\t(1055,1355,\fscy135\alpha&HFF&\blur8)\t(7135,7235,\alpha&HFF&)}s
 Dialogue: 2,0:23:22.26,0:23:22.86,God Eater ED-Eng,sun,0,0,0,fx,{\an7\move(1178,654,1192,684)\fscx70\fscy70\fnJI Nature Bats\bord0\1c&H8DBCED&\blur0.6\fad(125,200)\t(,\fscx40\fscy40\blur1.2)\t(0,1800,\frz-227\frx40\fry69)}F
 Comment: 0,0:23:43.35,0:23:45.35,GJM_Main,,0,0,0,,TS
-Dialogue: 2,0:21:14.75,0:21:19.63,FyuSigns,,0,0,0,,{\pos(646,550.762)\fax-0.2\fnKozuka Gothic Pro M - ENG\fs35\b1\blur0.5}We know the cause of the accident. The Oracle Cell has undergone a change, and we're close to fully grasping it, not to mention our future safety.
-Dialogue: 1,0:21:14.75,0:21:19.63,FyuSigns,,0,0,0,,{\pos(646,550.762)\fax-0.2\fnKozuka Gothic Pro M - ENG\fs35\b1\bord1\c&H000000&\blur0.5}We know the cause of the accident. The Oracle Cell has undergone a change, and we're close to fully grasping it, not to mention our future safety.
-Dialogue: 0,0:21:14.75,0:21:19.63,FyuSigns,,0,0,0,,{\pos(646,550.762)\fax-0.2\fnKozuka Gothic Pro M - ENG\fs35\b1\shad2\c&H000000&\4a&H50&\blur0.5}We know the cause of the accident. The Oracle Cell has undergone a change, and we're close to fully grasping it, not to mention our future safety.
+Dialogue: 2,0:21:14.75,0:21:19.63,FyuSigns,,0,0,0,,{\pos(646,550.762)\fax-0.2\fnKozuka Gothic Pro M - ENG\fs35\b1\blur0.5}We know the cause of the accident. The Oracle Cell has changed,\Nbut we're close to a breakthrough that will ensure our future safety.
+Dialogue: 1,0:21:14.75,0:21:19.63,FyuSigns,,0,0,0,,{\pos(646,550.762)\fax-0.2\fnKozuka Gothic Pro M - ENG\fs35\b1\bord1\c&H000000&\blur0.5}We know the cause of the accident. The Oracle Cell has changed,\Nbut we're close to a breakthrough that will ensure our future safety.
+Dialogue: 0,0:21:14.75,0:21:19.63,FyuSigns,,0,0,0,,{\pos(646,550.762)\fax-0.2\fnKozuka Gothic Pro M - ENG\fs35\b1\shad2\c&H000000&\4a&H50&\blur0.5}We know the cause of the accident. The Oracle Cell has changed,\Nbut we're close to a breakthrough that will ensure our future safety.
