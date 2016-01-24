@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Bahamut
-Audio File: erased02_premux.mkv
-Video File: erased02_premux.mkv
-Keyframes File: erased02_premux_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/BokuMachi/02/erased02_premux.mkv
+Video File: D:/Fansubbing/GoodJob/BokuMachi/02/erased02_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 310
-Active Line: 326
-Video Position: 27279
+Scroll Position: 355
+Active Line: 366
+Video Position: 30295
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -400,7 +399,7 @@ Dialogue: 10,0:20:47.55,0:20:49.04,GJM_Main,,0,0,0,,Laters!
 Dialogue: 10,0:20:49.04,0:20:50.27,GJM_Main,,0,0,0,,See you tomorrow!
 Dialogue: 10,0:20:50.94,0:20:53.52,GJM_Main,,0,0,0,,{\i1}She wasn't wearing gloves either.
 Dialogue: 10,0:20:57.17,0:21:02.78,GJM_Main,,0,0,0,,{\i1}This is where I last saw Hinazuki 18 years ago.
-Dialogue: 10,0:21:03.53,0:21:07.24,GJM_Main,,0,0,0,,{\i1}I think her body was only found\Nafter the snow melted.
+Dialogue: 10,0:21:03.53,0:21:07.24,GJM_Main,,0,0,0,,{\i1}Her body was only found\Nafter the snow melted,
 Dialogue: 10,0:21:08.95,0:21:12.83,GJM_Main,,0,0,0,,I won't let Hinazuki be alone in this park.
 Dialogue: 10,0:21:14.66,0:21:15.67,GJM_Main,,0,0,0,,I...
 Dialogue: 10,0:21:17.08,0:21:18.62,GJM_Main,,0,0,0,,{\i1}I want to change the future!
