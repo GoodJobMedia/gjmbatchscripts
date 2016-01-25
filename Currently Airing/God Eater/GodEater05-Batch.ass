@@ -16,8 +16,7 @@ Video File: D:/Fansubbing/GoodJob/God Eater/05/God Eater 05 v1.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 108
-Active Line: 112
+Active Line: 88
 Video Position: 18232
 
 [V4+ Styles]
@@ -33,17 +32,17 @@ Style: God Eater ED-Eng,Formal436 BT,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:05.21,0:00:08.57,GJM_Main,,0,0,0,,The cores we received have been checked.{#}
-Dialogue: 10,0:00:09.89,0:00:11.40,GJM_Main,,0,0,105,,Thank you!{Great work, everyone!}
-Dialogue: 10,0:00:13.55,0:00:15.64,GJM_Main,,0,0,105,,All right, mission complete.{This wraps up our mission.}
-Dialogue: 10,0:00:16.06,0:00:17.12,GJM_Main,,0,0,105,,You fought well.{Good job.}{You all fought hard.}
+Dialogue: 10,0:00:05.21,0:00:08.57,GJM_Main,,0,0,0,,The cores we received have been checked.
+Dialogue: 10,0:00:09.89,0:00:11.40,GJM_Main,,0,0,105,,Thank you!
+Dialogue: 10,0:00:13.55,0:00:15.64,GJM_Main,,0,0,105,,All right, mission complete.
+Dialogue: 10,0:00:16.06,0:00:17.12,GJM_Main,,0,0,105,,You fought well.
 Dialogue: 10,0:00:20.82,0:00:21.66,GJM_Main,,0,0,0,,Rindou!
 Dialogue: 10,0:00:29.31,0:00:30.27,GJM_Main,,0,0,0,,Never mind.
 Dialogue: 10,0:00:36.48,0:00:40.43,GJM_Main,,0,0,0,,Um... Lenka's from outside the walls.{ep4 preview line}
-Dialogue: 10,0:00:41.49,0:00:43.85,GJM_Main,,0,0,0,,It's probably about those people from earlier...{That incident earlier is probably bothering him still...}{He must be worried about those people...}{The people earlier must be weighing on his mind...}{worried isnt the right word. if anything, it's the entire incident with those people that's bothering him. that's what kouta's actually referring to, subtly. japanese is weird}{#}{maybe the literal would work better here. "It was probably about the people from before..."}{Okay I'm going back to this for now, maybe fomal will have a eureka moment}
+Dialogue: 10,0:00:41.49,0:00:43.85,GJM_Main,,0,0,0,,It's probably about those people from earlier...
 Dialogue: 10,0:00:44.90,0:00:46.08,GJM_Main,,0,0,0,,Outside the walls...
-Dialogue: 10,0:00:46.64,0:00:49.07,GJM_Main,,0,0,0,,You know that's just\Nhow it works around here.{You should know how it is here.}{You know that's just how things work here.}
-Dialogue: 10,0:00:49.91,0:00:54.45,GJM_Main,,0,0,0,,You two came from outside too.{You two came from the outside too, right?}{The two of you came from the outside too.}
+Dialogue: 10,0:00:46.64,0:00:49.07,GJM_Main,,0,0,0,,You know that's just\Nhow it works around here.
+Dialogue: 10,0:00:49.91,0:00:54.45,GJM_Main,,0,0,0,,You two came from outside too.
 Dialogue: 10,0:00:57.23,0:00:58.45,GJM_Main,,0,0,0,,Soma...
 Dialogue: 10,0:00:59.14,0:01:02.29,GJM_Main,,0,0,0,,Do you know what it's like...{ep4 preview line}
 Dialogue: 10,0:01:02.75,0:01:04.29,GJM_Main,,0,0,0,,to try and survive outside?{ep4 preview line}
@@ -51,80 +50,80 @@ Comment: 10,0:01:39.91,0:03:13.33,GJM_Main,,0,0,0,,{OP}
 Dialogue: 10,0:03:15.32,0:03:16.11,GJM_Main,,0,0,100,,Miss Hibari.
 Dialogue: 10,0:03:16.55,0:03:17.46,GJM_Main,,0,0,100,,Yes?
 Dialogue: 10,0:03:17.80,0:03:21.59,GJM_Main,,0,0,100,,Uh... When is Aegis scheduled to be completed?
-Dialogue: 10,0:03:22.08,0:03:25.99,GJM_Main,,0,0,100,,{Aegis? Looking at progress until today,}Aegis? Well, including the progress made today,
+Dialogue: 10,0:03:22.08,0:03:25.99,GJM_Main,,0,0,100,,Aegis? Well, including the progress made today,
 Dialogue: 10,0:03:25.99,0:03:29.23,GJM_Main,,0,0,100,,it's 0.06% complete.
-Dialogue: 10,0:03:29.23,0:03:31.02,GJM_Main,,0,0,100,,0.0...?{lets all take a moment to stare back at this face}
-Dialogue: 10,0:03:31.76,0:03:35.48,GJM_Main,,0,0,100,,This project is an absolutely\Nmassive undertaking, after all.{It's a mammoth thing we're constructing.}{It's a colossal project that's underway, after all.}{fyurie-chan, im afraid your line might be stretching it unless we specify or add more to "This"}{Constructing it/It's construction is an..."}{can I get away with just adding project, or?}{yes, no one will get crushed by this colossal, massive, goliath thang. tl note -  youre good}
-Dialogue: 10,0:03:35.97,0:03:38.98,GJM_Main,,0,0,100,,Our reliance on medium-type\NAragami like the Gboro{Relying only on medium-type Aragami, like the Gboro,}{im not really digging how the word "types" is being used to virtually label a lot of things in this show}{it feels like it'll restrict the wording of lines}{honestly, i wish there was a cooler name we could give to the sizes, like venti, tall, and grande}{what are they, cups of coffee}{I'll have one venti elder god with a shot of peppermint please}{One thought: You could just label them "rank 1" "rank 2" and "rank 3" or like "1 star" "2 star" "3 star". That implies a Cradle-or-whoever-they-are-implemented ranking system and not anything about Aragami physiology.}
-Dialogue: 10,0:03:38.98,0:03:42.74,GJM_Main,,0,0,0,,means that we require several\Ntens of thousands of cores.{would require several tens of thousands of cores.}
+Dialogue: 10,0:03:29.23,0:03:31.02,GJM_Main,,0,0,100,,0.0...?
+Dialogue: 10,0:03:31.76,0:03:35.48,GJM_Main,,0,0,100,,This project is an absolutely\Nmassive undertaking, after all.
+Dialogue: 10,0:03:35.97,0:03:38.98,GJM_Main,,0,0,100,,Our reliance on medium-type\NAragami like the Gboro
+Dialogue: 10,0:03:38.98,0:03:42.74,GJM_Main,,0,0,0,,means that we require several\Ntens of thousands of cores.
 Dialogue: 10,0:03:43.15,0:03:44.49,GJM_Main,,0,0,0,,Tens of thousands?
-Dialogue: 10,0:03:45.26,0:03:49.50,GJM_Main,,0,0,0,,Even targeting large-types like the Vajra\Nwould still mean gathering several thousand.{Even large Vajra would require several thousand.}{We would still need several thousands even if we went after large-types like the Vajra.}
+Dialogue: 10,0:03:45.26,0:03:49.50,GJM_Main,,0,0,0,,Even targeting large-types like the Vajra\Nwould still mean gathering several thousand.
 Dialogue: 10,0:04:01.33,0:04:02.26,GJM_Main,,0,0,0,,Lenka!
 Dialogue: 10,0:04:02.92,0:04:04.18,GJM_Main,,0,0,0,,Kouta?
 Dialogue: 10,0:04:05.23,0:04:06.31,GJM_Main,,0,0,0,,What're you looking at?
-Dialogue: 10,0:04:07.41,0:04:08.85,GJM_Main,,0,0,0,,This display.{That counter.}{do we have to keep "counter"? I get that he's looking at one in particular, but counter is meh}
+Dialogue: 10,0:04:07.41,0:04:08.85,GJM_Main,,0,0,0,,This display.
 Dialogue: 10,0:04:09.55,0:04:12.10,GJM_Main,,0,0,0,,Oh... the number of survivors.
 Dialogue: 10,0:04:12.63,0:04:14.02,GJM_Main,,0,0,0,,Survivors?
 Dialogue: 10,0:04:15.23,0:04:16.11,GJM_Main,,0,0,0,,But...
-Dialogue: 10,0:04:18.13,0:04:22.28,GJM_Main,,0,0,0,,...there are survivors who\Nhaven't been{weren't} counted, right?{ep4 preview line}
+Dialogue: 10,0:04:18.13,0:04:22.28,GJM_Main,,0,0,0,,...there are survivors who\Nhaven't been counted, right?{ep4 preview line}
 Dialogue: 10,0:04:26.77,0:04:27.57,GJM_Main,,0,0,0,,What is it?
 Dialogue: 10,0:04:27.99,0:04:29.54,GJM_Main,,0,0,0,,Oh, Soma, sir!
 Dialogue: 10,0:04:30.16,0:04:32.75,GJM_Main,,0,0,0,,The Director has a special mission for you.
 Dialogue: 10,0:04:50.48,0:04:51.64,GJM_Main,,0,0,0,,Lenka?!
 Dialogue: 10,0:04:52.09,0:04:53.03,GJM_Main,,0,0,0,,Move.
 Dialogue: 10,0:05:00.20,0:05:01.37,GJM_Main,,0,0,0,,You're in my way.
-Dialogue: 10,0:05:10.99,0:05:13.64,GJM_Main,,0,0,0,,Were you really prepared\Nfor what you'd see here?{Just what kind of resolve did you have when you came here?}
-Dialogue: 10,0:05:15.75,0:05:19.42,GJM_Main,,0,0,0,,{What we can do is kill Aragami.}The only thing we can do is kill Aragami.
-Dialogue: 10,0:05:20.62,0:05:22.03,GJM_Main,,0,0,0,,That's it.{all.}
-Dialogue: 10,0:05:37.63,0:05:40.65,GJM_Main,,0,0,0,,{Are}Will two large-types be too much to handle?{difficult?}{Does handling two large-types seem too difficult?}
-Dialogue: 10,0:05:41.26,0:05:42.24,GJM_Main,,0,0,0,,Large-types?{where did high-level come from? just wondering}{missing reversion when i was fucking around with new ideas}
+Dialogue: 10,0:05:10.99,0:05:13.64,GJM_Main,,0,0,0,,Were you really prepared\Nfor what you'd see here?
+Dialogue: 10,0:05:15.75,0:05:19.42,GJM_Main,,0,0,0,,The only thing we can do is kill Aragami.
+Dialogue: 10,0:05:20.62,0:05:22.03,GJM_Main,,0,0,0,,That's it.
+Dialogue: 10,0:05:37.63,0:05:40.65,GJM_Main,,0,0,0,,Will two large-types be too much to handle?
+Dialogue: 10,0:05:41.26,0:05:42.24,GJM_Main,,0,0,0,,Large-types?
 Dialogue: 10,0:05:43.14,0:05:46.00,GJM_Main,,0,0,0,,We have the personnel.
 Dialogue: 10,0:05:46.69,0:05:50.91,GJM_Main,,0,0,0,,But Rindou and Soma are away\Non a special assignment for the Director.
 Dialogue: 10,0:05:51.64,0:05:52.98,GJM_Main,,0,0,0,,So what about this?
 Dialogue: 10,0:05:53.54,0:05:55.00,GJM_Main,,0,0,0,,Six Gboro?
-Dialogue: 10,0:05:55.81,0:05:56.65,GJM_Main,,0,0,0,,Very well.{All right.}
-Dialogue: 10,0:05:57.29,0:06:00.88,GJM_Main,,0,0,0,,You're second-in-command,\Nso you decide who goes.{so choose who goes.}
+Dialogue: 10,0:05:55.81,0:05:56.65,GJM_Main,,0,0,0,,Very well.
+Dialogue: 10,0:05:57.29,0:06:00.88,GJM_Main,,0,0,0,,You're second-in-command,\Nso you decide who goes.
 Dialogue: 10,0:06:01.48,0:06:02.85,GJM_Main,,0,0,0,,Thank you.
 Dialogue: 10,0:06:06.90,0:06:07.74,GJM_Main,,0,0,0,,Miss Sakuya...
 Dialogue: 10,0:06:08.44,0:06:09.51,GJM_Main,,0,0,0,,What is it?
-Dialogue: 10,0:06:10.97,0:06:14.22,GJM_Main,,0,0,0,,Can we go after a large-type\NAragami on this mission?{Can we go for a large-type on this mission?}
+Dialogue: 10,0:06:10.97,0:06:14.22,GJM_Main,,0,0,0,,Can we go after a large-type\NAragami on this mission?
 Dialogue: 10,0:06:16.73,0:06:17.81,GJM_Main,,0,0,0,,What brought this on?
 Dialogue: 10,0:06:18.30,0:06:19.16,GJM_Main,,0,0,0,,I agree...
-Dialogue: 10,0:06:20.54,0:06:23.79,GJM_Main,,0,0,0,,I agree that a large-type\Nwould be a good choice.{I think a large-type sounds good.}
-Dialogue: 10,0:06:25.03,0:06:26.24,GJM_Main,,0,0,0,,Both of you?!{You two...!}{the bends}{zenrii pls approve/deny}{fine with me as long as that can be added}{did i leave that out? whoops}
-Dialogue: 10,0:06:27.15,0:06:32.74,GJM_Main,,0,0,0,,They all drop cores, but bigger cores\Nwill mean Aegis is finished faster, right?{The bigger the core, the quicker Aegis gets finished, right?}{All types drop cores, but bigger ones will complete Aegis faster, right?}{split between "...cores," and "but"}
+Dialogue: 10,0:06:20.54,0:06:23.79,GJM_Main,,0,0,0,,I agree that a large-type\Nwould be a good choice.
+Dialogue: 10,0:06:25.03,0:06:26.24,GJM_Main,,0,0,0,,Both of you?!
+Dialogue: 10,0:06:27.15,0:06:32.74,GJM_Main,,0,0,0,,They all drop cores, but bigger cores\Nwill mean Aegis is finished faster, right?
 Dialogue: 10,0:06:33.49,0:06:34.70,GJM_Main,,0,0,0,,Kouta...
 Dialogue: 10,0:06:34.70,0:06:36.41,GJM_Main,,0,0,0,,That's true, but...
-Dialogue: 10,0:06:37.09,0:06:39.92,GJM_Main,,0,0,0,,That'd mean going after Vajra.{That means your targets would be Vajra.}{simulcast /please/. the mission is /two/ vajra. learn2count}
-Dialogue: 10,0:06:44.34,0:06:47.11,GJM_Main,,0,0,0,,You should already know\Nhow dangerous they are.{You know how dangerous they are.}
-Dialogue: 10,0:06:54.43,0:06:56.73,GJM_Main,,0,0,0,,I'd rather go after Vajra too.{I say we go after the Vajra too.}{#}
+Dialogue: 10,0:06:37.09,0:06:39.92,GJM_Main,,0,0,0,,That'd mean going after Vajra.
+Dialogue: 10,0:06:44.34,0:06:47.11,GJM_Main,,0,0,0,,You should already know\Nhow dangerous they are.
+Dialogue: 10,0:06:54.43,0:06:56.73,GJM_Main,,0,0,0,,I'd rather go after Vajra too.
 Dialogue: 10,0:06:58.73,0:06:59.94,GJM_Main,,0,0,0,,Alisa!
-Dialogue: 10,0:07:02.62,0:07:05.78,GJM_Main,,0,0,0,,Why are you all so eager to do this?{What's with all this eagerness?}
-Dialogue: 10,0:07:06.64,0:07:10.45,GJM_Main,,0,0,0,,I just want to fulfill my duties as a New-Type.{I just want to perform my duty as a New-Type.}
-Dialogue: 10,0:07:16.38,0:07:17.79,GJM_Main,,0,0,0,,Fine then.{All right.}
-Dialogue: 10,0:07:18.07,0:07:19.13,GJM_Main,,0,0,0,,Miss Sakuya...{!}
-Dialogue: 10,0:07:19.13,0:07:19.99,GJM_Main,,0,0,0,,However...{But...}
-Dialogue: 10,0:07:20.52,0:07:24.84,GJM_Main,,0,0,0,,If I decide it's too dangerous, we withdraw.{We withdraw, if I decide it's become too dangerous.}
-Dialogue: 10,0:07:25.94,0:07:28.34,GJM_Main,,0,0,0,,I expect you all to follow orders.{I expect you to obey orders.}
+Dialogue: 10,0:07:02.62,0:07:05.78,GJM_Main,,0,0,0,,Why are you all so eager to do this?
+Dialogue: 10,0:07:06.64,0:07:10.45,GJM_Main,,0,0,0,,I just want to fulfill my duties as a New-Type.
+Dialogue: 10,0:07:16.38,0:07:17.79,GJM_Main,,0,0,0,,Fine then.
+Dialogue: 10,0:07:18.07,0:07:19.13,GJM_Main,,0,0,0,,Miss Sakuya...
+Dialogue: 10,0:07:19.13,0:07:19.99,GJM_Main,,0,0,0,,However...
+Dialogue: 10,0:07:20.52,0:07:24.84,GJM_Main,,0,0,0,,If I decide it's too dangerous, we withdraw.
+Dialogue: 10,0:07:25.94,0:07:28.34,GJM_Main,,0,0,0,,I expect you all to follow orders.
 Dialogue: 10,0:07:29.01,0:07:29.79,GJM_Main,,0,0,0,,Roger!
 Dialogue: 10,0:07:29.79,0:07:30.65,GJM_Main,,0,0,0,,Roger.
-Dialogue: 10,0:07:44.86,0:07:47.90,GJM_Main,,0,0,0,,{Go around the back. Don't go straight at it!}Move around to its back!\NAvoid attacking it head-on!
+Dialogue: 10,0:07:44.86,0:07:47.90,GJM_Main,,0,0,0,,Move around to its back!\NAvoid attacking it head-on!
 Dialogue: 10,0:08:05.00,0:08:07.94,GJM_Main,,0,0,0,,Kouta! Finish the fallen Vajra!
-Dialogue: 10,0:08:08.42,0:08:09.71,GJM_Main,,0,0,0,,{Oh, right!}Y-Yes, ma'am!
-Dialogue: 10,0:08:13.70,0:08:14.51,GJM_Main,,0,0,0,,Kouta.{im so confused, did they actually insert the "u" for this one line?}{yes}
+Dialogue: 10,0:08:08.42,0:08:09.71,GJM_Main,,0,0,0,,Y-Yes, ma'am!
+Dialogue: 10,0:08:13.70,0:08:14.51,GJM_Main,,0,0,0,,Kouta.
 Dialogue: 10,0:08:14.51,0:08:15.89,GJM_Main,,0,0,0,,Y-Yes?
 Dialogue: 10,0:08:16.33,0:08:18.00,GJM_Main,,0,0,0,,Your God Arc...
 Dialogue: 10,0:08:18.00,0:08:22.60,GJM_Main,,0,0,0,,...is a refined version of the God Arc\Nthat once belonged to Major Amamiya.
 Dialogue: 10,0:08:23.85,0:08:25.51,GJM_Main,,0,0,0,,It's an exceptional God Arc.
-Dialogue: 10,0:08:26.21,0:08:27.65,GJM_Main,,0,0,0,,{You have to trust it.}Place your trust in it,
+Dialogue: 10,0:08:26.21,0:08:27.65,GJM_Main,,0,0,0,,Place your trust in it,
 Dialogue: 10,0:08:28.20,0:08:31.03,GJM_Main,,0,0,0,,and place some trust in yourself as well.
 Dialogue: 10,0:08:31.74,0:08:34.81,GJM_Main,,0,0,0,,You're a God Eater, after all.
 Dialogue: 10,0:08:36.22,0:08:36.99,GJM_Main,,0,0,0,,Yes, ma'am!
-Dialogue: 10,0:08:47.25,0:08:48.29,GJM_Main,Fyurie,0,0,0,,I did it!
+Dialogue: 10,0:08:47.25,0:08:48.29,GJM_Main,,0,0,0,,I did it!
 Dialogue: 10,0:08:50.02,0:08:51.96,GJM_Main,,0,0,0,,Lenka, devour the core.
 Dialogue: 10,0:08:53.16,0:08:56.04,GJM_Main,,0,0,0,,We're going after the other Vajra.
 Dialogue: 10,0:08:56.04,0:08:56.97,GJM_Main,,0,0,0,,Roger!
-Dialogue: 10,0:09:25.42,0:09:27.94,GJM_Main,,0,0,0,,Why are there people in a Vajra den?!{What are people doing in a Vajra lair?!}{Why are there people in a Vajra lair?!}{i might even go with "den" since they're aragami that resemble lions, but oh well}{I could get behind that}
+Dialogue: 10,0:09:25.42,0:09:27.94,GJM_Main,,0,0,0,,Why are there people in a Vajra den?!
 Dialogue: 10,0:09:41.63,0:09:43.02,GJM_Main,,0,0,0,,Everyone, stay together!
 Dialogue: 10,0:09:46.24,0:09:49.15,GJM_Main,,0,0,0,,M-Miss Sakuya, what do we do?!
 Dialogue: 10,0:09:50.82,0:09:54.40,GJM_Main,,0,0,0,,We have to bring one down to open up an escape route!
@@ -133,15 +132,15 @@ Dialogue: 10,0:10:57.82,0:10:58.86,GJM_Main,,0,0,0,,It's feeding!
 Dialogue: 10,0:10:59.58,0:11:01.64,GJM_Main,,0,0,0,,A mutant Vajra?
 Dialogue: 10,0:11:01.64,0:11:05.39,GJM_Main,,0,0,0,,I've never seen anything like it!
 Dialogue: 10,0:11:05.93,0:11:08.01,GJM_Main,,0,0,0,,Dyaus Pita...
-Dialogue: 10,0:11:10.01,0:11:11.40,GJM_Main,,0,0,0,,At last!{druggie confirmed. also best girl. we could hit it off p well}
+Dialogue: 10,0:11:10.01,0:11:11.40,GJM_Main,,0,0,0,,At last!
 Dialogue: 10,0:11:21.50,0:11:22.53,GJM_Main,,0,0,0,,Alisa!
-Dialogue: 10,0:11:24.01,0:11:27.47,GJM_Main,,0,0,0,,Lenka, we're retreating! Retrieve Alisa!{Lenka, we're going to retreat! Bring Alisa back!}
+Dialogue: 10,0:11:24.01,0:11:27.47,GJM_Main,,0,0,0,,Lenka, we're retreating! Retrieve Alisa!
 Dialogue: 10,0:11:28.02,0:11:29.81,GJM_Main,,0,0,0,,Kouta, help Lenka!
 Dialogue: 10,0:11:30.47,0:11:31.21,GJM_Main,,0,0,100,,Roger!
 Dialogue: 10,0:11:31.68,0:11:33.21,GJM_Main,,0,0,100,,What about us?
 Dialogue: 10,0:11:33.81,0:11:36.05,GJM_Main,,0,0,100,,What do we do?
 Dialogue: 10,0:11:36.05,0:11:37.85,GJM_Main,,0,0,100,,S-Save us!
-Dialogue: 10,0:12:01.58,0:12:04.86,GJM_Main,,0,0,0,,Right now, you all need to\Nget as far away as you can!{For now, all of you must get away from here!}
+Dialogue: 10,0:12:01.58,0:12:04.86,GJM_Main,,0,0,0,,Right now, you all need to\Nget as far away as you can!
 Dialogue: 10,0:12:04.86,0:12:06.24,GJM_Main,,0,0,0,,Miss Sakuya!
 Dialogue: 10,0:12:31.37,0:12:33.44,GJM_Main,,0,0,0,,Lenka...
 Dialogue: 10,0:12:34.44,0:12:35.97,GJM_Main,,0,0,0,,Please...{ep4 preview line}
@@ -149,7 +148,7 @@ Dialogue: 10,0:12:38.54,0:12:40.44,GJM_Main,,0,0,0,,save everyone...{ep4 preview
 Dialogue: 10,0:13:18.47,0:13:19.54,GJM_Main,,0,0,0,,Where is it?!
 Dialogue: 10,0:15:26.49,0:15:27.54,GJM_Main,,0,0,0,,Stop...
 Dialogue: 10,0:15:32.20,0:15:33.35,GJM_Main,,0,0,0,,Just stop...
-Dialogue: 10,0:15:38.52,0:15:42.88,GJM_Main,,0,0,0,,Stop it!{Stop!!}{are you for fucking real Daisuki, keeping this for visibility}{much tomato sauce}
+Dialogue: 10,0:15:38.52,0:15:42.88,GJM_Main,,0,0,0,,Stop it!
 Dialogue: 10,0:16:29.11,0:16:29.96,GJM_Main,,0,0,0,,Alisa...
 Dialogue: 10,0:16:38.50,0:16:39.43,GJM_Main,,0,0,0,,Wait!
 Dialogue: 10,0:16:42.42,0:16:43.37,GJM_Main,,0,0,0,,They're still alive!
@@ -159,35 +158,35 @@ Dialogue: 10,0:17:41.60,0:17:42.84,GJM_Main,,0,0,0,,Please, God...
 Comment: 10,0:17:59.46,0:19:36.38,GJM_Main,,0,0,0,,{ED}
 Dialogue: 10,0:19:37.32,0:19:38.82,GJM_Main,,0,0,0,,Amazing.
 Dialogue: 10,0:19:39.86,0:19:42.84,GJM_Main,,0,0,0,,The divided cells have formed a colony.
-Dialogue: 10,0:19:44.57,0:19:45.39,GJM_Main,,0,0,0,,{And this?}What's this?
-Dialogue: 10,0:19:46.33,0:19:49.83,GJM_Main,,0,0,0,,{I guess you could call it the colony core.}This seems to be the colony's core.
+Dialogue: 10,0:19:44.57,0:19:45.39,GJM_Main,,0,0,0,,What's this?
+Dialogue: 10,0:19:46.33,0:19:49.83,GJM_Main,,0,0,0,,This seems to be the colony's core.
 Dialogue: 10,0:19:50.32,0:19:51.59,GJM_Main,,0,0,0,,Can it be cultivated?
 Dialogue: 10,0:19:52.13,0:19:56.03,GJM_Main,,0,0,0,,It can, but it might undergo\Nfurther changes during the process.
-Dialogue: 10,0:19:56.97,0:19:59.03,GJM_Main,,0,0,0,,{Still, it's an important clue.Please proceed.}Either way, something like this is too important.
+Dialogue: 10,0:19:56.97,0:19:59.03,GJM_Main,,0,0,0,,Either way, something like this is too important.
 Dialogue: 10,0:19:59.64,0:20:00.84,GJM_Main,,0,0,0,,Please proceed.
-Dialogue: 10,0:20:01.68,0:20:06.43,GJM_Main,,0,0,0,,{I wonder why Headquarters approved the continuation of research.}I'm just puzzled as to why Headquarters\Nallowed us to continue our research.
-Dialogue: 10,0:20:06.43,0:20:08.85,GJM_Main,,0,0,0,,{Well, look at our results.}It should be clear from these results.
+Dialogue: 10,0:20:01.68,0:20:06.43,GJM_Main,,0,0,0,,I'm just puzzled as to why Headquarters\Nallowed us to continue our research.
+Dialogue: 10,0:20:06.43,0:20:08.85,GJM_Main,,0,0,0,,It should be clear from these results.
 Dialogue: 10,0:20:09.63,0:20:13.60,GJM_Main,,0,0,0,,Headquarters must have decided\Nthat our research still has value.
 Dialogue: 10,0:20:14.13,0:20:16.74,GJM_Main,,0,0,0,,They just had good foresight.
 Dialogue: 10,0:20:18.98,0:20:22.87,GJM_Main,,0,0,0,,I find it hard to believe that\Nour report swayed Headquarters.
 Dialogue: 10,0:20:23.39,0:20:26.79,GJM_Main,,0,0,0,,Does it matter? We'll be able\Nto continue our research!
 Dialogue: 10,0:20:26.79,0:20:29.32,GJM_Main,,0,0,0,,They even doubled our budget.
-Dialogue: 10,0:20:30.22,0:20:35.25,GJM_Main,,0,0,0,,Dig too deep and you'll\Nwind up kissing a snake.{Ask too many questions and you might just open a can of worms.}{what? can of worms?? WHAT? that is gross. keep that shit away from me}{lit- Asking too many questions is like provoking/prodding a snake to come out from a thicket.}
-Dialogue: 10,0:20:37.85,0:20:41.21,GJM_Main,,0,0,0,,Well, it's not a snake,\Nbut how about something like this?{Maybe not worms... but something like this.}{Maybe a snake won't appear, but something like this might.}{YOLO.}
+Dialogue: 10,0:20:30.22,0:20:35.25,GJM_Main,,0,0,0,,Dig too deep and you'll\Nwind up kissing a snake.
+Dialogue: 10,0:20:37.85,0:20:41.21,GJM_Main,,0,0,0,,Well, it's not a snake,\Nbut how about something like this?
 Dialogue: 10,0:20:48.10,0:20:50.43,GJM_Main,,0,0,0,,This is an unknown cell.
 Dialogue: 10,0:20:51.02,0:20:53.77,GJM_Main,,0,0,0,,There's every possibility it'll be mammalian!
 Dialogue: 10,0:20:54.10,0:20:55.58,GJM_Main,,0,0,0,,Now that's funny.
 Dialogue: 10,0:20:56.34,0:20:59.69,GJM_Main,,0,0,0,,You're such a dreamer, Paylor.
-Dialogue: 10,0:21:00.01,0:21:05.32,GJM_Main,,0,0,0,,{Even if they colonized, you're talking coral or jellyfish.}Even if they've colonized, it's better\Nto think of them more like coral or jellyfish.
+Dialogue: 10,0:21:00.01,0:21:05.32,GJM_Main,,0,0,0,,Even if they've colonized, it's better\Nto think of them more like coral or jellyfish.
 Dialogue: 10,0:21:10.88,0:21:11.72,GJM_Main,,0,0,0,,Yes?
 Dialogue: 10,0:21:12.49,0:21:14.13,GJM_Main,,0,0,0,,Yes, we're all here.
 Dialogue: 10,0:21:15.67,0:21:17.08,GJM_Main,,0,0,0,,Right now?
 Dialogue: 10,0:21:17.68,0:21:18.68,GJM_Main,,0,0,0,,Of course.
 Dialogue: 10,0:21:23.73,0:21:27.05,GJM_Main,,0,0,0,,My apologies for calling you out like this.
 Dialogue: 10,0:21:28.45,0:21:32.29,GJM_Main,,0,0,0,,What does the United States\Nmilitary want with us?
-Dialogue: 10,0:21:35.39,0:21:37.90,GJM_Main,,0,0,0,,First,{ please} take a look at this.
+Dialogue: 10,0:21:35.39,0:21:37.90,GJM_Main,,0,0,0,,First, take a look at this.
 Dialogue: 10,0:21:40.26,0:21:44.03,GJM_Main,,0,0,0,,This was discovered six\Nmonths ago near Antarctica.
-Dialogue: 10,0:21:44.87,0:21:49.91,GJM_Main,,0,0,0,,And this one, months ago in\Nthe coastal waters off South Africa.
+Dialogue: 10,0:21:44.87,0:21:49.91,GJM_Main,,0,0,0,,And this one, two months ago\Nin the coastal waters off South Africa.
 Dialogue: 10,0:21:51.58,0:21:54.25,GJM_Main,,0,0,0,,What does this have to do with us?
 Dialogue: 10,0:21:54.25,0:21:55.37,GJM_Main,,0,0,0,,And...
 Dialogue: 10,0:21:55.37,0:21:59.68,GJM_Main,,0,0,0,,this was discovered ten days ago\Noff the west coast of the United States.
@@ -203,17 +202,17 @@ Dialogue: 10,0:22:34.10,0:22:35.25,GJM_Main,,0,0,0,,They...
 Dialogue: 10,0:22:35.25,0:22:39.71,GJM_Main,,0,0,0,,...are all a colony of cells\Nwith a single-celled core.
 Dialogue: 10,0:22:42.11,0:22:45.21,GJM_Main,,0,0,0,,I believe it's called "Oracle"?
 Dialogue: 10,0:22:46.26,0:22:49.97,GJM_Main,,0,0,0,,The new cell that you discovered.
-Dialogue: 10,0:22:50.68,0:22:53.97,GJM_Main,,0,0,0,,It... evolved?{So... it evolved.}
+Dialogue: 10,0:22:50.68,0:22:53.97,GJM_Main,,0,0,0,,It... evolved?
 Dialogue: 10,0:22:55.09,0:22:58.59,GJM_Main,,0,0,0,,If this life form were to multiply in great numbers...
-Dialogue: 10,0:22:59.68,0:23:02.73,GJM_Main,,0,0,0,,{We have a problem even before energy runs out.}We'll have a big problem on our hands\Nlong before we run out of energy.{ resources are completely depleted.}
+Dialogue: 10,0:22:59.68,0:23:02.73,GJM_Main,,0,0,0,,We'll have a big problem on our hands\Nlong before we run out of energy.
 Dialogue: 10,0:23:04.62,0:23:08.45,GJM_Main,,0,0,0,,We require your help...
-Dialogue: 10,0:23:09.09,0:23:13.62,GJM_Main,,0,0,0,,{\q2}Director of the Fenrir Biochemistry Research Center\N and Natural Resource and Energy Development,{holy shit}
+Dialogue: 10,0:23:09.09,0:23:13.62,GJM_Main,,0,0,0,,{\q2}Director of the Fenrir Biochemistry Research Center\Nand Natural Resource and Energy Development,
 Dialogue: 10,0:23:14.43,0:23:17.28,GJM_Main,,0,0,0,,Mister Johannes von Schicksal.
 Comment: 10,0:23:24.71,0:23:25.53,GJM_Main,,0,0,0,,{Prev}
-Dialogue: 10,0:23:25.74,0:23:28.25,GJM_Main,,0,0,0,,{\an8}{Hide and seek...}Are you ready yet?
-Dialogue: 10,0:23:28.25,0:23:30.99,GJM_Main,,0,0,0,,{\an8}{Not yet!}Not just yet!
-Dialogue: 10,0:23:30.99,0:23:33.35,GJM_Main,,0,0,0,,{\an8}{Hide and seek...}Are you ready yet?
-Dialogue: 10,0:23:34.35,0:23:36.40,GJM_Main,,0,0,0,,{\an8}{Come and find me!}I'm ready now!
+Dialogue: 10,0:23:25.74,0:23:28.25,GJM_Main,,0,0,0,,{\an8}Are you ready yet?
+Dialogue: 10,0:23:28.25,0:23:30.99,GJM_Main,,0,0,0,,{\an8}Not just yet!
+Dialogue: 10,0:23:30.99,0:23:33.35,GJM_Main,,0,0,0,,{\an8}Are you ready yet?
+Dialogue: 10,0:23:34.35,0:23:36.40,GJM_Main,,0,0,0,,{\an8}I'm ready now!
 Comment: 0,0:23:36.40,0:23:38.40,GJM_Main,,0,0,0,,OP
 Dialogue: 1,0:01:55.17,0:01:58.93,GodEaterOPRom,baseline,0,0,0,fx,{\an4\pos(0,47)\org(-1000,24)\fscx263\alpha&HFF&\t(150,166,\fscx268)\t(166,182,\fscx263)\t(182,198,\fscx268)\t(198,214,\fscx263)\t(214,230,\fscx268)\t(230,246,\fscx263)\t(246,262,\fscx268)\t(262,278,\fscx263)\t(278,294,\fscx268)\t(294,310,\fscx263)\t(310,326,\fscx268)\t(326,342,\fscx263)\t(342,358,\fscx268)\t(358,374,\fscx263)\t(374,390,\fscx268)\t(390,406,\fscx263)\t(406,422,\fscx268)\t(422,438,\fscx263)\t(438,454,\fscx268)\t(454,470,\fscx263)\t(470,486,\fscx268)\t(486,502,\fscx263)\t(502,518,\fscx268)\t(518,534,\fscx263)\t(534,550,\fscx268)\t(550,566,\fscx263)\t(566,582,\fscx268)\t(582,598,\fscx263)\t(598,614,\fscx268)\t(615,630,\fscx263)\p1}m 0 0 l 100 0 100 1 0 1{\fscx100\bord1.5\3c&H121777&\blur0.5\t(0,150,\alpha&H00&)\t(150,150,\3c&H05058E&\1c&H1102D5&)\t(790,990,\3c&H121777&\1c&HFFFFFF&)\t(0,150,\frz0.35)\t(640,790,\frz0)\t(3610,3760,\alpha&HFF&)\p0}What
 Dialogue: 2,0:01:55.96,0:01:58.93,GodEaterOPRom,baseline,0,0,0,fx,{\an5\pos(284,50)\fnSplit splat splodge\fs26\b1\c&H1102D5&\1a&H60&\t(0,750,\c&H0000B0&)\t(2820,2970,\alpha&HFF&)}c
