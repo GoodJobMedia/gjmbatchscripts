@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/AoKana/01/aokana 01 premux[979CA7A3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 465
-Active Line: 476
-Video Position: 33738
+Scroll Position: 453
+Active Line: 463
+Video Position: 34401
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -494,10 +494,10 @@ Dialogue: 10,0:22:02.30,0:22:04.38,GJM_Main,,0,0,0,,I scored a point!
 Dialogue: 10,0:22:07.05,0:22:09.68,GJM_Main,,0,0,0,,P-Point scored by, uh...
 Dialogue: 10,0:22:11.30,0:22:12.97,GJM_Main,,0,0,0,,Kurashina Asuka!
 Dialogue: 10,0:23:45.65,0:23:46.78,GJM_Main,,0,0,0,,I won!
-Dialogue: 10,0:23:46.78,0:23:50.36,GJM_Main,,0,0,0,,And here I thought he had\Nno desire to go back.
+Dialogue: 10,0:23:46.78,0:23:50.36,GJM_Main,,0,0,0,,And here I thought I had\Nno desire to go back.
 Dialogue: 10,0:23:50.36,0:23:50.90,GJM_Main,,0,0,0,,I...
-Dialogue: 10,0:23:51.36,0:23:53.62,GJM_Main,,0,0,0,,Udon?!
-Dialogue: 10,0:23:53.62,0:23:56.53,GJM_Main,,0,0,0,,Extra large!
+Dialogue: 10,0:23:51.36,0:23:53.62,GJM_Main,,0,0,0,,Udon...?!
+Dialogue: 10,0:23:53.62,0:23:56.53,GJM_Main,,0,0,0,,Extra... large!
 Comment: 0,0:23:56.53,0:23:58.53,GJM_Main,,0,0,0,,OP
 Dialogue: 0,0:22:39.25,0:22:43.29,OP,,0,0,0,,{\blur3\fad(240,240)}The birds and the wind
 Dialogue: 0,0:22:43.75,0:22:46.55,OP,,0,0,0,,{\blur3\fad(240,240)}Pat my hair as if inviting me into the sky
