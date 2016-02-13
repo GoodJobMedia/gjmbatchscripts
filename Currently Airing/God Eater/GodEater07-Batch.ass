@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/God Eater/07/godeater 07 premux[794C35EC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 36
-Active Line: 45
-Video Position: 7722
+Scroll Position: 4103
+Active Line: 4111
+Video Position: 16574
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,11 +38,11 @@ Dialogue: 10,0:00:04.60,0:00:06.65,GJM_Main,,0,0,0,,Headquarters, respond.
 Dialogue: 10,0:00:07.86,0:00:09.40,GJM_Main,,0,0,0,,Rindou, sir?
 Dialogue: 10,0:00:09.40,0:00:11.82,GJM_Main,,0,0,0,,{\an8}Can you hear me, Headquarters?
 Dialogue: 10,0:00:11.82,0:00:14.49,GJM_Main,,0,0,0,,{\an8}I read you, but there's lots of static.
-Dialogue: 10,0:00:14.95,0:00:17.49,GJM_Main,,0,0,0,,{\an8}Just checking in.\NI'm sure I'm coming through fine.{This is just a{n} {update/report. If you can hear me then it's fine.}{As long as you hear me.}{#}
-Dialogue: 10,0:00:18.24,0:00:23.67,GJM_Main,,0,0,0,,{\an8}I found the two New-Types alive,\Nbut we won't be heading to the rendezvous.{The two New-Types are alive. But we won't go to the pick-up point.}
+Dialogue: 10,0:00:14.95,0:00:17.49,GJM_Main,,0,0,0,,{\an8}Just checking in.\NI'm sure I'm coming through fine.
+Dialogue: 10,0:00:18.24,0:00:23.67,GJM_Main,,0,0,0,,{\an8}I found the two New-Types alive,\Nbut we won't be heading to the rendezvous.
 Dialogue: 10,0:00:23.67,0:00:25.58,GJM_Main,,0,0,0,,You're not meeting us?
-Dialogue: 10,0:00:25.58,0:00:27.84,GJM_Main,,0,0,0,,What's your current status then?{You won't head there? Please report your status.}
-Dialogue: 10,0:00:27.84,0:00:30.46,GJM_Main,,0,0,0,,{Too many Aragami around the area. Plus both New-Types are wounded.}There are too many Aragami in our vicinity.
+Dialogue: 10,0:00:25.58,0:00:27.84,GJM_Main,,0,0,0,,What's your current status then?
+Dialogue: 10,0:00:27.84,0:00:30.46,GJM_Main,,0,0,0,,There are too many Aragami in our vicinity.
 Dialogue: 10,0:00:30.46,0:00:32.92,GJM_Main,,0,0,0,,Both New-Types are wounded as well.
 Dialogue: 10,0:00:33.68,0:00:37.26,GJM_Main,,0,0,0,,We'll make our move\Nwhen we can confirm it's safe.
 Dialogue: 10,0:00:37.26,0:00:40.85,GJM_Main,,0,0,0,,The transmission is weak, so you won't\Nbe able to get a lock on our location.
@@ -53,9 +53,9 @@ Dialogue: 10,0:00:48.40,0:00:49.40,GJM_Main,,0,0,0,,I'm sorry.
 Dialogue: 10,0:00:52.28,0:00:53.53,GJM_Main,,0,0,0,,Utsugi...{ep6 preview line}
 Dialogue: 10,0:00:54.65,0:00:56.11,GJM_Main,,0,0,0,,I...{ep6 preview line}
 Dialogue: 10,0:00:56.11,0:00:58.03,GJM_Main,,0,0,0,,Oh, hey...
-Dialogue: 10,0:00:58.58,0:01:00.79,GJM_Main,,0,0,0,,How are you feeling?{How do you feel?}
+Dialogue: 10,0:00:58.58,0:01:00.79,GJM_Main,,0,0,0,,How are you feeling?
 Dialogue: 10,0:01:00.79,0:01:03.62,GJM_Main,,0,0,0,,I'm sorry! I'm so sorry!
-Dialogue: 10,0:01:12.13,0:01:14.63,GJM_Main,,0,0,0,,Hey, let's get moving.{Hey, let's move.}
+Dialogue: 10,0:01:12.13,0:01:14.63,GJM_Main,,0,0,0,,Hey, let's get moving.
 Dialogue: 10,0:01:15.26,0:01:17.47,GJM_Main,,0,0,0,,Are we going to rendezvous with them now?
 Dialogue: 10,0:01:17.47,0:01:18.51,GJM_Main,,0,0,0,,Negative,
 Dialogue: 10,0:01:19.76,0:01:23.14,GJM_Main,,0,0,0,,but it sure beats staying here.
@@ -63,50 +63,50 @@ Dialogue: 10,0:01:38.49,0:01:39.70,GJM_Main,,0,0,0,,Where are we going?
 Dialogue: 10,0:01:40.28,0:01:41.33,GJM_Main,,0,0,0,,Over there.
 Dialogue: 10,0:01:52.13,0:01:52.84,GJM_Main,,0,0,0,,Trees?
 Dialogue: 10,0:01:59.68,0:02:00.97,GJM_Main,,0,0,0,,There are so many trees...
-Dialogue: 10,0:02:00.97,0:02:03.68,GJM_Main,,0,0,0,,{So many trees... How come the Aragami didn't eat them?}How come the Aragami haven't eaten them?
+Dialogue: 10,0:02:00.97,0:02:03.68,GJM_Main,,0,0,0,,How come the Aragami haven't eaten them?
 Dialogue: 10,0:02:09.85,0:02:11.61,GJM_Main,,0,0,0,,Don't touch these trees.
 Dialogue: 10,0:02:32.25,0:02:33.38,GJM_Main,,0,0,0,,A person?!
 Dialogue: 10,0:02:45.77,0:02:46.85,GJM_Main,,0,0,0,,That girl...
 Comment: 10,0:02:50.02,0:04:19.98,GJM_Main,,0,0,0,,{OP}
 Dialogue: 10,0:04:38.38,0:04:40.59,GJM_Main,,0,0,100,,This is where we grow our food.
-Dialogue: 10,0:04:44.22,0:04:46.93,GJM_Main,,0,0,100,,{I knew it. You're the one from that time...}I knew it. You're that guy I met.
+Dialogue: 10,0:04:44.22,0:04:46.93,GJM_Main,,0,0,100,,I knew it. You're that guy I met.
 Dialogue: 10,0:04:46.93,0:04:48.30,GJM_Main,,0,0,100,,Y-Yeah...
 Dialogue: 10,0:04:49.31,0:04:50.77,GJM_Main,,0,0,100,,How did you get here?
 Dialogue: 10,0:04:51.18,0:04:53.85,GJM_Main,,0,0,100,,Rindou brought us here.
-Dialogue: 10,0:04:53.85,0:04:55.27,GJM_Main,,0,0,100,,{Rindou?!}He did?!
+Dialogue: 10,0:04:53.85,0:04:55.27,GJM_Main,,0,0,100,,He did?!
 Dialogue: 10,0:05:02.11,0:05:03.74,GJM_Main,,0,0,0,,It's good!
-Dialogue: 10,0:05:03.74,0:05:05.86,GJM_Main,,0,0,0,,These are way better\Nthan what we have in Fenrir.{The ones at Fenrir can't compare.}{Way better than those in Fenrir.}{whoever tl'ed rindou's lines should bury themselves in a hole. why is he talking in fragments}
-Dialogue: 10,0:05:05.86,0:05:07.95,GJM_Main,,0,0,0,,{Production is becoming stable.}Our crop production is finally stable.
+Dialogue: 10,0:05:03.74,0:05:05.86,GJM_Main,,0,0,0,,These are way better\Nthan what we have in Fenrir.
+Dialogue: 10,0:05:05.86,0:05:07.95,GJM_Main,,0,0,0,,Our crop production is finally stable.
 Dialogue: 10,0:05:07.95,0:05:08.78,GJM_Main,,0,0,0,,Rindou.
-Dialogue: 10,0:05:10.20,0:05:12.25,GJM_Main,,0,0,0,,{These people...}Who are all these people?{daisuki so bad that i missed this.  lit - "Who exactly are these people?"}
-Dialogue: 10,0:05:12.25,0:05:13.54,GJM_Main,,0,0,0,,{Yeah, all the ones who were denied entry into Fenrir.}Oh, right.
+Dialogue: 10,0:05:10.20,0:05:12.25,GJM_Main,,0,0,0,,Who are all these people?
+Dialogue: 10,0:05:12.25,0:05:13.54,GJM_Main,,0,0,0,,Oh, right.
 Dialogue: 10,0:05:13.54,0:05:17.54,GJM_Main,,0,0,0,,They're all people who were\Ndenied entry into Fenrir.
-Dialogue: 10,0:05:19.92,0:05:22.17,GJM_Main,,0,0,0,,{Don't tell me you...}Rindou, did you set this place up—
-Dialogue: 10,0:05:22.17,0:05:24.01,GJM_Main,,0,0,0,,No, I didn't.{Nope, you're wrong.}{"That, you're wrong."}
+Dialogue: 10,0:05:19.92,0:05:22.17,GJM_Main,,0,0,0,,Rindou, did you set this place up—
+Dialogue: 10,0:05:22.17,0:05:24.01,GJM_Main,,0,0,0,,No, I didn't.
 Dialogue: 10,0:05:25.17,0:05:27.55,GJM_Main,,0,0,0,,I just help out.
-Dialogue: 10,0:05:31.97,0:05:34.56,GJM_Main,,0,0,0,,{So how's it going lately?}So how have things been recently?
-Dialogue: 10,0:05:34.93,0:05:38.02,GJM_Main,,0,0,0,,We lost a few people after\Nthe Aragami snuck in again...{The Aragami infiltrated again and we lost a few people...}
+Dialogue: 10,0:05:31.97,0:05:34.56,GJM_Main,,0,0,0,,So how have things been recently?
+Dialogue: 10,0:05:34.93,0:05:38.02,GJM_Main,,0,0,0,,We lost a few people after\Nthe Aragami snuck in again...
 Dialogue: 10,0:05:38.60,0:05:40.40,GJM_Main,,0,0,0,,I see...
 Dialogue: 10,0:05:40.40,0:05:42.57,GJM_Main,,0,0,0,,Well, then... we'll go check the surrounding area.
 Dialogue: 10,0:05:43.03,0:05:45.19,GJM_Main,,0,0,0,,Let's go, newbie.
 Dialogue: 10,0:05:45.19,0:05:46.57,GJM_Main,,0,0,0,,Uh, okay.
 Dialogue: 10,0:05:46.95,0:05:48.66,GJM_Main,,0,0,0,,Wh-What about me?
-Dialogue: 10,0:05:48.66,0:05:51.20,GJM_Main,,0,0,0,,{Stay here and stare at the sky.}You stay here and enjoy the sky.
+Dialogue: 10,0:05:48.66,0:05:51.20,GJM_Main,,0,0,0,,You stay here and enjoy the sky.
 Dialogue: 10,0:05:53.41,0:05:54.50,GJM_Main,,0,0,0,,Huh?
 Dialogue: 10,0:05:54.91,0:05:58.50,GJM_Main,,0,0,0,,Count the clouds. It'll calm you down.
 Dialogue: 10,0:05:59.33,0:06:02.13,GJM_Main,,0,0,0,,Can you wield your God Arc with those hands?
 Dialogue: 10,0:06:10.43,0:06:12.85,GJM_Main,,0,0,0,,H-How about a nice bath?
-Dialogue: 10,0:06:12.85,0:06:17.44,GJM_Main,,0,0,0,,You're exhausted, aren't you?\NYou'll feel much better afterwards.{You look exhausted. Come on, it'll refresh you.}
+Dialogue: 10,0:06:12.85,0:06:17.44,GJM_Main,,0,0,0,,You're exhausted, aren't you?\NYou'll feel much better afterwards.
 Dialogue: 10,0:06:29.41,0:06:31.12,GJM_Main,,0,0,0,,These are...
 Dialogue: 10,0:06:31.12,0:06:32.95,GJM_Main,,0,0,0,,Don't say a word to anyone.
 Dialogue: 10,0:06:33.58,0:06:34.95,GJM_Main,,0,0,0,,Like who?
 Dialogue: 10,0:06:34.95,0:06:38.29,GJM_Main,,0,0,0,,Wait, you snuck these out\Nfrom the Far East Branch?
-Dialogue: 10,0:06:38.29,0:06:39.62,GJM_Main,,0,0,0,,The whole place?!{All of these?!}{This entire storage room?!}{liberal but hey}{i'll one-up your lib}{crit hit. KO'd}{metonomy go}
+Dialogue: 10,0:06:38.29,0:06:39.62,GJM_Main,,0,0,0,,The whole place?!
 Dialogue: 10,0:06:39.62,0:06:43.79,GJM_Main,,0,0,0,,Well, where else can you get this stuff?
 Dialogue: 10,0:06:45.71,0:06:47.67,GJM_Main,,0,0,0,,Come on, give me a hand here.
 Dialogue: 10,0:06:51.84,0:06:53.10,GJM_Main,,0,0,0,,Rindou...
 Dialogue: 10,0:06:53.10,0:06:54.89,GJM_Main,,0,0,0,,What is this?
-Dialogue: 10,0:06:54.89,0:06:58.23,GJM_Main,,0,0,0,,Aragami tend to have an...\N unbalanced diet, you might say.
+Dialogue: 10,0:06:54.89,0:06:58.23,GJM_Main,,0,0,0,,Aragami tend to have an...\Nunbalanced diet, you might say.
 Dialogue: 10,0:06:58.98,0:07:00.52,GJM_Main,,0,0,0,,What's that mean?
 Dialogue: 10,0:07:00.52,0:07:02.65,GJM_Main,,0,0,0,,They're picky eaters.
 Dialogue: 10,0:07:09.74,0:07:10.82,GJM_Main,,0,0,0,,Rindou!
@@ -125,12 +125,12 @@ Dialogue: 10,0:08:30.78,0:08:34.32,GJM_Main,,0,0,0,,In order to survive, it does
 Dialogue: 10,0:08:35.11,0:08:37.74,GJM_Main,,0,0,0,,We'll use whatever's on hand.
 Dialogue: 10,0:08:39.04,0:08:43.08,GJM_Main,,0,0,0,,Didn't you become a God Eater\Nwith that in mind?
 Dialogue: 10,0:08:44.87,0:08:46.96,GJM_Main,,0,0,0,,{\i1}Are you resolute in your decision?
-Dialogue: 10,0:08:48.42,0:08:52.34,GJM_Main,,0,0,0,,{\i1\t(3435,0,1,\3c&HFFFFFF&\4c&HFFFFFF&)}I'm doing this to fight against the Aragami!
+Dialogue: 10,0:08:48.42,0:08:52.34,GJM_Main,,0,0,0,,{\i1\t(3435,0,\3c&HFFFFFF&\4c&HFFFFFF&)}I'm doing this to fight against the Aragami!
 Dialogue: 10,0:08:55.13,0:08:57.01,GJM_Main,,0,0,0,,We kill Aragami...{ep6 preview line}
-Dialogue: 10,0:08:58.35,0:09:01.18,GJM_Main,,0,0,0,,So tell me, why do you want to kill them{Aragami}?{ep6 preview line}{Welp. We should go back and change it then. -Fomal}
+Dialogue: 10,0:08:58.35,0:09:01.18,GJM_Main,,0,0,0,,So tell me, why do you want to kill them{Aragami}?{ep6 preview line}
 Dialogue: 10,0:09:04.35,0:09:05.85,GJM_Main,,0,0,0,,I...
 Dialogue: 10,0:09:09.36,0:09:12.07,GJM_Main,,0,0,0,,Don't give up on it so easily.
-Dialogue: 10,0:09:17.03,0:09:18.12,GJM_Main,,0,0,0,,Let's move!{go!}
+Dialogue: 10,0:09:17.03,0:09:18.12,GJM_Main,,0,0,0,,Let's move!
 Dialogue: 10,0:09:27.08,0:09:28.21,GJM_Main,,0,0,0,,A Vajra!
 Dialogue: 10,0:09:30.38,0:09:31.59,GJM_Main,,0,0,0,,What's that sound?
 Dialogue: 10,0:09:32.76,0:09:35.34,GJM_Main,,0,0,0,,An Aragami got past the trees.
@@ -139,16 +139,16 @@ Dialogue: 10,0:09:37.93,0:09:38.84,GJM_Main,,0,0,0,,Hey, newbie.
 Dialogue: 10,0:09:40.81,0:09:42.56,GJM_Main,,0,0,0,,Change of plans.
 Dialogue: 10,0:09:42.97,0:09:45.39,GJM_Main,,0,0,0,,Go back and keep everyone safe.
 Dialogue: 10,0:09:46.52,0:09:47.73,GJM_Main,,0,0,0,,One more thing.
-Dialogue: 10,0:09:48.48,0:09:51.57,GJM_Main,,0,0,0,,{No one is to die}I don't want anyone dying today.
+Dialogue: 10,0:09:48.48,0:09:51.57,GJM_Main,,0,0,0,,I don't want anyone dying today.
 Dialogue: 10,0:09:52.61,0:09:53.48,GJM_Main,,0,0,0,,Including you.
 Dialogue: 10,0:09:54.99,0:09:55.90,GJM_Main,,0,0,0,,But how?!
-Dialogue: 10,0:09:55.90,0:09:57.07,GJM_Main,,0,0,0,,{This is}That's an order!
+Dialogue: 10,0:09:55.90,0:09:57.07,GJM_Main,,0,0,0,,That's an order!
 Dialogue: 10,0:09:58.57,0:10:02.03,GJM_Main,,0,0,0,,If you die, everyone will.
 Dialogue: 10,0:10:05.25,0:10:06.25,GJM_Main,,0,0,0,,Now run!
-Dialogue: 10,0:10:07.50,0:10:10.00,GJM_Main,,0,0,0,,And trust your God Arc.{And believe in your God Arc.}{that is the cheesiest thing}{In God Arc We Trust}{new dollar bill guys}{ep6 preview line}
+Dialogue: 10,0:10:07.50,0:10:10.00,GJM_Main,,0,0,0,,And trust your God Arc.{ep6 preview line}
 Dialogue: 10,0:10:17.88,0:10:19.14,GJM_Main,,0,0,0,,What's going on?!
 Dialogue: 10,0:10:19.14,0:10:21.14,GJM_Main,,0,0,0,,It's an Aragami! Run!
-Dialogue: 10,0:10:21.68,0:10:23.43,GJM_Main,,0,0,0,,{\i1}It's an Aragami! Run!{actually, this is one annoying aragami to take down, at least i never liked it}
+Dialogue: 10,0:10:21.68,0:10:23.43,GJM_Main,,0,0,0,,{\i1}It's an Aragami! Run!
 Dialogue: 10,0:10:31.61,0:10:32.82,GJM_Main,,0,0,100,,Help me...
 Dialogue: 10,0:10:32.82,0:10:33.98,GJM_Main,,0,0,100,,Help me!
 Dialogue: 10,0:10:54.00,0:10:54.80,GJM_Main,,0,0,0,,It's you!
@@ -160,10 +160,11 @@ Dialogue: 10,0:11:12.81,0:11:15.52,GJM_Main,,0,0,0,,Where are you, Alisa?!
 Dialogue: 10,0:11:15.52,0:11:16.94,GJM_Main,,0,0,0,,I'm sorry...
 Dialogue: 10,0:11:17.74,0:11:18.82,GJM_Main,,0,0,0,,I'm so sorry...
 Dialogue: 10,0:11:25.78,0:11:27.66,GJM_Main,,0,0,0,,At this rate, we'll all die!
-Dialogue: 10,0:11:28.25,0:11:30.25,GJM_Main,,0,0,0,,{\i1}I only give three orders:{from episode 2. was two separate lines in that ep}
-Dialogue: 10,0:11:30.25,0:11:32.88,GJM_Main,,0,0,0,,{\i1}Don't die. If your life is threatened...{split?}
-Dialogue: 10,0:11:34.29,0:11:36.92,GJM_Main,,0,0,0,,{Hey, is there something to use as a smokescreen?}Hey, do you have something\Nthat can act as a smokescreen?
-Dialogue: 10,0:11:36.92,0:11:40.26,GJM_Main,,0,0,0,,{Uh... How about an old-fashioned grenade?}Um, would an old-fashioned grenade work?
+Dialogue: 10,0:11:28.25,0:11:30.25,GJM_Main,,0,0,0,,{\i1}I only give three orders:
+Dialogue: 10,0:11:30.25,0:11:31.25,GJM_Main,,0,0,0,,{\i1}Don't die.
+Dialogue: 10,0:11:31.25,0:11:32.88,GJM_Main,,0,0,0,,{\i1}If your life is threatened...
+Dialogue: 10,0:11:34.29,0:11:36.92,GJM_Main,,0,0,0,,Hey, do you have something\Nthat can act as a smokescreen?
+Dialogue: 10,0:11:36.92,0:11:40.26,GJM_Main,,0,0,0,,Um, would an old-fashioned grenade work?
 Dialogue: 10,0:11:40.26,0:11:41.18,GJM_Main,,0,0,0,,Let me have it!
 Dialogue: 10,0:11:42.13,0:11:44.80,GJM_Main,,0,0,0,,Everyone! Run when I give the signal!
 Dialogue: 10,0:11:44.80,0:11:47.10,GJM_Main,,0,0,0,,Hide behind a building!
@@ -173,27 +174,27 @@ Dialogue: 10,0:12:07.53,0:12:09.29,GJM_Main,,0,0,0,,They're taking cover at the 
 Dialogue: 10,0:12:10.16,0:12:11.08,GJM_Main,,0,0,0,,But...
 Dialogue: 10,0:12:12.12,0:12:13.33,GJM_Main,,0,0,0,,At this rate...
 Dialogue: 10,0:12:15.46,0:12:16.63,GJM_Main,,0,0,0,,How could this happen?
-Dialogue: 10,0:12:17.09,0:12:21.26,GJM_Main,,0,0,0,,We worked so hard on building this place\Nafter Fenrir turned its back on us...{#}
+Dialogue: 10,0:12:17.09,0:12:21.26,GJM_Main,,0,0,0,,We worked so hard on building this place\Nafter Fenrir turned its back on us...
 Dialogue: 10,0:12:22.22,0:12:23.68,GJM_Main,,0,0,0,,It's over!
 Dialogue: 10,0:12:23.68,0:12:24.76,GJM_Main,,0,0,0,,Where's Rindou?
 Dialogue: 10,0:12:25.89,0:12:27.43,GJM_Main,,0,0,0,,He's battling a Vajra.
-Dialogue: 10,0:12:30.22,0:12:32.60,GJM_Main,,0,0,0,,{You're a God Eater! Do something!}Aren't you a God Eater?
+Dialogue: 10,0:12:30.22,0:12:32.60,GJM_Main,,0,0,0,,Aren't you a God Eater?
 Dialogue: 10,0:12:32.60,0:12:34.40,GJM_Main,,0,0,0,,Do something!
 Dialogue: 10,0:12:34.40,0:12:35.85,GJM_Main,,0,0,0,,Don't desert us again!
 Dialogue: 10,0:12:37.56,0:12:39.02,GJM_Main,,0,0,0,,I...
 Dialogue: 10,0:12:40.65,0:12:44.66,GJM_Main,,0,0,0,,{\i1}Why did you become a God Eater?
 Dialogue: 10,0:12:46.82,0:12:48.66,GJM_Main,,0,0,0,,{\i1}We kill Aragami...{ep6 preview line}
-Dialogue: 10,0:12:49.45,0:12:50.66,GJM_Main,,0,0,0,,{\i1}...why do you want to kill them{Aragami}?
+Dialogue: 10,0:12:49.45,0:12:50.66,GJM_Main,,0,0,0,,{\i1}...why do you want to kill them?
 Dialogue: 10,0:12:52.62,0:12:53.71,GJM_Main,,0,0,0,,Think!
-Dialogue: 10,0:13:06.59,0:13:11.18,GJM_Main,,0,0,0,,{There's electricity which means the dam works, right?}If you have electricity here,\Nthat means the dam works, right?
+Dialogue: 10,0:13:06.59,0:13:11.18,GJM_Main,,0,0,0,,If you have electricity here,\Nthat means the dam works, right?
 Dialogue: 10,0:13:11.18,0:13:12.73,GJM_Main,,0,0,0,,Uh, yeah.
-Dialogue: 10,0:13:14.85,0:13:17.23,GJM_Main,,0,0,0,,{Can you draw me an area map?}Can you draw me a map of the area?
+Dialogue: 10,0:13:14.85,0:13:17.23,GJM_Main,,0,0,0,,Can you draw me a map of the area?
 Dialogue: 10,0:13:21.03,0:13:22.74,GJM_Main,,0,0,0,,What are you planning?
 Dialogue: 10,0:13:23.28,0:13:25.74,GJM_Main,,0,0,0,,We'll drive that Aragami out!
 Dialogue: 10,0:13:27.61,0:13:30.03,GJM_Main,,0,0,0,,We can do it by luring it into the lake.
 Dialogue: 10,0:13:30.03,0:13:34.54,GJM_Main,,0,0,0,,After that, we'll release the water\Nin the dam and wash it away.
 Dialogue: 10,0:13:34.54,0:13:37.46,GJM_Main,,0,0,0,,B-But how do we drop that gigantic thing?!
-Dialogue: 10,0:13:41.46,0:13:44.09,GJM_Main,,0,0,0,,{\i1}We'll use whatever's on hand.{consistency please. -Fomal}
+Dialogue: 10,0:13:41.46,0:13:44.09,GJM_Main,,0,0,0,,{\i1}We'll use whatever's on hand.
 Dialogue: 10,0:13:44.09,0:13:47.05,GJM_Main,,0,0,0,,{\i1}...and I happen to have this one's favorite.
 Dialogue: 10,0:13:47.93,0:13:49.05,GJM_Main,,0,0,0,,The ampules!
 Dialogue: 10,0:13:49.51,0:13:52.93,GJM_Main,,0,0,0,,I can slow it down with the ampules.
@@ -202,7 +203,7 @@ Dialogue: 10,0:13:54.27,0:13:55.14,GJM_Main,,0,0,0,,It's on the other side.
 Dialogue: 10,0:14:04.19,0:14:06.11,GJM_Main,,0,0,0,,I'll distract that thing.
 Dialogue: 10,0:14:08.11,0:14:10.87,GJM_Main,,0,0,0,,Meanwhile, I need you to get me\Nsome of those ampules.
 Dialogue: 10,0:14:12.83,0:14:14.16,GJM_Main,,0,0,0,,I can't do this alone.
-Dialogue: 10,0:14:16.41,0:14:17.46,GJM_Main,,0,0,0,,{Help me!}I need your help.
+Dialogue: 10,0:14:16.41,0:14:17.46,GJM_Main,,0,0,0,,I need your help.
 Dialogue: 10,0:14:20.17,0:14:23.38,GJM_Main,,0,0,0,,With your help, we can...
 Dialogue: 10,0:14:24.71,0:14:26.26,GJM_Main,,0,0,0,,...turn this around!
 Dialogue: 10,0:14:26.97,0:14:28.88,GJM_Main,,0,0,0,,So get me those ampules!
@@ -220,30 +221,30 @@ Dialogue: 10,0:15:02.84,0:15:04.25,GJM_Main,,0,0,0,,We're counting on you,{ep6 p
 Dialogue: 10,0:15:04.92,0:15:06.26,GJM_Main,,0,0,0,,God Eater!{ep6 preview line}
 Dialogue: 10,0:15:07.13,0:15:07.71,GJM_Main,,0,0,0,,Yeah!
 Dialogue: 10,0:15:09.84,0:15:11.14,GJM_Main,,0,0,0,,Lend me your bow gun.
-Dialogue: 10,0:15:11.14,0:15:13.60,GJM_Main,,0,0,0,,{But it doesn't work on Aragami...?}Didn't you say that it\Nwon't work against Aragami?
+Dialogue: 10,0:15:11.14,0:15:13.60,GJM_Main,,0,0,0,,Didn't you say that it won't\Nwork against Aragami?
 Dialogue: 10,0:15:14.85,0:15:16.27,GJM_Main,,0,0,0,,That depends on how you use it.
 Dialogue: 10,0:15:16.72,0:15:17.60,GJM_Main,,0,0,0,,Let's go!
-Dialogue: 10,0:15:22.94,0:15:25.27,GJM_Main,,0,0,0,,{You're not gonna reach the shelter!}I won't let you near the shelter!
-Dialogue: 10,0:15:29.57,0:15:31.24,GJM_Main,,0,0,0,,Signal me as soon as they make it!{If they make it, signal me quickly!}{I guess? ;_;}
+Dialogue: 10,0:15:22.94,0:15:25.27,GJM_Main,,0,0,0,,I won't let you near the shelter!
+Dialogue: 10,0:15:29.57,0:15:31.24,GJM_Main,,0,0,0,,Signal me as soon as they make it!
 Dialogue: 10,0:15:39.16,0:15:40.33,GJM_Main,,0,0,0,,We need to hurry!
 Dialogue: 10,0:15:40.33,0:15:41.29,GJM_Main,,0,0,0,,Right!
-Dialogue: 10,0:15:46.34,0:15:47.46,GJM_Main,,0,0,0,,Come on!{Hurry!}
+Dialogue: 10,0:15:46.34,0:15:47.46,GJM_Main,,0,0,0,,Come on!
 Dialogue: 10,0:16:06.65,0:16:08.07,GJM_Main,,0,0,0,,Are you all right?!
-Dialogue: 10,0:16:16.16,0:16:17.03,GJM_Main,,0,0,0,,{You have to go...}It's up to you.
-Dialogue: 10,0:16:17.70,0:16:18.62,GJM_Main,,0,0,0,,{in my place!}Go in my place!
-Dialogue: 10,0:16:28.42,0:16:29.30,GJM_Main,,0,0,0,,Not good!{Oh no!}
-Dialogue: 10,0:16:36.51,0:16:39.43,GJM_Main,,0,0,0,,{It has to...reach!}Take it!
+Dialogue: 10,0:16:16.16,0:16:17.03,GJM_Main,,0,0,0,,It's up to you.
+Dialogue: 10,0:16:17.70,0:16:18.62,GJM_Main,,0,0,0,,Go in my place!
+Dialogue: 10,0:16:28.42,0:16:29.30,GJM_Main,,0,0,0,,Not good!
+Dialogue: 10,0:16:36.51,0:16:39.43,GJM_Main,,0,0,0,,Take it!
 Dialogue: 10,0:16:45.69,0:16:46.56,GJM_Main,,0,0,0,,He got it!
 Dialogue: 10,0:16:55.28,0:16:56.24,GJM_Main,,0,0,0,,It worked!
 Dialogue: 10,0:16:58.37,0:16:59.16,GJM_Main,,0,0,0,,Thanks.
 Dialogue: 10,0:16:59.79,0:17:00.74,GJM_Main,,0,0,0,,Now go and hide!
 Dialogue: 10,0:17:07.67,0:17:09.25,GJM_Main,,0,0,0,,Just a bit more!
-Dialogue: 10,0:17:33.40,0:17:34.70,GJM_Main,,0,0,0,,This isn't good...{It didn't work...}{This is falling through...}
-Dialogue: 10,0:17:40.33,0:17:42.37,GJM_Main,,0,0,0,,{\i1}And trust your God Arc.{Believe in your God Arc.}{ep6 preview line}
+Dialogue: 10,0:17:33.40,0:17:34.70,GJM_Main,,0,0,0,,This isn't good...
+Dialogue: 10,0:17:40.33,0:17:42.37,GJM_Main,,0,0,0,,{\i1}And trust your God Arc.{ep6 preview line}
 Dialogue: 10,0:18:37.26,0:18:38.34,GJM_Main,,0,0,0,,He did it...
 Dialogue: 10,0:18:40.09,0:18:41.30,GJM_Main,,0,0,0,,Open the dam!
-Dialogue: 10,0:18:42.18,0:18:44.22,GJM_Main,,0,0,0,,Opening the dam!{or liberal "Opening( right) now!"}
-Dialogue: 10,0:19:03.24,0:19:04.33,GJM_Main,,0,0,0,,Hell yeah!{He did it!}
+Dialogue: 10,0:18:42.18,0:18:44.22,GJM_Main,,0,0,0,,Opening the dam!
+Dialogue: 10,0:19:03.24,0:19:04.33,GJM_Main,,0,0,0,,Hell yeah!
 Dialogue: 10,0:19:39.44,0:19:40.45,GJM_Main,,0,0,0,,Hey, newbie.
 Dialogue: 10,0:19:42.16,0:19:43.16,GJM_Main,,0,0,0,,Rindou...
 Dialogue: 10,0:19:45.03,0:19:46.45,GJM_Main,,0,0,0,,You did good.
@@ -260,21 +261,21 @@ Dialogue: 10,0:20:41.51,0:20:44.47,GJM_Main,,0,0,0,,We may be able to\Nminimize 
 Dialogue: 10,0:20:45.43,0:20:49.56,GJM_Main,,0,0,0,,Continue the analysis\Nand compile a report ASAP.
 Dialogue: 10,0:20:56.44,0:20:57.90,GJM_Main,,0,0,0,,{\an8}Suspended?
 Dialogue: 10,0:20:58.52,0:21:01.57,GJM_Main,,0,0,0,,What's going on?\NIs this going to be a problem?
-Dialogue: 10,0:21:01.57,0:21:05.32,GJM_Main,,0,0,0,,It doesn't matter.\NWe have to show this to the army!{Even if we've had problems, we should report it to the army!}{#}{Regardless of whatever that was found problematic, we need to report this finding to the army!"}{"... we need to report to the army!"}{actually using a pronoun would be tricky because it might sound like it''s directing to "army"}{"Regardless of what was found problematic, the army needs to know!"}{maybe?}{iunno D:}{the first clause and the second clause are refering to two diff... entities? so the ones who terminated the continuation of the research is most likely HQ, the ones who found supposed issues with their findings. the army is a diff entity, whom they're trying to report to}{"The report may raise some questions, but the army needs to know( about this)!"}{wow this is the shadiest sounding research they're doing. damn what drugs}{I'm ded}{fyu-chan, i hate to be a meanie, but}{maybe we should ask fomal nii-san}{;_;}{HIFOMALPLEASEREAD}{I changed 218 because I understood it more like, "How is this going to affect us?" rather than it being a problem at all. Of course it's a problem. She reads it from the screen.}{And because of that, his response can lean on her line to imply that he doesn't care about the problems/consequences. Thoughts, zenrii?}{gotcha. and yes that works}{VICTORY}
+Dialogue: 10,0:21:01.57,0:21:05.32,GJM_Main,,0,0,0,,It doesn't matter.\NWe have to show this to the army!
 Dialogue: 10,0:21:05.32,0:21:06.41,GJM_Main,,0,0,0,,It seems...
-Dialogue: 10,0:21:07.41,0:21:11.66,GJM_Main,,0,0,0,,the higher-ups want to\Nsuppress this information.{data.}
-Dialogue: 10,0:21:15.37,0:21:17.63,GJM_Main,,0,0,0,,{After all this research...!}We've come this far with our research...
+Dialogue: 10,0:21:07.41,0:21:11.66,GJM_Main,,0,0,0,,the higher-ups want to\Nsuppress this information.
+Dialogue: 10,0:21:15.37,0:21:17.63,GJM_Main,,0,0,0,,We've come this far with our research...
 Comment: 10,0:21:55.62,0:23:24.96,GJM_Main,,0,0,0,,{ED}
-Dialogue: 10,0:23:25.80,0:23:27.63,GJM_Main,,0,0,0,,{\an8}They're gathering in Fenrir...
-Dialogue: 10,0:23:27.63,0:23:29.47,GJM_Main,,0,0,0,,{\an8}Our last hope...
-Dialogue: 10,0:23:29.47,0:23:30.88,GJM_Main,,0,0,0,,{\an8}...or a den of evil.
-Dialogue: 10,0:23:30.88,0:23:32.64,GJM_Main,,0,0,0,,{\an8}I want to examine your body.
-Dialogue: 10,0:23:32.64,0:23:33.72,GJM_Main,,0,0,0,,{\an8}Put an end to this!
-Dialogue: 10,0:23:33.72,0:23:35.10,GJM_Main,,0,0,0,,{\an8}After climbing to the top...
-Dialogue: 10,0:23:35.10,0:23:35.85,GJM_Main,,0,0,0,,{\an8}Lenka!
-Dialogue: 10,0:23:35.85,0:23:37.27,GJM_Main,,0,0,0,,{\an8}It's a memento of a friend.
-Dialogue: 10,0:23:37.27,0:23:38.89,GJM_Main,,0,0,0,,{\an8}Please erase my fears.
-Dialogue: 10,0:23:38.89,0:23:39.85,GJM_Main,,0,0,0,,{\an8}I'm going.
+Dialogue: 10,0:23:25.80,0:23:27.63,GJM_Main,,0,0,0,,{\an8}...they're being drawn to the branch?{ep8, 04:47}
+Dialogue: 10,0:23:27.63,0:23:29.47,GJM_Main,,0,0,0,,{\an8}Is it our last hope,{ep8, 11:37}
+Dialogue: 10,0:23:29.47,0:23:30.88,GJM_Main,,0,0,0,,{\an8}or is it a den of evil?{ep8, 11:37}
+Dialogue: 10,0:23:30.88,0:23:32.64,GJM_Main,,0,0,0,,{\an8}...let's take a look at you.{ep8, 07:04}
+Dialogue: 10,0:23:32.64,0:23:33.72,GJM_Main,,0,0,0,,{\an8}...put an end to our battle...{ep8, 20:37}
+Dialogue: 10,0:23:33.72,0:23:35.10,GJM_Main,,0,0,0,,{\an8}Even if we climbed up...{ep8, 12:05}
+Dialogue: 10,0:23:35.10,0:23:35.85,GJM_Main,,0,0,0,,{\an8}Lenka!{ep8, 15:37}
+Dialogue: 10,0:23:35.85,0:23:37.27,GJM_Main,,0,0,0,,{\an8}It belonged to someone I once knew.{ep8, 17:34}
+Dialogue: 10,0:23:37.27,0:23:38.89,GJM_Main,,0,0,0,,{\an8}Just take my fear away, please...{ep8, 20:15}
+Dialogue: 10,0:23:38.89,0:23:39.85,GJM_Main,,0,0,0,,{\an8}I'm heading out.{ep8, 09:44}
 Comment: 0,0:00:00.00,0:00:05.00,Default,,0,0,0,,OP
 Dialogue: 1,0:03:05.28,0:03:09.04,GodEaterOPRom,baseline,0,0,0,fx,{\an4\pos(0,47)\org(-1000,24)\fscx263\alpha&HFF&\t(210,226,\fscx268)\t(226,242,\fscx263)\t(242,258,\fscx268)\t(258,274,\fscx263)\t(274,290,\fscx268)\t(290,306,\fscx263)\t(306,322,\fscx268)\t(322,338,\fscx263)\t(338,354,\fscx268)\t(354,370,\fscx263)\t(370,386,\fscx268)\t(386,402,\fscx263)\t(402,418,\fscx268)\t(418,434,\fscx263)\t(434,450,\fscx268)\t(450,466,\fscx263)\t(466,482,\fscx268)\t(482,498,\fscx263)\t(498,514,\fscx268)\t(514,530,\fscx263)\t(530,546,\fscx268)\t(546,562,\fscx263)\t(562,578,\fscx268)\t(578,594,\fscx263)\t(594,610,\fscx268)\t(610,626,\fscx263)\t(626,642,\fscx268)\t(642,658,\fscx263)\t(658,674,\fscx268)\t(675,690,\fscx263)\p1}m 0 0 l 100 0 100 1 0 1{\fscx100\bord1.5\3c&H121777&\blur0.5\t(0,150,\alpha&H00&)\t(210,210,\3c&H05058E&\1c&H1102D5&)\t(850,1050,\3c&H121777&\1c&HFFFFFF&)\t(60,210,\frz0.35)\t(700,850,\frz0)\t(3610,3760,\alpha&HFF&)\p0}What
 Dialogue: 2,0:03:06.13,0:03:09.04,GodEaterOPRom,baseline,0,0,0,fx,{\an5\pos(284,50)\fnSplit splat splodge\fs26\b1\c&H1102D5&\1a&H60&\t(0,750,\c&H0000B0&)\t(2760,2910,\alpha&HFF&)}c
@@ -4144,4 +4145,3 @@ Comment: 0,0:00:07.00,0:00:09.00,Default,,0,0,0,,TS
 Dialogue: 2,0:20:55.27,0:20:57.90,FyuSigns,,0,0,0,,{\pos(858,600.762)\fax-0.2\fnKozuka Gothic Pro M - ENG\fs35\b1\blur0.5}Unauthorized
 Dialogue: 1,0:20:55.27,0:20:57.90,FyuSigns,,0,0,0,,{\pos(858,600.762)\fax-0.2\fnKozuka Gothic Pro M - ENG\fs35\b1\bord1\c&H000000&\blur0.5}Unauthorized
 Dialogue: 0,0:20:55.27,0:20:57.90,FyuSigns,,0,0,0,,{\pos(858,600.762)\fax-0.2\fnKozuka Gothic Pro M - ENG\fs35\b1\shad2\c&H000000&\4a&H50&\blur0.5}Unauthorized
-Comment: 0,0:00:09.00,0:00:11.00,Default,,0,0,0,,
