@@ -10,15 +10,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: haruchika_06_premux.mkv
-Video File: haruchika_06_premux.mkv
-Keyframes File: haruchika_06_premux_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/HaruChika/06/haruchika_06_premux.mkv
+Video File: D:/Fansubbing/GoodJob/HaruChika/06/haruchika_06_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 289
-Active Line: 304
-Video Position: 26336
+Video Zoom Percent: 0.625000
+Scroll Position: 3495
+Active Line: 3508
+Video Position: 6457
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -3543,7 +3542,7 @@ Dialogue: 0,0:04:22.36,0:04:22.40,ChhSigns,,0,0,0,,{=0}{\pos(280.95,66.98)\frz15
 Dialogue: 0,0:04:22.40,0:04:22.44,ChhSigns,,0,0,0,,{=0}{\pos(280.94,36.36)\frz15.33\fax-0.23\fnKozuka Gothic Pro Stripped H\fs16\b1\c&H0C0B0C&\blur0.6}Staff Room
 Dialogue: 0,0:04:22.44,0:04:22.49,ChhSigns,,0,0,0,,{=0}{\pos(280.97,6.36)\frz15.33\fax-0.23\fnKozuka Gothic Pro Stripped H\fs16\b1\c&H0C0B0C&\blur0.6}Staff Room
 Dialogue: 0,0:04:22.49,0:04:22.53,ChhSigns,,0,0,0,,{=0}{\pos(268.97,-4.64)\frz15.33\fax-0.23\fnKozuka Gothic Pro Stripped H\fs16\b1\c&H0C0B0C&\blur0.6}Staff Room
-Dialogue: 0,0:04:29.24,0:04:30.45,ChhSigns,,0,0,0,,{\pos(626.667,275.175)\frz359.8\fnKozuka Gothic Pro Stripped H\fs30\fsp1\b1\c&H202323&\blur0.6}Music Room
+Dialogue: 0,0:04:29.29,0:04:30.50,ChhSigns,,0,0,0,,{\pos(626.667,275.175)\frz359.8\fnKozuka Gothic Pro Stripped H\fs30\fsp1\b1\c&H202323&\blur0.6}Music Room
 Dialogue: 0,0:14:37.31,0:14:39.19,ChhSigns,,0,0,0,,{\pos(523.41,446.419)\frz1.193\fax-0.04\fnKozuka Gothic Pro Stripped H\fs50\fsp1\b1\c&H484B4A&\blur0.6}Music Prep Room
 Dialogue: 0,0:14:50.11,0:14:56.04,ChhSigns,,0,0,0,,{\fax0.09\fnKozuka Gothic Pro Stripped H\fs9\b1\c&H484B4A&\blur0.6\frz354.9\pos(585.784,47.964)}Music Prep Room
 Dialogue: 0,0:16:11.57,0:16:13.57,ChhSigns,,0,0,0,,{\fax-0.07\fnKozuka Gothic Pro Stripped H\fs26\fsp1\b1\c&H1C1E1F&\blur0.6\pos(596.714,390.857)\frz4.769}Infirmary
