@@ -16,8 +16,8 @@ Video File: garakowa_premux[7BE33178].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 881
-Active Line: 884
+Scroll Position: 578
+Active Line: 588
 Video Position: 67043
 
 [V4+ Styles]
@@ -621,8 +621,8 @@ Dialogue: 10,0:47:45.49,0:47:47.92,GJM_Main,,0,0,0,,and assembling them to creat
 Dialogue: 10,0:47:49.82,0:47:51.44,GJM_Main,,0,0,0,,An ideal human?
 Dialogue: 10,0:47:51.44,0:47:55.12,GJM_Main,,0,0,0,,A human that wouldn't harm the Earth.\NA creature without free will.
 Dialogue: 10,0:47:55.73,0:47:58.27,GJM_Main,,0,0,0,,But that's not human.
-Dialogue: 10,0:47:59.75,0:48:02.64,GJM_Main,,0,0,0,,What did the humans do?
-Dialogue: 10,0:48:02.64,0:48:05.07,GJM_Main,,0,0,0,,They tried to delete Mother, of course.
+Dialogue: 10,0:47:59.75,0:48:01.60,GJM_Main,,0,0,0,,What did the humans do?
+Dialogue: 10,0:48:01.60,0:48:05.07,GJM_Main,,0,0,0,,They tried to delete Mother, of course.
 Dialogue: 10,0:48:05.07,0:48:06.40,GJM_Main,,0,0,0,,Delete?!
 Dialogue: 10,0:48:09.25,0:48:10.03,GJM_Main,,0,0,0,,But...
 Dialogue: 10,0:48:10.57,0:48:15.22,GJM_Main,,0,0,0,,Humanity no longer had the power to fight Her.
