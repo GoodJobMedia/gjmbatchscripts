@@ -10,15 +10,13 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: haruchika_07_premux.mkv
-Video File: haruchika_07_premux.mkv
-Keyframes File: haruchika_07_premux_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/HaruChika/07/haruchika_07_premux.mkv
+Video File: D:/Fansubbing/GoodJob/HaruChika/07/haruchika_07_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 407
-Active Line: 424
-Video Position: 33998
+Scroll Position: 3894
+Active Line: 3901
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -3938,14 +3936,14 @@ Dialogue: 0,0:14:32.97,0:14:34.85,ChhSigns,,0,0,0,,{\3c&H000000&\fscx120\fad(362
 Dialogue: 1,0:14:32.97,0:14:34.85,ChhSigns,,0,0,0,,{\pos(302.71,312.29)\fscx120\fnid-POP_FTMARU\fs28\c&HF8FDFF&\2c&HFEFEFF&\blur3\fad(362,0)\t(0,362,\fscx100\fscy100\blur0.6)}Bring it.
 Dialogue: 1,0:14:33.97,0:14:34.85,ChhSigns,,0,0,0,,{\3c&H000000&\fscx120\fad(362,0)\blur3\fs28\fnid-POP_FTMARU\c&HECFCFF&\t(0,362,\fscx100\fscy100\alpha&HF0&\pos(277.71,352.29)\2c&HFEFEFF&}Over.
 Dialogue: 1,0:14:33.97,0:14:34.85,ChhSigns,,0,0,0,,{\pos(277.71,352.29)\fscx120\fnid-POP_FTMARU\fs28\c&HF8FDFF&\2c&HFEFEFF&\blur3\fad(362,0)\t(0,362,\fscx100\fscy100\blur0.6)}Over.
-Dialogue: 0,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(331.117,306.765)\frz-3.65\fax0.08\fnPolo\fs33\b1\xshad1\yshad1\c&H000000&\4c&H25130B&\blur1}Ward
-Dialogue: 0,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(331.117,306.765)\frz-3.65\fax0.08\fnPolo\fs33\b1\xshad-1\yshad-1\c&H000000&\4c&H866050&\blur1}Ward
-Dialogue: 1,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(331.117,306.765)\frz-3.65\fax0.08\fnPolo\fs33\b1\shad1\c&H351D17&\4c&H25130B&\4a&HFF&\blur1}Ward
-Dialogue: 0,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(338.12,637.77)\frz-3.65\fax0.08\fnPolo\fs35\b1\xshad1\yshad1\c&H000000&\4c&H25130B&\blur1}Gate
-Dialogue: 0,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(338.12,637.77)\frz-3.65\fax0.08\fnPolo\fs35\b1\xshad-1\yshad-1\c&H000000&\4c&H543C32&\blur1}Gate
-Dialogue: 1,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(338.12,637.77)\frz-3.65\fax0.08\fnPolo\fs35\b1\shad1\c&H140A08&\4c&H25130B&\4a&HFF&\blur1}Gate
-Dialogue: 1,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(498.667,392)\fscy90\frz-269.8\fax-0.04\fnBrushStroke 35\fs40\b1\bord1\c&H221A14&\3c&H221A14&\4c&H4E3E41&\blur0.6}Suiren Temple
-Dialogue: 2,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(498.667,392)\fscy90\frz-269.8\fax-0.04\fnBrushStroke 35\fs40\b1\c&H212B2B&\4c&H4E3E41&\4a&HFF&\blur0.6}Suiren Temple
+Dialogue: 0,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(331.117,304.919)\frz-3.65\fax0.08\fnPolo\fs33\b1\xshad1\yshad1\c&H000000&\4c&H25130B&\blur1}Suiren
+Dialogue: 0,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(331.117,304.919)\frz-3.65\fax0.08\fnPolo\fs33\b1\xshad-1\yshad-1\c&H000000&\4c&H866050&\blur1}Suiren
+Dialogue: 1,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(331.117,304.919)\frz-3.65\fax0.08\fnPolo\fs33\b1\shad1\c&H351D17&\4c&H25130B&\4a&HFF&\blur1}Suiren
+Dialogue: 0,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(330.92,637.77)\frz-3.65\fax0.08\fnPolo\fs35\b1\xshad1\yshad1\c&H000000&\4c&H25130B&\blur1}Temple
+Dialogue: 0,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(330.92,637.77)\frz-3.65\fax0.08\fnPolo\fs35\b1\xshad-1\yshad-1\c&H000000&\4c&H543C32&\blur1}Temple
+Dialogue: 1,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(330.92,637.77)\frz-3.65\fax0.08\fnPolo\fs35\b1\shad1\c&H140A08&\4c&H25130B&\4a&HFF&\blur1}Temple
+Dialogue: 1,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(498.667,392)\fscy90\frz-269.8\fax-0.04\fnBrushStroke 35\fs40\b1\bord1\c&H221A14&\3c&H221A14&\4c&H4E3E41&\blur0.6}Ward Gate
+Dialogue: 2,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(498.667,392)\fscy90\frz-269.8\fax-0.04\fnBrushStroke 35\fs40\b1\c&H212B2B&\4c&H4E3E41&\4a&HFF&\blur0.6}Ward Gate
 Dialogue: 1,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(780,409)\fscy90\frz-89.83\fax-0.04\fnBrushStroke 35\fs40\b1\bord1\c&H221A14&\3c&H221A14&\blur0.6}Fortune Gate
 Dialogue: 2,0:17:45.66,0:17:47.58,ChhSigns,,0,0,0,,{\pos(780,409)\fscy90\frz-89.83\fax-0.04\fnBrushStroke 35\fs40\b1\c&H212B2B&\4a&HFF&\blur0.6}Fortune Gate
 Dialogue: 0,0:18:48.98,0:18:50.10,ChhSigns,,0,0,0,,{\pos(502.47,294.86)\fs30\fsp3\c&H040404&\1a&H3C&\blur1}Authorised
