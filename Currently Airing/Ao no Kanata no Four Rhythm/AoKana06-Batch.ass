@@ -17,8 +17,8 @@ Keyframes File: aokana 6 premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 252
-Active Line: 264
+Scroll Position: 364
+Active Line: 401
 Video Position: 22415
 
 [V4+ Styles]
@@ -421,13 +421,13 @@ Dialogue: 0,0:22:19.27,0:22:22.11,ED,,0,0,0,,{\3c&H941667&\blur4\fad(240,240)}F{
 Dialogue: 0,0:22:22.73,0:22:26.53,ED,,0,0,0,,{\3c&H6666DD&\blur4\fad(240,240)}M{\3c&H6B67DE&}y {\3c&H6F69DF&}f{\3c&H7169DF&}r{\3c&H736ADF&}i{\3c&H766BE0&}e{\3c&H786CE0&}n{\3c&H7A6CE1&}d{\3c&H7C6DE1&}s{\3c&H7F6EE1&}' {\3c&H836FE2&}l{\3c&H8570E3&}a{\3c&H8770E3&}u{\3c&H8971E3&}g{\3c&H8C72E4&}h{\3c&H8E73E4&}t{\3c&H9073E4&}e{\3c&H9274E5&}r {\3c&H9676E6&}a{\3c&H9876E6&}n{\3c&H9A77E6&}d {\3c&H9F79E7&}v{\3c&HA179E7&}o{\3c&HA37AE8&}i{\3c&HA57BE8&}c{\3c&HA77CE8&}e{\3c&HA97CE9&}s {\3c&HAD7EE9&}a{\3c&HAF7FEA&}r{\3c&HB17FEA&}e {\3c&HB581EB&}g{\3c&HB782EB&}r{\3c&HB982EB&}o{\3c&HBB83EC&}w{\3c&HBD84EC&}i{\3c&HBE85EC&}n{\3c&HC086ED&}g {\3c&HC487ED&}d{\3c&HC688EE&}i{\3c&HC889EE&}s{\3c&HCA8AEE&}t{\3c&HCB8AEE&}a{\3c&HCD8BEF&}n{\3c&HCF8CEF&}t
 Dialogue: 0,0:22:26.53,0:22:29.61,ED,,0,0,0,,{\3c&H6666DD&\blur4\fad(240,240)}J{\3c&H6F69DF&}u{\3c&H746AE0&}s{\3c&H786CE0&}t {\3c&H816FE2&}l{\3c&H8670E3&}i{\3c&H8A71E3&}k{\3c&H8F73E4&}e {\3c&H9776E6&}h{\3c&H9B77E6&}o{\3c&HA079E7&}w {\3c&HA87CE9&}I {\3c&HB07FEA&}w{\3c&HB481EB&}a{\3c&HB882EB&}s {\3c&HC085ED&}t{\3c&HC487ED&}o{\3c&HC889EE&}d{\3c&HCB8AEE&}a{\3c&HCF8CEF&}y
 Dialogue: 0,0:22:29.61,0:22:36.12,ED,,0,0,0,,{\3c&H5C85CE&\blur4\fad(240,240)}I hide away
-Dialogue: 0,0:22:36.12,0:22:43.13,ED,,0,0,0,,{\3c&H5C85CE&\blur4\fad(240,240)}My small sighs
+Dialogue: 0,0:22:36.12,0:22:43.13,ED,,0,0,0,,{\3c&H5C85CE&\blur4\fad(240,240)}My small sighs between the waves
 Dialogue: 0,0:22:44.38,0:22:48.09,ED,,0,0,0,,{\3c&HFE9F52&\blur4\fad(240,240)}I could do it so well today
 Dialogue: 0,0:22:48.09,0:22:50.84,ED,,0,0,0,,{\3c&HFE9F52&\blur4\fad(240,240)}But now I can't even catch up to them
 Dialogue: 0,0:22:51.30,0:22:55.31,ED,,0,0,0,,{\3c&HFBC080&\blur4\fad(240,240)}You used to be so unreliable but now you've gotten so much stronger
 Dialogue: 0,0:22:55.31,0:22:58.22,ED,,0,0,0,,{\3c&HFBC080&\blur4\fad(240,240)}The colour of the sky changes too
-Dialogue: 0,0:22:58.44,0:23:04.94,ED,,0,0,0,,{\3c&H6A64A0&\blur4\fad(240,240)}W{\3c&H6B639D&}h{\3c&H6C639B&}e{\3c&H6C6399&}n {\3c&H6D6395&}y{\3c&H6E6393&}o{\3c&H6E6391&}u{\3c&H6F638F&}'{\3c&H6F638D&}r{\3c&H6F638C&}e {\3c&H6F6388&}f{\3c&H6F6386&}e{\3c&H6F6384&}e{\3c&H6F6382&}l{\3c&H6E6380&}i{\3c&H6E637F&}n{\3c&H6E637D&}g {\3c&H6D6279&}d{\3c&H6C6277&}o{\3c&H6C6276&}w{\3c&H6B6274&}n{\3c&H6A6272&}c{\3c&H6A6170&}a{\3c&H69616F&}s{\3c&H68616D&}t
-Dialogue: 0,0:23:04.94,0:23:11.99,ED,,0,0,0,,{\3c&H6A64A0&\blur4\fad(240,240)}T{\3c&H6B639E&}h{\3c&H6B639C&}e {\3c&H6C6399&}w{\3c&H6D6398&}i{\3c&H6D6396&}n{\3c&H6E6395&}d {\3c&H6E6392&}t{\3c&H6E6390&}h{\3c&H6F638F&}i{\3c&H6F638D&}n{\3c&H6F638C&}k{\3c&H6F638A&}s {\3c&H6F6387&}y{\3c&H6F6386&}o{\3c&H6F6384&}u {\3c&H6F6382&}w{\3c&H6E6380&}a{\3c&H6E637F&}n{\3c&H6E637D&}t {\3c&H6D627B&}t{\3c&H6D6279&}o {\3c&H6C6276&}b{\3c&H6C6275&}e {\3c&H6A6272&}a{\3c&H6A6271&}l{\3c&H696170&}o{\3c&H69616E&}n{\3c&H68616D&}e
+Dialogue: 0,0:22:58.44,0:23:04.94,ED,,0,0,0,,{\3c&H6A64A0&\blur4\fad(240,240)}T{\3c&H6A649E&}h{\3c&H6A649C&}e {\3c&H6A6498&}w{\3c&H6A6396&}i{\3c&H6A6394&}n{\3c&H696392&}d {\3c&H69638E&}k{\3c&H69638C&}n{\3c&H69638A&}o{\3c&H696388&}w{\3c&H696286&}s {\3c&H696283&}a{\3c&H696281&}l{\3c&H69627F&}l {\3c&H69627B&}t{\3c&H686279&}o{\3c&H686277&}o {\3c&H686173&}w{\3c&H686171&}e{\3c&H68616F&}l{\3c&H68616D&}l
+Dialogue: 0,0:23:04.94,0:23:11.99,ED,,0,0,0,,{\3c&H6A64A0&\blur4\fad(240,240)}W{\3c&H6A649E&}h{\3c&H6A649D&}a{\3c&H6A649B&}t {\3c&H6A6498&}r{\3c&H6A6397&}e{\3c&H6A6395&}g{\3c&H6A6394&}r{\3c&H696392&}e{\3c&H696391&}t {\3c&H69638D&}a{\3c&H69638C&}n{\3c&H69638A&}d {\3c&H696387&}s{\3c&H696286&}a{\3c&H696284&}d{\3c&H696283&}n{\3c&H696281&}e{\3c&H696280&}s{\3c&H69627E&}s {\3c&H69627B&}f{\3c&H686279&}e{\3c&H686278&}e{\3c&H686276&}l{\3c&H686175&}s {\3c&H686172&}l{\3c&H686170&}i{\3c&H68616F&}k{\3c&H68616D&}e
 Dialogue: 0,0:23:11.99,0:23:15.87,ED,,0,0,0,,{\3c&HDF9B5F&\blur4\fad(240,240)}Let's take to the skies again
 Dialogue: 0,0:23:15.87,0:23:19.46,ED,,0,0,0,,{\3c&HB77450&\blur4\fad(240,240)}This is where everything begins
 Dialogue: 0,0:23:19.46,0:23:23.38,ED,,0,0,0,,{\3c&HC0632F&\blur4\fad(240,240)}It won't be the same as yesterday
