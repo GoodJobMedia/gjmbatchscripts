@@ -15,8 +15,8 @@ Video File: haruchika_08_premux_v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 303
-Active Line: 319
+Scroll Position: 4294
+Active Line: 4316
 Video Position: 27661
 
 [V4+ Styles]
@@ -282,7 +282,7 @@ Dialogue: 10,0:15:02.23,0:15:03.84,GJM_Main,,0,0,0,,Serizawa-san?
 Dialogue: 10,0:15:03.84,0:15:04.34,GJM_Main,,0,0,0,,Huh?
 Dialogue: 10,0:15:04.34,0:15:05.37,GJM_Main,,0,0,0,,Haruta?
 Dialogue: 10,0:15:05.37,0:15:07.90,GJM_Main,,0,0,0,,Um, why are you here this late at night?
-Dialogue: 10,0:15:07.90,0:15:11.97,GJM_Main,,0,0,0,,We're taking the first train\Ntomorrow to Hanamaki, Iwata.
+Dialogue: 10,0:15:07.90,0:15:11.97,GJM_Main,,0,0,0,,We're taking the first train\Ntomorrow to Hanamaki, Iwate.
 Dialogue: 10,0:15:12.87,0:15:14.92,GJM_Main,,0,0,0,,Here. Your travel expenses.
 Dialogue: 10,0:15:14.92,0:15:16.98,GJM_Main,,0,0,0,,You're kidding, right?
 Dialogue: 10,0:15:16.98,0:15:21.37,GJM_Main,,0,0,0,,We'll stay here tonight and take a taxi\Nto the station early tomorrow.
