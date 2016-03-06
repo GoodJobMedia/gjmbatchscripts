@@ -17,8 +17,8 @@ Keyframes File: GarakowaBD_premux[DEC76C96]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 466
-Active Line: 482
+Scroll Position: 855
+Active Line: 878
 Video Position: 57164
 
 [V4+ Styles]
@@ -912,7 +912,7 @@ Dialogue: 0,0:01:03.08,0:01:09.75,BigAssTitle,,0,0,0,,{\pos(631,78)\fs60\bord1.5
 Dialogue: 1,0:01:03.08,0:01:09.75,BigAssTitle,,0,0,0,,{\pos(630,76.571)\fs60\1a&HFF&\blur0.8\t(25,692,0.85,\1a&H00&)\t(4321,6656,\1a&HFF&)}Dr. Diana Dawson develops
 Dialogue: 0,0:01:03.08,0:01:09.75,BigAssTitle,,0,0,0,,{\pos(631,183)\fs120\bord1.5\shad0.5\1a&HFE&\3a&HFF&\4a&HFF&\blur1.5\t(234,692,1.5,\4a&H80&)\t(4321,5656,\4a&HFF&)}Mother
 Dialogue: 1,0:01:03.08,0:01:09.75,BigAssTitle,,0,0,0,,{\pos(630,181.571)\fs120\1a&HFF&\blur0.8\t(25,692,0.85,\1a&H00&)\t(4321,6656,\1a&HFF&)}Mother
-Dialogue: 0,0:01:03.08,0:01:09.75,BigAssTitle,,0,0,0,,{\pos(630.5,199)\fs30\fsp-1\b1\bord0.9\shad0.01\1a&HFE&\3a&HFF&\4a&HFF&\blur1.5\t(234,692,1.5,\4a&H80&)\t(4321,5656,\4a&HFF&)})environmental control program)
+Dialogue: 0,0:01:03.08,0:01:09.75,BigAssTitle,,0,0,0,,{\pos(630.5,199)\fs30\fsp-1\b1\bord0.9\shad0.01\1a&HFE&\3a&HFF&\4a&HFF&\blur1.5\t(234,692,1.5,\4a&H80&)\t(4321,5656,\4a&HFF&)}(environmental control program)
 Dialogue: 1,0:01:03.08,0:01:09.75,BigAssTitle,,0,0,0,,{\pos(630,197)\fs30\fsp-1\b1\1a&HFF&\blur0.8\t(25,692,0.85,\1a&H00&)\t(4321,6656,\1a&HFF&)}(environmental control program)
 Dialogue: 0,0:01:11.30,0:01:13.55,BigAssTitle2,,0,0,0,,{\an8\pos(642,419.5)\fs60\b1\bord1.3\shad0.01\4c&HEDEDED&\1a&HFE&\3a&HFF&\4a&HFF&\blur1.5\t(21,480,1.5,\4a&H00&)\t(1064,2274,0.75,\4a&HFF&)}Control is initiated
 Dialogue: 1,0:01:11.30,0:01:13.55,BigAssTitle2,,0,0,0,,{\an8\pos(640,418)\fs60\b1\1a&HFF&\blur0.8\t(21,480,0.85,\1a&H00&)\t(1064,2274,1.3,\1a&HFF&)}Control is initiated
