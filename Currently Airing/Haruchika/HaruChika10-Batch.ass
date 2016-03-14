@@ -16,8 +16,8 @@ Keyframes File: haruchika_10_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 87
-Active Line: 99
+Scroll Position: 255
+Active Line: 298
 Video Position: 8881
 
 [V4+ Styles]
@@ -333,7 +333,7 @@ Dialogue: 10,0:16:08.95,0:16:10.54,GJM_Main,,0,0,0,,Really?
 Dialogue: 10,0:16:10.54,0:16:12.61,GJM_Main,,0,0,0,,We should just talk to your mother.
 Dialogue: 10,0:16:12.61,0:16:14.52,GJM_Main,,0,0,0,,Could you call her?
 Dialogue: 10,0:16:14.52,0:16:16.48,GJM_Main,,0,0,0,,I don't know her number.
-Dialogue: 10,0:16:16.48,0:16:19.50,GJM_Main,,0,0,0,,It doesn't have to be her mobile phone.\NWhat about your home number?
+Dialogue: 10,0:16:16.48,0:16:19.50,GJM_Main,,0,0,0,,It doesn't have to be her mobile phone.\NWhat about a home number?
 Dialogue: 10,0:16:21.41,0:16:23.92,GJM_Main,,0,0,0,,See, she {\i1}is{\i0} lying.
 Dialogue: 10,0:16:23.92,0:16:25.79,GJM_Main,,0,0,0,,Pie is my dog.
 Dialogue: 10,0:16:26.17,0:16:30.55,GJM_Main,,0,0,0,,This is certainly odd, but I don't think\Nshe's lying to make a quick buck.
