@@ -16,8 +16,8 @@ Video File: D:/Fansubbing/GoodJob/Hacka Doll/04/hacka04_premux[CA5C2BE2].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 253
-Active Line: 281
+Scroll Position: 331
+Active Line: 362
 Video Position: 89
 
 [V4+ Styles]
@@ -390,9 +390,9 @@ Dialogue: 5,0:07:25.04,0:07:25.09,ED,,0,0,0,,{\an5\pos(974.44,313.89)\fs27.56\bo
 Dialogue: 5,0:07:25.09,0:07:25.13,ED,,0,0,0,,{\an5\pos(1022.22,264.44)\fs23.78\bord2.11\shad1.22\blur1.11}Hey boy! If you want to realize your dreams,
 Dialogue: 5,0:07:25.13,0:07:27.26,ED,,0,0,0,,{\an5\pos(1070,215)\fs20\bord2\shad1\blur1\t(2010,2130,\alpha&HFF&)}Hey boy! If you want to realize your dreams,
 Dialogue: 5,0:07:27.26,0:07:32.47,ED,,0,0,0,,{\an5\pos(1070,215)\fs20\bord2\shad1\blur1\fad(80,160)}Then don't wait around! Just let me know!
-Dialogue: 5,0:07:32.47,0:07:37.39,ED,,0,0,0,,{\an5\pos(1070,215)\fs20\bord2\shad1\blur1\fad(80,80)}Your dreams are safe right here!
-Dialogue: 5,0:07:37.39,0:07:41.31,ED,,0,0,0,,{\an5\pos(1070,215)\fs20\bord2\shad1\blur1\fad(80,160)}We'll create a whole new story
-Dialogue: 5,0:07:41.31,0:07:43.60,ED,,0,0,0,,{\an5\pos(1070,215)\fs20\bord2\shad1\blur1\fad(80,160)}in those dreams of yours!
+Dialogue: 5,0:07:32.47,0:07:37.39,ED,,0,0,0,,{\an5\pos(1070,215)\fs20\bord2\shad1\blur1\fad(80,80)}Your dreams will one day
+Dialogue: 5,0:07:37.39,0:07:41.31,ED,,0,0,0,,{\an5\pos(1070,215)\fs20\bord2\shad1\blur1\fad(80,160)}create a whole new story for you
+Dialogue: 5,0:07:41.31,0:07:43.60,ED,,0,0,0,,{\an5\pos(1070,215)\fs20\bord2\shad1\blur1\fad(80,160)}And we'll be there together!
 Comment: 0,0:07:52.53,0:07:54.53,GJM_Main,,0,0,0,,TS
 Dialogue: 0,0:01:37.53,0:01:40.28,FyuSigns,,151,2,113,,{\pos(231,505)\fnLato\fs11\fsp1\b1\c&HFFF9F7&\blur0.6}Childhood Friend
 Dialogue: 0,0:01:37.53,0:01:40.28,FyuSigns,,151,2,113,,{\an4\pos(199,576)\fnLato\fs16\fsp1.4\b1\c&HFFF9F7&\blur0.5}Hey... What am I to you, Ikuo?

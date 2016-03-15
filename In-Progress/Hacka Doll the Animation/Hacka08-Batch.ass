@@ -15,8 +15,8 @@ Video File: D:/Fansubbing/GoodJob/Hacka Doll/08/hacka08_premux[5FFFFB48].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 324
-Active Line: 341
+Scroll Position: 378
+Active Line: 404
 Video Position: 530
 
 [V4+ Styles]
@@ -430,10 +430,10 @@ Dialogue: 0,0:01:16.89,0:01:17.68,OP,,0,0,0,,{\c&HCD99FD&\4c&HF070AE&\blur1}I {\
 Dialogue: 0,0:01:17.68,0:01:18.35,OP,,0,0,0,,{\c&H46E796&\4c&H29E1F8&\blur1}I lovehate you, lovehate you, baby, yeah!
 Dialogue: 0,0:01:18.35,0:01:19.02,OP,,0,0,0,,{\c&HA6DF4A&\blur1\t(470,670,\alpha&HFF&)}I lovehate you, lovehate you, baby, yeah!
 Comment: 0,0:07:26.25,0:07:28.25,GJM_Main,,0,0,0,,ED
-Dialogue: 0,0:07:32.89,0:07:36.65,ED,,0,0,0,,{\blur2\fad(120,120)}Hey now, I want to see you give it all you've got!
-Dialogue: 0,0:07:36.65,0:07:40.40,ED,,0,0,0,,{\blur2\fad(120,120)}But I can't keep waiting for it...
-Dialogue: 0,0:07:40.40,0:07:43.90,ED,,0,0,0,,{\blur2\fad(120,120)}Hey now, I want to see you give it all you've got!
-Dialogue: 0,0:07:43.90,0:07:47.95,ED,,0,0,0,,{\blur2\fad(120,120)}Sometimes I just feel like giving up...
+Dialogue: 0,0:07:32.89,0:07:36.65,ED,,0,0,0,,{\blur2\fad(120,120)}Hey, wanna see me give it everything I've got?
+Dialogue: 0,0:07:36.65,0:07:40.40,ED,,0,0,0,,{\blur2\fad(120,120)}But that just makes me so tired...
+Dialogue: 0,0:07:40.40,0:07:43.90,ED,,0,0,0,,{\blur2\fad(120,120)}Hey, wanna see me give it everything I've got?
+Dialogue: 0,0:07:43.90,0:07:47.95,ED,,0,0,0,,{\blur2\fad(120,120)}I can do it when I try!
 Comment: 0,0:07:28.25,0:07:30.25,GJM_Main,,0,0,0,,TS
 Dialogue: 0,0:01:30.02,0:01:33.15,FyuSigns,,0,0,0,,{\pos(846.262,138)\fnFOT Comet Std Stripped\fsp1\b1\c&H42862A&\1a&H78&\blur0.6\fad(0,250)}Episode 8: Kind of Main Heroine-ish
 Dialogue: 0,0:01:30.02,0:01:33.15,FyuSigns,,0,0,0,,{\pos(842.762,134.5)\fnFOT Comet Std Stripped\fsp1\b1\bord2.5\c&H52A137&\3c&H52A137&\blur0.5\fad(0,250)}Episode 8: Kind of Main Heroine-ish

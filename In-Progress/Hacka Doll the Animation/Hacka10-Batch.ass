@@ -16,8 +16,8 @@ Keyframes File: hacka10_premux[88A27D9F]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 264
-Active Line: 277
+Scroll Position: 327
+Active Line: 341
 Video Position: 5641
 
 [V4+ Styles]
@@ -369,9 +369,9 @@ Dialogue: 0,0:01:18.35,0:01:19.02,OP,,0,0,0,,{\c&HA6DF4A&\blur1\t(470,670,\alpha
 Comment: 0,0:07:23.50,0:07:25.00,GJM_Main,,0,0,0,,ED
 Dialogue: 5,0:07:25.00,0:07:30.01,ED,,0,0,0,,{\blur2\fad(120,120)}Hey boy! If you want to realize your dreams,
 Dialogue: 5,0:07:30.01,0:07:34.93,ED,,0,0,0,,{\blur2\fad(120,120)}Then don't wait around! Just let me know!
-Dialogue: 5,0:07:34.93,0:07:40.14,ED,,0,0,0,,{\blur2\fad(120,120)}Your dreams are safe right here!
-Dialogue: 5,0:07:40.14,0:07:43.99,ED,,0,0,0,,{\blur2\fad(120,120)}We'll create a whole new story
-Dialogue: 5,0:07:43.99,0:07:46.28,ED,,0,0,0,,{\blur2\fad(120,120)}in those dreams of yours!
+Dialogue: 5,0:07:34.93,0:07:40.14,ED,,0,0,0,,{\blur2\fad(120,120)}Your dreams will one day
+Dialogue: 5,0:07:40.14,0:07:43.99,ED,,0,0,0,,{\blur2\fad(120,120)}create a whole new story for you
+Dialogue: 5,0:07:43.99,0:07:46.28,ED,,0,0,0,,{\blur2\fad(120,120)}And we'll be there together!
 Comment: 0,0:07:46.28,0:07:48.28,GJM_Main,,0,0,0,,TS
 Dialogue: 0,0:01:32.90,0:01:37.41,FyuSigns,,0,0,0,,{\fnFOT Comet Std Stripped\fsp1\b1\c&H42862A&\1a&H78&\blur0.6\fad(860,250)\pos(808.548,138)}Episode 10: Let's Go to a Hot Spring!
 Dialogue: 0,0:01:32.90,0:01:37.41,FyuSigns,,0,0,0,,{\fnFOT Comet Std Stripped\fsp1\b1\bord2.5\c&H52A137&\3c&H52A137&\blur0.5\fad(860,250)\pos(805.048,134.5)}Episode 10: Let's Go to a Hot Spring!
