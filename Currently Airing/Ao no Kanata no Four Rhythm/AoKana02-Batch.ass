@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/AoKana/02/aokana 2 premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 419
-Active Line: 452
-Video Position: 31831
+Scroll Position: 394
+Active Line: 401
+Video Position: 31461
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,10 +33,10 @@ Style: ED,Gunny Rewritten,60,&H00FBFBFB,&H000000FF,&H1E6D4B00,&H85000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:04.15,0:00:05.90,GJM_Main,,0,0,0,,An air kick turn?!
-Dialogue: 10,0:00:06.19,0:00:07.65,GJM_Main,,0,0,0,,I-Inconceivable!
-Dialogue: 10,0:00:08.40,0:00:11.03,GJM_Main,,0,0,0,,I-I did it!
-Dialogue: 10,0:00:11.03,0:00:13.61,GJM_Main,,0,0,0,,I scored a point!
+Dialogue: 10,0:00:04.15,0:00:05.90,GJM_Main,,0,0,0,,An air kick turn?!{ep1 preview line}
+Dialogue: 10,0:00:06.19,0:00:07.65,GJM_Main,,0,0,0,,I-Inconceivable!{ep1 preview line}
+Dialogue: 10,0:00:08.40,0:00:11.03,GJM_Main,,0,0,0,,I-I did it!{ep1 preview line}
+Dialogue: 10,0:00:11.03,0:00:13.61,GJM_Main,,0,0,0,,I scored a point!{ep1 preview line}
 Dialogue: 10,0:00:15.87,0:00:18.87,GJM_Main,,0,0,0,,Are air kick turns really that big of a deal?
 Dialogue: 10,0:00:18.87,0:00:23.25,GJM_Main,,0,0,0,,They're one of the most difficult moves\Nto pull off in Flying Circus.
 Dialogue: 10,0:00:24.04,0:00:26.21,GJM_Main,,0,0,0,,In order to use a mid-air\Nkick to change directions,
@@ -48,7 +48,7 @@ Dialogue: 10,0:00:39.68,0:00:43.64,GJM_Main,,0,0,0,,Like a beginner using Li Men
 Dialogue: 10,0:00:45.14,0:00:46.69,GJM_Main,,0,0,0,,This match is over!
 Dialogue: 10,0:00:46.69,0:00:49.23,GJM_Main,,0,0,0,,The winner is Kurashina Asuka!
 Dialogue: 10,0:00:49.61,0:00:51.78,GJM_Main,,0,0,0,,Coach, I won!
-Dialogue: 10,0:00:52.69,0:00:54.15,GJM_Main,,0,0,0,,I won!
+Dialogue: 10,0:00:52.69,0:00:54.15,GJM_Main,,0,0,0,,I won!{ep1 preview line}
 Dialogue: 10,0:00:54.49,0:00:59.03,GJM_Main,,0,0,0,,I don't really get all of it,\Nbut Flying Circus is fun!
 Dialogue: 10,0:00:59.03,0:01:00.24,GJM_Main,,0,0,0,,Congrats, Kurashina—
 Dialogue: 10,0:01:01.70,0:01:03.00,GJM_Main,,0,0,0,,Thank you so much!
@@ -165,7 +165,7 @@ Dialogue: 10,0:07:39.73,0:07:41.64,GJM_Main,,0,0,0,,Come on, Tobisawa-san!
 Dialogue: 10,0:07:43.60,0:07:45.77,GJM_Main,,0,0,0,,Well, I'll consider it.
 Dialogue: 10,0:07:48.65,0:07:52.28,GJM_Main,,0,0,0,,{\an8}So, to remain healthy throughout one's life...
 Dialogue: 10,0:07:50.36,0:07:52.28,GJM_Main,,0,0,0,,{\i1}Man...
-Dialogue: 10,0:07:52.82,0:07:57.62,GJM_Main,,0,0,0,,{\i1}And here I thought I had no desire to go back.
+Dialogue: 10,0:07:52.82,0:07:57.62,GJM_Main,,0,0,0,,{\i1}And here I thought I had no desire to go back.{ep1 preview line}
 Dialogue: 10,0:07:59.70,0:08:01.00,GJM_Main,,0,0,0,,Kurashina.
 Dialogue: 10,0:08:02.16,0:08:03.25,GJM_Main,,0,0,0,,You're not hiding it very well.
 Dialogue: 10,0:08:05.17,0:08:06.75,GJM_Main,,0,0,0,,I-I'm s-so...
@@ -417,7 +417,7 @@ Dialogue: 10,0:20:56.44,0:20:58.44,GJM_Main,,0,0,0,,and you only just started—
 Dialogue: 10,0:20:58.44,0:20:59.86,GJM_Main,,0,0,0,,I want to get better!
 Dialogue: 10,0:20:59.86,0:21:01.74,GJM_Main,,0,0,0,,I want to be good!
 Dialogue: 10,0:21:02.24,0:21:05.45,GJM_Main,,0,0,0,,Please be my coach again, Hinata-san!
-Dialogue: 10,0:21:06.74,0:21:08.12,GJM_Main,,0,0,0,,I...
+Dialogue: 10,0:21:06.74,0:21:08.12,GJM_Main,,0,0,0,,I...{ep1 preview line}
 Dialogue: 10,0:21:08.12,0:21:10.99,GJM_Main,,0,0,0,,What, you gonna turn down\Nsuch an adorable little thing?
 Dialogue: 10,0:21:10.99,0:21:12.37,GJM_Main,,0,0,0,,Come on, help her out.
 Dialogue: 10,0:21:12.37,0:21:13.66,GJM_Main,,0,0,0,,Yeah.
@@ -434,8 +434,8 @@ Dialogue: 10,0:21:44.03,0:21:46.36,GJM_Main,,0,0,0,,You were like a cougar\Nchas
 Dialogue: 10,0:21:46.36,0:21:47.49,GJM_Main,,0,0,0,,A cougar?
 Dialogue: 10,0:21:48.11,0:21:50.16,GJM_Main,,0,0,0,,We'll have to celebrate your victory.
 Dialogue: 10,0:21:50.16,0:21:52.16,GJM_Main,,0,0,0,,I'll treat you to an extra-large udon.
-Dialogue: 10,0:21:52.16,0:21:54.37,GJM_Main,,0,0,0,,Udon...?!
-Dialogue: 10,0:21:54.37,0:21:56.04,GJM_Main,,0,0,0,,Extra... large!
+Dialogue: 10,0:21:52.16,0:21:54.37,GJM_Main,,0,0,0,,Udon...?!{ep1 preview line}
+Dialogue: 10,0:21:54.37,0:21:56.04,GJM_Main,,0,0,0,,Extra... large!{ep1 preview line}
 Dialogue: 10,0:21:56.04,0:21:56.62,GJM_Main,,0,0,0,,Heh.
 Dialogue: 10,0:21:57.25,0:22:01.25,GJM_Main,,0,0,0,,Hello? This is Kagami, from Kunahama High.
 Dialogue: 10,0:21:57.25,0:21:59.96,GJM_Overlap,,0,0,0,,{\an8}Let's hurry up and go!

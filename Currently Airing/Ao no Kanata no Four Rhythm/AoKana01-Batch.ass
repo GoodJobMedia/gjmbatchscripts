@@ -16,8 +16,8 @@ Video File: D:/Fansubbing/GoodJob/AoKana/01/aokana 01 premux[979CA7A3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 453
-Active Line: 477
+Scroll Position: 233
+Active Line: 276
 Video Position: 34401
 
 [V4+ Styles]
@@ -71,7 +71,7 @@ Dialogue: 10,0:02:32.79,0:02:34.17,GJM_Overlap,,0,0,0,,Masaya!
 Dialogue: 10,0:02:34.17,0:02:35.05,GJM_Main,,0,0,0,,Ma—?
 Dialogue: 10,0:02:36.71,0:02:39.47,GJM_Main,,0,0,0,,Whatcha doing?
 Dialogue: 10,0:02:39.47,0:02:42.39,GJM_Main,,0,0,0,,A-A flying girl?!
-Dialogue: 10,0:02:44.68,0:02:47.31,GJM_Main,,0,0,0,,Hey, you know you're not supposed to land outside terminals.
+Dialogue: 10,0:02:44.68,0:02:47.31,GJM_Main,,0,0,0,,Hey, you know you're not supposed\Nto land outside terminals.
 Dialogue: 10,0:02:47.31,0:02:49.14,GJM_Main,,0,0,0,,Wow, amazing!
 Dialogue: 10,0:02:49.14,0:02:51.15,GJM_Main,,0,0,0,,A girl just came flying from the sky!
 Dialogue: 10,0:02:51.15,0:02:51.60,GJM_Main,,0,0,0,,Who's she?
@@ -155,7 +155,7 @@ Dialogue: 10,0:06:28.32,0:06:29.70,GJM_Main,,0,0,0,,Home safe!
 Dialogue: 10,0:06:30.82,0:06:31.95,GJM_Main,,0,0,0,,We made it!
 Dialogue: 10,0:06:32.58,0:06:35.04,GJM_Main,,0,0,0,,Good morning, Kagami-sensei.
 Dialogue: 10,0:06:35.04,0:06:35.83,GJM_Main,,0,0,0,,Morning.
-Dialogue: 10,0:06:36.12,0:06:39.46,GJM_Main,,0,0,0,,Oh, so this is the strict\Nand terrifying teacher?
+Dialogue: 10,0:06:36.12,0:06:39.46,GJM_Main,,0,0,0,,Oh, so this is the strict and terrifying teacher?
 Dialogue: 10,0:06:39.46,0:06:40.33,GJM_Main,,0,0,0,,Hey, come on!
 Dialogue: 10,0:06:40.33,0:06:42.63,GJM_Main,,0,0,0,,Why would you say that in front of her?!
 Dialogue: 10,0:06:40.33,0:06:42.63,GJM_Overlap,,0,0,0,,Shh! Shh!
@@ -198,7 +198,7 @@ Dialogue: 10,0:08:16.93,0:08:19.27,GJM_Main,,0,0,0,,By the way, I'm Aoyagi Madok
 Dialogue: 10,0:08:19.27,0:08:20.85,GJM_Main,,0,0,0,,Nice to meet you.
 Dialogue: 10,0:08:21.23,0:08:25.60,GJM_Main,,0,0,0,,Kurashina-san, if you're free after this,\Ndo you want to practice using the Grav-Shoes?
 Dialogue: 10,0:08:25.60,0:08:26.90,GJM_Main,,0,0,0,,Sure.
-Dialogue: 10,0:08:26.90,0:08:29.44,GJM_Main,,0,0,0,,You're her instructor too,\NMisaki, so come along.
+Dialogue: 10,0:08:26.90,0:08:29.44,GJM_Main,,0,0,0,,You're her instructor too, Misaki, so come along.
 Dialogue: 10,0:08:29.44,0:08:31.11,GJM_Main,,0,0,0,,Got it. I'll come fur sure!
 Dialogue: 10,0:08:31.11,0:08:33.95,GJM_Main,,0,0,0,,Um, what do you mean, "instructor"?
 Dialogue: 10,0:08:34.36,0:08:38.78,GJM_Main,,0,0,0,,The law states that beginners to Grav-Shoes\Nmust be accompanied and taught by instructors.
@@ -275,7 +275,7 @@ Dialogue: 10,0:11:48.14,0:11:50.02,GJM_Main,,0,0,0,,Whoa, flying fish!
 Dialogue: 10,0:11:50.02,0:11:52.02,GJM_Main,,0,0,0,,I love them!
 Dialogue: 10,0:11:52.02,0:11:56.07,GJM_Main,,0,0,0,,They use those flyers for\Nthe stock here. It's delicious.
 Dialogue: 10,0:11:56.07,0:11:57.23,GJM_Main,,0,0,0,,Flyers?
-Dialogue: 10,0:11:57.69,0:12:02.11,GJM_Main,,0,0,0,,While we wait for the the udon to come,\Nlet's have a quiz on Kuna Island's Misaki-senpai!
+Dialogue: 10,0:11:57.69,0:12:02.11,GJM_Main,,0,0,0,,While we wait for the udon to come,\Nlet's have a quiz on Kuna Island's Misaki-senpai!
 Dialogue: 10,0:12:02.11,0:12:02.86,GJM_Main,,0,0,0,,Why?
 Dialogue: 10,0:12:02.86,0:12:04.11,GJM_Main,,0,0,0,,Count me out.
 Dialogue: 10,0:12:04.11,0:12:05.12,GJM_Main,,0,0,0,,Let's do it!
@@ -317,7 +317,7 @@ Dialogue: 10,0:13:26.74,0:13:29.45,GJM_Main,,0,0,0,,Give me the spartan treatmen
 Dialogue: 10,0:13:29.45,0:13:31.37,GJM_Main,,0,0,0,,O-Okay...
 Dialogue: 10,0:13:31.37,0:13:33.00,GJM_Main,,0,0,0,,Thank you!
 Dialogue: 10,0:13:34.75,0:13:36.04,GJM_Main,,0,0,0,,I'm home!
-Dialogue: 10,0:13:40.09,0:13:43.67,GJM_Main,,0,0,0,,Things aren't going so well.\NI'm no good at all.
+Dialogue: 10,0:13:40.09,0:13:43.67,GJM_Main,,0,0,0,,Things aren't going so well. I'm no good at all.
 Dialogue: 10,0:13:45.22,0:13:46.05,GJM_Main,,0,0,0,,But...
 Dialogue: 10,0:13:48.97,0:13:51.97,GJM_Main,,0,0,0,,Flying feels so great.
 Dialogue: 10,0:13:51.97,0:13:54.14,GJM_Main,,0,0,0,,I can't wait for tomorrow.
@@ -366,14 +366,14 @@ Dialogue: 10,0:16:01.73,0:16:03.81,GJM_Main,,0,0,0,,No! Anything but that!
 Dialogue: 10,0:16:04.31,0:16:06.94,GJM_Main,,0,0,0,,What? Is our school going\Nto have its name changed?
 Dialogue: 10,0:16:06.94,0:16:07.86,GJM_Main,,0,0,0,,Hold your horses.
 Dialogue: 10,0:16:07.86,0:16:08.82,GJM_Main,,0,0,0,,Kurashina-senpai?
-Dialogue: 10,0:16:08.82,0:16:12.11,GJM_Main,,0,0,0,,This is bad! The name\N"Kunahama Stitute" sounds terrible!
+Dialogue: 10,0:16:08.82,0:16:12.11,GJM_Main,,0,0,0,,This is bad!\NThe name "Kunahama Stitute" sounds terrible!
 Dialogue: 10,0:16:12.11,0:16:13.11,GJM_Main,,0,0,0,,No, look...
 Dialogue: 10,0:16:13.11,0:16:14.36,GJM_Main,,0,0,0,,Earth to Kurashina-senpai.
 Dialogue: 10,0:16:14.36,0:16:15.57,GJM_Main,,0,0,0,,Um, excuse me!
 Dialogue: 10,0:16:16.12,0:16:16.74,GJM_Main,,0,0,0,,You idiot!
 Dialogue: 10,0:16:16.74,0:16:17.83,GJM_Main,,0,0,0,,She spotted us!
 Dialogue: 10,0:16:18.24,0:16:20.83,GJM_Main,,0,0,0,,Uh, I don't really get it,
-Dialogue: 10,0:16:20.83,0:16:24.04,GJM_Main,,0,0,0,,but if I beat you at this\NFlying Circus thing,
+Dialogue: 10,0:16:20.83,0:16:24.04,GJM_Main,,0,0,0,,but if I beat you at this Flying Circus thing,
 Dialogue: 10,0:16:24.04,0:16:25.83,GJM_Main,,0,0,0,,will you return our "In"?
 Dialogue: 10,0:16:26.21,0:16:26.84,GJM_Main,,0,0,0,,Excuse me?
 Dialogue: 10,0:16:27.29,0:16:28.09,GJM_Main,,0,0,0,,Who are you?
@@ -387,7 +387,7 @@ Dialogue: 10,0:16:43.44,0:16:47.19,GJM_Main,,0,0,0,,Today's also the first time 
 Dialogue: 10,0:16:47.19,0:16:49.48,GJM_Main,,0,0,0,,If this is your idea of a joke,\NI suggest you stop.
 Dialogue: 10,0:16:49.94,0:16:51.61,GJM_Main,,0,0,0,,I'm not joking. I'm serious.
 Dialogue: 10,0:16:53.78,0:16:55.53,GJM_Main,,0,0,0,,Very well.
-Dialogue: 10,0:16:55.53,0:16:58.70,GJM_Main,,0,0,0,,If you're so insistent, I accept your challenge.
+Dialogue: 10,0:16:55.53,0:16:58.70,GJM_Main,,0,0,0,,If you're so insistent, then I accept your challenge.
 Dialogue: 10,0:16:58.70,0:16:59.24,GJM_Main,,0,0,0,,What?
 Dialogue: 10,0:16:59.24,0:17:00.62,GJM_Main,,0,0,0,,Thank you!
 Dialogue: 10,0:17:00.62,0:17:02.20,GJM_Main,,0,0,0,,Wait, time out!
