@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/AoKana/02/aokana 2 premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 394
-Active Line: 401
-Video Position: 31461
+Scroll Position: 405
+Active Line: 417
+Video Position: 23139
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -99,7 +99,7 @@ Dialogue: 10,0:04:33.50,0:04:35.00,GJM_Main,,0,0,0,,Have a nice day.
 Dialogue: 10,0:04:36.42,0:04:40.67,GJM_Main,,0,0,0,,Why do we have to go\Nto school every morning?
 Dialogue: 10,0:04:40.67,0:04:43.22,GJM_Main,,0,0,0,,Senpai, you say that every day.
 Dialogue: 10,0:04:44.43,0:04:45.26,GJM_Main,,0,0,0,,What's all this noise?
-Dialogue: 10,0:04:48.68,0:04:51.18,GJM_Main,,0,0,0,,Good morning!
+Dialogue: 10,0:04:48.68,0:04:51.18,GJM_Main,,0,0,0,,G-Good morning!
 Dialogue: 10,0:04:51.60,0:04:56.15,GJM_Main,,0,0,0,,So she really can't stay\Nbalanced without that posture.
 Dialogue: 10,0:04:56.15,0:04:57.61,GJM_Main,,0,0,0,,Good grief.
 Dialogue: 10,0:04:57.61,0:05:01.07,GJM_Main,,0,0,0,,I guess what happened yesterday\Nwas just beginner's luck.
@@ -240,7 +240,7 @@ Dialogue: 10,0:12:16.92,0:12:19.76,GJM_Main,,0,0,0,,Cut them some slack.\NToday'
 Dialogue: 10,0:12:19.76,0:12:23.68,GJM_Main,,0,0,0,,And we have to get them competition\NGrav-Shoes and flying suits, too.
 Dialogue: 10,0:12:23.68,0:12:25.14,GJM_Main,,0,0,0,,Yeah, yeah!
 Dialogue: 10,0:12:25.14,0:12:28.06,GJM_Main,,0,0,0,,It's not fair that you're the only one\Nwith a full set of equipment!
-Dialogue: 10,0:12:28.06,0:12:30.39,GJM_Main,,0,0,0,,Sorry.
+Dialogue: 10,0:12:28.06,0:12:30.39,GJM_Main,,0,0,0,,Uh, sorry.
 Dialogue: 10,0:12:30.39,0:12:33.06,GJM_Main,,0,0,0,,Tomorrow's Saturday,\Nso how 'bout we all do a little shopping?
 Dialogue: 10,0:12:33.06,0:12:34.60,GJM_Main,,0,0,0,,Count me in.
 Dialogue: 10,0:12:34.60,0:12:38.48,GJM_Main,,0,0,0,,I haven't used my Grav-Shoes in ages,\Nso I'll have to get them tuned.
@@ -320,8 +320,9 @@ Dialogue: 10,0:15:56.22,0:15:59.39,GJM_Main,,0,0,0,,Let's play!
 Dialogue: 10,0:15:56.81,0:15:57.97,GJM_Overlap,,0,0,0,,What's wrong?
 Dialogue: 10,0:15:59.39,0:16:01.31,GJM_Main,,0,0,0,,Don't wanna. Sounds like a pain.
 Dialogue: 10,0:16:01.60,0:16:03.85,GJM_Main,,0,0,0,,Those two sure are close.
-Dialogue: 10,0:16:01.60,0:16:05.06,GJM_Main,,0,0,0,,{\an8}Don't wanna. Sounds like a pain.
+Dialogue: 10,0:16:01.60,0:16:03.85,GJM_Main,,0,0,0,,{\an8}Don't wanna. Sounds like a pain.
 Dialogue: 10,0:16:01.94,0:16:03.85,GJM_Overlap,,0,0,0,,{\an8}Senpai!
+Dialogue: 10,0:16:04.40,0:16:06.36,GJM_Main,,0,0,0,,{\an8}Don't wanna. Sounds like a pain.
 Dialogue: 10,0:16:03.85,0:16:05.06,GJM_Main,,0,0,0,,They sure are.
 Dialogue: 10,0:16:05.98,0:16:07.77,GJM_Main,,0,0,0,,I'll be leaving, too, then.
 Dialogue: 10,0:16:07.77,0:16:09.36,GJM_Main,,0,0,0,,See you at school on Monday.
@@ -446,10 +447,10 @@ Dialogue: 10,0:22:02.96,0:22:04.88,GJM_Overlap,,0,0,0,,{\an8}Bye-bye!
 Dialogue: 10,0:22:03.84,0:22:07.63,GJM_Main,,0,0,0,,so if we could be so rude as to ask Takafuji,\Nthe powerhouse school, for a duel...
 Dialogue: 10,0:22:08.34,0:22:09.89,GJM_Main,,0,0,0,,If you would be so kind,
 Dialogue: 10,0:22:09.89,0:22:12.10,GJM_Main,,0,0,0,,we'd love to hold a joint\Ntraining camp with you.
-Dialogue: 10,0:23:46.52,0:23:49.65,GJM_Main,,0,0,0,,Wow, this is so exciting!
-Dialogue: 10,0:23:47.86,0:23:50.61,GJM_Main,,0,0,0,,{\an8}No wonder they make you\Nwork your tails off in practice.
-Dialogue: 10,0:23:51.15,0:23:52.03,GJM_Main,,0,0,0,,Don't worry, I'm good.
-Dialogue: 10,0:23:52.32,0:23:54.32,GJM_Main,,0,0,0,,I just got a little fired up.
+Dialogue: 10,0:23:46.52,0:23:49.65,GJM_Main,,0,0,0,,Wow, this is so exciting!{ep3, 10:49}
+Dialogue: 10,0:23:47.86,0:23:50.61,GJM_Main,,0,0,0,,{\an8}No wonder they make you\Nwork your tails off in practice.{ep3, 03:52}
+Dialogue: 10,0:23:51.15,0:23:52.03,GJM_Main,,0,0,0,,Don't worry, I'm good.{ep3, 14:48}
+Dialogue: 10,0:23:52.32,0:23:54.32,GJM_Main,,0,0,0,,I just got a little fired up.{ep3, 14:49}
 Comment: 0,0:00:00.00,0:00:05.00,GJM_Main,,0,0,0,,OP
 Comment: 0,0:02:11.31,0:02:11.36,OP,,0,0,0,,{OP}{first frame of fade in}
 Dialogue: 0,0:02:35.84,0:02:39.88,OP,,0,0,0,,{\blur3\fad(240,240)}The birds and the wind

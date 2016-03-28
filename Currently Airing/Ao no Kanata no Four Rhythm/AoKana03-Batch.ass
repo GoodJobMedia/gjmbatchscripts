@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: AoKana
-Audio File: aokana 3 premux.mkv
-Video File: aokana 3 premux.mkv
-Keyframes File: aokana 3 premux_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/AoKana/03/aokana 3 premux.mkv
+Video File: D:/Fansubbing/GoodJob/AoKana/03/aokana 3 premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 424
-Active Line: 464
-Video Position: 31588
+Scroll Position: 250
+Active Line: 267
+Video Position: 5638
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,11 +33,11 @@ Style: ED,Gunny Rewritten,60,&H00FBFBFB,&H000000FF,&H1E6D4B00,&H85000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:01.10,0:00:05.15,GJM_Main,,0,0,0,,Hello? This is Kagami, from Kunahama High.
-Dialogue: 10,0:00:05.15,0:00:07.73,GJM_Main,,0,0,0,,Yes. We've got more members now,
-Dialogue: 10,0:00:07.73,0:00:11.49,GJM_Main,,0,0,0,,so if we could be so rude as to ask Takafuji,\Nthe powerhouse school, for a duel...
-Dialogue: 10,0:00:12.20,0:00:13.74,GJM_Main,,0,0,0,,If you would be so kind,
-Dialogue: 10,0:00:13.74,0:00:16.12,GJM_Main,,0,0,0,,we'd love to hold a joint\Ntraining camp with you.
+Dialogue: 10,0:00:01.10,0:00:05.15,GJM_Main,,0,0,0,,Hello? This is Kagami, from Kunahama High.{ep2 preview line}
+Dialogue: 10,0:00:05.15,0:00:07.73,GJM_Main,,0,0,0,,Yes. We've got more members now,{ep2 preview line}
+Dialogue: 10,0:00:07.73,0:00:11.49,GJM_Main,,0,0,0,,so if we could be so rude as to ask Takafuji,\Nthe powerhouse school, for a duel...{ep2 preview line}
+Dialogue: 10,0:00:12.20,0:00:13.74,GJM_Main,,0,0,0,,If you would be so kind,{ep2 preview line}
+Dialogue: 10,0:00:13.74,0:00:16.12,GJM_Main,,0,0,0,,we'd love to hold a joint\Ntraining camp with you.{ep2 preview line}
 Dialogue: 10,0:00:24.79,0:00:26.25,GJM_Main,,0,0,0,,Listen closely, everyone.
 Dialogue: 10,0:00:27.13,0:00:34.51,GJM_Main,,0,0,0,,Maintaining the correct posture is key to field flying.
 Dialogue: 10,0:00:34.51,0:00:37.18,GJM_Main,,0,0,0,,Focus on the task at hand, and get to work.
@@ -76,7 +75,7 @@ Dialogue: 10,0:03:42.74,0:03:43.53,GJM_Main,,0,0,0,,Really?
 Dialogue: 10,0:03:43.53,0:03:46.03,GJM_Main,,0,0,0,,That's news to me!
 Dialogue: 10,0:03:46.03,0:03:50.04,GJM_Main,,0,0,0,,Apparently he's even had scouts from\NEurope's pro leagues come to watch him.
 Dialogue: 10,0:03:50.04,0:03:52.29,GJM_Main,,0,0,0,,A pro in the making, huh?
-Dialogue: 10,0:03:52.29,0:03:55.17,GJM_Main,,0,0,0,,No wonder they make you\Nwork your tails off in practice.
+Dialogue: 10,0:03:52.29,0:03:55.17,GJM_Main,,0,0,0,,No wonder they make you\Nwork your tails off in practice.{ep2 preview line}
 Dialogue: 10,0:03:55.17,0:03:58.84,GJM_Main,,0,0,0,,And Satouin-san was like a drill sergeant, too.
 Dialogue: 10,0:03:58.84,0:03:59.26,GJM_Main,,0,0,0,,Eh?
 Dialogue: 10,0:03:59.76,0:04:01.92,GJM_Main,,0,0,0,,Do pardon my tardiness.
@@ -221,7 +220,7 @@ Dialogue: 10,0:10:35.82,0:10:36.90,GJM_Main,,0,0,0,,Oh, no, you're not.
 Dialogue: 10,0:10:40.03,0:10:42.78,GJM_Main,,0,0,0,,Whoa! She's fast!
 Dialogue: 10,0:10:42.78,0:10:44.58,GJM_Main,,0,0,0,,You don't have time to be impressed!
 Dialogue: 10,0:10:44.58,0:10:46.20,GJM_Main,,0,0,0,,R-Right!
-Dialogue: 10,0:10:49.17,0:10:52.08,GJM_Main,,0,0,0,,{\i1}Wow, this is so exciting!
+Dialogue: 10,0:10:49.17,0:10:52.08,GJM_Main,,0,0,0,,{\i1}Wow, this is so exciting!{ep2 preview line}
 Dialogue: 10,0:10:52.08,0:10:53.04,GJM_Main,,0,0,0,,Don't chase after her!
 Dialogue: 10,0:10:53.46,0:10:54.80,GJM_Main,,0,0,0,,Take a shortcut to the third line!
 Dialogue: 10,0:10:54.80,0:10:55.84,GJM_Main,,0,0,0,,Okay!
@@ -300,8 +299,8 @@ Dialogue: 10,0:14:40.27,0:14:42.48,GJM_Main,,0,0,0,,Perhaps.
 Dialogue: 10,0:14:42.48,0:14:44.32,GJM_Main,,0,0,0,,Well, I hope it's a good\Nlearning experience for you.
 Dialogue: 10,0:14:44.32,0:14:46.28,GJM_Main,,0,0,0,,Them's fighting words, buddy.
 Dialogue: 10,0:14:46.28,0:14:48.03,GJM_Main,,0,0,0,,Don't lose your cool, Misaki.
-Dialogue: 10,0:14:48.03,0:14:49.07,GJM_Main,,0,0,0,,Don't worry, I'm good.
-Dialogue: 10,0:14:49.70,0:14:51.82,GJM_Main,,0,0,0,,I just got a little fired up.
+Dialogue: 10,0:14:48.03,0:14:49.07,GJM_Main,,0,0,0,,Don't worry, I'm good.{ep2 preview line}
+Dialogue: 10,0:14:49.70,0:14:51.82,GJM_Main,,0,0,0,,I just got a little fired up.{ep2 preview line}
 Dialogue: 10,0:14:52.74,0:14:54.03,GJM_Main,,0,0,0,,The next matchup:
 Dialogue: 10,0:14:54.03,0:14:57.00,GJM_Main,,0,0,0,,Shindou Kazunari of Takafuji Academy
 Dialogue: 10,0:14:57.00,0:14:59.75,GJM_Main,,0,0,0,,versus Tobisawa Misaki of Kunahama High.
