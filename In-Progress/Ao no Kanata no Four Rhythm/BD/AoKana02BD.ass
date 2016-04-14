@@ -17,9 +17,9 @@ Keyframes File: AoKana02BD_premux[8FD90C69]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 405
-Active Line: 414
-Video Position: 34275
+Scroll Position: 410
+Active Line: 417
+Video Position: 34333
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -14306,4 +14306,4 @@ Dialogue: 0,0:23:46.36,0:23:46.40,CicSigns,,0,0,0,,{=10}{\pos(640,110.65)\fscx15
 Dialogue: 0,0:23:46.40,0:23:46.44,CicSigns,,0,0,0,,{=10}{\pos(640,110)\fscx158\fscy158\shad1.1\4c&HDD8429&\blur0.57}Preview
 Dialogue: 0,0:22:11.97,0:22:14.98,FyuSigns,,0,0,0,,{\pos(1013,513)\fnKozuka Gothic Pro M - ENG\b1\blur0.5}To Be Continued
 Dialogue: 0,0:23:51.95,0:23:54.95,FyuSigns,,0,0,0,,{\an7\fnLiberation Sans\fs28\c&HFFFCE7&\blur0.5\pos(707.057,112.733)}Episode Three
-Dialogue: 0,0:23:51.95,0:23:54.95,FyuSigns,,0,0,0,,{\an1\fnLiberation Sans\fs28\c&HFFFCE7&\blur0.5\pos(707.057,236.733)}I Just Got\Na Little Fired Up
+Dialogue: 0,0:23:51.95,0:23:54.95,FyuSigns,,0,0,0,,{\an1\fnLiberation Sans\fs28\c&HFFFCE7&\blur0.5\pos(707.057,236.733)}I Just Got\Na Little Fired Up.
