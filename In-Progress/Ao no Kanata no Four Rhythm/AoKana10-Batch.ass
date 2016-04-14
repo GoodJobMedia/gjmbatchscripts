@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: AoKana
-Audio File: aokana 10 premux.mkv
-Video File: aokana 10 premux.mkv
-Keyframes File: aokana 10 premux_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/AoKana/10/aokana 10 premux.mkv
+Video File: D:/Fansubbing/GoodJob/AoKana/10/aokana 10 premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 321
-Active Line: 338
-Video Position: 31705
+Video Zoom Percent: 0.875000
+Scroll Position: 332
+Active Line: 343
+Video Position: 34369
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -97,7 +96,7 @@ Dialogue: 10,0:06:11.89,0:06:13.64,GJM_Main,,0,0,0,,so we'll have to focus on FC
 Dialogue: 10,0:06:14.64,0:06:16.39,GJM_Main,,0,0,0,,Practice starts at 6 AM sharp, tomorrow.
 Dialogue: 10,0:06:16.98,0:06:18.77,GJM_Main,,0,0,0,,Roger that, Coach!
 Dialogue: 10,0:06:19.06,0:06:21.19,GJM_Main,,0,0,0,,Think you can do that without dying, Misaki?
-Dialogue: 10,0:06:21.19,0:06:23.36,GJM_Main,,0,0,0,,6 AM? Seriously?
+Dialogue: 10,0:06:21.19,0:06:23.36,GJM_Main,,0,0,0,,6 AM? Seriously?{ep9 preview line}
 Dialogue: 10,0:06:23.36,0:06:24.69,GJM_Main,,0,0,0,,No problems there!
 Dialogue: 10,0:06:24.69,0:06:27.86,GJM_Main,,0,0,0,,As usual, I'll be your personal alarm clock,\Nso sleep as soundly as you like!
 Dialogue: 10,0:06:27.86,0:06:29.45,GJM_Main,,0,0,0,,Forget it! I'll wake up by myself!
@@ -291,7 +290,7 @@ Dialogue: 10,0:16:25.29,0:16:26.34,GJM_Main,,0,0,0,,That's out of the question.
 Dialogue: 10,0:16:27.34,0:16:31.13,GJM_Main,,0,0,0,,Our FC is nothing like yours.
 Dialogue: 10,0:16:32.05,0:16:34.22,GJM_Main,,0,0,0,,Irina and I will always be the victors.
 Dialogue: 10,0:16:43.02,0:16:44.52,GJM_Main,,0,0,0,,Inui-san...
-Dialogue: 10,0:16:52.19,0:16:54.40,GJM_Main,,0,0,0,,Is that for FC, too?
+Dialogue: 10,0:16:52.19,0:16:54.40,GJM_Main,,0,0,0,,Is that for FC, too?{ep9 preview line}
 Dialogue: 10,0:16:55.45,0:16:56.37,GJM_Main,,0,0,0,,Of course.
 Dialogue: 10,0:16:57.07,0:17:00.54,GJM_Main,,0,0,0,,At times, it is necessary to have a clear mind.
 Dialogue: 10,0:17:00.54,0:17:06.83,GJM_Main,,0,0,0,,Satouin-san told me that you're\Ntraining yourself here now.
@@ -335,7 +334,7 @@ Dialogue: 10,0:19:24.47,0:19:27.68,GJM_Main,,0,0,0,,You're starting to display a
 Dialogue: 10,0:19:28.39,0:19:30.35,GJM_Main,,0,0,0,,Why, thank you very much!
 Dialogue: 10,0:19:43.78,0:19:44.78,GJM_Main,,0,0,0,,Misaki...
 Dialogue: 10,0:19:45.37,0:19:48.08,GJM_Main,,0,0,0,,You're getting too worked up and\Nlosing track of your surroundings.
-Dialogue: 10,0:19:49.50,0:19:50.83,GJM_Main,,0,0,0,,Coach?
+Dialogue: 10,0:19:49.50,0:19:50.83,GJM_Main,,0,0,0,,Coach?{ep9 preview line}
 Dialogue: 10,0:19:51.29,0:19:52.58,GJM_Main,,0,0,0,,Hinata-kun?
 Dialogue: 10,0:19:53.71,0:19:55.00,GJM_Main,,0,0,0,,Those Grav-shoes...
 Dialogue: 10,0:20:00.38,0:20:00.88,GJM_Main,,0,0,0,,Asuka!
@@ -370,14 +369,14 @@ Dialogue: 10,0:21:37.81,0:21:39.11,GJM_Main,,0,0,0,,Shall I remind you...
 Dialogue: 10,0:21:43.03,0:21:45.15,GJM_Main,,0,0,0,,of that hell once more?
 Dialogue: 10,0:21:47.53,0:21:49.62,GJM_Main,,0,0,0,,All of you, come at me together.
 Dialogue: 10,0:21:49.62,0:21:52.99,GJM_Main,,0,0,0,,I'll teach you my ace in the hole.
-Dialogue: 10,0:21:56.04,0:21:58.29,GJM_Main,,0,0,0,,{\i1}Our FC is beautiful.
+Dialogue: 10,0:21:56.04,0:21:58.29,GJM_Main,,0,0,0,,{\i1}Our FC is beautiful.{ep9 preview line}
 Dialogue: 10,0:21:59.13,0:22:01.42,GJM_Main,,0,0,0,,{\i1}Just as Kagami Aoi's play style was.
 Dialogue: 10,0:22:02.34,0:22:06.80,GJM_Main,,0,0,0,,We'll bring the world to\Nits knees and make it admit
 Dialogue: 10,0:22:07.47,0:22:10.80,GJM_Main,,0,0,0,,our perfect FC is superior\Nto that circus imitation.
-Dialogue: 10,0:23:46.57,0:23:47.61,GJM_Main,,0,0,0,,What do I say?
-Dialogue: 10,0:23:47.61,0:23:49.78,GJM_Main,,0,0,0,,How's that? Did it fire you up some?
-Dialogue: 10,0:23:49.78,0:23:52.07,GJM_Main,,0,0,0,,You're so cool, Misaki-chan!
-Dialogue: 10,0:23:52.57,0:23:53.87,GJM_Main,,0,0,0,,I refuse to lose!
+Dialogue: 10,0:23:46.57,0:23:47.61,GJM_Main,,0,0,0,,{\i1}What is this feeling?{ep11, 20:43}
+Dialogue: 10,0:23:47.61,0:23:49.78,GJM_Main,,0,0,0,,How's that? Did it fire you up some?{ep11, 18:19}
+Dialogue: 10,0:23:49.78,0:23:52.07,GJM_Main,,0,0,0,,{\i1}You're so cool, Misaki-chan!{ep11, 21:37}
+Dialogue: 10,0:23:52.57,0:23:53.87,GJM_Main,,0,0,0,,...I refuse to lose!{ep11, 03:31}
 Comment: 0,0:23:53.87,0:23:55.87,GJM_Main,,0,0,0,,OP
 Dialogue: 0,0:01:48.25,0:01:52.29,OP,,0,0,0,,{\blur3\fad(240,240)}The birds and the wind
 Dialogue: 0,0:01:52.67,0:01:55.55,OP,,0,0,0,,{\blur3\fad(240,240)}Pat my hair as if inviting me into the sky

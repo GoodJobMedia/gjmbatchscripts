@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: AoKana
-Audio File: aokana 4 premux.mkv
-Video File: aokana 4 premux.mkv
-Keyframes File: aokana 4 premux_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/AoKana/04/aokana 4 premux.mkv
+Video File: D:/Fansubbing/GoodJob/AoKana/04/aokana 4 premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.755556
-Scroll Position: 390
-Active Line: 423
-Video Position: 17797
+Video Zoom Percent: 0.875000
+Scroll Position: 385
+Active Line: 387
+Video Position: 34326
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,7 +33,7 @@ Style: ED,Gunny Rewritten,60,&H00FBFBFB,&H000000FF,&H1E6D4B00,&H85000000,0,0,0,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:01.13,0:00:04.48,GJM_Main,,0,0,0,,Hurray! Hurray! Mashiron!
+Dialogue: 10,0:00:01.13,0:00:04.48,GJM_Main,,0,0,0,,Hurray! Hurray! Mashiron!{ep3 preview line}
 Dialogue: 10,0:00:04.48,0:00:06.19,GJM_Main,,0,0,0,,Hurray, hurray, Mashiron!
 Dialogue: 10,0:00:06.19,0:00:08.15,GJM_Main,,0,0,0,,Hurray, hurray, Mashiron!
 Dialogue: 10,0:00:08.15,0:00:09.08,GJM_Main,,0,0,0,,Keep it down.
@@ -136,7 +135,7 @@ Dialogue: 10,0:06:03.15,0:06:06.44,GJM_Main,,0,0,0,,In that case, please call me
 Dialogue: 10,0:06:06.44,0:06:08.08,GJM_Main,,0,0,0,,Then... Asuka?
 Dialogue: 10,0:06:09.45,0:06:12.24,GJM_Main,,0,0,0,,Thank you, Misaki-chan!
 Dialogue: 10,0:06:12.24,0:06:13.35,GJM_Main,,0,0,0,,Thanks...
-Dialogue: 10,0:06:14.21,0:06:15.73,GJM_Main,,0,0,0,,Hold it right there!
+Dialogue: 10,0:06:14.21,0:06:15.73,GJM_Main,,0,0,0,,Hold it right there!{ep3 preview line}
 Dialogue: 10,0:06:16.53,0:06:19.69,GJM_Main,,0,0,0,,I've been calling her\NMisaki-senpai since forever!
 Dialogue: 10,0:06:20.03,0:06:22.17,GJM_Main,,0,0,0,,I'm the veteran here!
 Dialogue: 10,0:06:22.17,0:06:25.45,GJM_Main,,0,0,0,,I see, so that makes you my senpai.
@@ -259,7 +258,7 @@ Dialogue: 10,0:13:41.15,0:13:43.45,GJM_Main,,0,0,0,,You could catch a cold like 
 Dialogue: 10,0:13:43.45,0:13:45.44,GJM_Main,,0,0,0,,so eat this and warm up.
 Dialogue: 10,0:13:45.44,0:13:48.10,GJM_Main,,0,0,0,,Don't you be shy now, Rika-chan.
 Dialogue: 10,0:13:48.10,0:13:50.68,GJM_Main,,0,0,0,,Consider it thanks for teachin' her.
-Dialogue: 10,0:13:50.68,0:13:53.03,GJM_Main,,0,0,0,,Meat makes me happy!
+Dialogue: 10,0:13:50.68,0:13:53.03,GJM_Main,,0,0,0,,Meat makes me happy!{ep3 preview line}
 Dialogue: 10,0:13:53.03,0:13:54.38,GJM_Main,,0,0,0,,Time to dig in!
 Dialogue: 10,0:13:54.38,0:13:56.44,GJM_Main,,0,0,0,,Let's eat!
 Dialogue: 10,0:13:59.93,0:14:00.94,GJM_Main,,0,0,0,,How is it?
@@ -418,10 +417,10 @@ Dialogue: 10,0:21:49.83,0:21:50.99,GJM_Main,,0,0,0,,My phone!
 Dialogue: 10,0:21:57.28,0:21:57.93,GJM_Main,,0,0,0,,Here.
 Dialogue: 10,0:21:58.92,0:22:01.67,GJM_Main,,0,0,0,,Th-Thank you.
 Dialogue: 10,0:22:06.14,0:22:09.22,GJM_Main,,0,0,0,,The people here really are nice.
-Dialogue: 10,0:23:46.48,0:23:49.49,GJM_Main,,0,0,0,,Not knowing what the\Nfuture holds is so exciting.
-Dialogue: 10,0:23:49.49,0:23:50.82,GJM_Main,,0,0,0,,Don't call me that!
-Dialogue: 10,0:23:50.82,0:23:51.72,GJM_Main,,0,0,0,,Yes!
-Dialogue: 10,0:23:51.72,0:23:53.62,GJM_Main,,0,0,0,,Yeah. Keep calm and carry on.{we got memed on by CR}
+Dialogue: 10,0:23:46.48,0:23:49.49,GJM_Main,,0,0,0,,Not knowing what's coming is exciting!{ep5, 19:50}
+Dialogue: 10,0:23:49.49,0:23:50.82,GJM_Main,,0,0,0,,Don't call me that!{ep5, 04:38}
+Dialogue: 10,0:23:50.82,0:23:51.72,GJM_Main,,0,0,0,,Yes!{ep5, 09:56}
+Dialogue: 10,0:23:51.72,0:23:53.62,GJM_Main,,0,0,0,,Yeah. Keep calm and carry on.{ep5, 18:11}
 Comment: 0,0:23:53.33,0:23:55.33,GJM_Main,,0,0,0,,OP
 Comment: 0,0:00:38.26,0:00:38.31,OP,,0,0,0,,{OP}{first frame of fade in}
 Dialogue: 0,0:01:02.24,0:01:06.28,OP,,0,0,0,,{\blur3\fad(240,240)}The birds and the wind

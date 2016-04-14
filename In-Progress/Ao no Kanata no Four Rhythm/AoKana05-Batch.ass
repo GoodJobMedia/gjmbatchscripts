@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/AoKana/05/aokana 5 premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 859
-Active Line: 863
-Video Position: 351
+Scroll Position: 391
+Active Line: 400
+Video Position: 34393
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,7 +98,7 @@ Dialogue: 10,0:04:31.29,0:04:32.54,GJM_Main,,0,0,0,,Figures.
 Dialogue: 10,0:04:32.54,0:04:34.37,GJM_Main,,0,0,0,,Someone you know, Mashiro-chan?
 Dialogue: 10,0:04:34.37,0:04:36.29,GJM_Main,,0,0,0,,We've known each other since we were kids.
 Dialogue: 10,0:04:36.29,0:04:38.00,GJM_Main,,0,0,0,,Oh hey, it's Li'l Tuna.
-Dialogue: 10,0:04:38.00,0:04:39.67,GJM_Main,,0,0,0,,Don't call me that!
+Dialogue: 10,0:04:38.00,0:04:39.67,GJM_Main,,0,0,0,,Don't call me that!{ep4 preview line}
 Dialogue: 10,0:04:40.05,0:04:42.67,GJM_Main,,0,0,0,,If she's the same age as Mashirocchi,
 Dialogue: 10,0:04:42.67,0:04:47.39,GJM_Main,,0,0,0,,that means she won a starting spot\Nat Shitou Suisan despite being a first-year.
 Dialogue: 10,0:04:48.01,0:04:50.31,GJM_Main,,0,0,0,,When I heard Mashiro picked up FC,
@@ -201,7 +201,7 @@ Dialogue: 10,0:09:39.85,0:09:42.72,GJM_Main,,0,0,0,,Call me "Satouin", Captain.
 Dialogue: 10,0:09:42.72,0:09:44.48,GJM_Main,,0,0,0,,Wait, what? A low yoyo?
 Dialogue: 10,0:09:46.52,0:09:47.94,GJM_Main,,0,0,0,,Isn't she a fighter?
 Dialogue: 10,0:09:54.65,0:09:56.40,GJM_Main,,0,0,0,,Point to Arisaka!
-Dialogue: 10,0:09:56.40,0:09:57.28,GJM_Main,,0,0,0,,All right!
+Dialogue: 10,0:09:56.40,0:09:57.28,GJM_Main,,0,0,0,,All right!{ep4 preview line}
 Dialogue: 10,0:09:57.28,0:09:59.78,GJM_Main,,0,0,0,,Now this is a surprise!
 Dialogue: 10,0:10:00.24,0:10:04.08,GJM_Main,,0,0,0,,Arisaka, a first-year in her debut match,\Nhas just scored the first point!
 Dialogue: 10,0:10:04.08,0:10:05.41,GJM_Main,,0,0,0,,Wow!
@@ -355,7 +355,7 @@ Dialogue: 10,0:17:55.59,0:17:57.84,GJM_Main,,0,0,0,,My father started the brand.
 Dialogue: 10,0:17:58.64,0:17:59.76,GJM_Main,,0,0,0,,Avalon...
 Dialogue: 10,0:18:00.51,0:18:01.85,GJM_Main,,0,0,0,,See you later!
 Dialogue: 10,0:18:07.69,0:18:11.90,GJM_Main,,0,0,0,,C-C-Coach, it's finally time for my debut match.
-Dialogue: 10,0:18:11.90,0:18:13.73,GJM_Main,,0,0,0,,Yeah. Keep calm and carry on.
+Dialogue: 10,0:18:11.90,0:18:13.73,GJM_Main,,0,0,0,,Yeah. Keep calm and carry on.{ep4 preview line}
 Dialogue: 10,0:18:13.73,0:18:15.03,GJM_Main,,0,0,0,,It's all good!
 Dialogue: 10,0:18:15.03,0:18:16.90,GJM_Main,,0,0,0,,Right now, I'm totally a flying fishy at heart!
 Dialogue: 10,0:18:17.45,0:18:18.61,GJM_Main,,0,0,0,,Uh...
@@ -388,7 +388,7 @@ Dialogue: 10,0:19:42.57,0:19:45.12,GJM_Main,,0,0,0,,But I can't believe there's\
 Dialogue: 10,0:19:45.62,0:19:48.41,GJM_Main,,0,0,0,,That's what makes official matches so enjoyable.
 Dialogue: 10,0:19:48.41,0:19:49.45,GJM_Main,,0,0,0,,This is fun!
 Dialogue: 10,0:19:49.45,0:19:50.12,GJM_Main,,0,0,0,,Huh?
-Dialogue: 10,0:19:50.66,0:19:53.63,GJM_Main,,0,0,0,,Not knowing what's coming is exciting!
+Dialogue: 10,0:19:50.66,0:19:53.63,GJM_Main,,0,0,0,,Not knowing what's coming is exciting!{ep4 preview line}
 Dialogue: 10,0:19:55.25,0:19:56.55,GJM_Main,,0,0,0,,I'll take her down next time!
 Dialogue: 10,0:19:58.63,0:20:00.38,GJM_Main,,0,0,0,,Point to Okoze!
 Dialogue: 10,0:20:00.92,0:20:03.51,GJM_Main,,0,0,0,,Shake them up more, Arika.
@@ -430,10 +430,10 @@ Dialogue: 10,0:22:02.21,0:22:03.80,GJM_Main,,0,0,0,,Thank you very much!
 Dialogue: 10,0:22:05.13,0:22:07.01,GJM_Main,,0,0,0,,You'd better get some sleep tonight.
 Dialogue: 10,0:22:07.01,0:22:09.39,GJM_Main,,0,0,0,,We've got the second round tomorrow.
 Dialogue: 10,0:22:09.93,0:22:12.06,GJM_Main,,0,0,0,,And she's already out like a light.
-Dialogue: 10,0:23:47.03,0:23:49.03,GJM_Main,,0,0,0,,Let's zipzap, Shindou-san.
-Dialogue: 10,0:23:49.03,0:23:50.65,GJM_Main,,0,0,0,,I'll give it all I've got!
-Dialogue: 10,0:23:50.65,0:23:52.03,GJM_Main,,0,0,0,,Thanks, Asuka.
-Dialogue: 10,0:23:52.32,0:23:54.49,GJM_Main,,0,0,0,,Is that all you've got?
+Dialogue: 10,0:23:47.03,0:23:49.03,GJM_Main,,0,0,0,,Let's zipzap, Shindou-san.{ep6, 06:56}
+Dialogue: 10,0:23:49.03,0:23:50.65,GJM_Main,,0,0,0,,...but I'll give it my all!{ep6, 13:27}
+Dialogue: 10,0:23:50.65,0:23:52.03,GJM_Main,,0,0,0,,Thanks, Asuka.{ep6, 10:46}
+Dialogue: 10,0:23:52.32,0:23:54.49,GJM_Main,,0,0,0,,Is that all you've got?{ep6, 16:04}
 Comment: 0,0:23:53.33,0:23:55.33,GJM_Main,,0,0,0,,OP
 Comment: 0,0:01:42.24,0:01:42.29,OP,,0,0,0,,{OP}{first frame of fade in}
 Dialogue: 0,0:02:06.22,0:02:10.26,OP,,0,0,0,,{\blur3\fad(240,240)}The birds and the wind

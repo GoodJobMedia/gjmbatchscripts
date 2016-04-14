@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/AoKana/03/aokana 3 premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 250
-Active Line: 267
-Video Position: 5638
+Scroll Position: 412
+Active Line: 425
+Video Position: 34299
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -459,9 +459,9 @@ Dialogue: 10,0:22:02.46,0:22:03.76,GJM_Main,,0,0,0,,Hurry up!
 Dialogue: 10,0:22:03.76,0:22:06.30,GJM_Main,,0,0,0,,All right! Let me join in!
 Dialogue: 10,0:22:06.30,0:22:07.51,GJM_Main,,0,0,0,,You're not invited, Captain.
 Dialogue: 10,0:22:07.51,0:22:11.05,GJM_Main,,0,0,0,,{\t(2966,0,\c&H000000&)}Why not?!
-Dialogue: 10,0:23:46.48,0:23:49.40,GJM_Main,,0,0,0,,Hurray! Hurray! Mashiro!
-Dialogue: 10,0:23:49.40,0:23:50.57,GJM_Main,,0,0,0,,Hold it right there!
-Dialogue: 10,0:23:51.03,0:23:53.49,GJM_Main,,0,0,0,,Meat makes me happy!
+Dialogue: 10,0:23:46.48,0:23:49.40,GJM_Main,,0,0,0,,Hurray! Hurray! Mashiron!{ep4, 00:01}
+Dialogue: 10,0:23:49.40,0:23:50.57,GJM_Main,,0,0,0,,Hold it right there!{ep4, 06:14}
+Dialogue: 10,0:23:51.03,0:23:53.49,GJM_Main,,0,0,0,,Meat makes me happy!{ep4, 13:50}
 Comment: 0,0:00:00.00,0:00:05.00,GJM_Main,,0,0,0,,OP
 Comment: 0,0:01:20.22,0:01:20.27,OP,,0,0,0,,{OP}{first frame of fade in}
 Dialogue: 0,0:01:44.20,0:01:48.24,OP,,0,0,0,,{\blur3\fad(240,240)}The birds and the wind
@@ -1016,9 +1016,9 @@ Dialogue: 1,0:01:36.41,0:01:40.45,Show Title,,0,0,0,,{\pos(882.27,452.27)\fscx81
 Dialogue: 2,0:01:36.41,0:01:40.45,Show Title,,0,0,0,,{\pos(882.27,452.27)\fscx81.69\fscy86.99\fax-0.19\fsp1\bord3\c&HFF880A&\3c&HFF880A&\4a&HFF&\blur3.6}Four Rhythm Across the Blue
 Dialogue: 3,0:01:36.41,0:01:40.45,Show Title,,0,0,0,,{\pos(882.27,452.27)\fscx81.69\fscy86.99\fax-0.19\fsp1\c&HFEFFFF&\4a&HFF&\blur0.65}Four Rhythm Across the Blue
 Dialogue: 1,0:02:51.06,0:02:55.82,FyuSigns,,0,0,0,,{\fad(987,0)\an7\fnLiberation Sans\fs30\blur0.5\pos(706.343,109.78)}Episode Three
-Dialogue: 1,0:02:51.06,0:02:55.82,FyuSigns,,0,0,0,,{\fad(987,0)\an7\fnLiberation Sans\fs30\blur0.5\pos(706.343,176.564)}I Just Got\Na Little Fired Up
+Dialogue: 1,0:02:51.06,0:02:55.82,FyuSigns,,0,0,0,,{\fad(987,0)\an7\fnLiberation Sans\fs30\blur0.5\pos(706.343,176.564)}I Just Got\Na Little Fired Up.
 Dialogue: 0,0:02:51.06,0:02:55.82,FyuSigns,,0,0,0,,{\fad(987,0)\an7\fnLiberation Sans\fs30\c&H000000&\1a&H32&\blur0.6\pos(708.843,112.28)}Episode Three
-Dialogue: 0,0:02:51.06,0:02:55.82,FyuSigns,,0,0,0,,{\fad(987,0)\an7\fnLiberation Sans\fs30\c&H000000&\1a&H78&\blur0.6\pos(708.843,179.064)}I Just Got\Na Little Fired Up
+Dialogue: 0,0:02:51.06,0:02:55.82,FyuSigns,,0,0,0,,{\fad(987,0)\an7\fnLiberation Sans\fs30\c&H000000&\1a&H78&\blur0.6\pos(708.843,179.064)}I Just Got\Na Little Fired Up.
 Dialogue: 0,0:08:15.26,0:08:27.64,CicSigns,,0,0,0,,{\pos(465.542,36.333)\fscx60.38\fscy61.09\frz16.02\fry8\frx350\fax-0.24\fnKozuka Gothic Pro M - ENG\fsp1\c&H0E0E0E&\org(584,36.333)\blur0.6\clip(m 478 82 b 476 77 462 57 456 47 450 51 440 59 435 64 438 71 444 86 448 93)}K
 Dialogue: 0,0:08:15.26,0:08:27.64,CicSigns,,0,0,0,,{\pos(508.917,36.333)\fscx60.38\fscy61.09\frz14.217\fry6.95\frx351.65\fax-0.18\fnKozuka Gothic Pro M - ENG\fsp1\c&H131310&\blur0.6\org(584,36.333)\clip(m 505 71 b 506 65 501 49 496 40 499 40 506 42 510 42 513 48 519 61 522 67)}a
 Dialogue: 0,0:08:15.26,0:08:27.64,CicSigns,,0,0,0,,{\pos(571.759,36.333)\fscx60.38\fscy61.09\frz11.813\fry5.55\frx353.85\fax-0.12\fnKozuka Gothic Pro M - ENG\fsp1\c&H131310&\blur0.6\org(584,36.333)}a
