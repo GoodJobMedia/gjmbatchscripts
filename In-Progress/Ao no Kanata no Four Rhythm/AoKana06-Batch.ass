@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: aokana 6 premux.mkv
-Video File: aokana 6 premux.mkv
-Keyframes File: aokana 6 premux_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/AoKana/06/aokana 6 premux.mkv
+Video File: D:/Fansubbing/GoodJob/AoKana/06/aokana 6 premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 364
-Active Line: 401
-Video Position: 22415
+Scroll Position: 726
+Active Line: 732
+Video Position: 34336
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -399,7 +398,7 @@ Dialogue: 10,0:22:08.22,0:22:10.60,GJM_Main,,0,0,0,,So, so amazing!
 Dialogue: 10,0:23:46.57,0:23:49.28,GJM_Main,,0,0,0,,The two of you were seriously awesome!
 Dialogue: 10,0:23:48.23,0:23:49.28,GJM_Overlap,,0,0,0,,It's all about spirit!
 Dialogue: 10,0:23:49.61,0:23:52.07,GJM_Main,,0,0,0,,So this is Flying Circus, too.
-Dialogue: 10,0:23:52.07,0:23:54.03,GJM_Main,,0,0,0,,Stab before you're stabbed!
+Dialogue: 10,0:23:52.07,0:23:54.03,GJM_Main,,0,0,0,,Sting before you're stung!
 Comment: 0,0:23:53.33,0:23:55.33,GJM_Main,,0,0,0,,OP
 Comment: 0,0:01:08.21,0:01:08.26,OP,,0,0,0,,{OP}{first frame of fade in}
 Dialogue: 0,0:01:32.19,0:01:36.23,OP,,0,0,0,,{\blur3\fad(240,240)}The birds and the wind
@@ -765,8 +764,8 @@ Dialogue: 0,0:23:46.40,0:23:46.44,CicSigns,,0,0,0,,{\pos(640.01,111.94)\fscx156.
 Dialogue: 0,0:23:46.44,0:23:46.48,CicSigns,,0,0,0,,{\pos(640.01,111.28)\fscx157.35\fscy157.35\shad1.1\4c&HDD8429&\blur0.57}Preview
 Dialogue: 0,0:23:46.48,0:23:46.52,CicSigns,,0,0,0,,{\pos(640,110.65)\fscx157.68\fscy157.68\shad1.1\4c&HDD8429&\blur0.57}Preview
 Dialogue: 0,0:23:46.52,0:23:46.56,CicSigns,,0,0,0,,{\pos(640,110)\fscx158\fscy158\shad1.1\4c&HDD8429&\blur0.57}Preview
-Dialogue: 0,0:23:52.07,0:23:55.07,FyuSigns,,0,0,0,,{\an7\fnLiberation Sans\fs28\c&HFFFCE7&\blur0.5\pos(701.457,135.208)}Episode Seven
-Dialogue: 0,0:23:52.07,0:23:55.07,FyuSigns,,0,0,0,,{\an1\fnLiberation Sans\fs28\c&HFFFCE7&\blur0.5\pos(701.457,266.18)}Stab Before You're Stabbed!
+Dialogue: 0,0:23:52.07,0:23:55.07,FyuSigns,,0,0,0,,{\an7\fnLiberation Sans\fs28\c&HFFFCE7&\blur0.5\pos(710,135.208)}Episode Seven
+Dialogue: 0,0:23:52.07,0:23:55.07,FyuSigns,,0,0,0,,{\an1\fnLiberation Sans\fs28\c&HFFFCE7&\blur0.5\pos(710,266.18)}Sting Before You're Stung!
 Dialogue: 0,0:00:00.48,0:00:00.52,CicSigns,,0,0,0,,{\an7\pos(244.8,392.27)\org(450.67,871.33)\fscx88\fscy129\fry14\frx4\fax0.35\fnDeBorstel Brush Reduced\c&H040302&\blur0.8\t(0,1022,\c&H70503A&)}All–Japan Flying Circus
 Dialogue: 0,0:00:00.48,0:00:00.52,CicSigns,,0,0,0,,{\an7\pos(246.8,430.27)\org(452.67,909.33)\fscx88\fscy129\fry14\frx4\fax0.05\fnDeBorstel Brush Reduced\c&H040302&\blur0.8\t(0,1022,\c&H70503A&)}Summe{\fax0.1}r {\fax0.3}Tourn{\fsp5}a{\fax0.05\fsp-5}m{\fax0.3\fsp0}ent
 Dialogue: 0,0:00:00.48,0:00:00.52,CicSigns,,0,0,0,,{\pos(381,526.67)\org(447.67,937.33)\fscx88\fscy129\fry14\frx4\fax0.35\fnDeBorstel Brush Reduced\c&H040302&\blur0.8\t(0,1022,\c&H70503A&)}West Kyushu Qualifiers

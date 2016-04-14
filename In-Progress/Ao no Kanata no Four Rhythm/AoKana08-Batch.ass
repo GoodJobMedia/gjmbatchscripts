@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: aokana 8 premux fixed.mkv
-Video File: aokana 8 premux fixed.mkv
-Keyframes File: aokana 8 premux fixed_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/AoKana/08/aokana 8 premux fixed.mkv
+Video File: D:/Fansubbing/GoodJob/AoKana/08/aokana 8 premux fixed.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 255
-Active Line: 271
-Video Position: 28881
+Video Zoom Percent: 0.875000
+Scroll Position: 526
+Active Line: 531
+Video Position: 9328
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -334,7 +333,7 @@ Dialogue: 10,0:22:00.46,0:22:02.09,GJM_Main,,0,0,0,,Yeah...
 Dialogue: 10,0:22:08.89,0:22:09.93,GJM_Main,,0,0,0,,I...
 Dialogue: 10,0:23:46.57,0:23:48.74,GJM_Main,,0,0,0,,I believe this means to just go for it.
 Dialogue: 10,0:23:48.74,0:23:51.28,GJM_Main,,0,0,0,,That's not it. Let's just eat.
-Dialogue: 10,0:23:51.28,0:23:54.32,GJM_Main,,0,0,0,,The answer is in the sky!
+Dialogue: 10,0:23:51.28,0:23:54.32,GJM_Main,,0,0,0,,The answer is up in the sky!
 Comment: 0,0:00:00.00,0:00:05.00,GJM_Main,,0,0,0,,OP
 Dialogue: 0,0:00:42.23,0:00:46.27,OP,,0,0,0,,{\blur3\fad(240,240)}The birds and the wind
 Dialogue: 0,0:00:46.65,0:00:49.53,OP,,0,0,0,,{\blur3\fad(240,240)}Pat my hair as if inviting me into the sky
@@ -565,7 +564,8 @@ Dialogue: 3,0:06:27.90,0:06:30.16,CicSigns,Mashiro,0,0,0,,{\an7\pos(0,0)\1c&HE4C
 Dialogue: 3,0:06:27.90,0:06:30.16,CicSigns,Mashiro,0,0,0,,{\an7\pos(0,0)\1c&HE5CB8B&\blur1\p1}m 905.11 264.23 l 917.48 267.74 895.71 251.92 893.91 256.08
 Dialogue: 3,0:06:27.90,0:06:30.16,CicSigns,Mashiro,0,0,0,,{\an7\pos(0,0)\1c&HE6CC8C&\blur1\p1}m 893.67 260.97 l 905.84 264.43 894.09 255.67 892.25 259.92 m 892.49 259.37 l 892 260.5 895.05 261.37
 Dialogue: 4,0:06:27.90,0:06:30.16,CicSigns,,0,0,0,,{\pos(920.19,254.857)\fscx43\fscy43\frz340.3\fax-0.04\fnFolks\b1\c&H443D28&\blur0.6}Mashiro
-Dialogue: 7,0:06:27.90,0:06:30.16,CicSigns,,0,0,0,,{\an7\pos(543.904,-27.286)\fscx61.1\fscy50.76\frz340.3\fax-0.04\fnFolks\b1\c&H483B31&\blur0.6}I'm too useless (>_<;)
+Dialogue: 7,0:06:27.90,0:06:30.16,CicSigns,,0,0,0,,{\an7\pos(557.904,-39.286)\fscx61.1\fscy50.76\frz340.3\fax-0.04\fnFolks\b1\c&H483B31&\blur0.6}I'm so sorry!
+Dialogue: 7,0:06:27.90,0:06:30.16,CicSigns,,0,0,0,,{\an7\pos(543.904,-10.286)\fscx61.1\fscy50.76\frz340.3\fax-0.04\fnFolks\b1\c&H483B31&\blur0.6}I'm too useless (>_<;)
 Dialogue: 6,0:06:27.90,0:06:30.16,CicSigns,,0,0,0,,{\an7\pos(659.904,97.714)\fscx61.1\fscy50.76\frz340.3\fax-0.04\fnFolks\b1\c&H483B31&\blur0.6}Waiting at the\N school gates atm
 Dialogue: 5,0:06:27.90,0:06:30.16,CicSigns,,0,0,0,,{\pos(568.19,173.857)\fscx61.1\fscy50.76\frz340.3\fax-0.04\fnFolks\b1\c&H483B31&\blur0.6}Sorry! (><;) Look up!
 Dialogue: 3,0:06:27.90,0:06:30.16,CicSigns,,0,0,0,,{\pos(371.333,142.286)\fscx43\fscy43\frz340.3\fax-0.04\fnFolks\b1\c&H494741&\blur0.6}Madoka
@@ -1018,4 +1018,4 @@ Dialogue: 0,0:23:46.44,0:23:46.48,CicSigns,,0,0,0,,{\pos(640.01,111.28)\fscx157.
 Dialogue: 0,0:23:46.48,0:23:46.52,CicSigns,,0,0,0,,{\pos(640,110.65)\fscx157.68\fscy157.68\shad1.1\4c&HDD8429&\blur0.57}Preview
 Dialogue: 0,0:23:46.52,0:23:46.56,CicSigns,,0,0,0,,{\pos(640,110)\fscx158\fscy158\shad1.1\4c&HDD8429&\blur0.57}Preview
 Dialogue: 0,0:23:52.07,0:23:55.08,FyuSigns,,0,0,0,,{\an7\fnLiberation Sans\fs28\c&HFFFCE7&\blur0.5\pos(701.457,109.169)}Episode Nine
-Dialogue: 0,0:23:52.07,0:23:55.08,FyuSigns,,0,0,0,,{\an1\fnLiberation Sans\fs28\c&HFFFCE7&\blur0.5\pos(701.457,235.704)}The Answer Is in the Sky!
+Dialogue: 0,0:23:52.07,0:23:55.08,FyuSigns,,0,0,0,,{\an1\fnLiberation Sans\fs28\c&HFFFCE7&\blur0.5\pos(701.457,235.704)}The Answer Is Up in the Sky!
