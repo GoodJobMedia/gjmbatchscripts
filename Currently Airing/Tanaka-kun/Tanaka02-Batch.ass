@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: tanaka02_premux[FD4D2EDB].mkv
-Video File: tanaka02_premux[FD4D2EDB].mkv
-Keyframes File: tanaka02_premux[FD4D2EDB]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Tanaka/02/tanaka02_premux[FD4D2EDB].mkv
+Video File: D:/Fansubbing/GoodJob/Tanaka/02/tanaka02_premux[FD4D2EDB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 308
-Active Line: 320
-Video Position: 29159
+Video Zoom Percent: 1.000000
+Scroll Position: 44
+Active Line: 50
+Video Position: 6109
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +35,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:11.81,0:00:13.53,GJM_Main,Tanaka,0,0,0,,Offer me your blessings.
 Dialogue: 10,0:00:19.46,0:00:21.93,GJM_Main,Ohta,0,0,0,,Morning, Tanaka.
 Dialogue: 10,0:00:21.93,0:00:23.71,GJM_Main,Tanaka,0,0,0,,Morning, Ohta.
-Dialogue: 10,0:00:23.71,0:00:26.08,GJM_Main,Ohta,0,0,0,,Praying at the temple\Nthis early in the morning?
+Dialogue: 10,0:00:23.71,0:00:26.08,GJM_Main,Ohta,0,0,0,,Praying at the shrine\Nthis early in the morning?
 Dialogue: 10,0:00:26.08,0:00:27.23,GJM_Main,Ohta,0,0,0,,You sure are dedicated.
 Dialogue: 10,0:00:27.23,0:00:29.41,GJM_Main,Tanaka,0,0,0,,Yeah, I guess...
 Dialogue: 10,0:00:30.29,0:00:33.80,GJM_Main,Tanaka,0,0,0,,I prayed for an uneventful day,
@@ -83,7 +82,7 @@ Dialogue: 10,0:04:03.59,0:04:07.26,GJM_Main,Tanaka,0,0,0,,In other words, I don'
 Dialogue: 10,0:04:07.26,0:04:10.43,GJM_Main,Miyano,0,0,0,,Then, I'll do my best to\Ntreat you as an old friend!
 Dialogue: 10,0:04:10.43,0:04:12.23,GJM_Main,Miyano,0,0,0,,Wanna make up nicknames for each other?!
 Dialogue: 10,0:04:12.97,0:04:14.78,GJM_Main,Tanaka,0,0,0,,{\i1}What is a god?
-Dialogue: 10,0:04:14.78,0:04:16.27,GJM_Main,Tanaka,0,0,0,,{\i1}I want to refund my offering.
+Dialogue: 10,0:04:14.78,0:04:16.27,GJM_Main,Tanaka,0,0,0,,{\i1}I want a refund on my offering.
 Dialogue: 10,0:04:16.27,0:04:17.70,GJM_Main,Ohta,0,0,0,,Miyano...
 Dialogue: 10,0:04:17.70,0:04:22.46,GJM_Main,Ohta,0,0,0,,Tanaka actually prayed to the gods\Ntoday for an uneventful day.
 Dialogue: 10,0:04:22.46,0:04:24.70,GJM_Main,Ohta,0,0,0,,Sorry, but could you let this go?
@@ -4055,76 +4054,76 @@ Dialogue: 2,0:21:17.63,0:21:21.13,ChhSigns,Banner,0,0,0,,{\pos(1096.416,269.714)
 Dialogue: 2,0:21:17.63,0:21:21.13,ChhSigns,Banner,0,0,0,,{\pos(1096.416,269.714)\frz-9.3\fax-0.04\fnGorilla BT\fs45\c&H60939E&\alpha&HDB&\4a&HFF&\blur0.6\clip(m 974 218 l 991 204 1007 190 1016 177 1044 179.5 1044 179.5 1052 190 1056 187 1067 180 1079 174 1094 191 1100 202 1091 206.5 1091 206.5 1089 203 1095 203 1108 207 1115 208 1119 211 1122 210 1126 209 1130 208 1139 204 1150 202 1161 218 1161 231 1153 242 1145 252 1135 257 1126 262 1118 263 1103 265 1089 262 1089 246 1091.5 241 1091.5 241 1089 240 1088 230 1090 221 1096.5 224 1096.5 224 1096 233 1087 235 1085 234.5 1085 234.5 1093 243 1092 260 1086 269 1078 271 1073 274 1064 277 1062 278 1058 274.5 1058 274.5 1066 271 1074 271 1082 271 1094 271 1100 281 1103 289 1102 308 1088 314 1076 315 1066 315 1058 320 1049 322 1031 314 1029 299 1030 291 1033 277 1035 273 1035 273 1034 266.5 1034 266.5 1033 270 1018 270 1008 268 1003 265 991 261 m 991 261 l 1003 265 1008 267 1018 270 1033 270 1034.5 266.5 1034.5 266.5 1036 273 1036 273 1034 277 1031 291 1029 299 1031 314 1049 322 1057 320 1066 315 1076 315 1088 313 1101 308 1103 289 1100 281 1094 272 1082 272 1074 272 1066 272 1058 273 1057.5 276.5 1057.5 276.5 1062 278 1064 277 1073 274 1078 271 1085 268 1091 260 1093 243 1085 234 1084.5 234.5 1084.5 234.5 1087 234 1096 233 1096.5 224 1096.5 224 1090 222 1088 230 1090 239 1092 241 1092 241 1090 246 1090 262 1103 265 1118 262 1126 261 1135 257 1144 252 1153 242 1161 231 1160 218 1150 202 1140 205 1130 208 1126 210 1123 211 1119 211 1115 209 1108 208 1095 204 1089 204 1090.5 207 1090.5 207 1099 202 1094 191 1079 175 1067 181 1056 187 1052 191 1043.5 180.5 1043.5 180.5 1016 177 1007 190 991 205 975 218)}Misfortune
 Dialogue: 2,0:21:17.63,0:21:21.13,ChhSigns,Banner,0,0,0,,{\pos(1096.416,269.714)\frz-9.3\fax-0.04\fnGorilla BT\fs45\c&H60939E&\alpha&HE7&\4a&HFF&\blur0.6\clip(m 974 218 l 991 204 1007 190 1015 176 1044.5 178.5 1044.5 178.5 1052 189 1055 186 1066 180 1079 173 1095 191 1101 202 1091.5 206.5 1091.5 206.5 1089 203 1096 203 1108 207 1115 208 1119 210 1122 210 1126 209 1129 207 1139 204 1150 201 1161 218 1162 231 1154 243 1145 253 1135 257 1126 262 1118 263 1103 266 1089 263 1088 246 1090.5 241 1090.5 241 1089 240 1087 230 1089 221 1096.5 224.5 1096.5 224.5 1096 233 1087 235 1085.5 234.5 1085.5 234.5 1094 243 1092 261 1086 269 1078 272 1073 275 1064 278 1062 279 1058 275 1058 275 1066 271 1074 271 1082 271 1094 271 1101 281 1104 289 1102 308 1088 314 1076 316 1066 316 1058 321 1049 323 1030 314 1028 299 1030 291 1033 277 1035 273 1035 273 1033.5 268 1033.5 268 1018 271 1008 268 1003 266 991 261 m 991 261 l 1003 265 1008 268 1018 270 1033 270 1034 266.5 1034 266.5 1035 273 1035 273 1033 277 1030 291 1029 299 1031 314 1049 322 1058 320 1066 315 1076 315 1088 314 1102 308 1103 289 1100 281 1094 271 1082 271 1074 271 1066 271 1058 274.5 1058 274.5 1062 278 1064 277 1073 274 1078 271 1086 269 1092 260 1093 243 1085 234.5 1085 234.5 1087 235 1096 233 1096.5 224 1096.5 224 1090 221 1088 230 1089 240 1091.5 241 1091.5 241 1089 246 1089 262 1103 265 1118 263 1126 262 1135 257 1145 252 1153 242 1161 231 1161 218 1150 202 1139 204 1130 208 1126 209 1122 210 1119 211 1115 208 1108 207 1095 203 1089 203 1091 206.5 1091 206.5 1100 202 1094 191 1079 174 1067 180 1056 187 1052 190 1044 179.5 1044 179.5 1016 177 1007 190 991 204 974 218)}Misfortune
 Dialogue: 2,0:21:17.63,0:21:21.13,ChhSigns,Banner,0,0,0,,{\pos(1096.416,269.714)\frz-9.3\fax-0.04\fnGorilla BT\fs45\c&H60939E&\alpha&HF3&\4a&HFF&\blur0.6\clip(m 973 218 l 990 203 1006 189 1015 175 1045 177.5 1045 177.5 1052 189 1055 186 1066 179 1079 173 1095 190 1101 202 1091.5 206.5 1091.5 206.5 1089 202 1096 202 1108 206 1116 207 1119 210 1122 209 1126 208 1129 207 1139 203 1150 201 1162 218 1162 231 1154 243 1145 253 1135 258 1126 263 1119 264 1103 266 1088 263 1088 246 1090.5 241 1090.5 241 1089 240 1087 230 1089 221 1096.5 224.5 1096.5 224.5 1097 234 1087 236 1085.5 234.5 1085.5 234.5 1094 243 1093 261 1086 269 1078 272 1073 275 1064 278 1062 279 1058.5 274.5 1058.5 274.5 1066 270 1074 270 1082 270 1095 270 1101 281 1104 288 1102 309 1089 315 1076 316 1066 316 1058 321 1049 324 1030 315 1028 299 1029 291 1032 277 1034 273 1034 273 1032.5 268 1032.5 268 1018 271 1008 269 1002 266 990 262 m 991 261 l 1003 266 1008 268 1018 271 1033.5 268 1033.5 268 1035 273 1035 273 1033 277 1030 291 1028 299 1030 314 1049 323 1058 321 1066 316 1076 316 1088 314 1102 308 1104 289 1101 281 1094 271 1082 271 1074 271 1066 271 1058 275 1058 275 1062 279 1064 278 1073 275 1078 272 1086 269 1092 261 1094 243 1085.5 234.5 1085.5 234.5 1087 235 1096 233 1096.5 224.5 1096.5 224.5 1089 221 1087 230 1089 240 1090.5 241 1090.5 241 1088 246 1089 263 1103 266 1118 263 1126 262 1135 257 1145 253 1154 243 1162 231 1161 218 1150 201 1139 204 1129 207 1126 209 1122 210 1119 210 1115 208 1108 207 1096 203 1089 203 1091.5 206.5 1091.5 206.5 1101 202 1095 191 1079 173 1066 180 1055 186 1052 189 1044.5 178.5 1044.5 178.5 1015 176 1007 190 991 204 974 218)}Misfortune
-Dialogue: 0,0:21:55.37,0:21:55.41,ChhSigns,Letter,0,0,0,,{=0}{\pos(877.72,462)\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.41,0:21:55.46,ChhSigns,Letter,0,0,0,,{=0}{\pos(837.32,447.79)\fscx83.51\fscy83.51\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.46,0:21:55.50,ChhSigns,Letter,0,0,0,,{=0}{\pos(808.77,437.74)\fscx71.85\fscy71.85\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.50,0:21:55.54,ChhSigns,Letter,0,0,0,,{=0}{\pos(788.15,430.49)\fscx63.43\fscy63.43\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.54,0:21:55.58,ChhSigns,Letter,0,0,0,,{=0}{\pos(773.93,425.51)\fscx57.62\fscy57.62\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.58,0:21:55.62,ChhSigns,Letter,0,0,0,,{=0}{\pos(766.35,422.83)\fscx54.53\fscy54.53\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.62,0:21:55.66,ChhSigns,Letter,0,0,0,,{=0}{\pos(763.98,422)\fscx53.56\fscy53.56\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.66,0:21:55.71,ChhSigns,Letter,0,0,0,,{=0}{\pos(763.2,421.68)\fscx53.23\fscy53.23\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.71,0:21:55.75,ChhSigns,Letter,0,0,0,,{=0}{\pos(762.5,421.43)\fscx52.94\fscy52.94\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.75,0:21:55.79,ChhSigns,Letter,0,0,0,,{=0}{\pos(761.95,421.21)\fscx52.72\fscy52.72\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.79,0:21:55.83,ChhSigns,Letter,0,0,0,,{=0}{\pos(761.45,421.07)\fscx52.52\fscy52.52\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.83,0:21:55.87,ChhSigns,Letter,0,0,0,,{=0}{\pos(761.12,420.88)\fscx52.37\fscy52.37\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.87,0:21:55.91,ChhSigns,Letter,0,0,0,,{=0}{\pos(760.78,420.74)\fscx52.23\fscy52.23\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.91,0:21:55.96,ChhSigns,Letter,0,0,0,,{=0}{\pos(760.46,420.61)\fscx52.09\fscy52.09\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:55.96,0:21:56.00,ChhSigns,Letter,0,0,0,,{=0}{\pos(760.2,420.49)\fscx51.97\fscy51.97\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.00,0:21:56.04,ChhSigns,Letter,0,0,0,,{=0}{\pos(759.96,420.39)\fscx51.87\fscy51.87\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.04,0:21:56.08,ChhSigns,Letter,0,0,0,,{=0}{\pos(759.74,420.28)\fscx51.77\fscy51.77\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.08,0:21:56.12,ChhSigns,Letter,0,0,0,,{=0}{\pos(759.56,420.18)\fscx51.69\fscy51.69\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.12,0:21:56.16,ChhSigns,Letter,0,0,0,,{=0}{\pos(759.41,420.08)\fscx51.62\fscy51.62\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.16,0:21:56.21,ChhSigns,Letter,0,0,0,,{=0}{\pos(759.25,420)\fscx51.55\fscy51.55\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.21,0:21:56.25,ChhSigns,Letter,0,0,0,,{=0}{\pos(759.09,419.92)\fscx51.48\fscy51.48\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.25,0:21:56.29,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.96,419.85)\fscx51.42\fscy51.42\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.29,0:21:56.33,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.82,419.78)\fscx51.36\fscy51.36\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.33,0:21:56.37,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.71,419.72)\fscx51.31\fscy51.31\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.37,0:21:56.42,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.6,419.67)\fscx51.26\fscy51.26\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.42,0:21:56.46,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.49,419.61)\fscx51.21\fscy51.21\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.46,0:21:56.50,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.4,419.54)\fscx51.16\fscy51.16\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.50,0:21:56.54,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.32,419.49)\fscx51.13\fscy51.13\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.54,0:21:56.58,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.25,419.44)\fscx51.09\fscy51.09\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.58,0:21:56.62,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.18,419.38)\fscx51.06\fscy51.06\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.62,0:21:56.67,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.09,419.34)\fscx51.02\fscy51.02\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.67,0:21:56.71,ChhSigns,Letter,0,0,0,,{=0}{\pos(758.02,419.3)\fscx50.99\fscy50.99\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.71,0:21:56.75,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.97,419.26)\fscx50.96\fscy50.96\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.75,0:21:56.79,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.9,419.22)\fscx50.93\fscy50.93\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.79,0:21:56.83,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.84,419.18)\fscx50.9\fscy50.9\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.83,0:21:56.87,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.79,419.15)\fscx50.88\fscy50.88\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.87,0:21:56.92,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.75,419.11)\fscx50.86\fscy50.86\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.92,0:21:56.96,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.69,419.08)\fscx50.83\fscy50.83\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:56.96,0:21:57.00,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.64,419.05)\fscx50.81\fscy50.81\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.00,0:21:57.04,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.6,419.03)\fscx50.79\fscy50.79\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.04,0:21:57.08,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.56,419)\fscx50.77\fscy50.77\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.08,0:21:57.12,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.5,418.98)\fscx50.75\fscy50.75\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.12,0:21:57.17,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.46,418.96)\fscx50.74\fscy50.74\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.17,0:21:57.21,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.43,418.94)\fscx50.72\fscy50.72\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.21,0:21:57.25,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.4,418.92)\fscx50.71\fscy50.71\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.25,0:21:57.29,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.36,418.9)\fscx50.69\fscy50.69\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.29,0:21:57.33,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.34,418.88)\fscx50.68\fscy50.68\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.33,0:21:57.37,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.3,418.86)\fscx50.67\fscy50.67\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.37,0:21:57.42,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.28,418.84)\fscx50.65\fscy50.65\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.42,0:21:57.46,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.24,418.83)\fscx50.64\fscy50.64\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.46,0:21:57.50,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.21,418.82)\fscx50.63\fscy50.63\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.50,0:21:57.54,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.19,418.8)\fscx50.62\fscy50.62\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.54,0:21:57.58,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.16,418.79)\fscx50.61\fscy50.61\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.58,0:21:57.62,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.13,418.78)\fscx50.6\fscy50.6\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.62,0:21:57.67,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.11,418.76)\fscx50.59\fscy50.59\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.67,0:21:57.71,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.08,418.75)\fscx50.58\fscy50.58\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.71,0:21:57.75,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.06,418.74)\fscx50.57\fscy50.57\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.75,0:21:57.79,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.03,418.73)\fscx50.56\fscy50.56\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.79,0:21:57.83,ChhSigns,Letter,0,0,0,,{=0}{\pos(757.01,418.71)\fscx50.55\fscy50.55\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.83,0:21:57.87,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.98,418.7)\fscx50.54\fscy50.54\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.87,0:21:57.92,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.96,418.68)\fscx50.53\fscy50.53\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.92,0:21:57.96,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.93,418.66)\fscx50.52\fscy50.52\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:57.96,0:21:58.00,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.91,418.65)\fscx50.51\fscy50.51\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:58.00,0:21:58.04,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.87,418.64)\fscx50.5\fscy50.5\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:58.04,0:21:58.08,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.83,418.62)\fscx50.48\fscy50.48\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:58.08,0:21:58.13,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.79,418.61)\fscx50.47\fscy50.47\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:58.13,0:21:58.17,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.76,418.58)\fscx50.45\fscy50.45\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:58.17,0:21:58.21,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.71,418.57)\fscx50.43\fscy50.43\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:58.21,0:21:58.25,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.68,418.53)\fscx50.42\fscy50.42\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:58.25,0:21:58.29,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.6,418.51)\fscx50.38\fscy50.38\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
-Dialogue: 0,0:21:58.29,0:21:58.33,ChhSigns,Letter,0,0,0,,{=0}{\pos(756.56,418.47)\fscx50.36\fscy50.36\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.8}Letter \Nof Challenge
+Dialogue: 0,0:21:55.37,0:21:55.41,ChhSigns,Letter,0,0,0,,{\pos(877.72,462)\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.41,0:21:55.46,ChhSigns,Letter,0,0,0,,{\pos(837.32,447.79)\fscx83.51\fscy83.51\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.46,0:21:55.50,ChhSigns,Letter,0,0,0,,{\pos(808.77,437.74)\fscx71.85\fscy71.85\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.50,0:21:55.54,ChhSigns,Letter,0,0,0,,{\pos(788.15,430.49)\fscx63.43\fscy63.43\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.54,0:21:55.58,ChhSigns,Letter,0,0,0,,{\pos(773.93,425.51)\fscx57.62\fscy57.62\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.58,0:21:55.62,ChhSigns,Letter,0,0,0,,{\pos(766.35,422.83)\fscx54.53\fscy54.53\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.62,0:21:55.66,ChhSigns,Letter,0,0,0,,{\pos(763.98,422)\fscx53.56\fscy53.56\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.66,0:21:55.71,ChhSigns,Letter,0,0,0,,{\pos(763.2,421.68)\fscx53.23\fscy53.23\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.71,0:21:55.75,ChhSigns,Letter,0,0,0,,{\pos(762.5,421.43)\fscx52.94\fscy52.94\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.75,0:21:55.79,ChhSigns,Letter,0,0,0,,{\pos(761.95,421.21)\fscx52.72\fscy52.72\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.79,0:21:55.83,ChhSigns,Letter,0,0,0,,{\pos(761.45,421.07)\fscx52.52\fscy52.52\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.83,0:21:55.87,ChhSigns,Letter,0,0,0,,{\pos(761.12,420.88)\fscx52.37\fscy52.37\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.87,0:21:55.91,ChhSigns,Letter,0,0,0,,{\pos(760.78,420.74)\fscx52.23\fscy52.23\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.91,0:21:55.96,ChhSigns,Letter,0,0,0,,{\pos(760.46,420.61)\fscx52.09\fscy52.09\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:55.96,0:21:56.00,ChhSigns,Letter,0,0,0,,{\pos(760.2,420.49)\fscx51.97\fscy51.97\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.00,0:21:56.04,ChhSigns,Letter,0,0,0,,{\pos(759.96,420.39)\fscx51.87\fscy51.87\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.04,0:21:56.08,ChhSigns,Letter,0,0,0,,{\pos(759.74,420.28)\fscx51.77\fscy51.77\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.08,0:21:56.12,ChhSigns,Letter,0,0,0,,{\pos(759.56,420.18)\fscx51.69\fscy51.69\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.12,0:21:56.16,ChhSigns,Letter,0,0,0,,{\pos(759.41,420.08)\fscx51.62\fscy51.62\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.16,0:21:56.21,ChhSigns,Letter,0,0,0,,{\pos(759.25,420)\fscx51.55\fscy51.55\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.21,0:21:56.25,ChhSigns,Letter,0,0,0,,{\pos(759.09,419.92)\fscx51.48\fscy51.48\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.25,0:21:56.29,ChhSigns,Letter,0,0,0,,{\pos(758.96,419.85)\fscx51.42\fscy51.42\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.29,0:21:56.33,ChhSigns,Letter,0,0,0,,{\pos(758.82,419.78)\fscx51.36\fscy51.36\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.33,0:21:56.37,ChhSigns,Letter,0,0,0,,{\pos(758.71,419.72)\fscx51.31\fscy51.31\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.37,0:21:56.42,ChhSigns,Letter,0,0,0,,{\pos(758.6,419.67)\fscx51.26\fscy51.26\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.42,0:21:56.46,ChhSigns,Letter,0,0,0,,{\pos(758.49,419.61)\fscx51.21\fscy51.21\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.46,0:21:56.50,ChhSigns,Letter,0,0,0,,{\pos(758.4,419.54)\fscx51.16\fscy51.16\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.50,0:21:56.54,ChhSigns,Letter,0,0,0,,{\pos(758.32,419.49)\fscx51.13\fscy51.13\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.54,0:21:56.58,ChhSigns,Letter,0,0,0,,{\pos(758.25,419.44)\fscx51.09\fscy51.09\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.58,0:21:56.62,ChhSigns,Letter,0,0,0,,{\pos(758.18,419.38)\fscx51.06\fscy51.06\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.62,0:21:56.67,ChhSigns,Letter,0,0,0,,{\pos(758.09,419.34)\fscx51.02\fscy51.02\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.67,0:21:56.71,ChhSigns,Letter,0,0,0,,{\pos(758.02,419.3)\fscx50.99\fscy50.99\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.71,0:21:56.75,ChhSigns,Letter,0,0,0,,{\pos(757.97,419.26)\fscx50.96\fscy50.96\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.75,0:21:56.79,ChhSigns,Letter,0,0,0,,{\pos(757.9,419.22)\fscx50.93\fscy50.93\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.79,0:21:56.83,ChhSigns,Letter,0,0,0,,{\pos(757.84,419.18)\fscx50.9\fscy50.9\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.83,0:21:56.87,ChhSigns,Letter,0,0,0,,{\pos(757.79,419.15)\fscx50.88\fscy50.88\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.87,0:21:56.92,ChhSigns,Letter,0,0,0,,{\pos(757.75,419.11)\fscx50.86\fscy50.86\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.92,0:21:56.96,ChhSigns,Letter,0,0,0,,{\pos(757.69,419.08)\fscx50.83\fscy50.83\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:56.96,0:21:57.00,ChhSigns,Letter,0,0,0,,{\pos(757.64,419.05)\fscx50.81\fscy50.81\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.00,0:21:57.04,ChhSigns,Letter,0,0,0,,{\pos(757.6,419.03)\fscx50.79\fscy50.79\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.04,0:21:57.08,ChhSigns,Letter,0,0,0,,{\pos(757.56,419)\fscx50.77\fscy50.77\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.08,0:21:57.12,ChhSigns,Letter,0,0,0,,{\pos(757.5,418.98)\fscx50.75\fscy50.75\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.12,0:21:57.17,ChhSigns,Letter,0,0,0,,{\pos(757.46,418.96)\fscx50.74\fscy50.74\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.17,0:21:57.21,ChhSigns,Letter,0,0,0,,{\pos(757.43,418.94)\fscx50.72\fscy50.72\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.21,0:21:57.25,ChhSigns,Letter,0,0,0,,{\pos(757.4,418.92)\fscx50.71\fscy50.71\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.25,0:21:57.29,ChhSigns,Letter,0,0,0,,{\pos(757.36,418.9)\fscx50.69\fscy50.69\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.29,0:21:57.33,ChhSigns,Letter,0,0,0,,{\pos(757.34,418.88)\fscx50.68\fscy50.68\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.33,0:21:57.37,ChhSigns,Letter,0,0,0,,{\pos(757.3,418.86)\fscx50.67\fscy50.67\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.37,0:21:57.42,ChhSigns,Letter,0,0,0,,{\pos(757.28,418.84)\fscx50.65\fscy50.65\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.42,0:21:57.46,ChhSigns,Letter,0,0,0,,{\pos(757.24,418.83)\fscx50.64\fscy50.64\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.46,0:21:57.50,ChhSigns,Letter,0,0,0,,{\pos(757.21,418.82)\fscx50.63\fscy50.63\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.50,0:21:57.54,ChhSigns,Letter,0,0,0,,{\pos(757.19,418.8)\fscx50.62\fscy50.62\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.54,0:21:57.58,ChhSigns,Letter,0,0,0,,{\pos(757.16,418.79)\fscx50.61\fscy50.61\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.58,0:21:57.62,ChhSigns,Letter,0,0,0,,{\pos(757.13,418.78)\fscx50.6\fscy50.6\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.62,0:21:57.67,ChhSigns,Letter,0,0,0,,{\pos(757.11,418.76)\fscx50.59\fscy50.59\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.67,0:21:57.71,ChhSigns,Letter,0,0,0,,{\pos(757.08,418.75)\fscx50.58\fscy50.58\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.71,0:21:57.75,ChhSigns,Letter,0,0,0,,{\pos(757.06,418.74)\fscx50.57\fscy50.57\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.75,0:21:57.79,ChhSigns,Letter,0,0,0,,{\pos(757.03,418.73)\fscx50.56\fscy50.56\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.79,0:21:57.83,ChhSigns,Letter,0,0,0,,{\pos(757.01,418.71)\fscx50.55\fscy50.55\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.83,0:21:57.87,ChhSigns,Letter,0,0,0,,{\pos(756.98,418.7)\fscx50.54\fscy50.54\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.87,0:21:57.92,ChhSigns,Letter,0,0,0,,{\pos(756.96,418.68)\fscx50.53\fscy50.53\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.92,0:21:57.96,ChhSigns,Letter,0,0,0,,{\pos(756.93,418.66)\fscx50.52\fscy50.52\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:57.96,0:21:58.00,ChhSigns,Letter,0,0,0,,{\pos(756.91,418.65)\fscx50.51\fscy50.51\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:58.00,0:21:58.04,ChhSigns,Letter,0,0,0,,{\pos(756.87,418.64)\fscx50.5\fscy50.5\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:58.04,0:21:58.08,ChhSigns,Letter,0,0,0,,{\pos(756.83,418.62)\fscx50.48\fscy50.48\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:58.08,0:21:58.13,ChhSigns,Letter,0,0,0,,{\pos(756.79,418.61)\fscx50.47\fscy50.47\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:58.13,0:21:58.17,ChhSigns,Letter,0,0,0,,{\pos(756.76,418.58)\fscx50.45\fscy50.45\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:58.17,0:21:58.21,ChhSigns,Letter,0,0,0,,{\pos(756.71,418.57)\fscx50.43\fscy50.43\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:58.21,0:21:58.25,ChhSigns,Letter,0,0,0,,{\pos(756.68,418.53)\fscx50.42\fscy50.42\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:58.25,0:21:58.29,ChhSigns,Letter,0,0,0,,{\pos(756.6,418.51)\fscx50.38\fscy50.38\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
+Dialogue: 0,0:21:58.29,0:21:58.33,ChhSigns,Letter,0,0,0,,{\pos(756.56,418.47)\fscx50.36\fscy50.36\frz1.259\frx10\fax0.12\fnBrushcut\fs60\blur0.7}Letter \Nof Challenge
 Dialogue: 0,0:23:41.56,0:23:45.48,ChhSigns,Title,0,0,0,,{\an3\pos(360,589)\fnKozuka Mincho Pro Strippedv3 R\blur0.5}Next Episode
 Dialogue: 0,0:23:41.56,0:23:45.48,ChhSigns,Title,0,0,0,,{\an4\pos(425.572,603.858)\fs50\b1\c&H3A3A3A&\blur0.4}Girl of Contrast, \NEchize{\fscx580\fscy150}_
