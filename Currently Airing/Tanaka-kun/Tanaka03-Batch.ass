@@ -16,8 +16,8 @@ Video File: tanaka03_premux[855F4421].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 349
-Active Line: 361
+Scroll Position: 262
+Active Line: 280
 Video Position: 29837
 
 [V4+ Styles]
@@ -312,7 +312,7 @@ Dialogue: 10,0:15:53.68,0:15:58.27,GJM_Main,Miyano,0,0,0,,Ecchan didn't eat the 
 Dialogue: 10,0:15:58.82,0:15:59.85,GJM_Main,Ohta,0,0,0,,What?!
 Dialogue: 10,0:15:59.85,0:16:02.48,GJM_Main,Ohta,0,0,0,,She wasted a {\i1}homemade cookie{\i0}?!
 Dialogue: 10,0:16:03.23,0:16:04.98,GJM_Main,Ohta,0,0,0,,You have every right to be angry, Miyano!
-Dialogue: 10,0:16:04.98,0:16:07.44,GJM_Main,Ohta,0,0,0,,People who are disrespect sweets are our enemy!
+Dialogue: 10,0:16:04.98,0:16:07.44,GJM_Main,Ohta,0,0,0,,People who disrespect sweets are our enemy!
 Dialogue: 10,0:16:07.44,0:16:10.19,GJM_Main,Miyano,0,0,0,,Right?! It's absolutely unforgivable!
 Dialogue: 10,0:16:10.62,0:16:12.65,GJM_Main,Tanaka,0,0,0,,Miyano-san, you got a sec?
 Dialogue: 10,0:16:12.65,0:16:14.41,GJM_Main,Miyano,0,0,0,,What is it, Master?
