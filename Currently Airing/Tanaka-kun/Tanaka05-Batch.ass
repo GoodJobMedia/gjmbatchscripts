@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Tanaka
-Audio File: tanaka05_premux[5D6EDCDB].mkv
-Video File: tanaka05_premux[5D6EDCDB].mkv
-Keyframes File: tanaka05_premux[5D6EDCDB]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Tanaka/05/tanaka05_premux[5D6EDCDB].mkv
+Video File: D:/Fansubbing/GoodJob/Tanaka/05/tanaka05_premux[5D6EDCDB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 320
-Active Line: 331
-Video Position: 28835
+Video Zoom Percent: 0.750000
+Scroll Position: 818
+Active Line: 830
+Video Position: 7542
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -863,6 +862,7 @@ Dialogue: 0,0:04:52.56,0:05:00.53,ChhSigns,Sign,0,0,0,,{\pos(485.029,248.457)\fr
 Dialogue: 0,0:04:52.56,0:05:00.53,ChhSigns,Sign,0,0,0,,{\pos(479.059,258.824)\frz-6.47\fax0.05\fnBrushStroke 26\fs15\fsp1\b1\c&H5D6F75&\blur0.6}water
 Dialogue: 0,0:04:52.56,0:05:00.53,ChhSigns,Sign,0,0,0,,{\pos(818.286,366.743)\frz-6.47\fax0.05\fnBrushStroke 26\fs16\fsp1\b1\c&H3D4C4D&\blur0.6}Chikarahomare
 Dialogue: 0,0:05:00.53,0:05:10.49,ChhSigns,Sign,0,0,0,,{\pos(80,412.572)\frz-6.85\fax0.12\fnIwata New Gothic Pro E-CP\fs46\fsp1\c&H5D6E70&\blur3.1}Chikarahomare
+Dialogue: 0,0:05:10.49,0:05:10.62,ChhSigns,Product,0,0,0,,{\fscx99.99\fscy99.99\frz9.56\fnPaint Hand\fs22\b1\c&H4A5D67&\blur0.4\pos(985.231,628.149)}Chicken Breast
 Dialogue: 0,0:05:10.62,0:05:10.74,ChhSigns,Product,0,0,0,,{\pos(980.66,616.72)\fscx99.99\fscy99.99\frz9.56\fnPaint Hand\fs22\b1\c&H4A5D67&\blur0.4}Chicken Breast
 Dialogue: 0,0:05:10.74,0:05:10.79,ChhSigns,Product,0,0,0,,{\pos(976.45,600.48)\frz9.55\fnPaint Hand\fs22\b1\c&H4A5D67&\blur0.4}Chicken Breast
 Dialogue: 0,0:05:10.79,0:05:10.87,ChhSigns,Product,0,0,0,,{\pos(976.46,600.48)\frz9.56\fnPaint Hand\fs22\b1\c&H4A5D67&\blur0.4}Chicken Breast
@@ -878,7 +878,7 @@ Dialogue: 0,0:05:11.24,0:05:11.33,ChhSigns,Product,0,0,0,,{\pos(956.1,522.31)\fs
 Dialogue: 0,0:05:11.33,0:05:11.37,ChhSigns,Product,0,0,0,,{\pos(956.1,522.3)\fscx100.01\fscy100.01\frz9.58\fnPaint Hand\fs22\b1\c&H4A5D67&\blur0.4}Chicken Breast
 Dialogue: 0,0:05:11.37,0:05:11.49,ChhSigns,Product,0,0,0,,{\pos(951.98,506.53)\fscx99.92\fscy99.92\frz9.55\fnPaint Hand\fs22\b1\c&H4A5D67&\blur0.4}Chicken Breast
 Dialogue: 0,0:05:11.49,0:05:11.54,ChhSigns,Product,0,0,0,,{\pos(950,498.99)\fscx99.98\fscy99.98\frz9.55\fnPaint Hand\fs22\b1\c&H4A5D67&\blur0.4}Chicken Breast
-Dialogue: 0,0:05:11.54,0:05:14.33,ChhSigns,Product,0,0,0,,{\pos(950,499)\frz9.54\fnPaint Hand\fs22\b1\c&H4A5D67&\blur0.4}Chicken Breast
+Dialogue: 0,0:05:11.54,0:05:14.21,ChhSigns,Product,0,0,0,,{\pos(950,499)\frz9.54\fnPaint Hand\fs22\b1\c&H4A5D67&\blur0.4}Chicken Breast
 Dialogue: 0,0:05:23.67,0:05:25.38,ChhSigns,Sign,0,0,0,,{\pos(453,158)\fscy85\fnKozuka Gothic Pro Stripped H\fs70\b1\c&H6982E4&\blur0.6}Eggs
 Dialogue: 0,0:05:23.67,0:05:25.38,ChhSigns,Sign,0,0,0,,{\pos(377,399)\fnIwata New Gothic Pro E-CP\c&H29323B&\blur0.6}Size M
 Dialogue: 0,0:05:23.67,0:05:25.38,ChhSigns,Sign,0,0,0,,{\pos(588,399)\fnIwata New Gothic Pro E-CP\c&H29323B&\blur0.6}  1 pack
