@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: God Eater
-Audio File: Final Encode ep 10 v1 [821F32C9].mkv
-Video File: Final Encode ep 10 v1 [821F32C9].mkv
-Keyframes File: Final Encode ep 10 v1 [821F32C9]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/God Eater/10/Final Encode ep 10 v1 [821F32C9].mkv
+Video File: D:/Fansubbing/GoodJob/God Eater/10/Final Encode ep 10 v1 [821F32C9].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 380
-Active Line: 406
-Video Position: 29797
+Scroll Position: 404
+Active Line: 408
+Video Position: 30659
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -405,7 +404,7 @@ Dialogue: 12,0:20:32.41,0:20:39.30,God Eater ED-Eng_INSERT,,0,0,0,,{\3c&H0B3666&
 Dialogue: 12,0:20:39.30,0:20:44.51,God Eater ED-Eng_INSERT,,0,0,0,,{\3c&H0B3666&\be2\fad(240,240)}t{\3c&H0B3664&}h{\3c&H0B3762&}a{\3c&H0B3760&}t {\3c&H0B385D&}I {\3c&H0B3959&}w{\3c&H0B3957&}a{\3c&H0B3A55&}n{\3c&H0B3A53&}t {\3c&H0B3B50&}t{\3c&H0B3B4E&}o {\3c&H0B3C4A&}e{\3c&H0B3D48&}m{\3c&H0B3D46&}b{\3c&H0B3D45&}r{\3c&H0B3E43&}a{\3c&H0B3E41&}c{\3c&H0B3F3F&}e {\3c&H0B3F3B&}f{\3c&H0B403A&}o{\3c&H0B4038&}r{\3c&H0B4136&}e{\3c&H0B4134&}v{\3c&H0B4232&}e{\3c&H0B4230&}r{\3c&H0B422E&}m{\3c&H0B432D&}o{\3c&H0B432B&}r{\3c&H0B4429&}e
 Dialogue: 12,0:20:45.01,0:20:50.56,God Eater ED-Eng_INSERT,,0,0,0,,{\3c&H0B3666&\be2\fad(240,240)}I{\3c&H0B3664&}f {\3c&H0B3761&}y{\3c&H0B385F&}o{\3c&H0B385D&}u{\3c&H0B385B&}'{\3c&H0B3959&}l{\3c&H0B3958&}l {\3c&H0B3A54&}s{\3c&H0B3A52&}t{\3c&H0B3B50&}a{\3c&H0B3B4F&}y {\3c&H0B3C4B&}s{\3c&H0B3C49&}t{\3c&H0B3D47&}r{\3c&H0B3D46&}o{\3c&H0B3E44&}n{\3c&H0B3E42&}g {\3c&H0B3F3E&}u{\3c&H0B3F3D&}n{\3c&H0B403B&}t{\3c&H0B4039&}i{\3c&H0B4037&}l {\3c&H0B4134&}t{\3c&H0B4232&}h{\3c&H0B4230&}e {\3c&H0B432C&}e{\3c&H0B432B&}n{\3c&H0B4429&}d
 Dialogue: 12,0:20:50.56,0:20:55.87,God Eater ED-Eng_INSERT,,0,0,0,,{\3c&H0B3666&\be2\fad(240,240)}I{\3c&H0B3664&}'{\3c&H0B3762&}l{\3c&H0B3760&}l {\3c&H0B385C&}r{\3c&H0B395A&}e{\3c&H0B3958&}s{\3c&H0B3A56&}t {\3c&H0B3B52&}m{\3c&H0B3B50&}y {\3c&H0B3C4C&}f{\3c&H0B3C4A&}a{\3c&H0B3D48&}t{\3c&H0B3D45&}e {\3c&H0B3E41&}i{\3c&H0B3F3F&}n {\3c&H0B3F3B&}y{\3c&H0B4039&}o{\3c&H0B4037&}u{\3c&H0B4135&}r {\3c&H0B4231&}h{\3c&H0B422F&}a{\3c&H0B432D&}n{\3c&H0B432B&}d{\3c&H0B4429&}s
-Dialogue: 12,0:20:56.27,0:21:06.72,God Eater ED-Eng_INSERT,,0,0,0,,{\3c&H0B3666&\be2\fad(240,240)}Y{\3c&H0B3664&}o{\3c&H0B3762&}u{\3c&H0B3761&}r {\3c&H0B385D&}l{\3c&H0B385C&}i{\3c&H0B395A&}f{\3c&H0B3958&}e {\3c&H0B3A54&}t{\3c&H0B3A53&}i{\3c&H0B3B51&}e{\3c&H0B3B4F&}s {\3c&H0B3C4C&}a{\3c&H0B3C4A&}l{\3c&H0B3D48&}l {\3c&H0B3D45&}o{\3c&H0B3E43&}f {\3c&H0B3F40&}u{\3c&H0B3F3E&}s {\3c&H0B403A&}o{\3c&H0B4038&}f {\3c&H0B4135&}t{\3c&H0B4133&}o{\3c&H0B4232&}g{\3c&H0B4230&}e{\3c&H0B422E&}t{\3c&H0B432C&}h{\3c&H0B432A&}e{\3c&H0B4429&}r
+Dialogue: 12,0:20:56.27,0:21:06.72,God Eater ED-Eng_INSERT,,0,0,0,,{\3c&H0B3666&\be2\fad(240,240)}Y{\3c&H0B3664&}o{\3c&H0B3762&}u{\3c&H0B3761&}r {\3c&H0B385D&}l{\3c&H0B385C&}i{\3c&H0B395A&}f{\3c&H0B3958&}e {\3c&H0B3A54&}t{\3c&H0B3A53&}i{\3c&H0B3B51&}e{\3c&H0B3B4F&}s {\3c&H0B3C4C&}a{\3c&H0B3C4A&}l{\3c&H0B3D48&}l {\3c&H0B3D45&}o{\3c&H0B3E43&}f {\3c&H0B3F40&}u{\3c&H0B3F3E&}s {\3c&H0B4135&}t{\3c&H0B4133&}o{\3c&H0B4232&}g{\3c&H0B4230&}e{\3c&H0B422E&}t{\3c&H0B432C&}h{\3c&H0B432A&}e{\3c&H0B4429&}r
 Dialogue: 12,0:21:07.53,0:21:14.46,God Eater ED-Eng_INSERT,,0,0,0,,{\3c&H0B3666&\be2\fad(240,240)}l{\3c&H0B3665&}i{\3c&H0B3764&}k{\3c&H0B3762&}e {\3c&H0B3760&}a {\3c&H0B385D&}f{\3c&H0B385C&}l{\3c&H0B385B&}o{\3c&H0B395A&}w{\3c&H0B3958&}e{\3c&H0B3957&}r {\3c&H0B3A55&}t{\3c&H0B3A53&}h{\3c&H0B3A52&}a{\3c&H0B3B51&}t {\3c&H0B3B4F&}g{\3c&H0B3B4D&}r{\3c&H0B3C4C&}o{\3c&H0B3C4B&}w{\3c&H0B3C4A&}s {\3c&H0B3D47&}i{\3c&H0B3D46&}n {\3c&H0B3E43&}t{\3c&H0B3E42&}h{\3c&H0B3E41&}i{\3c&H0B3F40&}s {\3c&H0B3F3D&}p{\3c&H0B3F3C&}o{\3c&H0B403B&}l{\3c&H0B403A&}l{\3c&H0B4038&}u{\3c&H0B4037&}t{\3c&H0B4136&}e{\3c&H0B4135&}d {\3c&H0B4232&}w{\3c&H0B4231&}a{\3c&H0B4230&}s{\3c&H0B422E&}t{\3c&H0B432D&}e{\3c&H0B432C&}l{\3c&H0B432B&}a{\3c&H0B4329&}n{\3c&H0B4428&}d
 Dialogue: 12,0:21:17.83,0:21:23.59,God Eater ED-Eng_INSERT,,0,0,0,,{\3c&H0B3666&\be2\fad(240,240)}A {\3c&H0B3763&}h{\3c&H0B3761&}u{\3c&H0B385F&}g{\3c&H0B385D&}e {\3c&H0B395A&}f{\3c&H0B3958&}l{\3c&H0B3957&}o{\3c&H0B3A55&}w{\3c&H0B3A53&}e{\3c&H0B3B52&}r {\3c&H0B3B4E&}b{\3c&H0B3C4C&}l{\3c&H0B3C4B&}o{\3c&H0B3C49&}o{\3c&H0B3D47&}m{\3c&H0B3D46&}s {\3c&H0B3E42&}i{\3c&H0B3E41&}n {\3c&H0B3F3D&}a {\3c&H0B403A&}b{\3c&H0B4038&}r{\3c&H0B4136&}o{\3c&H0B4135&}k{\3c&H0B4133&}e{\3c&H0B4231&}n {\3c&H0B422E&}v{\3c&H0B432C&}a{\3c&H0B432A&}s{\3c&H0B4429&}e
 Dialogue: 12,0:21:23.59,0:21:29.05,God Eater ED-Eng_INSERT,,0,0,0,,{\3c&H0B3666&\be2\fad(240,240)}I {\3c&H0B3762&}t{\3c&H0B3760&}r{\3c&H0B385E&}e{\3c&H0B385C&}m{\3c&H0B395B&}b{\3c&H0B3959&}l{\3c&H0B3957&}e {\3c&H0B3A53&}a{\3c&H0B3B51&}s {\3c&H0B3C4D&}I {\3c&H0B3C49&}h{\3c&H0B3D47&}o{\3c&H0B3D46&}l{\3c&H0B3E44&}d {\3c&H0B3E40&}b{\3c&H0B3F3E&}a{\3c&H0B3F3C&}c{\3c&H0B403A&}k {\3c&H0B4136&}m{\3c&H0B4134&}y {\3c&H0B4231&}t{\3c&H0B422F&}e{\3c&H0B432D&}a{\3c&H0B432B&}r{\3c&H0B4429&}s
