@@ -31,7 +31,7 @@ Style: ChhSigns,Brush Stroke,20,&H00000000,&H000200E9,&H00000000,&H00000000,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:02.31,0:00:05.14,GJM_Main,,0,0,0,,I wonder if there's anything good on?
+Dialogue: 10,0:00:02.31,0:00:05.14,GJM_Main,,0,0,0,,I wonder if there's anything good on.
 Dialogue: 10,0:00:06.56,0:00:08.10,GJM_Main,,0,0,0,,Where's the remote?
 Dialogue: 10,0:00:15.10,0:00:16.59,GJM_Main,,0,0,0,,Fall...
 Dialogue: 10,0:00:17.26,0:00:18.55,GJM_Main,,0,0,0,,Fall...
