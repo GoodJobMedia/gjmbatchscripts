@@ -17,8 +17,8 @@ Keyframes File: tanaka12_workraw_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 79
-Active Line: 91
+Scroll Position: 55
+Active Line: 75
 Video Position: 8598
 
 [V4+ Styles]
@@ -108,7 +108,7 @@ Dialogue: 10,0:04:46.74,0:04:47.90,GJM_Main,Tanaka,0,0,0,,Morning...
 Dialogue: 10,0:04:48.76,0:04:53.52,GJM_Main,Shiraishi,0,0,0,,{\i1}No good! His eyes are still closed\Nmore often than not at this hour!
 Dialogue: 10,0:05:00.77,0:05:02.85,GJM_Main,Shiraishi,0,0,0,,{\i1}The cuffs will stretch out...
 Dialogue: 10,0:05:06.50,0:05:11.17,GJM_Main,Shiraishi,0,0,0,,{\i1}As amateurish as I am, even I know this\Nis probably the least likely to work,
-Dialogue: 10,0:05:11.17,0:05:13.69,GJM_Main,Shiraishi,0,0,0,,but it's worth a shot...
+Dialogue: 10,0:05:11.17,0:05:13.69,GJM_Main,Shiraishi,0,0,0,,{\i1}but it's worth a shot...
 Dialogue: 10,0:05:13.69,0:05:17.42,GJM_Main,Shiraishi,0,0,0,,G-Gosh, it's so hot today!
 Dialogue: 10,0:05:18.55,0:05:19.88,GJM_Main,Shiraishi,0,0,0,,{\i1}I've got his attention...
 Dialogue: 10,0:05:21.28,0:05:23.84,GJM_Main,Shiraishi,0,0,0,,{\i1}That's the most piercing look he's ever given me!
@@ -397,7 +397,7 @@ Dialogue: 1,0:22:33.37,0:22:40.98,tanakaop,,0,0,0,,{\fad(0,2000)}Take a deep bre
 Dialogue: 1,0:22:38.33,0:22:43.38,tanakaop,,0,0,0,,{\an9}We don't need to say anything
 Dialogue: 1,0:22:43.38,0:22:46.51,tanakaop,,0,0,0,,{\an9}What a weird friendship
 Dialogue: 1,0:22:46.51,0:22:48.34,tanakaop,,0,0,0,,{\an9}I wonder why
-Dialogue: 1,0:22:48.59,0:22:50.39,tanakaop,,0,0,0,,{\an9}That's all what I need
+Dialogue: 1,0:22:48.59,0:22:50.39,tanakaop,,0,0,0,,{\an9}That's all that I need
 Dialogue: 1,0:22:50.39,0:22:55.22,tanakaop,,0,0,0,,{\an9\fad(0,200)}To feel like I can become stronger
 Dialogue: 1,0:23:03.94,0:23:07.32,tanakaop,,0,0,0,,Let's bask in the glowing sun
 Dialogue: 1,0:23:07.32,0:23:09.57,tanakaop,,0,0,0,,Ever so gently
@@ -433,7 +433,7 @@ Dialogue: 0,0:22:33.37,0:22:40.98,tanakaop-Back,,0,0,0,,{\fad(0,2000)\blur2.7}Ta
 Dialogue: 0,0:22:38.33,0:22:43.38,tanakaop-Back,,0,0,0,,{\an9\blur2.7}We don't need to say anything
 Dialogue: 0,0:22:43.38,0:22:46.51,tanakaop-Back,,0,0,0,,{\an9\blur2.7}What a weird friendship
 Dialogue: 0,0:22:46.51,0:22:48.34,tanakaop-Back,,0,0,0,,{\an9\blur2.7}I wonder why
-Dialogue: 0,0:22:48.59,0:22:50.39,tanakaop-Back,,0,0,0,,{\an9\blur2.7}That's all what I need
+Dialogue: 0,0:22:48.59,0:22:50.39,tanakaop-Back,,0,0,0,,{\an9\blur2.7}That's all that I need
 Dialogue: 0,0:22:50.39,0:22:55.22,tanakaop-Back,,0,0,0,,{\an9\fad(0,200)\blur2.7}To feel like I can become stronger
 Dialogue: 0,0:23:03.94,0:23:07.32,tanakaop-Back,,0,0,0,,{\blur2.7}Let's bask in the glowing sun
 Dialogue: 0,0:23:07.32,0:23:09.57,tanakaop-Back,,0,0,0,,{\blur2.7}Ever so gently
