@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: hxh02_premux[CCDEDEA3].mkv
-Video File: hxh02_premux[CCDEDEA3].mkv
-Keyframes File: hxh02_premux[CCDEDEA3]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/HxH/02/hxh02_premux[CCDEDEA3].mkv
+Video File: D:/Fansubbing/GoodJob/HxH/02/hxh02_premux[CCDEDEA3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 382
-Active Line: 391
-Video Position: 33990
+Scroll Position: 151
+Active Line: 154
+Video Position: 12827
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -191,7 +190,7 @@ Dialogue: 10,0:08:41.20,0:08:42.04,Default,R,0,0,0,,This way.
 Dialogue: 10,0:08:44.04,0:08:45.04,Default,R,0,0,0,,I'll introduce you.
 Dialogue: 10,0:08:45.50,0:08:49.21,Default,R,0,0,0,,This is the lab's director,\NChief Engineer Shikina Kei.
 Dialogue: 10,0:08:52.47,0:08:53.80,Default,Gi,0,0,0,,Hello.
-Dialogue: 10,0:08:53.80,0:08:55.51,Default,Gi,0,0,0,,I am Kei Shikina.
+Dialogue: 10,0:08:53.80,0:08:55.51,Default,Gi,0,0,0,,I am Shikina Kei.
 Dialogue: 10,0:08:55.51,0:08:56.80,Default,Gi,0,0,0,,You can call me Kei.
 Dialogue: 10,0:08:58.26,0:08:59.31,Default,R,0,0,0,,Well, don't let it bug you.
 Dialogue: 10,0:08:59.89,0:09:03.06,Default,R,0,0,0,,Anyway, Kizuna, I'll give you this to start with.
