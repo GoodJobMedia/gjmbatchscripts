@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: AoKana
-Audio File: planetarian01_premux_[3CC98CAC].mkv
-Video File: planetarian01_premux_[3CC98CAC].mkv
-Keyframes File: planetarian01_premux_[3CC98CAC]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Planetarian/01/planetarian01_premux_[3CC98CAC].mkv
+Video File: D:/Fansubbing/GoodJob/Planetarian/01/planetarian01_premux_[3CC98CAC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 71
-Active Line: 74
-Video Position: 10288
+Video Zoom Percent: 0.750000
+Scroll Position: 1214
+Active Line: 1281
+Video Position: 20188
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -145,13 +144,13 @@ Dialogue: 10,0:08:49.39,0:08:51.71,GJM_Main,,0,0,0,,The starry sky, huh?
 Dialogue: 10,0:09:02.55,0:09:04.23,GJM_Main,,0,0,0,,{\i1}I've only got two left...
 Dialogue: 10,0:09:06.07,0:09:07.48,GJM_Main,,0,0,0,,What?
 Dialogue: 10,0:09:10.16,0:09:16.94,GJM_Main,,0,0,0,,{\q2}Thank you all for coming to Flowercrest\NDepartment Store's rooftop planetarium today.
-Dialogue: 10,0:09:17.72,0:09:22.97,GJM_Main,,0,0,0,,My name is Hoshino Yumemi and I am\Na member of staff at this institution.
+Dialogue: 10,0:09:17.72,0:09:22.97,GJM_Main,,0,0,0,,My name is Hoshino Yumemi,\Nand I am a member of staff at this institution.
 Dialogue: 10,0:09:22.97,0:09:27.58,GJM_Main,,0,0,0,,Before the projection begins,\NI would like to announce a few important things.
 Dialogue: 10,0:09:28.21,0:09:33.63,GJM_Main,,0,0,0,,{\q2}Please do not talk or whisper during the projection,\Nas this would be a disturbance to the other customers.
 Dialogue: 10,0:09:32.78,0:09:34.66,GJM_Overlap,,0,0,0,,{\an8}Maybe if I dry this, I can still use it...
 Dialogue: 10,0:09:34.66,0:09:39.78,GJM_Main,,0,0,0,,Please turn off your cell phones and any alarms now.
 Dialogue: 10,0:09:40.64,0:09:47.36,GJM_Main,,0,0,0,,In addition, please do not eat, drink,\Nor smoke at any time during the projection.
-Dialogue: 10,0:09:48.19,0:09:51.91,GJM_Main,,0,0,0,,And finally I would like to introduce\Na most important partner
+Dialogue: 10,0:09:48.19,0:09:51.91,GJM_Main,,0,0,0,,And finally, I would like to introduce\Na most important partner
 Dialogue: 10,0:09:51.91,0:09:54.32,GJM_Main,,0,0,0,,who will take you all into the world of the stars.
 Dialogue: 10,0:09:54.72,0:09:57.19,GJM_Main,,0,0,0,,Everyone, please welcome her\Nwith a warm round of applause!
 Dialogue: 10,0:09:58.12,0:09:59.16,GJM_Main,,0,0,0,,I present to you Miss Jena!
@@ -1340,78 +1339,6 @@ Dialogue: 0,0:16:30.88,0:16:30.92,Chh signs,,0,0,0,,{\an7\pos(650.72,369.89)\fsc
 Dialogue: 0,0:16:30.92,0:16:30.96,Chh signs,,0,0,0,,{\an7\pos(653.75,369.89)\fscx99.92\fscy99.92\bord0\shad0\c&HEBEDEC&\blur1\iclip(m 267 314 l 274 325 281 335 290 346 296 356 303 363 306 366 324 370 324 332 296 293)\p1}m -349 12 l -350 -30 -355 -37 -365 -52 -388 -52 -411 -52 -393 24
 Dialogue: 0,0:16:30.96,0:16:31.01,Chh signs,,0,0,0,,{\an7\pos(656.64,369.9)\fscx99.91\fscy99.91\bord0\shad0\c&HEBEDEC&\blur1\iclip(m 272 315 l 280 327 290 342 300 354 310 366 331 364 332 328 281 294)\p1}m -349 12 l -350 -30 -355 -37 -365 -52 -388 -52 -411 -52 -393 24
 Dialogue: 0,0:16:31.01,0:16:31.05,Chh signs,,0,0,0,,{\an7\pos(659.37,369.91)\fscx99.88\fscy99.88\bord0\shad0\c&HEBEDEC&\blur1\iclip(m 270 317 l 298 357 311 373 317 378 349 339 295 298 287 300)\p1}m -349 12 l -350 -30 -355 -37 -365 -52 -388 -52 -411 -52 -393 24
-Dialogue: 1,0:16:30.30,0:16:30.34,Chh signs,,0,0,0,,{\an7\pos(610.53,369.87)\fscx100.44\fscy100.44\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.34,0:16:30.38,Chh signs,,0,0,0,,{\an7\pos(613.56,369.85)\fscx100.46\fscy100.46\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.38,0:16:30.42,Chh signs,,0,0,0,,{\an7\pos(616.41,369.85)\fscx100.45\fscy100.45\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.42,0:16:30.46,Chh signs,,0,0,0,,{\an7\pos(619.08,369.87)\fscx100.4\fscy100.4\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.46,0:16:30.51,Chh signs,,0,0,0,,{\an7\pos(622.12,369.86)\fscx100.43\fscy100.43\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.51,0:16:30.55,Chh signs,,0,0,0,,{\an7\pos(624.88,369.87)\fscx100.4\fscy100.4\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.55,0:16:30.59,Chh signs,,0,0,0,,{\an7\pos(627.83,369.87)\fscx100.4\fscy100.4\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.59,0:16:30.63,Chh signs,,0,0,0,,{\an7\pos(630.68,369.88)\fscx100.39\fscy100.39\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.63,0:16:30.67,Chh signs,,0,0,0,,{\an7\pos(633.58,369.88)\fscx100.39\fscy100.39\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.67,0:16:30.71,Chh signs,,0,0,0,,{\an7\pos(636.47,369.87)\fscx100.39\fscy100.39\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.71,0:16:30.76,Chh signs,,0,0,0,,{\an7\pos(639.28,369.89)\fscx100.37\fscy100.37\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.76,0:16:30.80,Chh signs,,0,0,0,,{\an7\pos(642.28,369.88)\fscx100.39\fscy100.39\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.80,0:16:30.84,Chh signs,,0,0,0,,{\an7\pos(645.21,369.87)\fscx100.39\fscy100.39\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.84,0:16:30.88,Chh signs,,0,0,0,,{\an7\pos(648.01,369.89)\fscx100.36\fscy100.36\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.88,0:16:30.92,Chh signs,,0,0,0,,{\an7\pos(650.72,369.89)\fscx100.33\fscy100.33\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.92,0:16:30.96,Chh signs,,0,0,0,,{\an7\pos(653.76,369.89)\fscx100.36\fscy100.36\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:30.96,0:16:31.01,Chh signs,,0,0,0,,{\an7\pos(656.64,369.9)\fscx100.34\fscy100.34\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.01,0:16:31.05,Chh signs,,0,0,0,,{\an7\pos(659.37,369.91)\fscx100.31\fscy100.31\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.05,0:16:31.09,Chh signs,,0,0,0,,{\an7\pos(662.46,369.89)\fscx100.35\fscy100.35\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.09,0:16:31.13,Chh signs,,0,0,0,,{\an7\pos(665.38,369.9)\fscx100.34\fscy100.34\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.13,0:16:31.17,Chh signs,,0,0,0,,{\an7\pos(668.22,369.9)\fscx100.35\fscy100.35\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.17,0:16:31.22,Chh signs,,0,0,0,,{\an7\pos(671.12,369.89)\fscx100.34\fscy100.34\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.22,0:16:31.26,Chh signs,,0,0,0,,{\an7\pos(673.77,369.92)\fscx100.27\fscy100.27\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.26,0:16:31.30,Chh signs,,0,0,0,,{\an7\pos(677.06,369.88)\fscx100.37\fscy100.37\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.30,0:16:31.34,Chh signs,,0,0,0,,{\an7\pos(679.81,369.89)\fscx100.34\fscy100.34\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.34,0:16:31.38,Chh signs,,0,0,0,,{\an7\pos(682.52,369.91)\fscx100.3\fscy100.3\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.38,0:16:31.42,Chh signs,,0,0,0,,{\an7\pos(685.56,369.9)\fscx100.32\fscy100.32\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.42,0:16:31.47,Chh signs,,0,0,0,,{\an7\pos(688.41,369.9)\fscx100.31\fscy100.31\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.47,0:16:31.51,Chh signs,,0,0,0,,{\an7\pos(691.18,369.91)\fscx100.28\fscy100.28\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.51,0:16:31.55,Chh signs,,0,0,0,,{\an7\pos(694.26,369.9)\fscx100.31\fscy100.31\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.55,0:16:31.59,Chh signs,,0,0,0,,{\an7\pos(697.03,369.9)\fscx100.3\fscy100.3\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.59,0:16:31.63,Chh signs,,0,0,0,,{\an7\pos(699.86,369.92)\fscx100.27\fscy100.27\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.63,0:16:31.67,Chh signs,,0,0,0,,{\an7\pos(702.88,369.92)\fscx100.29\fscy100.29\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.67,0:16:31.72,Chh signs,,0,0,0,,{\an7\pos(705.69,369.91)\fscx100.29\fscy100.29\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.72,0:16:31.76,Chh signs,,0,0,0,,{\an7\pos(708.45,369.93)\fscx100.25\fscy100.25\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.76,0:16:31.80,Chh signs,,0,0,0,,{\an7\pos(711.54,369.91)\fscx100.28\fscy100.28\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.80,0:16:31.84,Chh signs,,0,0,0,,{\an7\pos(714.19,369.93)\fscx100.23\fscy100.23\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.84,0:16:31.88,Chh signs,,0,0,0,,{\an7\pos(717.19,369.93)\fscx100.25\fscy100.25\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.88,0:16:31.92,Chh signs,,0,0,0,,{\an7\pos(720.02,369.93)\fscx100.24\fscy100.24\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.92,0:16:31.97,Chh signs,,0,0,0,,{\an7\pos(722.91,369.93)\fscx100.23\fscy100.23\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:31.97,0:16:32.01,Chh signs,,0,0,0,,{\an7\pos(725.69,369.94)\fscx100.2\fscy100.2\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.01,0:16:32.05,Chh signs,,0,0,0,,{\an7\pos(728.71,369.93)\fscx100.23\fscy100.23\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.05,0:16:32.09,Chh signs,,0,0,0,,{\an7\pos(731.43,369.95)\fscx100.19\fscy100.19\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.09,0:16:32.13,Chh signs,,0,0,0,,{\an7\pos(734.47,369.93)\fscx100.22\fscy100.22\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.13,0:16:32.17,Chh signs,,0,0,0,,{\an7\pos(737.36,369.94)\fscx100.22\fscy100.22\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.17,0:16:32.22,Chh signs,,0,0,0,,{\an7\pos(740.08,369.95)\fscx100.17\fscy100.17\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.22,0:16:32.26,Chh signs,,0,0,0,,{\an7\pos(742.71,369.98)\fscx100.12\fscy100.12\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.26,0:16:32.30,Chh signs,,0,0,0,,{\an7\pos(746.06,369.94)\fscx100.22\fscy100.22\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.30,0:16:32.34,Chh signs,,0,0,0,,{\an7\pos(748.81,369.95)\fscx100.18\fscy100.18\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.34,0:16:32.38,Chh signs,,0,0,0,,{\an7\pos(751.43,369.98)\fscx100.12\fscy100.12\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.38,0:16:32.42,Chh signs,,0,0,0,,{\an7\pos(754.59,369.95)\fscx100.17\fscy100.17\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.42,0:16:32.47,Chh signs,,0,0,0,,{\an7\pos(757.5,369.95)\fscx100.17\fscy100.17\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.47,0:16:32.51,Chh signs,,0,0,0,,{\an7\pos(760.31,369.95)\fscx100.16\fscy100.16\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.51,0:16:32.55,Chh signs,,0,0,0,,{\an7\pos(763.21,369.96)\fscx100.15\fscy100.15\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.55,0:16:32.59,Chh signs,,0,0,0,,{\an7\pos(765.93,369.98)\fscx100.12\fscy100.12\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.59,0:16:32.63,Chh signs,,0,0,0,,{\an7\pos(769.06,369.96)\fscx100.16\fscy100.16\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.63,0:16:32.67,Chh signs,,0,0,0,,{\an7\pos(771.81,369.97)\fscx100.13\fscy100.13\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.67,0:16:32.72,Chh signs,,0,0,0,,{\an7\pos(774.71,369.97)\fscx100.13\fscy100.13\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.72,0:16:32.76,Chh signs,,0,0,0,,{\an7\pos(777.64,369.97)\fscx100.13\fscy100.13\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.76,0:16:32.80,Chh signs,,0,0,0,,{\an7\pos(780.5,369.97)\fscx100.12\fscy100.12\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.80,0:16:32.84,Chh signs,,0,0,0,,{\an7\pos(783.33,369.97)\fscx100.12\fscy100.12\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.84,0:16:32.88,Chh signs,,0,0,0,,{\an7\pos(786.28,369.97)\fscx100.11\fscy100.11\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.88,0:16:32.93,Chh signs,,0,0,0,,{\an7\pos(789.17,369.97)\fscx100.11\fscy100.11\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.93,0:16:32.97,Chh signs,,0,0,0,,{\an7\pos(791.94,369.99)\fscx100.09\fscy100.09\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:32.97,0:16:33.01,Chh signs,,0,0,0,,{\an7\pos(794.6,370.01)\fscx100.02\fscy100.02\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:33.01,0:16:33.05,Chh signs,,0,0,0,,{\an7\pos(797.89,369.97)\fscx100.12\fscy100.12\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:33.05,0:16:33.09,Chh signs,,0,0,0,,{\an7\pos(800.74,369.98)\fscx100.1\fscy100.1\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:33.09,0:16:33.13,Chh signs,,0,0,0,,{\an7\pos(803.6,369.97)\fscx100.09\fscy100.09\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:33.13,0:16:33.18,Chh signs,,0,0,0,,{\an7\pos(806.48,369.98)\fscx100.09\fscy100.09\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:33.18,0:16:33.22,Chh signs,,0,0,0,,{\an7\pos(809.26,369.99)\fscx100.06\fscy100.06\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:33.22,0:16:33.26,Chh signs,,0,0,0,,{\an7\pos(812.24,369.98)\fscx100.08\fscy100.08\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
-Dialogue: 0,0:16:33.26,0:16:33.30,Chh signs,,0,0,0,,{\an7\pos(814.99,370)\fscx100.04\fscy100.04\bord0\shad0\c&HEBEDEC&\blur1\p1}m 472 320 l 507 320 509 321 515 331 522 342 524 346 524 363 525 392 461 376
 Dialogue: 0,0:16:30.30,0:16:30.34,Chh signs,,0,0,0,,{\an7\pos(-263.25,-1.74)\fscx100.44\fscy100.44\bord0\shad0\c&HEBEDEC&\blur1\p1}m 136 312 l 478 318 497 350 509 364 522 379 524 384 530 558 143 558
 Dialogue: 0,0:16:30.34,0:16:30.38,Chh signs,,0,0,0,,{\an7\pos(-260.46,-1.86)\fscx100.46\fscy100.46\bord0\shad0\c&HEBEDEC&\blur1\p1}m 136 312 l 478 318 497 350 509 364 522 379 524 384 530 558 143 558
 Dialogue: 0,0:16:30.38,0:16:30.42,Chh signs,,0,0,0,,{\an7\pos(-257.53,-1.82)\fscx100.45\fscy100.45\bord0\shad0\c&HEBEDEC&\blur1\p1}m 136 312 l 478 318 497 350 509 364 522 379 524 384 530 558 143 558
@@ -1831,8 +1758,6 @@ Dialogue: 2,0:17:33.28,0:17:33.57,Chh signs,,0,0,0,,{\pos(864,652)\fnMyriad Pro 
 Dialogue: 2,0:17:33.28,0:17:33.57,Chh signs,,0,0,0,,{\pos(864,652)\fnMyriad Pro Light\fs60\fsp-3\b1\bord0\shad0\c&H16FEF2&\4c&HD7D25F&\blur0.6\clip(510,641,1213,655)}A journey around the solar system
 Dialogue: 0,0:17:33.28,0:17:33.57,Chh signs,,0,0,0,,{\pos(603.258,554.43)\frz319.1\fnLeafs\fs56\fsp-2\bord0\shad0\c&H8CFEFE&\blur0.6}A
 Dialogue: 0,0:17:33.28,0:17:33.57,Chh signs,,0,0,0,,{\pos(844.429,554.286)\frz39.2\fnLeafs\fs56\fsp-1\bord0\shad0\c&H8CFEFE&\blur0.6}E
-Dialogue: 0,0:17:53.59,0:17:53.63,Chh signs,,0,0,0,,{\an7\pos(-41.63,252.25)\fscx106.63\fscy106.63\bord0\shad0\c&HE1E3E1&\blur1.07\p1}m 545 434 l 697 434 700 544 544 544
-Dialogue: 0,0:17:53.63,0:17:53.67,Chh signs,,0,0,0,,{\an7\pos(-16.94,260.96)\fscx102.66\fscy102.66\bord0\shad0\c&HE1E3E1&\blur1.03\p1}m 545 434 l 697 434 700 544 544 544
 Dialogue: 0,0:17:53.67,0:17:53.71,Chh signs,,0,0,0,,{\an7\pos(5.64,268.25)\fscx99.04\fscy99.04\bord0\shad0\c&HE1E3E1&\blur0.99\p1}m 545 434 l 697 434 700 544 544 544
 Dialogue: 0,0:17:53.71,0:17:53.76,Chh signs,,0,0,0,,{\an7\pos(4.35,263.01)\fscx99.26\fscy99.26\bord0\shad0\c&HE1E3E1&\blur0.99\p1}m 545 434 l 697 434 700 544 544 544
 Dialogue: 0,0:17:53.76,0:17:53.80,Chh signs,,0,0,0,,{\an7\pos(4.28,258.39)\fscx99.28\fscy99.28\bord0\shad0\c&HE1E3E1&\blur0.99\p1}m 545 434 l 697 434 700 544 544 544
