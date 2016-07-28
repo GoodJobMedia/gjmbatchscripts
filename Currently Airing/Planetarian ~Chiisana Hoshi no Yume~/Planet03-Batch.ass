@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: planet
-Audio File: planetarian03_premux_[B441C53F].mkv
-Video File: planetarian03_premux_[B441C53F].mkv
-Keyframes File: planetarian03_premux_[B441C53F]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Planetarian/03/planetarian03_premux_[B441C53F].mkv
+Video File: D:/Fansubbing/GoodJob/Planetarian/03/planetarian03_premux_[B441C53F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 16
-Active Line: 38
-Video Position: 4856
+Scroll Position: 1253
+Active Line: 1254
+Video Position: 27111
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1285,6 +1284,9 @@ Dialogue: 2,0:20:28.36,0:20:28.40,Chh signs,,0,0,0,,{\pos(649.02,366.26)\fscx88.
 Dialogue: 2,0:20:28.40,0:20:28.45,Chh signs,,0,0,0,,{\pos(649.03,366.04)\fscx88.82\fscy88.82\fnHumana Sans Md ITC TT\fs74\fsp-2.8\bord0\shad0\c&H3A3A3E&\blur0.6}We humbly await your return.
 Dialogue: 2,0:20:28.45,0:20:28.49,Chh signs,,0,0,0,,{\pos(649.02,365.82)\fscx88.77\fscy88.77\fnHumana Sans Md ITC TT\fs74\fsp-2.8\bord0\shad0\c&H3A3A3E&\blur0.6}We humbly await your return.
 Dialogue: 2,0:20:28.49,0:20:28.53,Chh signs,,0,0,0,,{\pos(649.02,365.59)\fscx88.71\fscy88.71\fnHumana Sans Md ITC TT\fs74\fsp-2.8\bord0\shad0\c&H3A3A3E&\blur0.6}We humbly await your return.
+Dialogue: 0,0:18:50.23,0:18:50.77,FyuSigns,,0,0,0,,{\an7\pos(1,1.4)\c&HE2FBF0&\blur1\p1}m 911 130 l 1032 216 1040 225 1021 324 974 358 949 372 924 387 765 353 712 329 678 252 694 217 711 181 771 158
+Dialogue: 1,0:18:50.23,0:18:50.77,FyuSigns,,0,0,0,,{\pos(857.143,254.857)\frz347.7\fnBadonk-a-donk\fs105\fsp-12\bord1\c&HAC6019&\3c&HAC6019&\blur0.7}C{\frz346.16}l{\frz344.62}i{\frz343.08}c{\frz341.54}k{\frz340}!
+Dialogue: 2,0:18:50.23,0:18:50.77,FyuSigns,,0,0,0,,{\pos(857.143,254.857)\frz347.7\fnBadonk-a-donk\fs105\fsp-12\c&HE0740B&\4a&HFF&\blur0.7}C{\frz346.16}l{\frz344.62}i{\frz343.08}c{\frz341.54}k{\frz340}!
 Dialogue: 2,0:00:00.00,0:00:03.98,Chh signs,,0,0,0,,{\pos(264,94)\fnInkaBod\fs60\b1\bord0\shad0\c&HF4F4F4&\blur0.6}Chapter 3
 Dialogue: 2,0:00:00.00,0:00:03.98,Chh signs,,0,0,0,,{\pos(818,475)\fnInkaBod\fs60\b1\bord0\shad0\c&HF5F5F4&\blur0.6}Yumemi's Projection
 Dialogue: 0,0:00:15.99,0:00:16.03,Chh signs,,0,0,0,,{=34}{\an7\pos(48.01,-361.65)\fscx106.1\fscy106.1\frz-0.61\bord0\shad0\c&H2429D3&\blur1.06\p1}m 604 296 l 762 220 765 274 605 344
