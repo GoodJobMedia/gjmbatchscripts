@@ -23,7 +23,7 @@ Video Position: 34401
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: GJM_Main,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
-Style: GJM_Overlap,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00491F12,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: GJM_Overlap,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
 Style: CicSigns,H_Baker Signet BT,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: FyuSigns,Arial,40,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Show Title,Belleza,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
