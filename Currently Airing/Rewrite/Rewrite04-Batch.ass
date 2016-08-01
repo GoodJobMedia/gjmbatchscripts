@@ -11,21 +11,21 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: rewrite04_premux.mkv
-Video File: rewrite04_premux.mkv
-Keyframes File: rewrite04_workraw_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Rewrite/04/rewrite04_premux.mkv
+Video File: D:/Fansubbing/GoodJob/Rewrite/04/rewrite04_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 551
-Active Line: 552
-Video Position: 29819
+Scroll Position: 458
+Active Line: 459
+Video Position: 32836
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H003F1313,&HC0441A0F,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
 Style: Default - Alt,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H0013133F,&HC00F0F44,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
-Style: KMinH,Kozuka Mincho Pro Strippedv3 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinH,Kozuka Mincho Pro Strippedv2 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinR,Kozuka Mincho Pro Strippedv2 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: jojo_009,Armor Piercing 2.0 BB,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: jojo_022,Blue Highway D,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: jojo_026,Bronic,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
@@ -497,7 +497,7 @@ Dialogue: 10,0:22:39.25,0:22:41.38,Default,Luc,0,0,0,,I'm telling you, I don't w
 Dialogue: 10,0:22:41.38,0:22:43.75,Default,Koto,0,0,0,,Hey! No fighting!
 Dialogue: 10,0:22:43.75,0:22:45.96,Default,Kota,0,0,0,,One ball, coming right up!
 Dialogue: 10,0:22:45.96,0:22:48.01,Default,Kota,0,0,0,,Would you like fries with that?
-Dialogue: 10,0:22:49.51,0:22:52.05,Default,Koto,0,0,0,,Being a clean freak is all well and good,
+Dialogue: 10,0:22:49.51,0:22:52.05,Default,Koto,0,0,0,,Being a clean-freak is all well and good,
 Dialogue: 10,0:22:52.05,0:22:53.89,Default,Koto,0,0,0,,but take it too far, and it could cause trouble.
 Dialogue: 10,0:22:53.89,0:22:56.18,Default,Luc,0,0,0,,I don't want to hear your complaints!
 Dialogue: 10,0:22:56.18,0:22:58.89,Default,Luc,0,0,0,,Why am {\i1}I{\i0} getting criticized here?
@@ -607,12 +607,12 @@ Dialogue: 1,0:21:58.71,0:22:04.26,ShizuED,,0,0,0,,{\blur1.5\fad(160,160)}Even at
 Dialogue: 1,0:22:04.26,0:22:11.85,ShizuED,,0,0,0,,{\blur1.5\fad(160,160)}I'll always love you, so I'll never forget
 Dialogue: 1,0:22:11.85,0:22:20.56,ShizuED,,0,0,0,,{\blur1.5\fad(160,160)}But for now all I can say is goodbye
 Comment: 0,0:23:59.53,0:24:01.53,Default,,0,0,0,,TS
-Dialogue: 0,0:02:13.61,0:02:18.61,KMinH,,0,0,0,,{\pos(173,599)\fs24\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4550,4595,\1a&HFF&)}Episode 4
-Dialogue: 1,0:02:13.61,0:02:18.61,KMinH,,0,0,0,,{\pos(173,599)\fs24\bord1.5\c&HFFFBFF&\3c&HFFFBFF&\1a&HFF&\4a&HFF&\blur0.6\fad(450,450)\t(405,450,\1a&H00&)\t(4550,4595,\1a&HFF&)}Episode 4
-Dialogue: 2,0:02:13.61,0:02:18.61,KMinH,,0,0,0,,{\pos(173,599)\fs24\c&H000000&\blur0.4\fad(450,450)}Episode 4
-Dialogue: 0,0:02:13.61,0:02:18.61,KMinH,,0,0,0,,{\an4\pos(243,599)\fs24\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4550,4595,\1a&HFF&)}Until We Return to Those Days
-Dialogue: 1,0:02:13.61,0:02:18.61,KMinH,,0,0,0,,{\an4\pos(243,599)\fs24\bord1.5\c&HFFFBFF&\3c&HFFFBFF&\1a&HFF&\4a&HFF&\blur0.6\fad(450,450)\t(405,450,\1a&H00&)\t(4550,4595,\1a&HFF&)}Until We Return to Those Days
-Dialogue: 2,0:02:13.61,0:02:18.61,KMinH,,0,0,0,,{\an4\pos(243,599)\fs24\c&H000000&\4a&HFF&\blur0.4\fad(450,450)}Until We Return to Those Days
+Dialogue: 0,0:02:13.61,0:02:18.61,KMinR,,0,0,0,,{\pos(173,599)\fs22\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4550,4595,\1a&HFF&)\b1}Episode 4
+Dialogue: 1,0:02:13.61,0:02:18.61,KMinR,,0,0,0,,{\pos(173,599)\fs22\bord1.5\c&HFFFBFF&\3c&HFFFBFF&\1a&HFF&\4a&HFF&\blur0.6\fad(450,450)\t(405,450,\1a&H00&)\t(4550,4595,\1a&HFF&)\b1}Episode 4
+Dialogue: 2,0:02:13.61,0:02:18.61,KMinR,,0,0,0,,{\pos(173,599)\fs22\c&H000000&\blur0.4\fad(450,450)\b1}Episode 4
+Dialogue: 0,0:02:13.61,0:02:18.61,KMinR,,0,0,0,,{\an4\pos(243,599)\fs22\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4550,4595,\1a&HFF&)\b1}Until We Return to Those Days
+Dialogue: 1,0:02:13.61,0:02:18.61,KMinR,,0,0,0,,{\an4\pos(243,599)\fs22\bord1.5\c&HFFFBFF&\3c&HFFFBFF&\1a&HFF&\4a&HFF&\blur0.6\fad(450,450)\t(405,450,\1a&H00&)\t(4550,4595,\1a&HFF&)\b1}Until We Return to Those Days
+Dialogue: 2,0:02:13.61,0:02:18.61,KMinR,,0,0,0,,{\an4\pos(243,599)\fs22\c&H000000&\4a&HFF&\blur0.4\fad(450,450)\b1}Until We Return to Those Days
 Dialogue: 0,0:07:57.49,0:07:57.54,jojo_009,,0,0,0,,{=157}{\pos(330.26,-10.79)\frz348.1\fs40\bord1\c&H464D58&\3c&H464D58&\blur0.6}Pratfall!
 Dialogue: 0,0:07:57.54,0:07:57.58,jojo_009,,0,0,0,,{=157}{\pos(343.18,44.6)\frz348.1\fs40\bord1\c&H464D58&\3c&H464D58&\blur0.6}Pratfall!
 Dialogue: 0,0:07:57.58,0:07:57.62,jojo_009,,0,0,0,,{=157}{\pos(355.72,98.33)\frz348.1\fs40\bord1\c&H464D58&\3c&H464D58&\blur0.6}Pratfall!

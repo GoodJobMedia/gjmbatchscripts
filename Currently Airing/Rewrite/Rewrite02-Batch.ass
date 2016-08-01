@@ -11,14 +11,14 @@ ScaledBorderAndShadow: no
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: rewrite02_premux.mkv
-Video File: rewrite02_premux.mkv
+Audio File: D:/Fansubbing/GoodJob/Rewrite/02/rewrite02_premux.mkv
+Video File: D:/Fansubbing/GoodJob/Rewrite/02/rewrite02_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 91
-Active Line: 92
-Video Position: 9495
+Scroll Position: 547
+Active Line: 555
+Video Position: 29584
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -28,8 +28,8 @@ Style: OP-R,Iwata Mincho Old Pro-Fate B,43,&H00000000,&H000000FF,&H00FFFFFF,&HC4
 Style: OP-E,Iwata Mincho Old Pro-Fate B,50,&H00000000,&H000000FF,&H00FFFFFF,&HC4000000,-1,0,0,0,100,100,0,0,1,3,0,2,40,40,25,1
 Style: ED-R,Dominican,50,&H00FFFFFF,&H000000FF,&H00FFFFFF,&HC4000000,-1,0,0,0,98,100,0,0,1,3,0,7,40,40,25,1
 Style: ED-E,Dominican,50,&H00FFFFFF,&H000000FF,&H00FFFFFF,&HC4000000,-1,0,0,0,98,100,0,0,1,3,0,3,40,40,25,1
-Style: KMinR,Kozuka Mincho Pro Strippedv3 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
-Style: KMinH,Kozuka Mincho Pro Strippedv3 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinR,Kozuka Mincho Pro Strippedv2 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinH,Kozuka Mincho Pro Strippedv2 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: CentraleSans,CentraleSansRnd Bold,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Hand1,LEHN075,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Chalk1,FrankReactionWeb,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
@@ -529,14 +529,14 @@ Dialogue: 1,0:23:55.37,0:23:57.99,ED-E,,0,0,0,,{\fad(150,150)\blur0.6\c&H9F62EF&
 Dialogue: 0,0:23:55.37,0:23:57.99,ED-R,,0,0,0,,{\fad(150,150)\bord4\c&H000000&\3c&H000000&\blur0.6}sore ga shiawase
 Dialogue: 0,0:23:55.37,0:23:57.99,ED-E,,0,0,0,,{\fad(150,150)\bord4\c&H000000&\3c&H000000&\blur0.6}And what is happiness but this?
 Comment: 0,0:22:06.09,0:22:08.09,Default,,0,0,0,,TS
-Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(28,56)\frz8.573\fax-0.1\fs24\c&H4A3B44&\blur0.6}Q23) When you brush your teeth in the morning, you start with your:
-Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(407,31)\frz8.573\fax-0.04\fs24\c&H57575A&\blur0.6}upper left teeth   upper front teeth    upper right teeth
-Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(415,62)\frz8.573\fax-0.04\fs24\c&H57575A&\blur0.6}bottom left teeth   bottom front teeth   bottom right teeth
-Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(421,92)\frz8.573\fax-0.04\fs24\c&H57575A&\blur0.6}other (    )
-Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(36,248)\frz8.573\fax-0.04\fs24\c&H524C53&\blur0.6}Q24) When you put on your shoes, do you start with the right leg or the left leg?
-Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(104,308)\frz8.573\fax-0.04\fs24\c&H524C53&\blur0.6}(1) Right (2) Left
-Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(49,416)\fscx99\frz8.523\fax-0.04\fs24\c&H5A5658&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(114,520)\frz8.523\fax-0.04\fs24\c&H5A5658&\blur0.6\q2}(1)The World (2) Myself
+Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(28,56)\frz8.573\fax-0.1\fs22\c&H4A3B44&\blur0.6}Q23) When you brush your teeth in the morning, you start with your:
+Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(407,31)\frz8.573\fax-0.04\fs22\c&H57575A&\blur0.6}upper left teeth   upper front teeth    upper right teeth
+Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(415,62)\frz8.573\fax-0.04\fs22\c&H57575A&\blur0.6}bottom left teeth   bottom front teeth   bottom right teeth
+Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(421,92)\frz8.573\fax-0.04\fs22\c&H57575A&\blur0.6}other (    )
+Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(36,248)\frz8.573\fax-0.04\fs22\c&H524C53&\blur0.6}Q24) When you put on your shoes, do you start with the right leg or the left leg?
+Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(104,308)\frz8.573\fax-0.04\fs22\c&H524C53&\blur0.6}(1) Right (2) Left
+Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(49,416)\fscx99\frz8.523\fax-0.04\fs22\c&H5A5658&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:01:28.81,0:01:32.07,KMinR,,0,0,0,,{\an4\pos(114,520)\frz8.523\fax-0.04\fs22\c&H5A5658&\blur0.6\q2}(1)The World (2) Myself
 Dialogue: 0,0:02:59.74,0:02:59.78,CentraleSans,,0,0,0,,{\pos(712,226)\frz351.3\c&H949393&\blur0.6}Kanbe Kotori
 Dialogue: 0,0:02:59.78,0:02:59.82,CentraleSans,,0,0,0,,{\pos(711.9,226.14)\fscx99.89\fscy99.89\frz351.3\c&H949393&\blur0.6}Kanbe Kotori
 Dialogue: 0,0:02:59.82,0:02:59.86,CentraleSans,,0,0,0,,{\pos(694.91,216.26)\fscx99.76\fscy99.76\frz352.3\c&H949393&\blur0.6}Kanbe Kotori
@@ -567,10 +567,10 @@ Dialogue: 0,0:03:00.91,0:03:00.95,CentraleSans,,0,0,0,,{\pos(683.9,165.98)\fscx1
 Dialogue: 0,0:03:00.95,0:03:00.99,CentraleSans,,0,0,0,,{\pos(696,50.285)\fscx211.26\fscy211.26\frz356.6\c&H949393&\alpha&HA2&\blur1.27}Kanbe Kotori
 Dialogue: 0,0:03:00.99,0:03:01.03,CentraleSans,,0,0,0,,{\pos(690.286,25.143)\fscx248.36\fscy248.36\frz357.95\c&H949393&\alpha&HCA&\blur1.49}Kanbe Kotori
 Dialogue: 0,0:03:01.03,0:03:01.07,CentraleSans,,0,0,0,,{\pos(678.857,14.858)\fscx267.58\fscy267.58\frz358.4\c&H949393&\alpha&HED&\blur1.61}Kanbe Kotori
-Dialogue: 0,0:03:55.75,0:04:00.26,KMinH,,0,0,0,,{\pos(861,600)\fs24\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4060,4105,\1a&HFF&)}Episode 2
-Dialogue: 1,0:03:55.75,0:04:00.26,KMinH,,0,0,0,,{\pos(861,600)\fs24\c&H000000&\4a&HFF&\blur0.4\fad(450,450)}Episode 2
-Dialogue: 0,0:03:55.75,0:04:00.26,KMinH,,0,0,0,,{\an4\pos(931,600)\fs24\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4060,4105,\1a&HFF&)}Place of Youthful Beginnings
-Dialogue: 1,0:03:55.75,0:04:00.26,KMinH,,0,0,0,,{\an4\pos(931,600)\fs24\c&H000000&\4a&HFF&\blur0.4\fad(450,450)}Place of Youthful Beginnings
+Dialogue: 0,0:03:55.75,0:04:00.26,KMinR,,0,0,0,,{\pos(861,600)\fs22\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4060,4105,\1a&HFF&)\b1}Episode 2
+Dialogue: 1,0:03:55.75,0:04:00.26,KMinR,,0,0,0,,{\pos(861,600)\fs22\c&H000000&\4a&HFF&\blur0.4\fad(450,450)\b1}Episode 2
+Dialogue: 0,0:03:55.75,0:04:00.26,KMinR,,0,0,0,,{\an4\pos(931,600)\fs22\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4060,4105,\1a&HFF&)\b1}Place of Youthful Beginnings
+Dialogue: 1,0:03:55.75,0:04:00.26,KMinR,,0,0,0,,{\an4\pos(931,600)\fs22\c&H000000&\4a&HFF&\blur0.4\fad(450,450)\b1}Place of Youthful Beginnings
 Dialogue: 0,0:06:29.82,0:06:35.58,Chalk1,,0,0,0,,{\pos(1024,206)\fscx30\fscy30\frz23.68\fax-0.1\c&H5C5EF9&\blur0.6}Special Offer
 Dialogue: 0,0:06:29.82,0:06:35.58,Chalk1,,0,0,0,,{\pos(1041,270)\fscx30\fscy30\frz26.32\fax-0.2\fs70\fsp-5\bord0.35\c&H131DF1&\3c&H131DF1&\blur0.7}Free of Charge
 Dialogue: 0,0:06:29.82,0:06:35.58,Chalk1,,0,0,0,,{\pos(1057,341)\fscx30\fscy30\frz22.73\fax-0.1\fs120\fsp-5\bord1.75\c&H6A73B6&\3c&H6A73B6&\blur0.6}Feecof
@@ -583,15 +583,15 @@ Dialogue: 0,0:06:35.58,0:06:38.83,Chalk1,,0,0,0,,{\move(479,542,494.11,525.03,24
 Dialogue: 1,0:06:35.58,0:06:38.83,Chalk1,,0,0,0,,{\move(479,542,494.11,525.03,24,3235)\frz14.52\fs120\fsp-5\c&HDEE2F6&\4a&HFF&\blur0.6\t(24,3235,\fscy90.62)\t(24,3235,\fscx90.62)\t(24,3235,\frz14.52)}Feecof
 Dialogue: 0,0:06:35.58,0:06:38.83,Chalk1,,0,0,0,,{\move(977,131,945.37,152.6,24,3235)\frz345\fs40\bord1.5\c&HACAFCA&\3c&HACAFCA&\blur0.6\t(24,3235,\fscy90.62)\t(24,3235,\fscx90.62)\t(24,3235,\frz345)}It's delicious!
 Dialogue: 1,0:06:35.58,0:06:38.83,Chalk1,,0,0,0,,{\move(977,131,945.37,152.6,24,3235)\frz345\fs40\c&HEFF1FF&\4a&HFF&\blur0.6\t(24,3235,\fscy90.62)\t(24,3235,\fscx90.62)\t(24,3235,\frz345)}It's delicious!
-Dialogue: 0,0:14:41.36,0:14:45.11,KMinR,,0,0,0,,{\move(686,157,681.87,176.16,21,3733)\fs38\b1\bord3\c&H3A3A42&\3c&H3A3A42&\blur1\t(21,3733,\fscy91.11)\t(21,3733,\frz0)\t(21,3733,\fscx91.11)}The Occult                         Research Club
-Dialogue: 1,0:14:41.36,0:14:45.11,KMinR,,0,0,0,,{\move(686,157,681.87,176.16,21,3733)\fs38\b1\c&H4345E9&\4a&HFF&\blur1\t(21,3733,\fscy91.11)\t(21,3733,\frz0)\t(21,3733,\fscx91.11)}The Occult                         Research Club
-Dialogue: 0,0:14:41.36,0:14:45.11,KMinR,,0,0,0,,{\move(616,194,618.1,209.87,21,3733)\fs38\b1\bord3\c&H3A3A42&\3c&H3A3A42&\blur1\t(21,3733,\fscy91.11)\t(21,3733,\frz0)\t(21,3733,\fscx91.11)}Welcomes                         You
-Dialogue: 1,0:14:41.36,0:14:45.11,KMinR,,0,0,0,,{\move(616,194,618.1,209.87,21,3733)\fs38\b1\c&H4345E9&\4a&HFF&\blur1\t(21,3733,\fscy91.11)\t(21,3733,\frz0)\t(21,3733,\fscx91.11)}Welcomes                         You
+Dialogue: 0,0:14:41.36,0:14:45.11,KMinR,,0,0,0,,{\move(686,157,681.87,176.16,21,3733)\fs36\b1\bord3\c&H3A3A42&\3c&H3A3A42&\blur1\t(21,3733,\fscy91.11)\t(21,3733,\frz0)\t(21,3733,\fscx91.11)}The Occult                         Research Club
+Dialogue: 1,0:14:41.36,0:14:45.11,KMinR,,0,0,0,,{\move(686,157,681.87,176.16,21,3733)\fs36\b1\c&H4345E9&\4a&HFF&\blur1\t(21,3733,\fscy91.11)\t(21,3733,\frz0)\t(21,3733,\fscx91.11)}The Occult                         Research Club
+Dialogue: 0,0:14:41.36,0:14:45.11,KMinR,,0,0,0,,{\move(616,194,618.1,209.87,21,3733)\fs36\b1\bord3\c&H3A3A42&\3c&H3A3A42&\blur1\t(21,3733,\fscy91.11)\t(21,3733,\frz0)\t(21,3733,\fscx91.11)}Welcomes                         You
+Dialogue: 1,0:14:41.36,0:14:45.11,KMinR,,0,0,0,,{\move(616,194,618.1,209.87,21,3733)\fs36\b1\c&H4345E9&\4a&HFF&\blur1\t(21,3733,\fscy91.11)\t(21,3733,\frz0)\t(21,3733,\fscx91.11)}Welcomes                         You
 Dialogue: 0,0:20:32.62,0:20:35.33,KMinH,,0,0,0,,{\pos(324,432)\frz29.64\fax0.06\fs28\c&HF9F9FA&\blur0.7\t(0,750,\c&H7C7A83&)}Registration Form
-Dialogue: 0,0:20:32.62,0:20:35.33,KMinR,,0,0,0,,{\pos(402,514)\frz29.64\fax0.06\fs30\c&HF9F9FA&\blur0.7\t(0,750,\c&H7E848C&)}Name:
+Dialogue: 0,0:20:32.62,0:20:35.33,KMinR,,0,0,0,,{\pos(402,514)\frz29.64\fax0.06\fs28\c&HF9F9FA&\blur0.7\t(0,750,\c&H7E848C&)}Name:
 Dialogue: 0,0:20:32.62,0:20:35.33,Hand1,,0,0,0,,{\pos(605,340)\frz31.13\fs70\c&HF9F9FA&\blur0.6\t(0,750,\c&H86868E&)}Tennouji Kotarou
-Dialogue: 0,0:20:32.62,0:20:35.33,KMinR,,0,0,0,,{\an7\pos(433,676)\frz31.34\fax0.06\fs34\c&HF9F9FA&\blur0.7\clip(m 501 626 l 475 701 439 898 1178 458 967 387 910 342 871 302)\t(0,750,\c&H7E848C&)}I hereby declare that I am now \N\N\N\Na member of the occult research club.
-Dialogue: 0,0:20:32.62,0:20:35.33,KMinR,,0,0,0,,{\pos(730,92)\frz30.03\fax0.06\fs16\c&HF9F9FA&\blur0.7\t(0,750,\c&H7E848C&)}Kazamatsuri Private Academy
-Dialogue: 0,0:20:32.62,0:20:35.33,KMinR,,0,0,0,,{\an4\pos(673,167)\frz30.62\fax0.06\fs16\c&HF9F9FA&\blur0.7\t(0,750,\c&H7E848C&)}Date:          year      month     day
+Dialogue: 0,0:20:32.62,0:20:35.33,KMinR,,0,0,0,,{\an7\pos(433,676)\frz31.34\fax0.06\fs32\c&HF9F9FA&\blur0.7\clip(m 501 626 l 475 701 439 898 1178 458 967 387 910 342 871 302)\t(0,750,\c&H7E848C&)}I hereby declare that I am now \N\N\N\Na member of the occult research club.
+Dialogue: 0,0:20:32.62,0:20:35.33,KMinR,,0,0,0,,{\pos(730,92)\frz30.03\fax0.06\fs15\c&HF9F9FA&\blur0.7\t(0,750,\c&H7E848C&)}Kazamatsuri Private Academy
+Dialogue: 0,0:20:32.62,0:20:35.33,KMinR,,0,0,0,,{\an4\pos(673,167)\frz30.62\fax0.06\fs14\c&HF9F9FA&\blur0.7\t(0,750,\c&H7E848C&)}Date:          year      month     day
 Dialogue: 0,0:20:45.51,0:20:48.85,KMinR,,0,0,0,,{\pos(640,320)\fs36\c&H3C4045&\alpha&H80&\blur3\fad(100,0)}I hope I can become a somebody.
 Dialogue: 1,0:20:44.97,0:20:48.85,KMinR,,0,0,0,,{\pos(640,320)\fs36\c&H3C4045&\blur0.45\fad(650,0)}I hope I can become a somebody.

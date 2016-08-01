@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: rewrite 03 premux[2E53EF04].mkv
-Video File: rewrite 03 premux[2E53EF04].mkv
-Keyframes File: rewrite 03 workraw[6559577D]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Rewrite/03/rewrite 03 premux[2E53EF04].mkv
+Video File: D:/Fansubbing/GoodJob/Rewrite/03/rewrite 03 premux[2E53EF04].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 389
-Active Line: 406
-Video Position: 31951
+Scroll Position: 507
+Active Line: 509
+Video Position: 4266
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -29,7 +28,8 @@ Style: OP-R,Iwata Mincho Old Pro-Fate B,43,&H00000000,&H000000FF,&H00FFFFFF,&HC4
 Style: OP-E,Iwata Mincho Old Pro-Fate B,50,&H00000000,&H000000FF,&H00FFFFFF,&HC4000000,-1,0,0,0,100,100,0,0,1,3,0,2,40,40,25,1
 Style: ED-R,Dominican,50,&H00FFFFFF,&H000000FF,&H00FFFFFF,&HC4000000,-1,0,0,0,98,100,0,0,1,3,0,7,40,40,25,1
 Style: ED-E,Dominican,50,&H00FFFFFF,&H000000FF,&H00FFFFFF,&HC4000000,-1,0,0,0,98,100,0,0,1,3,0,3,40,40,25,1
-Style: KMinH,Kozuka Mincho Pro Strippedv3 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinH,Kozuka Mincho Pro Strippedv2 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinR,Kozuka Mincho Pro Strippedv2 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: CentraleSans,CentraleSansRnd Bold,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Script1,Chinela Brush,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Script3,Brush Strokes,50,&H00262123,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
@@ -544,12 +544,12 @@ Dialogue: 1,0:23:55.62,0:23:58.24,ED-E,,0,0,0,,{\fad(150,150)\blur0.6\c&H9F62EF&
 Dialogue: 0,0:23:55.62,0:23:58.24,ED-R,,0,0,0,,{\fad(150,150)\bord4\c&H000000&\3c&H000000&\blur0.6}sore ga shiawase
 Dialogue: 0,0:23:55.62,0:23:58.24,ED-E,,0,0,0,,{\fad(150,150)\bord4\c&H000000&\3c&H000000&\blur0.6}And what is happiness but this?
 Comment: 0,0:22:33.66,0:22:35.66,Default,,0,0,0,,TS
-Dialogue: 0,0:02:55.36,0:02:59.36,KMinH,,0,0,0,,{\pos(786,598)\fs24\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4060,4105,\1a&HFF&)}Episode 3
-Dialogue: 1,0:02:55.36,0:02:59.36,KMinH,,0,0,0,,{\pos(786,598)\fs24\bord1.5\c&HFFFBFF&\3c&HFFFBFF&\1a&HFF&\4a&HFF&\blur0.6\fad(450,450)\t(405,450,\1a&H00&)\t(3550,3595,\1a&HFF&)}Episode 3
-Dialogue: 2,0:02:55.36,0:02:59.36,KMinH,,0,0,0,,{\pos(786,598)\fs24\c&H000000&\blur0.4\fad(450,450)}Episode 3
-Dialogue: 0,0:02:55.36,0:02:59.36,KMinH,,0,0,0,,{\an4\pos(856,598)\fs24\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4060,4105,\1a&HFF&)}Welcome, Supernatural Phenomena
-Dialogue: 1,0:02:55.36,0:02:59.36,KMinH,,0,0,0,,{\an4\pos(856,598)\fs24\bord1.5\c&HFFFBFF&\3c&HFFFBFF&\1a&HFF&\4a&HFF&\blur0.6\fad(450,450)\t(405,450,\1a&H00&)\t(3550,3595,\1a&HFF&)}Welcome, Supernatural Phenomena
-Dialogue: 2,0:02:55.36,0:02:59.36,KMinH,,0,0,0,,{\an4\pos(856,598)\fs24\c&H000000&\4a&HFF&\blur0.4\fad(450,450)}Welcome, Supernatural Phenomena
+Dialogue: 0,0:02:55.36,0:02:59.36,KMinR,,0,0,0,,{\pos(786,598)\fs22\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4060,4105,\1a&HFF&)\b1}Episode 3
+Dialogue: 1,0:02:55.36,0:02:59.36,KMinR,,0,0,0,,{\pos(786,598)\fs22\bord1.5\c&HFFFBFF&\3c&HFFFBFF&\1a&HFF&\4a&HFF&\blur0.6\fad(450,450)\t(405,450,\1a&H00&)\t(3550,3595,\1a&HFF&)\b1}Episode 3
+Dialogue: 2,0:02:55.36,0:02:59.36,KMinR,,0,0,0,,{\pos(786,598)\fs22\c&H000000&\blur0.4\fad(450,450)\b1}Episode 3
+Dialogue: 0,0:02:55.36,0:02:59.36,KMinR,,0,0,0,,{\an4\pos(856,598)\fs22\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(4060,4105,\1a&HFF&)\b1}Welcome, Supernatural Phenomena
+Dialogue: 1,0:02:55.36,0:02:59.36,KMinR,,0,0,0,,{\an4\pos(856,598)\fs22\bord1.5\c&HFFFBFF&\3c&HFFFBFF&\1a&HFF&\4a&HFF&\blur0.6\fad(450,450)\t(405,450,\1a&H00&)\t(3550,3595,\1a&HFF&)\b1}Welcome, Supernatural Phenomena
+Dialogue: 2,0:02:55.36,0:02:59.36,KMinR,,0,0,0,,{\an4\pos(856,598)\fs22\c&H000000&\4a&HFF&\blur0.4\fad(450,450)\b1}Welcome, Supernatural Phenomena
 Dialogue: 0,0:10:29.15,0:10:29.19,Script1,,0,0,0,,{=17}{\pos(435,-15.83)\bord4\c&H1A1834&\3c&H1A1834&\blur1}1
 Dialogue: 0,0:10:29.19,0:10:29.23,Script1,,0,0,0,,{=17}{\pos(435,10.05)\bord4\c&H1A1834&\3c&H1A1834&\blur1}1
 Dialogue: 0,0:10:29.23,0:10:29.27,Script1,,0,0,0,,{=17}{\pos(435,23.99)\bord4\c&H1A1834&\3c&H1A1834&\blur1}1
