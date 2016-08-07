@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/Planetarian/02/planetarian02_premux_[8AEA63F8]
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 188
-Active Line: 222
-Video Position: 16878
+Scroll Position: 149
+Active Line: 155
+Video Position: 13543
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -185,7 +185,7 @@ Dialogue: 10,0:09:13.59,0:09:15.83,GJM_Main,,0,0,0,,Ah, yes, that's right.
 Dialogue: 10,0:09:15.83,0:09:18.06,GJM_Main,,0,0,0,,What is that place like?
 Dialogue: 10,0:09:18.06,0:09:20.57,GJM_Main,,0,0,0,,Well...
 Dialogue: 10,0:09:20.57,0:09:24.84,GJM_Main,,0,0,0,,It's free of malfunctions and\Nbatteries never decay! Right?
-Dialogue: 10,0:09:24.84,0:09:30.87,GJM_Main,,0,0,0,,Huh? Um, yeah, and no software bugs\Nor any need to replace parts... maybe?
+Dialogue: 10,0:09:24.84,0:09:30.87,GJM_Main,,0,0,0,,Huh? Um, yeah, and no software bugs\Nor any need to replace parts, I heard.
 Dialogue: 10,0:09:30.87,0:09:34.53,GJM_Main,,0,0,0,,You'll be granted all your other wishes too!
 Dialogue: 10,0:09:34.53,0:09:35.99,GJM_Main,,0,0,0,,Is that so?
 Dialogue: 10,0:09:35.99,0:09:37.55,GJM_Main,,0,0,0,,Yes, yes.
@@ -193,8 +193,8 @@ Dialogue: 10,0:09:39.38,0:09:40.85,GJM_Main,,0,0,0,,I see.
 Dialogue: 10,0:09:41.79,0:09:45.84,GJM_Main,,0,0,0,,The god you're looking for is the one\Nin that robot heaven. Keep that in mind.
 Dialogue: 10,0:09:47.10,0:09:50.88,GJM_Main,,0,0,0,,Understood. Critical data registered.
 Dialogue: 10,0:09:50.88,0:09:54.32,GJM_Main,,0,0,0,,I am very pleased to have learned about this god.
-Dialogue: 10,0:09:55.16,0:10:00.24,GJM_Main,,0,0,0,,In fact, I have a request I would\Nlike to ask of the God of Robots.
-Dialogue: 10,0:10:00.24,0:10:01.35,GJM_Main,,0,0,0,,A request?
+Dialogue: 10,0:09:55.16,0:10:00.24,GJM_Main,,0,0,0,,In fact, I have a wish I would like\Nto ask the God of Robots to grant.
+Dialogue: 10,0:10:00.24,0:10:01.35,GJM_Main,,0,0,0,,A wish?
 Dialogue: 10,0:10:03.76,0:10:05.75,GJM_Main,,0,0,0,,What could you possibly want?
 Dialogue: 10,0:10:06.31,0:10:08.35,GJM_Main,,0,0,0,,Well, it is about Heaven...
 Dialogue: 10,0:10:10.40,0:10:11.66,GJM_Main,,0,0,0,,What is it?
