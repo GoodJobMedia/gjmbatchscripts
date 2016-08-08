@@ -16,8 +16,9 @@ Video File: D:/Fansubbing/GoodJob/God Eater/13/God Eater 13 v2 ( D18977E4 ).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 233
-Video Position: 30700
+Scroll Position: 246
+Active Line: 253
+Video Position: 33229
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -102,12 +103,12 @@ Dialogue: 10,0:04:24.80,0:04:26.99,GJM_Main,,0,0,0,,Let's fight together this ti
 Dialogue: 10,0:04:29.55,0:04:31.50,GJM_Main,,0,0,0,,We're going to fight alongside Utsugi.
 Dialogue: 10,0:04:31.50,0:04:34.39,GJM_Main,,0,0,0,,No... It can't be true...
 Dialogue: 10,0:04:34.39,0:04:35.32,GJM_Main,,0,0,0,,Rindou...
-Dialogue: 10,0:04:51.93,0:04:54.98,GJM_Main,,0,0,0,,Sakuya, do you remember this girl?
+Dialogue: 10,0:04:51.93,0:04:54.98,GJM_Main,,0,0,0,,Miss Sakuya, do you remember this girl?
 Dialogue: 10,0:04:58.35,0:05:00.82,GJM_Main,,0,0,0,,You're the one from back then...
 Dialogue: 10,0:05:01.33,0:05:03.73,GJM_Main,,0,0,0,,Rindou brought them all here.
 Dialogue: 10,0:05:04.28,0:05:07.82,GJM_Main,,0,0,0,,So that those rejected by Fenrir could survive.
 Dialogue: 10,0:05:08.94,0:05:10.33,GJM_Main,,0,0,0,,Rindou did?!
-Dialogue: 10,0:05:10.98,0:05:13.40,GJM_Main,,0,0,0,,Sakuya... Everyone...
+Dialogue: 10,0:05:10.98,0:05:13.40,GJM_Main,,0,0,0,,Miss Sakuya... Everyone...
 Dialogue: 10,0:05:13.40,0:05:16.04,GJM_Main,,0,0,0,,What we must do now
 Dialogue: 10,0:05:17.25,0:05:20.80,GJM_Main,,0,0,0,,is remember Rindou's wishes,\Nand obey the orders he gave us.
 Dialogue: 10,0:05:23.54,0:05:26.91,GJM_Main,,0,0,0,,But how do we destroy that thing?
@@ -118,10 +119,10 @@ Dialogue: 10,0:05:35.61,0:05:37.07,GJM_Main,,0,0,0,,Believe in your friends!
 Dialogue: 10,0:05:38.01,0:05:39.24,GJM_Main,,0,0,0,,Destroy it!{ep9 preview line}
 Dialogue: 10,0:05:38.01,0:05:39.24,GJM_Overlap,,0,0,0,,Destroy it!
 Dialogue: 10,0:05:51.94,0:05:54.61,GJM_Main,,0,0,0,,Rindou's wishes...
-Dialogue: 10,0:05:59.68,0:06:00.75,GJM_Main,,0,0,0,,Sakuya!
+Dialogue: 10,0:05:59.68,0:06:00.75,GJM_Main,,0,0,0,,Miss Sakuya!
 Dialogue: 10,0:06:02.13,0:06:03.98,GJM_Main,,0,0,0,,The guiding device, right?
 Dialogue: 10,0:06:03.98,0:06:06.26,GJM_Main,,0,0,0,,Leave 'em to me.{ep12 preview line}
-Dialogue: 10,0:06:06.26,0:06:10.39,GJM_Main,,0,0,0,,Then Sakuya and I will distract the Vajra.
+Dialogue: 10,0:06:06.26,0:06:10.39,GJM_Main,,0,0,0,,Then Miss Sakuya and I will distract the Vajra.
 Dialogue: 10,0:06:10.39,0:06:13.14,GJM_Main,,0,0,0,,What about me and Lenka?
 Dialogue: 10,0:06:14.25,0:06:16.60,GJM_Main,,0,0,0,,We'll take on Pita!
 Dialogue: 10,0:06:17.04,0:06:18.44,GJM_Main,,0,0,0,,Let's do it!
@@ -145,7 +146,7 @@ Dialogue: 10,0:08:31.90,0:08:32.68,GJM_Main,,0,0,0,,Alisa!
 Dialogue: 10,0:08:39.43,0:08:40.29,GJM_Main,,0,0,0,,Soma!
 Dialogue: 10,0:08:42.28,0:08:45.96,GJM_Main,,0,0,0,,I destroyed it, as you wished.
 Dialogue: 10,0:08:46.94,0:08:48.13,GJM_Main,,0,0,0,,Lenka!
-Dialogue: 10,0:08:48.53,0:08:49.34,GJM_Main,,0,0,0,,Sakuya!
+Dialogue: 10,0:08:48.53,0:08:49.34,GJM_Main,,0,0,0,,Miss Sakuya!
 Dialogue: 10,0:08:50.32,0:08:51.01,GJM_Main,,0,0,0,,Kouta!
 Dialogue: 10,0:08:51.55,0:08:53.45,GJM_Main,,0,0,0,,Are you okay, Alisa?
 Dialogue: 10,0:08:53.45,0:08:54.81,GJM_Main,,0,0,0,,Thank you.
@@ -269,7 +270,7 @@ Dialogue: 10,0:21:13.74,0:21:19.52,GJM_Main,,0,0,0,,As you fought hard, there wa
 Dialogue: 10,0:21:20.44,0:21:25.38,GJM_Main,,0,0,0,,and as a result of his actions, we lost a\Nvaluable comrade, which fills me with regret.
 Dialogue: 10,0:21:29.39,0:21:31.85,GJM_Main,,0,0,0,,This will never happen again.
 Dialogue: 10,0:21:32.31,0:21:33.85,GJM_Main,,0,0,0,,The perpetrator,
-Dialogue: 10,0:21:34.28,0:21:36.85,GJM_Main,,0,0,0,,Daigo Ooguruma, will be found
+Dialogue: 10,0:21:34.28,0:21:36.85,GJM_Main,,0,0,0,,Ooguruma Daigo, will be found
 Dialogue: 10,0:21:37.60,0:21:40.36,GJM_Main,,0,0,0,,and brought to justice!
 Dialogue: 10,0:21:48.95,0:21:50.03,GJM_Main,,0,0,0,,This is Soma.
 Dialogue: 10,0:21:50.64,0:21:53.37,GJM_Main,,0,0,0,,No contact with the special duty target.

@@ -16,8 +16,9 @@ Video File: D:/Fansubbing/GoodJob/God Eater/12/God Eater 12 v3 (F51703CA).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Active Line: 14
-Video Position: 3449
+Scroll Position: 248
+Active Line: 257
+Video Position: 30868
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -65,7 +66,7 @@ Dialogue: 10,0:03:43.26,0:03:47.40,GJM_Main,,0,0,0,,We've adjusted for your high
 Dialogue: 10,0:03:47.40,0:03:50.02,GJM_Main,,0,0,0,,Each part of your God Arc can be used up.
 Dialogue: 10,0:03:50.02,0:03:54.59,GJM_Main,,0,0,0,,There wasn't time to adjust predation,\Nbut you don't need to reload ammo.
 Dialogue: 10,0:03:56.26,0:03:57.16,GJM_Main,,0,0,0,,Is that it?
-Dialogue: 10,0:03:57.16,0:04:01.04,GJM_Main,,0,0,0,,Unchecked predation will cause further strain.
+Dialogue: 10,0:03:57.16,0:04:01.04,GJM_Main,,0,0,0,,Unchecked predation will cause further strain.{flashbacked in ep13}
 Dialogue: 10,0:04:01.04,0:04:03.00,GJM_Main,,0,0,0,,But you can use it however you want.
 Dialogue: 10,0:04:03.65,0:04:06.06,GJM_Main,,0,0,0,,I'm entrusting this God Arc to you!{ep9 preview line}
 Dialogue: 10,0:04:06.62,0:04:08.72,GJM_Main,,0,0,0,,Come back alive!
@@ -196,13 +197,13 @@ Dialogue: 10,0:13:55.44,0:13:57.98,GJM_Main,,0,0,0,,Take hold of your God Arc, A
 Dialogue: 10,0:13:57.98,0:13:59.73,GJM_Main,,0,0,0,,You are strong!
 Dialogue: 10,0:13:59.73,0:14:01.23,GJM_Main,,0,0,0,,Save him!
 Dialogue: 10,0:14:08.44,0:14:09.56,GJM_Main,,0,0,0,,Alisa!
-Dialogue: 10,0:14:09.56,0:14:11.62,GJM_Main,,0,0,0,,I'm sorry, Utsugi.
+Dialogue: 10,0:14:09.56,0:14:11.62,GJM_Main,,0,0,0,,Utsugi, sir. I'm so sorry.
 Dialogue: 10,0:14:12.73,0:14:14.78,GJM_Main,,0,0,0,,I was running away from my weak self.
 Dialogue: 10,0:14:15.45,0:14:19.90,GJM_Main,,0,0,0,,But I won't lose sight of my purpose anymore.
 Dialogue: 10,0:14:20.77,0:14:23.07,GJM_Main,,0,0,0,,Because you called me strong, Utsugi.
 Dialogue: 10,0:14:24.12,0:14:25.10,GJM_Main,,0,0,0,,Call me Lenka.
 Dialogue: 10,0:14:25.91,0:14:26.70,GJM_Main,,0,0,0,,Alisa...
-Dialogue: 10,0:14:27.76,0:14:30.23,GJM_Main,,0,0,0,,Sakuya, I'm very sorry.
+Dialogue: 10,0:14:27.76,0:14:30.23,GJM_Main,,0,0,0,,Miss Sakuya, I'm very sorry.
 Dialogue: 10,0:14:30.23,0:14:33.64,GJM_Main,,0,0,0,,We'll talk later. Let's deal with the trees first.
 Dialogue: 10,0:14:33.95,0:14:34.99,GJM_Main,,0,0,0,,Understood.
 Dialogue: 10,0:14:34.99,0:14:36.62,GJM_Main,,0,0,0,,You don't have to act tough.
@@ -214,7 +215,7 @@ Dialogue: 10,0:14:56.97,0:14:58.25,GJM_Main,,0,0,0,,The Vajra?
 Dialogue: 10,0:14:58.81,0:15:00.40,GJM_Main,,0,0,0,,Head for the dam, you guys.
 Dialogue: 10,0:15:01.54,0:15:03.96,GJM_Main,,0,0,0,,I'll take this one!
 Dialogue: 10,0:15:04.60,0:15:06.35,GJM_Main,,0,0,0,,What are you saying?!
-Dialogue: 10,0:15:06.35,0:15:07.27,GJM_Main,,0,0,0,,Sakuya!
+Dialogue: 10,0:15:06.35,0:15:07.27,GJM_Main,,0,0,0,,Miss Sakuya!
 Dialogue: 10,0:15:08.17,0:15:11.84,GJM_Main,,0,0,0,,There are people living beyond this dam.
 Dialogue: 10,0:15:11.84,0:15:12.57,GJM_Main,,0,0,0,,What?!
 Dialogue: 10,0:15:12.57,0:15:13.91,GJM_Main,,0,0,0,,People?!
@@ -224,7 +225,7 @@ Dialogue: 10,0:15:19.94,0:15:21.37,GJM_Main,,0,0,0,,Rindou?
 Dialogue: 10,0:15:21.37,0:15:23.24,GJM_Main,,0,0,0,,Well, now you know. Get moving!
 Dialogue: 10,0:15:24.36,0:15:27.11,GJM_Main,,0,0,0,,There has to be a guiding device. Find it!
 Dialogue: 10,0:15:32.61,0:15:34.76,GJM_Main,,0,0,0,,I'm not leaving without you!
-Dialogue: 10,0:15:34.76,0:15:36.39,GJM_Main,,0,0,0,,Let's go, Sakuya.
+Dialogue: 10,0:15:34.76,0:15:36.39,GJM_Main,,0,0,0,,Let's go, Miss Sakuya.
 Dialogue: 10,0:15:36.39,0:15:39.19,GJM_Main,,0,0,0,,Lenka? What are you saying?
 Dialogue: 10,0:15:39.19,0:15:42.92,GJM_Main,,0,0,0,,Our mission is to protect people!
 Dialogue: 10,0:15:47.13,0:15:47.66,GJM_Main,,0,0,0,,But...
@@ -288,7 +289,8 @@ Dialogue: 10,0:21:07.04,0:21:11.39,GJM_Main,,0,0,0,,It's my turn to give hope wi
 Dialogue: 10,0:21:12.29,0:21:16.46,GJM_Main,,0,0,0,,Aisha... I'll realize your hopes.
 Dialogue: 10,0:21:21.85,0:21:23.31,GJM_Main,,0,0,0,,Look how close they've come!
 Dialogue: 10,0:21:24.01,0:21:25.39,GJM_Main,,0,0,0,,All those people!
-Dialogue: 10,0:21:25.39,0:21:29.59,GJM_Main,,0,0,0,,{\q2}Sakuya, let's split up. One group will evacuate people.\NThe other will search for the device.
+Dialogue: 10,0:21:25.39,0:21:27.43,GJM_Main,,0,0,0,,Miss Sakuya, let's split up.
+Dialogue: 10,0:21:27.43,0:21:29.72,GJM_Main,,0,0,0,,One group will evacuate people.\NThe other will find the device.
 Dialogue: 10,0:21:37.52,0:21:38.39,GJM_Main,,0,0,0,,How?
 Dialogue: 10,0:21:38.39,0:21:39.23,GJM_Main,,0,0,0,,Why that...
 Dialogue: 10,0:21:41.61,0:21:42.50,GJM_Main,,0,0,0,,It's here!

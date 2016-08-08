@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
 Scroll Position: 330
-Active Line: 342
-Video Position: 33943
+Active Line: 297
+Video Position: 30285
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -330,7 +330,7 @@ Dialogue: 10,0:20:41.30,0:20:42.38,GJM_Main,,0,0,0,,I'm glad.
 Dialogue: 10,0:20:43.01,0:20:46.76,GJM_Main,,0,0,0,,We can't wait to see you, Soma.
 Dialogue: 10,0:20:55.27,0:20:56.27,GJM_Main,,0,0,0,,A dam?
 Dialogue: 10,0:20:56.86,0:21:02.28,GJM_Main,,0,0,0,,Yes... It was surrounded by a forest\Nand there were people...
-Dialogue: 10,0:21:03.11,0:21:08.28,GJM_Main,,0,0,0,,Rindou Amamiya seems to have\Nsome association with these people.
+Dialogue: 10,0:21:03.11,0:21:08.28,GJM_Main,,0,0,0,,Amamiya Rindou seems to have\Nsome association with these people.
 Dialogue: 10,0:21:08.95,0:21:09.83,GJM_Main,,0,0,0,,Yes.
 Dialogue: 10,0:21:10.66,0:21:14.29,GJM_Main,,0,0,0,,Everyone seemed quite close.
 Dialogue: 10,0:21:17.83,0:21:20.46,GJM_Main,,0,0,0,,You didn't heed my warning.
