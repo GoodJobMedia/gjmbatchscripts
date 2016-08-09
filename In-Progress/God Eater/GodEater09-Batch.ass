@@ -16,8 +16,8 @@ Video File: D:/Fansubbing/GoodJob/God Eater/09/God Eater 09 v2 ( 45E5B846 ).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 330
-Active Line: 297
+Scroll Position: 294
+Active Line: 330
 Video Position: 30285
 
 [V4+ Styles]
@@ -64,7 +64,7 @@ Dialogue: 10,0:01:43.91,0:01:45.58,GJM_Main,,0,0,0,,Wh-What a monster...
 Dialogue: 10,0:01:58.01,0:01:59.30,GJM_Main,,0,0,0,,Damn it...
 Dialogue: 10,0:02:06.56,0:02:08.39,GJM_Main,,0,0,0,,There's a rat in the bedroom.
 Dialogue: 10,0:02:09.27,0:02:11.90,GJM_Main,,0,0,0,,Send for a cat.
-Dialogue: 10,0:02:15.61,0:02:18.70,GJM_Main,,0,0,0,,The giant protrusions around the world...
+Dialogue: 10,0:02:15.61,0:02:18.70,GJM_Main,,0,0,0,,The giant protrusions around the world,
 Dialogue: 10,0:02:18.70,0:02:21.82,GJM_Main,,0,0,100,,which were causing damage on a global scale,
 Dialogue: 10,0:02:21.82,0:02:25.62,GJM_Main,,0,0,100,,have stopped as mysteriously as they began.
 Dialogue: 10,0:02:26.04,0:02:29.33,GJM_Main,,0,0,100,,The U.N. is directing all available resources\Ntowards rescue and reconstruction.
@@ -90,7 +90,7 @@ Dialogue: 10,0:03:39.19,0:03:40.15,GJM_Main,,0,0,0,,Johannes?
 Dialogue: 10,0:03:40.99,0:03:44.99,GJM_Main,,0,0,0,,Drastic times call for drastic measures.
 Dialogue: 10,0:03:45.91,0:03:47.45,GJM_Main,,0,0,0,,We're resuming our research.
 Dialogue: 10,0:03:48.04,0:03:51.62,GJM_Main,,0,0,0,,Humanity will need weapons\Nto fight the Aragami.
-Dialogue: 10,0:03:54.50,0:03:56.29,GJM_Main,,0,0,0,,You are all here today...
+Dialogue: 10,0:03:54.50,0:03:56.29,GJM_Main,,0,0,0,,You are all here today
 Dialogue: 10,0:03:56.63,0:04:01.88,GJM_Main,,0,0,0,,for the installation of the guiding device\Nthat is the keystone of Operation Meteorite.
 Dialogue: 10,0:04:02.68,0:04:06.22,GJM_Main,,0,0,0,,The work will be done by a special\Ntech team, but there will be risks.
 Dialogue: 10,0:04:07.43,0:04:10.39,GJM_Main,,0,0,0,,Your mission is to protect them.
@@ -117,8 +117,8 @@ Dialogue: 10,0:05:06.70,0:05:08.62,GJM_Main,,0,0,0,,Soma... sir.
 Dialogue: 10,0:05:09.83,0:05:11.16,GJM_Main,,0,0,0,,I'm honored.
 Dialogue: 10,0:05:12.95,0:05:14.75,GJM_Main,,0,0,0,,Forget the formalities.
 Dialogue: 10,0:05:17.67,0:05:19.71,GJM_Main,,0,0,0,,I feel sorry for you.
-Dialogue: 10,0:05:21.38,0:05:24.76,GJM_Main,,0,0,0,,Watch your back around the Reaper.
-Dialogue: 10,0:05:25.72,0:05:27.18,GJM_Main,,0,0,0,,Reaper?
+Dialogue: 10,0:05:21.38,0:05:24.76,GJM_Main,,0,0,0,,Watch your back around the Grim Reaper.
+Dialogue: 10,0:05:25.72,0:05:27.18,GJM_Main,,0,0,0,,"Grim Reaper"?
 Dialogue: 10,0:05:29.72,0:05:32.64,GJM_Main,,0,0,0,,Have you made your decision yet?
 Dialogue: 10,0:05:32.64,0:05:34.18,GJM_Main,,0,0,0,,No, not yet...
 Dialogue: 10,0:05:34.85,0:05:36.98,GJM_Main,,0,0,0,,I... just wanted to help...
@@ -129,7 +129,7 @@ Dialogue: 10,0:05:48.11,0:05:51.20,GJM_Main,,0,0,0,,If you can't accept that, re
 Dialogue: 10,0:05:51.78,0:05:55.50,GJM_Main,,0,0,0,,If you're teamed up with Soma,\Nyou might not need to use it.
 Dialogue: 10,0:05:56.21,0:05:58.67,GJM_Main,,0,0,0,,About Soma...
 Dialogue: 10,0:06:01.17,0:06:02.88,GJM_Main,,0,0,0,,People keep calling him the "Grim Reaper".
-Dialogue: 10,0:06:04.01,0:06:06.01,GJM_Main,,0,0,0,,Grim Reaper?
+Dialogue: 10,0:06:04.01,0:06:06.01,GJM_Main,,0,0,0,,"Grim Reaper"?
 Dialogue: 10,0:06:06.55,0:06:08.34,GJM_Main,,0,0,0,,Fate is cruel.
 Dialogue: 10,0:06:08.88,0:06:12.60,GJM_Main,,0,0,0,,It would be fair to say\Nthat both of you are victims of it.
 Dialogue: 10,0:06:14.02,0:06:17.81,GJM_Main,,0,0,0,,If you want to know more,\Nlook him up in the database.
@@ -145,7 +145,7 @@ Dialogue: 10,0:07:08.61,0:07:11.16,GJM_Main,,0,0,0,,So the Aragami are evolving.
 Dialogue: 10,0:07:11.66,0:07:14.74,GJM_Main,,0,0,0,,I told them it was too soon\Nfor practical application!
 Dialogue: 10,0:07:14.74,0:07:16.91,GJM_Main,,0,0,0,,But we have proven that it works.
 Dialogue: 10,0:07:16.91,0:07:19.25,GJM_Main,,0,0,0,,We've already saved so many.
-Dialogue: 10,0:07:19.25,0:07:24.34,GJM_Main,,0,0,0,,But I'm worried about claiming \Nthat it'll solve all our problems.
+Dialogue: 10,0:07:19.25,0:07:24.34,GJM_Main,,0,0,0,,But I'm worried about claiming\Nthat it'll solve all our problems.
 Dialogue: 10,0:07:24.34,0:07:29.34,GJM_Main,,0,0,0,,Three more Eastern European nations\Nhave agreed to use Fenrir's technology.
 Dialogue: 10,0:07:29.92,0:07:33.51,GJM_Main,,0,0,0,,This makes over 50 nations\Nto sign contracts with Fenrir.
 Dialogue: 10,0:07:33.51,0:07:37.22,GJM_Main,,0,0,0,,There's a limit to what\Nexisting weaponry can do.
@@ -203,7 +203,7 @@ Dialogue: 10,0:11:15.11,0:11:17.32,GJM_Main,,0,0,100,,That's it for explanations
 Dialogue: 10,0:11:17.32,0:11:21.49,GJM_Main,,0,0,100,,The guiding devices are vital.\NYou know what to do, Utsugi.
 Dialogue: 10,0:11:21.49,0:11:23.70,GJM_Main,,0,0,100,,Um... Major Amamiya.
 Dialogue: 10,0:11:25.20,0:11:28.83,GJM_Main,,0,0,0,,{\move(640,620,640,680,1550,2050)}Why did you step down as a God Eater?
-Dialogue: 10,0:11:30.66,0:11:34.46,GJM_Main,,0,0,0,,Have you ever seen\Nan Aragami being born?
+Dialogue: 10,0:11:30.66,0:11:34.46,GJM_Main,,0,0,0,,Have you ever seen an Aragami being born?
 Dialogue: 10,0:11:36.00,0:11:36.84,GJM_Main,,0,0,0,,No.
 Dialogue: 10,0:11:37.38,0:11:39.09,GJM_Main,,0,0,0,,If you did, you'd think the same...
 Dialogue: 10,0:11:40.34,0:11:44.09,GJM_Main,,0,0,0,,That Aragami cannot be exterminated.
@@ -237,7 +237,7 @@ Dialogue: 10,0:13:48.51,0:13:51.18,GJM_Main,,0,0,0,,Objective complete. Let's he
 Dialogue: 10,0:13:51.18,0:13:51.89,GJM_Main,,0,0,0,,Wait.
 Dialogue: 10,0:13:56.52,0:13:57.31,GJM_Main,,0,0,0,,What is that?
 Dialogue: 10,0:14:02.11,0:14:02.90,GJM_Main,,0,0,0,,An Aragami?!
-Dialogue: 10,0:14:04.23,0:14:07.86,GJM_Main,,0,0,0,,{\i1\t(3158,0,\3c&HFFFFFF&\4c&HFFFFFF&)}Have you ever seen\Nan Aragami being born?
+Dialogue: 10,0:14:04.23,0:14:07.86,GJM_Main,,0,0,0,,{\i1\t(3158,0,\3c&HFFFFFF&\4c&HFFFFFF&)}Have you ever seen an Aragami being born?
 Dialogue: 10,0:14:13.83,0:14:15.33,GJM_Main,,0,0,0,,They came right out of the ground...
 Dialogue: 10,0:14:15.33,0:14:17.58,GJM_Main,,0,0,0,,{\i1}Aragami cannot be exterminated.
 Dialogue: 10,0:14:19.83,0:14:20.42,GJM_Main,,0,0,0,,Look.
@@ -311,7 +311,7 @@ Dialogue: 10,0:19:16.25,0:19:19.42,GJM_Main,,0,0,0,,Why'd you accept the mission
 Dialogue: 10,0:19:20.26,0:19:22.26,GJM_Main,,0,0,0,,In order to complete Aegis.
 Dialogue: 10,0:19:22.89,0:19:25.56,GJM_Main,,0,0,0,,What good is completing something like that?
 Dialogue: 10,0:19:27.06,0:19:30.44,GJM_Main,,0,0,0,,You can't destroy Aragami\Nunless you destroy their cores.
-Dialogue: 10,0:19:30.94,0:19:33.27,GJM_Main,,0,0,0,,And even if you destroy the core,
+Dialogue: 10,0:19:30.94,0:19:33.27,GJM_Main,,0,0,0,,And even if you destroy their cores,
 Dialogue: 10,0:19:33.27,0:19:39.19,GJM_Main,,0,0,0,,the scattered Oracle cells will amass again\Nand give birth to more Aragami.
 Dialogue: 10,0:19:39.19,0:19:42.20,GJM_Main,,0,0,0,,It's a cycle of despair.{ep8 preview line}
 Dialogue: 10,0:19:43.74,0:19:46.58,GJM_Main,,0,0,0,,Then pass it on to someone.
@@ -323,7 +323,7 @@ Dialogue: 10,0:20:19.28,0:20:20.36,GJM_Main,,0,0,0,,Soma?
 Dialogue: 10,0:20:21.32,0:20:22.61,GJM_Main,,0,0,0,,Like the Indian legend?
 Dialogue: 10,0:20:23.45,0:20:26.24,GJM_Main,,0,0,0,,Yes. Do you not like it?
 Dialogue: 10,0:20:26.24,0:20:31.62,GJM_Main,,0,0,0,,A nectar of the gods that bestows\Nthe force of life to mankind...
-Dialogue: 10,0:20:32.29,0:20:37.09,GJM_Main,,0,0,0,,I believe that it's something\Nhumanity needs now.
+Dialogue: 10,0:20:32.29,0:20:37.09,GJM_Main,,0,0,0,,I believe that it's something humanity needs now.
 Dialogue: 10,0:20:37.79,0:20:38.80,GJM_Main,,0,0,0,,You're right...
 Dialogue: 10,0:20:39.50,0:20:40.92,GJM_Main,,0,0,0,,It's a fine name.
 Dialogue: 10,0:20:41.30,0:20:42.38,GJM_Main,,0,0,0,,I'm glad.
@@ -342,9 +342,9 @@ Dialogue: 10,0:21:29.30,0:21:30.43,GJM_Main,,0,0,0,,Please fix it.
 Dialogue: 10,0:21:32.64,0:21:34.39,GJM_Main,,0,0,0,,Please fix my God Arc.
 Dialogue: 10,0:21:34.77,0:21:36.02,GJM_Main,,0,0,0,,What did you say?
 Dialogue: 10,0:21:36.69,0:21:38.65,GJM_Main,,0,0,0,,One more thing.
-Dialogue: 10,0:21:38.65,0:21:41.90,GJM_Main,,0,0,0,,Please don't tell anyone\Nabout my condition.
+Dialogue: 10,0:21:38.65,0:21:41.90,GJM_Main,,0,0,0,,Please don't tell anyone about my condition.
 Dialogue: 10,0:21:46.15,0:21:48.99,GJM_Main,,0,0,0,,You certainly are fascinating, boy.
-Dialogue: 10,0:21:48.99,0:21:52.04,GJM_Main,,0,0,0,,Very well then.\NI'll restore your God Arc.
+Dialogue: 10,0:21:48.99,0:21:52.04,GJM_Main,,0,0,0,,Very well then. I'll restore your God Arc.
 Dialogue: 10,0:21:53.37,0:21:55.33,GJM_Main,,0,0,0,,But let me ask you one thing.
 Dialogue: 10,0:21:56.92,0:21:57.71,GJM_Main,,0,0,0,,Why?
 Dialogue: 10,0:22:07.43,0:22:10.35,GJM_Main,,0,0,0,,Is this the thing that's calling out to them?
@@ -360,10 +360,10 @@ Dialogue: 10,0:22:43.09,0:22:44.80,GJM_Main,,0,0,0,,Good job.
 Dialogue: 10,0:22:45.46,0:22:47.17,GJM_Main,,0,0,0,,This is your enemy.
 Dialogue: 10,0:22:48.30,0:22:49.68,GJM_Main,,0,0,0,,An Aragami.
 Dialogue: 10,0:22:55.18,0:22:56.43,GJM_Main,,0,0,0,,Doctor...
-Dialogue: 10,0:22:56.43,0:22:59.85,GJM_Main,,0,0,0,,Are you saying that...\Nthis is a God Arc?!
-Dialogue: 10,0:23:00.56,0:23:04.36,GJM_Main,,0,0,0,,I designed this with his\Ncompatibility rate in mind.
+Dialogue: 10,0:22:56.43,0:22:59.85,GJM_Main,,0,0,0,,Are you saying that... this is a God Arc?!
+Dialogue: 10,0:23:00.56,0:23:04.36,GJM_Main,,0,0,0,,I designed this with his compatibility rate in mind.
 Dialogue: 10,0:23:07.53,0:23:08.86,GJM_Main,,0,0,0,,Aisha...
-Dialogue: 10,0:23:09.57,0:23:12.87,GJM_Main,,0,0,0,,The hope for the future\Nwhich you entrusted...
+Dialogue: 10,0:23:09.57,0:23:12.87,GJM_Main,,0,0,0,,The hope for the future which you entrusted...
 Dialogue: 10,0:23:13.87,0:23:16.87,GJM_Main,,0,0,0,,I won't let anyone get in the way of it.
 Comment: 10,0:23:24.67,0:23:24.71,GJM_Main,,0,0,0,,{preview}
 Dialogue: 10,0:23:25.46,0:23:27.67,GJM_Main,,0,0,0,,Lemme rest a bit.{ep12, 17:51}
