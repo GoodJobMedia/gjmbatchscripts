@@ -16,8 +16,8 @@ Video File: D:/Fansubbing/GoodJob/God Eater/08/godeater 08 premux[489AEFA3].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 30
-Active Line: 44
+Scroll Position: 166
+Active Line: 2674
 Video Position: 7616
 
 [V4+ Styles]
@@ -129,7 +129,7 @@ Dialogue: 10,0:08:46.67,0:08:47.42,GJM_Main,,0,0,0,,Huh?
 Dialogue: 10,0:08:48.67,0:08:49.42,GJM_Main,,0,0,0,,Rindou?
 Dialogue: 10,0:09:08.56,0:09:09.52,GJM_Main,,0,0,0,,Miss Sakuya.
 Dialogue: 10,0:09:10.19,0:09:11.23,GJM_Main,,0,0,0,,Lenka.
-Dialogue: 10,0:09:11.69,0:09:12.82,GJM_Main,,0,0,0,,Is it a mission?
+Dialogue: 10,0:09:11.69,0:09:12.82,GJM_Main,,0,0,0,,Do you have a mission?
 Dialogue: 10,0:09:13.53,0:09:14.74,GJM_Main,,0,0,0,,Yes.
 Dialogue: 10,0:09:15.24,0:09:17.28,GJM_Main,,0,0,0,,A joint operation with the 2nd Unit.
 Dialogue: 10,0:09:18.32,0:09:19.28,GJM_Main,,0,0,0,,Are you...
@@ -183,7 +183,7 @@ Dialogue: 10,0:12:46.32,0:12:50.04,GJM_Main,,0,0,0,,Keep them underground\Nand m
 Dialogue: 10,0:12:50.04,0:12:52.91,GJM_Main,,0,0,0,,In 100 meters, they should reach a wall.
 Dialogue: 10,0:12:53.58,0:12:55.92,GJM_Main,,0,0,0,,Please, Major Amamiya!
 Dialogue: 10,0:12:56.71,0:12:58.38,GJM_Main,,0,0,0,,I want to save everyone!
-Dialogue: 10,0:13:01.01,0:13:03.55,GJM_Main,,0,0,0,,{\i1}If something comes up, try talking to the newbie.
+Dialogue: 10,0:13:01.01,0:13:03.55,GJM_Main,,0,0,0,,{\i1}If something happens, talk to the newbie.
 Dialogue: 10,0:13:08.01,0:13:12.18,GJM_Main,,0,0,0,,Major Amamiya, I think it's worth trying.
 Dialogue: 10,0:13:12.18,0:13:14.52,GJM_Main,,0,0,0,,At this point, it's as good an idea as any.
 Dialogue: 10,0:13:17.40,0:13:20.48,GJM_Main,,0,0,0,,Joint unit, stay underground and advance.
@@ -2708,4 +2708,3 @@ Dialogue: 3,0:02:24.29,0:02:24.83,GodEaterOPEng,slower,0,0,0,fx,{\an7\move(827,6
 Dialogue: 1,0:02:24.08,0:02:28.96,GodEaterOPEng,slower,0,0,0,fx,{\pos(850,696)\bord1.5\1c&H5858F3&\3c&H00008A&\alpha&HFF&\blur0.5\t(180,300,\alpha&H00&)\t(330,330,\1c&HFFFFFF&\3c&H3790FF&\blur2.5)\t(330,680,\blur0.5\3c&H00008A&)\t(330,530,\1c&H8BEAFF&)\t(530,680,\1c&H1990FE&)\t(680,830,\1c&H5858F3&)\t(4750,4870,\alpha&HFF&)}y
 Dialogue: 3,0:02:24.31,0:02:24.91,GodEaterOPEng,slower,0,0,0,fx,{\an7\move(858,689,878,663)\fscx61\fscy61\bord1.5\c&HBFF3FE&\3c&H8DD8FF&\blur2\t(0,200,\bord2.5\blur3\3c&H6F6FFF&\c&H8DD8FF&)\t(200,300,\bord0\blur1)\t(250,500,\c&HC8C8C8&\blur3\alpha&HFF&\fscx91.5\fscy91.5)\p1}m -4 0 b -4 -2 -2 -4 0 -4 2 -4 4 -2 4 0 4 2 2 4 0 4 -2 4 -4 2 -4 0
 Dialogue: 0,0:02:24.36,0:02:24.84,GodEaterOPEng,slower,0,0,0,fx,{\an7\move(845,689,872,674)\fscx30\fscy30\bord1.5\c&HCFFEFF&\2c&H8DD8FF&\3c&HA9F7FE&\blur2\t(0,200,\bord2.5\blur3\3c&H90C7FB&\c&HA9CDFE&)\t(200,300,\bord0\blur1)\t(250,500,\c&HC8C8C8&\blur3\alpha&HFF&\fscx45\fscy45)\p1}m 22.16 22.16 b 17.43 26.88 18.5 37 18.5 37 18.5 37 19.33 26.65 14.84 22.16 10.45 17.76 0 18.5 0 18.5 0 18.5 10.24 19.58 14.91 14.91 19.27 10.54 18.5 0 18.5 0 18.5 0 17.45 10.14 22.16 14.84 26.56 19.25 37 18.5 37 18.5 37 18.5 26.92 17.39 22.16 22.16
-Comment: 0,0:00:05.00,0:00:07.00,GJM_Main,,0,0,0,,
