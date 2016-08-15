@@ -11,15 +11,12 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Re-Kan
-Audio File: orange 06 premux[36A419BC].mkv
-Video File: orange 06 premux[36A419BC].mkv
-Keyframes File: orange 06 premux[36A419BC]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Orange/06/orange 06 premux[36A419BC].mkv
+Video File: D:/Fansubbing/GoodJob/Orange/06/orange 06 premux[36A419BC].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 218
-Active Line: 235
-Video Position: 19212
+Video Position: 119
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -98,7 +95,7 @@ Dialogue: 10,0:04:12.89,0:04:15.35,GJM_Main,,0,0,0,,She's leaving us no choice, 
 Dialogue: 10,0:04:15.70,0:04:21.57,GJM_Main,,0,0,0,,Now, it's finally time to announce the winner\Nof the Miss Azalea Contest in all her glory!
 Dialogue: 10,0:04:24.46,0:04:25.91,GJM_Main,,0,0,0,,Ta-da!
 Dialogue: 10,0:04:26.38,0:04:27.50,GJM_Main,,0,0,0,,And the winner is...
-Dialogue: 10,0:04:28.43,0:04:33.58,GJM_Main,,0,0,0,,From Class 3-2, Rio Ueda-san!
+Dialogue: 10,0:04:28.43,0:04:33.58,GJM_Main,,0,0,0,,From Class 3-2, Ueda Rio-san!
 Dialogue: 10,0:04:33.58,0:04:34.58,GJM_Main,,0,0,0,,Senpai!
 Dialogue: 10,0:04:34.75,0:04:36.18,GJM_Main,,0,0,0,,Congratulations!
 Dialogue: 10,0:04:36.18,0:04:39.46,GJM_Main,,0,0,0,,Ueda-san, mind sharing a few words\Nto tell us how you feel right now?
