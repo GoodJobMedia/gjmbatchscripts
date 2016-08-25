@@ -17,8 +17,8 @@ Keyframes File: orange08 keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.755556
-Scroll Position: 81
-Active Line: 97
+Scroll Position: 163
+Active Line: 206
 Video Position: 8314
 
 [V4+ Styles]
@@ -237,7 +237,7 @@ Dialogue: 10,0:10:38.86,0:10:40.16,GJM_Overlap,,0,0,0,,{\an8}Someone take my pla
 Dialogue: 10,0:10:40.38,0:10:42.30,GJM_Main,,0,0,0,,See what you've started?
 Dialogue: 10,0:10:40.83,0:10:42.30,GJM_Overlap,,0,0,0,,{\an8}I'll treat anyone who will!
 Dialogue: 10,0:10:42.30,0:10:44.91,GJM_Overlap,,0,0,0,,{\an8}Stop trying to solve everything with bribery.
-Dialogue: 10,0:10:42.92,0:10:44.91,GJM_Main,,0,0,0,,This is why chose people I based on times...
+Dialogue: 10,0:10:42.92,0:10:44.91,GJM_Main,,0,0,0,,This is why I chose people based on times...
 Dialogue: 10,0:10:47.23,0:10:48.41,GJM_Main,,0,0,0,,I'll...
 Dialogue: 10,0:10:49.46,0:10:51.17,GJM_Main,,0,0,0,,I'll take his place.
 Dialogue: 10,0:10:51.38,0:10:54.42,GJM_Main,,0,0,0,,I'd like to run in the relay with Kakeru, too.
