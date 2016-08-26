@@ -78,7 +78,7 @@ Dialogue: 10,0:04:25.36,0:04:26.87,Default,R,0,0,0,,Then let me ask you somethin
 Dialogue: 10,0:04:26.87,0:04:29.87,Default,,0,0,0,,how much of your Hybrid Count is left?
 Dialogue: 10,0:04:30.33,0:04:33.04,Default,R,0,0,0,,How much has recovered since the last battle?
 Dialogue: 10,0:04:33.04,0:04:34.87,Default,H,0,0,0,,W-Well...
-Dialogue: 10,0:04:35.79,0:04:40.59,Default,R,0,0,0,,Yurishia and Aine have already\Nsuccessfully performed a Heart Hybrid.
+Dialogue: 10,0:04:35.79,0:04:40.59,Default,R,0,0,0,,Julicia and Aine have already\Nsuccessfully performed a Heart Hybrid.
 Dialogue: 10,0:04:41.21,0:04:43.34,Default,R,0,0,0,,You're the only one who hasn't.
 Dialogue: 10,0:04:45.89,0:04:47.47,Default,H,0,0,0,,{\i1}Heart Hybrid?
 Dialogue: 10,0:04:47.47,0:04:49.85,Default,H,0,0,0,,{\i1}Why would I do something so indecent?
@@ -138,9 +138,9 @@ Dialogue: 10,0:07:56.41,0:07:57.91,Default,K,0,0,0,,Um...
 Dialogue: 10,0:07:57.91,0:08:02.33,Default,K,0,0,0,,I wanted your help testing a new simulator.
 Dialogue: 10,0:08:04.17,0:08:05.13,Default,Y,0,0,0,,Wow!
 Dialogue: 10,0:08:05.13,0:08:06.46,Default,Y,0,0,0,,This is amazing!
-Dialogue: 10,0:08:06.96,0:08:10.72,Default,K,0,0,0,,{\i1}What kind of situation would excite Yurishia?
+Dialogue: 10,0:08:06.96,0:08:10.72,Default,K,0,0,0,,{\i1}What kind of situation would excite Julicia?
 Dialogue: 10,0:08:10.72,0:08:13.22,Default,K,0,0,0,,{\i1}I can't exactly ask her.
-Dialogue: 10,0:08:18.18,0:08:19.97,Default,K,0,0,0,,Something wrong, Yurishia?
+Dialogue: 10,0:08:18.18,0:08:19.97,Default,K,0,0,0,,Something wrong, Julicia?
 Dialogue: 10,0:08:20.47,0:08:22.60,Default,Y,0,0,0,,N-Nothing.
 Dialogue: 10,0:08:22.60,0:08:24.56,Default,Y,0,0,0,,What's with this room?
 Dialogue: 10,0:08:24.56,0:08:26.65,Default,Y,0,0,0,,It's low-class. And perverted.
@@ -165,12 +165,12 @@ Dialogue: 10,0:09:32.80,0:09:33.55,Default,K,0,0,0,,{\i1}Then...
 Dialogue: 10,0:09:35.67,0:09:37.30,Default,Y,0,0,0,,K-Kizuna?!
 Dialogue: 10,0:09:37.30,0:09:38.55,Default,Y,0,0,0,,Where are you touching me?
 Dialogue: 10,0:09:39.01,0:09:40.18,Default,Y,0,0,0,,No!
-Dialogue: 10,0:09:44.23,0:09:45.56,Default,K,0,0,0,,Yurishia...
+Dialogue: 10,0:09:44.23,0:09:45.56,Default,K,0,0,0,,Julicia...
 Dialogue: 10,0:09:46.44,0:09:49.06,Default,K,0,0,0,,Can I take off your top?
 Dialogue: 10,0:09:50.52,0:09:51.69,Default,K,0,0,0,,I'm going to take it off.
 Dialogue: 10,0:10:06.71,0:10:08.00,Default,Y,0,0,0,,What is this?
 Dialogue: 10,0:10:08.00,0:10:09.50,Default,Y,0,0,0,,This is...
-Dialogue: 10,0:10:15.21,0:10:16.22,Default,K,0,0,0,,Yurishia...
+Dialogue: 10,0:10:15.21,0:10:16.22,Default,K,0,0,0,,Julicia...
 Dialogue: 10,0:10:19.84,0:10:21.14,Default,Y,0,0,0,,Kizuna?
 Dialogue: 10,0:10:21.14,0:10:22.35,Default,Y,0,0,0,,Are we done?
 Dialogue: 10,0:10:24.01,0:10:25.10,Default,K,0,0,0,,Don't worry.
@@ -242,7 +242,7 @@ Dialogue: 10,0:14:07.36,0:14:08.95,Default,Y,0,0,0,,So this is Guam.
 Dialogue: 10,0:14:08.95,0:14:10.70,Default,Y,0,0,0,,It's quiet.
 Dialogue: 10,0:14:10.70,0:14:11.99,Default,H,0,0,0,,Let's split up.
 Dialogue: 10,0:14:12.45,0:14:15.50,Default,H,0,0,0,,Himekawa and I will check the city of Tumon.
-Dialogue: 10,0:14:15.50,0:14:18.75,Default,H,0,0,0,,Yurishia and Aine,\Nyou two check out Anderson Air Base.
+Dialogue: 10,0:14:15.50,0:14:18.75,Default,H,0,0,0,,Julicia and Aine,\Nyou two check out Anderson Air Base.
 Dialogue: 10,0:14:19.08,0:14:20.25,Default,All,0,0,0,,Roger!
 Dialogue: 10,0:14:48.53,0:14:51.78,Default,A,0,0,0,,Looks like they cleared\Nthe place out before they left.
 Dialogue: 10,0:14:52.20,0:14:54.28,Default,A,0,0,0,,A shining example for soldiers everywhere.
@@ -304,7 +304,7 @@ Dialogue: 10,0:18:11.90,0:18:14.32,Default,A,0,0,0,,This is so boring.
 Dialogue: 10,0:18:14.32,0:18:16.28,Default,A,0,0,0,,Let's finish it.
 Dialogue: 10,0:18:20.82,0:18:21.58,Default,A,0,0,0,,What's that?
 Dialogue: 10,0:18:22.12,0:18:24.33,Default,Y,0,0,0,,I wondered what all the fuss was.
-Dialogue: 10,0:18:25.00,0:18:26.25,Default,K,0,0,0,,Yurishia!
+Dialogue: 10,0:18:25.00,0:18:26.25,Default,K,0,0,0,,Julicia!
 Dialogue: 10,0:18:26.96,0:18:32.04,Default,Y,0,0,0,,You've got guts, having a clandestine\Nmeeting with a strange girl.
 Dialogue: 10,0:18:32.04,0:18:32.88,Default,K,0,0,0,,Aine...
 Dialogue: 10,0:18:33.21,0:18:36.09,Default,C,0,0,0,,I want more information, but it's okay.

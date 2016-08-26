@@ -85,12 +85,12 @@ Dialogue: 10,0:00:47.69,0:00:51.44,Default,A,0,0,0,,After all, I'm here to kill 
 Dialogue: 10,0:00:52.57,0:00:55.03,Default,H,0,0,0,,Cut them to pieces! Blade!
 Dialogue: 10,0:00:57.37,0:00:58.37,Default,Y,0,0,0,,Fire!
 Dialogue: 10,0:01:06.62,0:01:08.54,Default,Gu,0,0,0,,Himekawa's the best!
-Dialogue: 10,0:01:08.91,0:01:11.17,Default,Gi,0,0,0,,OMG, Yurishia{-sama}!
+Dialogue: 10,0:01:08.91,0:01:11.17,Default,Gi,0,0,0,,OMG, Julicia{-sama}!
 Dialogue: 10,0:01:11.80,0:01:15.51,Default,Gi,0,0,0,,The destructive powers of Neros and Kuros\Nreally are on another level, huh?
 Dialogue: 10,0:01:15.76,0:01:20.51,Default,Gi,0,0,0,,We need to develop weapons \Nthat are as good as Amaterasu's!
 Dialogue: 10,0:01:21.85,0:01:23.02,Default,K,0,0,0,,Chidorigafuchi?
 Dialogue: 10,0:02:55.11,0:02:57.94,DefaultTop,R,0,0,0,,So that data was accurate after all.
-Dialogue: 10,0:02:59.95,0:03:03.95,Default,,0,0,0,,Like Aine, Yurishia was also able to\Nsuccessfully perform a Heart Hybrid.
+Dialogue: 10,0:02:59.95,0:03:03.95,Default,,0,0,0,,Like Aine, Julicia was also able to\Nsuccessfully perform a Heart Hybrid.
 Dialogue: 10,0:03:04.74,0:03:07.95,Default,,0,0,0,,Now we can proceed as planned.
 Dialogue: 10,0:03:08.83,0:03:09.41,Default,,0,0,0,,However...
 Dialogue: 10,0:03:11.96,0:03:14.88,Default,Gi,0,0,0,,The genius scientist, Dr. Hida Nayuta,
@@ -100,7 +100,7 @@ Dialogue: 10,0:03:21.18,0:03:26.10,Default,R,0,0,0,,Great power always comes\Nat
 Dialogue: 10,0:03:27.77,0:03:30.35,Default,R,0,0,0,,I wonder what expression\Nshe's got on her face now...
 Dialogue: 10,0:03:31.19,0:03:32.40,Default,R,0,0,0,,That woman.
 Dialogue: 10,0:03:36.77,0:03:38.86,Default,Y,0,0,0,,Kizuna!
-Dialogue: 10,0:03:41.24,0:03:43.11,Default,K,0,0,0,,Y-Yurishia?
+Dialogue: 10,0:03:41.24,0:03:43.11,Default,K,0,0,0,,Y-Julicia?
 Dialogue: 10,0:03:43.11,0:03:46.58,Default,Y,0,0,0,,So, what did you think when you\Nsaw me doing the training exercise?
 Dialogue: 10,0:03:47.24,0:03:50.25,Default,Y,0,0,0,,You fell in love a little, didn't you?
 Dialogue: 10,0:03:50.58,0:03:52.37,Default,K,0,0,0,,U-Um...
@@ -126,7 +126,7 @@ Dialogue: 10,0:04:56.19,0:04:59.36,Default,K,0,0,0,,Didn't expect to spend the\N
 Dialogue: 10,0:04:59.36,0:05:03.69,Default,K,0,0,0,,It's not all that big, but it still feels\Nlike we've traveled all over Japan.
 Dialogue: 10,0:05:04.15,0:05:06.66,Default,Y,0,0,0,,Sorry for dragging you along.
 Dialogue: 10,0:05:07.03,0:05:09.74,Default,Y,0,0,0,,But it was so much fun!
-Dialogue: 10,0:05:09.74,0:05:12.66,Default,K,0,0,0,,You're really proactive, Yurishia.
+Dialogue: 10,0:05:09.74,0:05:12.66,Default,K,0,0,0,,You're really proactive, Julicia.
 Dialogue: 10,0:05:12.66,0:05:16.21,Default,K,0,0,0,,Not many people would act on a crazy idea\Nlike this, even if they did think of it.
 Dialogue: 10,0:05:17.29,0:05:18.50,Default,Y,0,0,0,,You're right.
 Dialogue: 10,0:05:18.50,0:05:20.96,Default,Y,0,0,0,,I think I've changed.
@@ -135,7 +135,7 @@ Dialogue: 10,0:05:23.05,0:05:26.76,Default,Y,0,0,0,,When we were attacked by tha
 Dialogue: 10,0:05:27.55,0:05:30.47,Default,Y,0,0,0,,I thought I might die,\Nfor the first time in my life.
 Dialogue: 10,0:05:31.10,0:05:35.35,Default,,0,0,0,,But when you saved me, this is what I felt:
 Dialogue: 10,0:05:36.77,0:05:38.35,Default,,0,0,0,,I want to live my life to the fullest.
-Dialogue: 10,0:05:38.69,0:05:40.44,Default,K,0,0,0,,Yurishia.
+Dialogue: 10,0:05:38.69,0:05:40.44,Default,K,0,0,0,,Julicia.
 Dialogue: 10,0:05:40.44,0:05:43.36,Default,Y,0,0,0,,I want to live my life to the fullest.\NI want to have more fun.
 Dialogue: 10,0:05:43.78,0:05:47.70,Default,Y,0,0,0,,I want to do plenty more things,\Nlike fall in love with a boy.
 Dialogue: 10,0:05:47.70,0:05:50.37,Default,K,0,0,0,,No, I...
@@ -169,7 +169,7 @@ Dialogue: 10,0:07:59.41,0:08:01.66,Default,H,0,0,0,,She always trains by herself
 Dialogue: 10,0:08:01.66,0:08:06.63,Default,H,0,0,0,,I wanted to spar with her,\Nbut she just ignored me when I asked.
 Dialogue: 10,0:08:06.63,0:08:09.76,Default,H,0,0,0,,At this point, everyone keeps\Ntheir distance from her.
 Dialogue: 10,0:08:10.13,0:08:13.13,Default,H,0,0,0,,She has a strange obsession with fighting.
-Dialogue: 10,0:08:13.84,0:08:18.76,Default,H,0,0,0,,Yurishia{-san} and I don't know\Nwhat she's thinking, either.
+Dialogue: 10,0:08:13.84,0:08:18.76,Default,H,0,0,0,,Julicia{-san} and I don't know\Nwhat she's thinking, either.
 Dialogue: 10,0:08:19.56,0:08:22.02,Default,H,0,0,0,,Even though we're all part of Amaterasu.
 Dialogue: 10,0:08:23.56,0:08:27.57,Default,Y,0,0,0,,After all, I'm here to fight.{flashback, ep1}
 Dialogue: 10,0:08:35.70,0:08:39.16,Default,R,0,0,0,,So he managed to do it with Himekawa?
@@ -239,7 +239,7 @@ Dialogue: 10,0:12:10.62,0:12:12.41,Default,K,0,0,0,,You can't force it...
 Dialogue: 10,0:12:13.04,0:12:15.50,Default,K,0,0,0,,And, I mean, you have to think about\Nhow the other person feels.
 Dialogue: 10,0:12:15.50,0:12:17.34,Default,A,0,0,0,,I don't care.
 Dialogue: 10,0:12:18.30,0:12:20.30,Default,A,0,0,0,,I can't lose.
-Dialogue: 10,0:12:21.01,0:12:25.68,Default,A,0,0,0,,I can't let Yurishia and Hayuru beat me forever.
+Dialogue: 10,0:12:21.01,0:12:25.68,Default,A,0,0,0,,I can't let Julicia and Hayuru beat me forever.
 Dialogue: 10,0:12:25.97,0:12:27.14,Default,K,0,0,0,,You...
 Dialogue: 10,0:12:27.14,0:12:29.39,Default,A,0,0,0,,I want power.
 Dialogue: 10,0:12:29.39,0:12:30.68,Default,A,0,0,0,,If I can get some...

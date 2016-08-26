@@ -166,7 +166,7 @@ Dialogue: 10,0:07:54.62,0:07:55.62,Default,K,0,0,0,,I'm sorry!
 Dialogue: 10,0:07:57.37,0:07:59.37,Default,Gi,0,0,0,,Don't talk!
 Dialogue: 10,0:08:06.92,0:08:09.21,Default,K,0,0,0,,{\i1}Is this a Heart Hybrid?
 Dialogue: 10,0:08:10.55,0:08:13.05,Default,Y,0,0,0,,What are you doing?
-Dialogue: 10,0:08:20.10,0:08:24.48,Default,k,0,0,0,,Listen, Yurishia, that was an accident...
+Dialogue: 10,0:08:20.10,0:08:24.48,Default,k,0,0,0,,Listen, Julicia, that was an accident...
 Dialogue: 10,0:08:24.48,0:08:25.77,Default,Y,0,0,0,,It's fine.
 Dialogue: 10,0:08:26.23,0:08:30.07,Default,Y,0,0,0,,It was silly of me to take\Na child's game so seriously.
 Dialogue: 10,0:08:31.49,0:08:32.78,Default,K,0,0,0,,Where are you going?
@@ -174,25 +174,25 @@ Dialogue: 10,0:08:34.86,0:08:36.41,Default,Y,0,0,0,,Don't make me say it.
 Dialogue: 10,0:08:37.58,0:08:38.91,Default,K,0,0,0,,Hey...
 Dialogue: 10,0:08:43.79,0:08:45.46,Default,K,0,0,0,,Hey, Scarlet.
 Dialogue: 10,0:08:45.46,0:08:46.42,Default,Gi,0,0,0,,What?
-Dialogue: 10,0:08:46.79,0:08:50.21,Default,K,0,0,0,,You and Yurishia are actually friends, aren't you?
+Dialogue: 10,0:08:46.79,0:08:50.21,Default,K,0,0,0,,You and Julicia are actually friends, aren't you?
 Dialogue: 10,0:08:50.21,0:08:51.09,Default,Gi,0,0,0,,Huh?
 Dialogue: 10,0:08:51.09,0:08:53.67,Default,K,0,0,0,,You were in perfect sync when you were dancing.
 Dialogue: 10,0:08:53.67,0:08:55.68,Default,K,0,0,0,,And you had basically the same taste in swimsuits.
 Dialogue: 10,0:08:55.97,0:08:56.80,Default,Gi,0,0,0,,No!
 Dialogue: 10,0:08:56.80,0:08:58.43,Default,Gi,0,0,0,,That's not true!
 Dialogue: 10,0:08:58.43,0:08:59.68,Default,K,0,0,0,,Scarlet...
-Dialogue: 10,0:08:59.68,0:09:03.93,Default,Gi,0,0,0,,You don't know what a horrible person Yurishia is!
+Dialogue: 10,0:08:59.68,0:09:03.93,Default,Gi,0,0,0,,You don't know what a horrible person Julicia is!
 Dialogue: 10,0:09:05.35,0:09:06.48,Default,Gi,0,0,0,,She...
 Dialogue: 10,0:09:07.81,0:09:10.78,Default,,0,0,0,,She used us as pawns to be sacrificed!
 Dialogue: 10,0:09:10.78,0:09:12.19,Default,K,0,0,0,,Sacrificed?
 Dialogue: 10,0:09:12.74,0:09:18.20,Default,Gi,0,0,0,,It was our first time fighting a Dragorie,\Na Category-A Magitech weapon.
 Dialogue: 10,0:09:20.20,0:09:21.87,Default,Gi,0,0,0,,W-We can't fight this thing!
 Dialogue: 10,0:09:21.87,0:09:22.87,Default,Gi,0,0,0,,Save m—
-Dialogue: 10,0:09:28.08,0:09:34.47,Default,Gi,0,0,0,,Yurishia deliberately sent us\Non ahead to soften it up.
+Dialogue: 10,0:09:28.08,0:09:34.47,Default,Gi,0,0,0,,Julicia deliberately sent us\Non ahead to soften it up.
 Dialogue: 10,0:09:43.56,0:09:51.48,Default,Gi,0,0,0,,And after we wore it down,\Nshe came and stole all the credit.
 Dialogue: 10,0:09:57.24,0:09:59.16,Default,Gi,0,0,0,,I'm never going to forgive her!
-Dialogue: 10,0:09:59.16,0:10:01.74,Default,Gi,0,0,0,,I'll never forgive Yurishia!
-Dialogue: 10,0:10:02.12,0:10:04.79,Default,K,0,0,0,,I can't believe Yurishia would do that.
+Dialogue: 10,0:09:59.16,0:10:01.74,Default,Gi,0,0,0,,I'll never forgive Julicia!
+Dialogue: 10,0:10:02.12,0:10:04.79,Default,K,0,0,0,,I can't believe Julicia would do that.
 Dialogue: 10,0:10:04.79,0:10:06.91,Default,K,0,0,0,,She's not that type of person.
 Dialogue: 10,0:10:06.91,0:10:07.75,Default,Gi,0,0,0,,Forget it!
 Dialogue: 10,0:10:08.04,0:10:09.17,Default,Gi,0,0,0,,I'm going home!
@@ -200,7 +200,7 @@ Dialogue: 10,0:10:16.84,0:10:18.51,Default,K,0,0,0,,You heard that?
 Dialogue: 10,0:10:18.51,0:10:19.64,Default,Y,0,0,0,,Yes.
 Dialogue: 10,0:10:20.64,0:10:23.10,Default,K,0,0,0,,Is what she said true?
 Dialogue: 10,0:10:23.10,0:10:26.48,Default,Y,0,0,0,,If that's what she said, it probably is.
-Dialogue: 10,0:10:26.48,0:10:28.02,Default,K,0,0,0,,Yurishia...
+Dialogue: 10,0:10:26.48,0:10:28.02,Default,K,0,0,0,,Julicia...
 Dialogue: 10,0:10:28.60,0:10:29.85,Default,Y,0,0,0,,See you tomorrow.
 Dialogue: 10,0:10:40.78,0:10:42.74,Default,,0,0,0,,All hail the General!
 Dialogue: 10,0:10:42.74,0:10:44.87,Default,,0,0,0,,All hail the Empire!

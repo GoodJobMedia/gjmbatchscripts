@@ -183,7 +183,7 @@ Dialogue: 10,0:10:44.24,0:10:45.91,Default,K,0,0,0,,Right in front of you.
 Dialogue: 10,0:10:47.41,0:10:52.54,Default,K,0,0,0,,When I first came to Ataraxia,\Nyou saved me from an attack by that Viking, right?
 Dialogue: 10,0:10:55.34,0:10:57.55,Default,K,0,0,0,,B-But even if I hadn't saved you—
 Dialogue: 10,0:10:57.55,0:11:00.26,Default,K,0,0,0,,I couldn't fight back then.
-Dialogue: 10,0:11:01.34,0:11:06.52,Default,K,0,0,0,,You saved me, which is why I was able\Nto save Yurishia and Aine later.
+Dialogue: 10,0:11:01.34,0:11:06.52,Default,K,0,0,0,,You saved me, which is why I was able\Nto save Julicia and Aine later.
 Dialogue: 10,0:11:07.52,0:11:09.39,Default,K,0,0,0,,You've saved a lot of people.
 Dialogue: 10,0:11:09.39,0:11:11.48,Default,K,0,0,0,,You just don't realize it.
 Dialogue: 10,0:11:11.48,0:11:12.90,Default,H,0,0,0,,That's not...
@@ -205,12 +205,12 @@ Dialogue: 10,0:12:25.55,0:12:29.27,Default,H,0,0,0,,I don't know how you can say
 Dialogue: 10,0:12:30.60,0:12:34.52,Default,H,0,0,0,,You think my breasts are small, don't you?
 Dialogue: 10,0:12:34.98,0:12:36.52,Default,K,0,0,0,,That's not true.
 Dialogue: 10,0:12:38.32,0:12:39.23,Default,H,0,0,0,,You're lying.
-Dialogue: 10,0:12:39.23,0:12:42.11,Default,H,0,0,0,,I know you're comparing them\Nto Aine{-san}'s and Yurishia{-san}'s!
+Dialogue: 10,0:12:39.23,0:12:42.11,Default,H,0,0,0,,I know you're comparing them\Nto Aine{-san}'s and Julicia{-san}'s!
 Dialogue: 10,0:12:46.62,0:12:49.66,Default,K,0,0,0,,N-No! Not there!
 Dialogue: 10,0:12:49.66,0:12:52.54,Default,K,0,0,0,,N-No, I can't!
 Dialogue: 10,0:12:52.54,0:12:54.37,Default,K,0,0,0,,You're sensitive, aren't you?
 Dialogue: 10,0:12:54.37,0:12:55.87,Default,H,0,0,0,,N-No, th-this is...
-Dialogue: 10,0:12:56.83,0:13:00.88,Default,K,0,0,0,,Your breasts are just as good\Nas Aine's and Yurishia's.
+Dialogue: 10,0:12:56.83,0:13:00.88,Default,K,0,0,0,,Your breasts are just as good\Nas Aine's and Julicia's.
 Dialogue: 10,0:13:00.88,0:13:04.22,Default,H,0,0,0,,R-Really?
 Dialogue: 10,0:13:04.22,0:13:05.30,Default,K,0,0,0,,Yeah.
 Dialogue: 10,0:13:06.26,0:13:07.39,Default,H,0,0,0,,I'm glad.
@@ -349,7 +349,7 @@ Dialogue: 10,0:23:27.05,0:23:29.09,DefaultTop,Gi,0,0,0,,It's Scarlet, from the M
 Dialogue: 10,0:23:29.09,0:23:32.09,DefaultTop,Gi,0,0,0,,Now that we're here, everything will be okay!
 Dialogue: 10,0:23:32.09,0:23:33.72,DefaultTop,Gi,0,0,0,,No matter what enemy may come,
 Dialogue: 10,0:23:33.72,0:23:36.51,DefaultTop,Gi,0,0,0,,I'll send them to hell with a single shot!
-Dialogue: 10,0:23:36.51,0:23:39.89,DefaultTop,Gi,0,0,0,,Yurishia, I'll never let you beat me!
+Dialogue: 10,0:23:36.51,0:23:39.89,DefaultTop,Gi,0,0,0,,Julicia, I'll never let you beat me!
 Dialogue: 0,0:01:30.57,0:01:34.53,Title Serif [Chapaza],,0,0,0,,{\fsp2.6\fs36\3c&H111111&\c&H111111&\bord1.45\blur1\fad(450,450)\1a&HFF&\fscy110\pos(175,520)\t(405,450,\1a&H00&)\t(3510,3555,\1a&HFF&)}{TS 02:22}Episode 6
 Dialogue: 1,0:01:30.57,0:01:34.53,Title Serif [Chapaza],,0,0,0,,{\c&HFFFFFF&\fsp2.6\fs36\bord0\blur0.4\fad(450,450)\4a&HFF&\fscy110\pos(175,520)\t(405,450,\1a&H00&)}Episode 6
 Dialogue: 0,0:01:30.57,0:01:34.53,Title Serif [Chapaza],,0,0,0,,{\fscy110\c&H111111&\fsp2.6\fs50\3c&H111111&\1a&HFF&\t(405,450,\1a&H00&)\t(3510,3555,\1a&HFF&)\bord1.6\blur1\fad(450,450)\pos(300,685)}World-Splitter Gladius
