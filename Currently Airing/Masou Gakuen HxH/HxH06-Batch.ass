@@ -7,6 +7,7 @@ WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
 YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
