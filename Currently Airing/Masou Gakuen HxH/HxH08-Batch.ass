@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: hxh08_premux-v2[B1477228].mkv
-Video File: hxh08_premux-v2[B1477228].mkv
-Keyframes File: [GJM] Masou Gakuen HxH - 08 [Premux]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/HxH/08/hxh08_premux-v2[B1477228].mkv
+Video File: D:/Fansubbing/GoodJob/HxH/08/hxh08_premux-v2[B1477228].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 251
-Active Line: 254
-Video Position: 27412
+Scroll Position: 106
+Active Line: 107
+Video Position: 9183
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -129,21 +128,21 @@ Dialogue: 10,0:02:58.89,0:03:05.16,Default,Gi,0,0,0,,{\q2}The Connective Hybrid 
 Dialogue: 10,0:03:05.42,0:03:11.17,Default,Gi,0,0,0,,The love Kizuna feels for each of them,\Nand the friendship and trust between the girls.
 Dialogue: 10,0:03:12.71,0:03:16.92,Default,Gi,0,0,0,,{\q2}The result of these emotions and their combination,\Nwhich is impossible with a Heart Hybrid,
 Dialogue: 10,0:03:17.51,0:03:21.93,Default,Gi,0,0,0,,allows for far greater power\Nthan you would ever attain alone.
-Dialogue: 10,0:03:25.26,0:03:28.43,Default,K,0,0,0,,Then I suggest Yurishia and Scarlet.
+Dialogue: 10,0:03:25.26,0:03:28.43,Default,K,0,0,0,,Then I suggest Julicia and Scarlet.
 Dialogue: 10,0:05:11.95,0:05:14.26,Default,S,0,0,0,,If only I were stronger...
 Dialogue: 10,0:05:15.71,0:05:20.75,Default,K,0,0,0,,Scarlet, I'm sorry to call you out of the blue,\Nbut can you join me for a while?
 Dialogue: 10,0:05:20.75,0:05:23.97,Default,K,0,0,0,,We have a new training facility\Nthat'll help you power up in a flash.
 Dialogue: 10,0:05:24.34,0:05:26.47,Default,S,0,0,0,,Power up in a flash?
 Dialogue: 10,0:05:28.51,0:05:32.22,Default,S,0,0,0,,How is this a training facility\Nthat helps you power up?!
-Dialogue: 10,0:05:38.60,0:05:42.45,Default,S,0,0,0,,And you didn't say anything\Nabout Yurishia being here!
+Dialogue: 10,0:05:38.60,0:05:42.45,Default,S,0,0,0,,And you didn't say anything\Nabout Julicia being here!
 Dialogue: 10,0:05:42.45,0:05:45.24,Default,K,0,0,0,,If you're going to power up,\Nit's better that I do both of you at once, right?
 Dialogue: 10,0:05:45.24,0:05:49.74,Default,S,0,0,0,,I-Is this what a H-Heart Hybrid is like?
 Dialogue: 10,0:05:50.28,0:05:53.98,Default,Y,0,0,0,,If this is enough make you embarrassed,\Nyou're still a kid.
 Dialogue: 10,0:05:57.59,0:06:02.02,Default,Y,0,0,0,,I'm so happy I get to take a bath with Kizuna.
-Dialogue: 10,0:06:02.02,0:06:07.51,Default,K,0,0,0,,But, Yurishia, it's kind of bad\Nif you get that close to me.
+Dialogue: 10,0:06:02.02,0:06:07.51,Default,K,0,0,0,,But, Julicia, it's kind of bad\Nif you get that close to me.
 Dialogue: 10,0:06:09.31,0:06:11.39,Default,S,0,0,0,,Get off each other, you two!
 Dialogue: 10,0:06:20.06,0:06:21.80,Default,K,0,0,0,,You okay, Scarlet?
-Dialogue: 10,0:06:22.99,0:06:24.65,Default,S,0,0,0,,Y-Yurishia?
+Dialogue: 10,0:06:22.99,0:06:24.65,Default,S,0,0,0,,J-Julicia?
 Dialogue: 10,0:06:25.07,0:06:29.16,Default,Y,0,0,0,,I wanna hear the sound of Kizuna's heartbeat.
 Dialogue: 10,0:06:33.99,0:06:36.41,Default,S,0,0,0,,{\i1}S-So soft...
 Dialogue: 10,0:06:39.71,0:06:43.13,Default,Y,0,0,0,,Your back's pretty sensitive, isn't it?
@@ -171,18 +170,18 @@ Dialogue: 10,0:08:19.22,0:08:20.85,Default,S,0,0,0,,Wh-What is this?
 Dialogue: 10,0:08:21.68,0:08:25.86,Default,K,0,0,0,,I asked Shikina{-san} to get me old footage of you two.
 Dialogue: 10,0:08:26.36,0:08:28.86,Default,S,0,0,0,,Why'd you do that?
 Dialogue: 10,0:08:30.57,0:08:31.86,Default,Y,0,0,0,,Oh, Kizuna...
-Dialogue: 10,0:08:38.68,0:08:43.12,Default,S,0,0,0,,{\i1}That's when I first started\Nfighting together with Yurishia.
+Dialogue: 10,0:08:38.68,0:08:43.12,Default,S,0,0,0,,{\i1}That's when I first started\Nfighting together with Julicia.
 Dialogue: 10,0:08:45.71,0:08:47.63,Default,S,0,0,0,,{\i1}We trained together.
 Dialogue: 10,0:08:52.09,0:08:54.13,Default,S,0,0,0,,{\i1}We laughed together.
 Dialogue: 10,0:08:56.72,0:08:58.64,Default,S,0,0,0,,{\i1}We cried together.
-Dialogue: 10,0:09:02.14,0:09:04.90,Default,S,0,0,0,,Yurishia{-senpai}...
+Dialogue: 10,0:09:02.14,0:09:04.90,Default,S,0,0,0,,Julicia{-senpai}...
 Dialogue: 10,0:09:11.73,0:09:14.15,Default,S,0,0,0,,You weren't the kind of person who'd do that.
 Dialogue: 10,0:09:14.90,0:09:16.53,Default,S,0,0,0,,You wouldn't betray us.
 Dialogue: 10,0:09:16.53,0:09:19.08,Default,S,0,0,0,,You wouldn't use us as pawns.
 Dialogue: 10,0:09:19.08,0:09:20.16,Default,S,0,0,0,,So why?
-Dialogue: 10,0:09:21.37,0:09:22.79,Default,K,0,0,0,,Yurishia.
+Dialogue: 10,0:09:21.37,0:09:22.79,Default,K,0,0,0,,Julicia.
 Dialogue: 10,0:09:22.79,0:09:26.17,Default,K,0,0,0,,You actually didn't know the Dragorie\Nwas going to appear, did you?
-Dialogue: 10,0:09:36.18,0:09:36.93,Default,K,0,0,0,,Yurishia...
+Dialogue: 10,0:09:36.18,0:09:36.93,Default,K,0,0,0,,Julicia...
 Dialogue: 10,0:09:42.56,0:09:46.48,Default,Y,0,0,0,,The enemy had attacked an urban area.
 Dialogue: 10,0:09:47.06,0:09:52.98,Default,Y,0,0,0,,There was a risk that Scarlet's missiles\Nmight miss and hit the town and civilians.
 Dialogue: 10,0:09:52.98,0:09:58.37,Default,Y,0,0,0,,If any innocents died because of that,\NI didn't think she'd ever recover.
@@ -220,7 +219,7 @@ Dialogue: 10,0:12:46.13,0:12:50.04,Default,S,0,0,0,,There's an ache inside my bo
 Dialogue: 10,0:12:50.04,0:12:53.37,Default,S,0,0,0,,I want to feel you closer to me...
 Dialogue: 10,0:13:02.97,0:13:05.34,Default,Y,0,0,0,,Which will you choose?
 Dialogue: 10,0:13:05.34,0:13:07.18,Default,Y,0,0,0,,We recommend both.
-Dialogue: 10,0:13:11.97,0:13:15.38,Default,K,0,0,0,,{\i1}Who do I pick? Yurishia? Scarlet?
+Dialogue: 10,0:13:11.97,0:13:15.38,Default,K,0,0,0,,{\i1}Who do I pick? Julicia? Scarlet?
 Dialogue: 10,0:13:15.38,0:13:18.19,Default,K,0,0,0,,{\i1}Don't panic. Think calmly.
 Dialogue: 10,0:13:18.69,0:13:20.77,Default,K,0,0,0,,{\i1}This is a Connective Hybrid.
 Dialogue: 10,0:13:20.77,0:13:23.69,Default,K,0,0,0,,{\i1}You can't just choose one!
@@ -236,12 +235,12 @@ Dialogue: 10,0:14:10.49,0:14:11.51,Default,All,0,0,0,,Roger!
 Dialogue: 10,0:14:13.08,0:14:14.82,Default,K,0,0,0,,Let's go! Eros!
 Dialogue: 10,0:14:16.79,0:14:17.83,Default,Y,0,0,0,,Kuros!
 Dialogue: 10,0:14:19.25,0:14:20.25,Default,S,0,0,0,,Ares!
-Dialogue: 10,0:14:22.38,0:14:24.30,Default,S,0,0,0,,H-Hey, Yurishia...
+Dialogue: 10,0:14:22.38,0:14:24.30,Default,S,0,0,0,,H-Hey, Julicia...
 Dialogue: 10,0:14:24.88,0:14:25.84,Default,Y,0,0,0,,What?
 Dialogue: 10,0:14:26.30,0:14:32.39,Default,S,0,0,0,,If you really want, I can let you\Nbe leader of the Masters.
 Dialogue: 10,0:14:32.93,0:14:34.62,Default,,0,0,0,,Nuh-uh.
 Dialogue: 10,0:14:34.62,0:14:38.14,Default,Y,0,0,0,,You're the leader of the Masters,\Naren't you, Scarlet?
-Dialogue: 10,0:14:40.94,0:14:46.32,Default,Y,0,0,0,,And, right now,\NI'm Yurishia Farandole of Amaterasu.
+Dialogue: 10,0:14:40.94,0:14:46.32,Default,Y,0,0,0,,And, right now,\NI'm Julicia Farandole of Amaterasu.
 Dialogue: 10,0:14:51.58,0:14:53.71,Default,Gi,0,0,0,,We're ready to go whenever.
 Dialogue: 10,0:14:53.71,0:14:56.41,Default,Gi,0,0,0,,No, this time they'll come to us.
 Dialogue: 10,0:14:56.75,0:14:59.39,Default,Gi,0,0,0,,They'll come. I know it.
@@ -267,17 +266,17 @@ Dialogue: 10,0:15:52.72,0:15:53.72,Default,S,0,0,0,,Roger!
 Dialogue: 10,0:15:57.64,0:15:59.10,Default,S,0,0,0,,Shoot!
 Dialogue: 10,0:16:09.32,0:16:10.28,Default,Gi,0,0,0,,So many!
 Dialogue: 10,0:16:16.53,0:16:17.99,Default,Y,0,0,0,,My, not bad!
-Dialogue: 10,0:16:17.99,0:16:20.50,Default,S,0,0,0,,Now, Yurishia! Go ahead!
+Dialogue: 10,0:16:17.99,0:16:20.50,Default,S,0,0,0,,Now, Julicia! Go ahead!
 Dialogue: 10,0:16:21.91,0:16:22.96,Default,Y,0,0,0,,Leave it to me.
 Dialogue: 10,0:16:25.79,0:16:27.25,Default,Y,0,0,0,,Cross Head.
 Dialogue: 10,0:16:41.02,0:16:42.02,Default,S,0,0,0,,That's...
-Dialogue: 10,0:16:43.39,0:16:44.94,Default,,0,0,0,,...Yurishia's...
+Dialogue: 10,0:16:43.39,0:16:44.94,Default,,0,0,0,,...Julicia's...
 Dialogue: 10,0:16:46.61,0:16:48.23,Default,S,0,0,0,,...Immoral Weapon!
 Dialogue: 10,0:17:09.63,0:17:10.50,Default,Gi,0,0,0,,Aldea!
 Dialogue: 10,0:17:13.38,0:17:14.09,Default,S,0,0,0,,Drive!
-Dialogue: 10,0:17:30.52,0:17:32.94,Default,S,0,0,0,,You did it! You did it, Yurishia!
+Dialogue: 10,0:17:30.52,0:17:32.94,Default,S,0,0,0,,You did it! You did it, Julicia!
 Dialogue: 10,0:17:37.53,0:17:40.95,Default,Y,0,0,0,,I'm not the type who likes to stay on the losing end.
-Dialogue: 10,0:17:41.91,0:17:43.83,Default,S,0,0,0,,You're so amazing, Yurishia!
+Dialogue: 10,0:17:41.91,0:17:43.83,Default,S,0,0,0,,You're so amazing, Julicia!
 Dialogue: 10,0:17:48.79,0:17:49.46,Default,Y,0,0,0,,No...
 Dialogue: 10,0:17:51.09,0:17:52.96,Default,Y,0,0,0,,She survived that?
 Dialogue: 10,0:17:56.30,0:17:59.81,Default,Gi,0,0,0,,I will bring my full powers to bear against you.
@@ -391,5 +390,5 @@ Dialogue: 0,0:23:24.92,0:23:40.02,Credits Rounded,,0,0,0,,{\pos(345,600)\fs24\bo
 Dialogue: 1,0:23:24.92,0:23:40.02,Credits Rounded,,0,0,0,,{\pos(345,600)\fs24\4a&HFF&\blur0.4}Kenichiro Kasutani
 Dialogue: 0,0:23:34.97,0:23:40.02,Title Serif [Chapaza],,0,0,0,,{\pos(640,230)\fscy110\fs46\fsp1\bord5\c&HFEFEFC&\3c&HFEFEFC&\1a&HFF&\blur2.5\fad(900,0)\t(890,900,\1a&H00&)}NEXT TIME
 Dialogue: 1,0:23:34.97,0:23:40.02,Title Serif [Chapaza],,0,0,0,,{\pos(640,230)\fscy110\fs46\fsp1\c&HB896FF&\4a&HFF&\blur0.45\fad(900,0)\t(1105,1150,\1a&H00&)}NEXT TIME
-Dialogue: 0,0:23:34.97,0:23:40.02,Title Serif [Chapaza],,0,0,0,,{\pos(640,355)\fscy110\fs72\fsp1\bord5\c&HFEFEFC&\3c&HFEFEFC&\1a&HFF&\blur2.5\fad(900,0)\t(890,900,\1a&H00&)}Academy Festa -First Live-
-Dialogue: 1,0:23:34.97,0:23:40.02,Title Serif [Chapaza],,0,0,0,,{\pos(640,355)\fscy110\fs72\fsp1\c&HE475FD&\4a&HFF&\blur0.45\fad(900,0)\t(1105,1150,\1a&H00&)}Academy Festa -First Live-
+Dialogue: 0,0:23:34.97,0:23:40.02,Title Serif [Chapaza],,0,0,0,,{\fscy110\fs72\fsp1\bord5\c&HFEFEFC&\3c&HFEFEFC&\1a&HFF&\blur2.5\fad(900,0)\t(890,900,\1a&H00&)\pos(646.857,355)}Academy Festival -First Concert-
+Dialogue: 1,0:23:34.97,0:23:40.02,Title Serif [Chapaza],,0,0,0,,{\fscy110\fs72\fsp1\c&HE475FD&\4a&HFF&\blur0.45\fad(900,0)\t(1105,1150,\1a&H00&)\pos(646.857,355)}Academy Festival -First Concert-
