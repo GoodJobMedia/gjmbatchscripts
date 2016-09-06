@@ -11,15 +11,12 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: hxh05_premux[7693B453].mkv
-Video File: hxh05_premux[7693B453].mkv
-Keyframes File: [GJM] Masou Gakuen HxH - 05 [Premux]_keyframes.log
-Video AR Mode: 4
+Video File: ?dummy:23.976000:45000:1280:720:118:118:118:c
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 205
-Active Line: 226
-Video Position: 22969
+Video Zoom Percent: 0.500000
+Scroll Position: 339
+Active Line: 351
+Video Position: 31934
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -387,7 +384,7 @@ Dialogue: 0,0:02:19.49,0:02:22.16,OP,,0,0,0,,{\fad(240,240)\blur3}And offer you 
 Dialogue: 0,0:02:22.16,0:02:26.95,OP,,0,0,0,,{\fad(240,240)\blur3}When the two of us become one
 Dialogue: 0,0:02:27.16,0:02:32.83,OP,,0,0,0,,{\fad(240,240)\blur3}An innocent flower blooms
 Comment: 0,0:23:41.35,0:23:43.35,DefaultTop,,0,0,0,,ED
-Dialogue: 0,0:22:11.89,0:22:17.39,ED,,0,0,0,,{\fad(200,200)\blur5}Hey, how about a fake strawberry? Relax, it's safe
+Dialogue: 0,0:22:11.89,0:22:17.39,ED,,0,0,0,,{\fad(200,200)\blur5}How about an apple, Snow White? Relax, it's safe
 Dialogue: 0,0:22:17.39,0:22:22.27,ED,,0,0,0,,{\fad(200,200)\blur5}You know, that shit-eating grin really pisses me off
 Dialogue: 0,0:22:22.48,0:22:24.94,ED,,0,0,0,,{\fad(200,200)\blur5}I'm gonna punch you
 Dialogue: 0,0:22:25.11,0:22:30.28,ED,,0,0,0,,{\fad(200,200)\blur5}Forgive me for being cold to you

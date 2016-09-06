@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: hxh04_premux[7ADDBAAE].mkv
-Video File: hxh04_premux[7ADDBAAE].mkv
-Keyframes File: [GJM] Masou Gakuen HxH - 04 [Premux]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/HxH/04/hxh04_premux[7ADDBAAE].mkv
+Video File: D:/Fansubbing/GoodJob/HxH/04/hxh04_premux[7ADDBAAE].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 303
-Active Line: 328
-Video Position: 32555
+Scroll Position: 320
+Active Line: 335
+Video Position: 33462
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -353,14 +352,14 @@ Dialogue: 0,0:02:03.81,0:02:06.56,OP,,0,0,0,,{\fad(240,240)\blur3}I'll take you 
 Dialogue: 0,0:02:06.56,0:02:09.23,OP,,0,0,0,,{\fad(240,240)\blur3}And offer you a grand feast
 Dialogue: 0,0:02:09.23,0:02:14.02,OP,,0,0,0,,{\fad(240,240)\blur3}When the two of us become one
 Dialogue: 0,0:02:14.23,0:02:19.90,OP,,0,0,0,,{\fad(240,240)\blur3}An innocent flower blooms
-Dialogue: 0,0:22:10.01,0:22:15.51,ED,,0,0,0,,{\fad(200,200)\blur5}Hey, how about a fake strawberry? Relax, it's safe
+Dialogue: 0,0:22:10.01,0:22:15.51,ED,,0,0,0,,{\fad(200,200)\blur5}How about an apple, Snow White? Relax, it's safe
 Dialogue: 0,0:22:15.51,0:22:20.39,ED,,0,0,0,,{\fad(200,200)\blur5}You know, that shit-eating grin really pisses me off
 Dialogue: 0,0:22:20.60,0:22:23.06,ED,,0,0,0,,{\fad(200,200)\blur5}I'm gonna punch you
 Dialogue: 0,0:22:23.23,0:22:28.40,ED,,0,0,0,,{\fad(200,200)\blur5}Forgive me for being cold to you
 Dialogue: 0,0:22:28.40,0:22:32.11,ED,,0,0,0,,{\fad(200,200)\blur5}It's just that there was this girl looking at you in the cafe
 Dialogue: 0,0:22:32.11,0:22:33.58,ED,,0,0,0,,{\fad(200,200)\blur5}I'm gonna kill her
 Dialogue: 0,0:22:33.58,0:22:37.79,ED,,0,0,0,,{\fad(200,200)\blur5}She'd probably leave you before the night is over
-Dialogue: 0,0:22:37.79,0:22:43.92,ED,,0,0,0,,{\fad(200,200)\blur5}My heart is bursting at the seams with emotions I'm dying to show you
+Dialogue: 0,0:22:37.79,0:22:43.92,ED,,0,0,0,,{\fad(200,200)\blur5}Let me show you the storm of emotions trapped beneath the surface
 Dialogue: 0,0:22:43.92,0:22:50.97,ED,,0,0,0,,{\fad(200,200)\blur5}Go beyond your dreams, love's waiting for you there
 Dialogue: 0,0:22:50.97,0:22:56.10,ED,,0,0,0,,{\fad(200,200)\blur5}What do you want so badly that you'd cry for it?
 Dialogue: 0,0:22:56.10,0:23:01.60,ED,,0,0,0,,{\fad(200,200)\blur5}All I want is your heart's warmth

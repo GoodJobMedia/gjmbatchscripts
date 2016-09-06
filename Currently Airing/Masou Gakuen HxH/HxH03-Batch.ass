@@ -11,15 +11,12 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: hxh03_premux[B2F3F536].mkv
-Video File: hxh03_premux[B2F3F536].mkv
-Keyframes File: hxh03_premux[B2F3F536]_keyframes.log
-Video AR Mode: 4
+Video File: ?dummy:23.976000:45000:1280:720:118:118:118:c
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 336
-Active Line: 351
-Video Position: 33845
+Video Zoom Percent: 0.875000
+Scroll Position: 19
+Active Line: 24
+Video Position: 2378
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,9 +35,9 @@ Dialogue: 10,0:01:23.02,0:01:23.02,OP,chapter,0,0,0,,{OP}
 Dialogue: 0,0:01:39.16,0:01:45.29,OP,,0,0,0,,{\fad(240,240)\3c&H2E72FD&\blur3}M{*\3c&H2E6BFD&}y {*\3c&H2E63FC&}l{*\3c&H2E5FFC&}o{*\3c&H2E5CFC&}v{*\3c&H2F58FC&}e {*\3c&H2F51FB&}f{*\3c&H2F4DFB&}o{*\3c&H2F49FB&}r {*\3c&H2F42FB&}y{*\3c&H2F3FFA&}o{*\3c&H2F3BFA&}u {*\3c&H2F34FA&}i{*\3c&H2F30FA&}s {*\3c&H3630F9&}l{*\3c&H3A30F9&}i{*\3c&H3D30F9&}k{*\3c&H4130F9&}e {*\3c&H4830F8&}a {*\3c&H5030F8&}b{*\3c&H5330F8&}u{*\3c&H5730F8&}c{*\3c&H5A30F7&}k{*\3c&H5E30F7&}i{*\3c&H6231F7&}n{*\3c&H6531F7&}g {*\3c&H6C31F7&}c{*\3c&H7031F6&}o{*\3c&H7331F6&}l{\3c&H7731F6&}t
 Dialogue: 0,0:01:45.29,0:01:48.37,OP,,0,0,0,,{\fad(240,240)\3c&H2E72FD&\blur3}Y{*\3c&H2E6CFD&}o{*\3c&H2E69FD&}u {*\3c&H2E64FC&}a{*\3c&H2E61FC&}c{*\3c&H2E5EFC&}t {*\3c&H2F58FC&}s{*\3c&H2F55FC&}o {*\3c&H2F50FB&}i{*\3c&H2F4DFB&}n{*\3c&H2F4AFB&}n{*\3c&H2F47FB&}o{*\3c&H2F44FB&}c{*\3c&H2F42FB&}e{*\3c&H2F3FFA&}n{*\3c&H2F3CFA&}t{*\3c&H2F39FA&}, {*\3c&H2F34FA&}b{*\3c&H2F31FA&}u{*\3c&H312FFA&}t {*\3c&H3630F9&}I {*\3c&H3C30F9&}k{*\3c&H3F30F9&}n{*\3c&H4230F9&}o{*\3c&H4530F9&}w {*\3c&H4A30F8&}y{*\3c&H4D30F8&}o{*\3c&H5030F8&}u{*\3c&H5330F8&}'{*\3c&H5630F8&}r{*\3c&H5930F8&}e {*\3c&H5E30F7&}f{*\3c&H6130F7&}e{*\3c&H6431F7&}e{*\3c&H6631F7&}l{*\3c&H6931F7&}i{*\3c&H6C31F7&}n{*\3c&H6F31F6&}g {*\3c&H7431F6&}i{\3c&H7731F6&}t
 Dialogue: 0,0:01:48.37,0:01:53.46,OP,,0,0,0,,{\fad(240,240)\3c&H2E72FD&\blur3}I{*\3c&H2E66FC&}'{*\3c&H2E60FC&}m {*\3c&H2F55FC&}n{*\3c&H2F4FFB&}o{*\3c&H2F49FB&}t {*\3c&H2F3EFA&}a {*\3c&H2F32FA&}w{*\3c&H322FFA&}i{*\3c&H3830F9&}z{*\3c&H3E30F9&}a{*\3c&H4430F9&}r{*\3c&H4930F8&}d {*\3c&H5530F8&}a{*\3c&H5B30F7&}n{*\3c&H6030F7&}y{*\3c&H6631F7&}m{*\3c&H6C31F7&}o{*\3c&H7131F6&}r{\3c&H7731F6&}e
-Dialogue: 0,0:01:55.72,0:01:57.30,OP,,0,0,0,,{\blur3\1a&HFF&\3a&HFF&\4a&HFF&\t(0,240,\1a&H00&\3a&H00&\4a&H81&)}I have no idea how things ended up this way
-Dialogue: 0,0:01:57.30,0:02:00.05,OP,,0,0,0,,{\blur3\3c&HE67811&}I have no idea how things ended up this way
-Dialogue: 0,0:02:00.05,0:02:01.68,OP,,0,0,0,,{\blur3\3c&H1C32AE&\1a&H00&\3a&H00&\4a&H81&\t(1410,1650,\1a&HFF&\3a&HFF&\4a&HFF&)}I have no idea how things ended up this way
+Dialogue: 0,0:01:55.72,0:01:57.30,OP,,0,0,0,,{\blur3\1a&HFF&\3a&HFF&\4a&HFF&\t(0,240,\1a&H00&\3a&H00&\4a&H81&)}The craziest things you can imagine all start from nothing
+Dialogue: 0,0:01:57.30,0:02:00.05,OP,,0,0,0,,{\blur3\3c&HE67811&}The craziest things you can imagine all start from nothing
+Dialogue: 0,0:02:00.05,0:02:01.68,OP,,0,0,0,,{\blur3\3c&H1C32AE&\1a&H00&\3a&H00&\4a&H81&\t(1410,1650,\1a&HFF&\3a&HFF&\4a&HFF&)}The craziest things you can imagine all start from nothing
 Dialogue: 0,0:02:01.68,0:02:04.47,OP,,0,0,0,,{\fad(240,240)\blur3}It's like we're in a fairy tale
 Dialogue: 0,0:02:04.72,0:02:06.98,OP,,0,0,0,,{\fad(240,240)\blur3\3c&H2067AC&}But this is real life
 Dialogue: 0,0:02:07.14,0:02:09.90,OP,,0,0,0,,{\fad(240,240)\blur3\3c&H4177E5&}M{*\3c&H436CE5&}y {*\3c&H4661E5&}c{*\3c&H475CE5&}h{*\3c&H4856E5&}a{*\3c&H4951E5&}r{*\3c&H4A4CE5&}m {*\3c&H574DE5&}m{*\3c&H5E4EE5&}a{*\3c&H654FE5&}k{*\3c&H6C50E5&}e{*\3c&H7351E5&}s {*\3c&H8054E5&}y{*\3c&H8755E5&}o{*\3c&H8D56E5&}u {*\3c&H9A58E5&}s{*\3c&HA05AE5&}w{*\3c&HA65BE5&}o{*\3c&HAC5CE5&}o{\3c&HB25DE5&}n
@@ -48,28 +45,28 @@ Dialogue: 0,0:02:09.90,0:02:12.52,OP,,0,0,0,,{\fad(240,240)\blur3\3c&H4177E5&}O{
 Dialogue: 0,0:02:12.52,0:02:18.36,OP,,0,0,0,,{\fad(240,240)\blur3}Just let your passion explode
 Dialogue: 0,0:02:19.07,0:02:22.03,OP,,0,0,0,,{\fad(240,240)\blur3}My feelings won't reach you like this
 Dialogue: 0,0:02:22.03,0:02:24.87,OP,,0,0,0,,{\fad(240,240)\blur3}I need to shoot them at you with everything I've got
-Dialogue: 0,0:02:24.87,0:02:27.50,OP,,0,0,0,,{\fad(240,240)\blur3}I can feel victory with all my heart
+Dialogue: 0,0:02:24.87,0:02:27.50,OP,,0,0,0,,{\fad(240,240)\blur3}They're on a direct course to your heart
 Dialogue: 0,0:02:27.50,0:02:30.17,OP,,0,0,0,,{\fad(240,240)\blur3}My spirit is on fire
 Dialogue: 0,0:02:30.17,0:02:32.88,OP,,0,0,0,,{\fad(240,240)\blur3}I'll expose your true nature
 Dialogue: 0,0:02:32.88,0:02:35.59,OP,,0,0,0,,{\fad(240,240)\blur3}Don't worry, I'll be gentle
 Dialogue: 0,0:02:35.76,0:02:38.51,OP,,0,0,0,,{\fad(240,240)\blur3}I'll take you to a secret paradise
-Dialogue: 0,0:02:38.51,0:02:41.18,OP,,0,0,0,,{\fad(240,240)\blur3}I'll make your mind go blank
+Dialogue: 0,0:02:38.51,0:02:41.18,OP,,0,0,0,,{\fad(240,240)\blur3}And offer you a grand feast
 Dialogue: 0,0:02:41.18,0:02:45.97,OP,,0,0,0,,{\fad(240,240)\blur3}When the two of us become one
 Dialogue: 0,0:02:46.18,0:02:51.85,OP,,0,0,0,,{\fad(240,240)\blur3}An innocent flower blooms
 Dialogue: 10,0:02:53.06,0:02:53.11,Default,chapter,0,0,0,,{Part A}
 Dialogue: 10,0:21:32.02,0:21:32.02,ED,chapter,0,0,0,,{ED}
-Dialogue: 0,0:21:48.91,0:21:54.41,ED,,0,0,0,,{\fad(200,200)\blur5}Hey, baby, don't be scared, just do it
+Dialogue: 0,0:21:48.91,0:21:54.41,ED,,0,0,0,,{\fad(200,200)\blur5}How about an apple, Snow White? Relax, it's safe
 Dialogue: 0,0:21:54.41,0:21:59.29,ED,,0,0,0,,{\fad(200,200)\blur5}You know, that shit-eating grin really pisses me off
 Dialogue: 0,0:21:59.50,0:22:01.96,ED,,0,0,0,,{\fad(200,200)\blur5}I'm gonna punch you
 Dialogue: 0,0:22:02.13,0:22:07.30,ED,,0,0,0,,{\fad(200,200)\blur5}Forgive me for being cold to you
 Dialogue: 0,0:22:07.30,0:22:11.01,ED,,0,0,0,,{\fad(200,200)\blur5}It's just that there was this girl looking at you in the cafe
 Dialogue: 0,0:22:11.01,0:22:12.51,ED,,0,0,0,,{\fad(200,200)\blur5}I'm gonna kill her
-Dialogue: 0,0:22:12.51,0:22:16.69,ED,,0,0,0,,{\fad(200,200)\blur5}Your only future is with me
-Dialogue: 0,0:22:16.69,0:22:22.82,ED,,0,0,0,,{\fad(200,200)\blur5\3c&H44198C&}Give me your grief, your pleasure, your everything
+Dialogue: 0,0:22:12.51,0:22:16.69,ED,,0,0,0,,{\fad(200,200)\blur5}She'd probably leave you before the night is over
+Dialogue: 0,0:22:16.69,0:22:22.82,ED,,0,0,0,,{\fad(200,200)\blur5\3c&H44198C&}Let me show you the storm of emotions trapped beneath the surface
 Dialogue: 0,0:22:22.82,0:22:29.87,ED,,0,0,0,,{\fad(200,200)\blur5\3c&H44198C&}Go beyond your dreams, love's waiting for you there
 Dialogue: 0,0:22:29.87,0:22:35.00,ED,,0,0,0,,{\fad(200,200)\blur5\3c&HFB3CE7&}What do you want so badly that you'd cry for it?
 Dialogue: 0,0:22:35.00,0:22:40.50,ED,,0,0,0,,{\fad(200,200)\blur5\3c&HFC833E&}All I want is your heart's warmth
-Dialogue: 0,0:22:40.50,0:22:45.96,ED,,0,0,0,,{\fad(200,200)\blur5\3c&H5A57FF&}No matter how much your head spins, my love will never disappear
+Dialogue: 0,0:22:40.50,0:22:45.96,ED,,0,0,0,,{\fad(200,200)\blur5\3c&H5A57FF&}There's no escape from the love that's seeping through your veins
 Dialogue: 0,0:22:45.96,0:22:48.93,ED,,0,0,0,,{\fad(200,200)\blur5\3c&HDAB29E&}Hold me, hold your breath
 Dialogue: 0,0:22:48.93,0:22:53.31,ED,,0,0,0,,{\fad(200,200)\blur5\3c&HDAB29E&}You're my prince
 Dialogue: 0,0:22:53.31,0:22:55.52,ED,,0,0,0,,{\fad(200,200)\blur5\3c&HDAB29E&}Just kidding
