@@ -16,8 +16,8 @@ Video File: D:/Fansubbing/GoodJob/Tanaka/02/tanaka02_premux[FD4D2EDB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 238
-Active Line: 239
+Scroll Position: 331
+Active Line: 355
 Video Position: 22583
 
 [V4+ Styles]
@@ -381,11 +381,11 @@ Dialogue: 10,0:21:48.04,0:21:49.81,GJM_Main,Ohta,0,0,0,,Morning, Tanaka.
 Dialogue: 10,0:21:51.46,0:21:52.85,GJM_Main,Ohta,0,0,0,,What's wrong, Tanaka?
 Dialogue: 10,0:22:00.15,0:22:01.16,GJM_Main,Tanaka,0,0,0,,My...
 Dialogue: 10,0:22:01.75,0:22:03.73,GJM_Main,Tanaka,0,0,0,,uneventful day...
-Dialogue: 10,0:23:30.55,0:23:32.99,GJM_Main,Echizen,0,0,0,,{\an8}You see my point too, right?!
-Dialogue: 10,0:23:32.99,0:23:34.49,GJM_Main,Ohta,0,0,0,,{\an8}Hey, Tanaka! Are you okay?!
-Dialogue: 10,0:23:34.49,0:23:35.62,GJM_Main,Miyano,0,0,0,,{\an8}Stupid Ecchan!
-Dialogue: 10,0:23:35.62,0:23:38.95,GJM_Main,Ohta,0,0,0,,{\an8}What?! She wasted homemade cookies?!
-Dialogue: 10,0:23:38.95,0:23:41.56,GJM_Main,Echizen,0,0,0,,{\an8}Fight me, Tanaka!
+Dialogue: 10,0:23:30.55,0:23:32.99,GJM_Main,Echizen,0,0,0,,{\an8}You see my point too, right?!{ep3, 15;03}
+Dialogue: 10,0:23:32.99,0:23:34.49,GJM_Main,Ohta,0,0,0,,{\an8}Hey, Tanaka! Are you okay?!{ep3, 02:43}
+Dialogue: 10,0:23:34.49,0:23:35.62,GJM_Main,Miyano,0,0,0,,{\an8}Stupid Ecchan!{ep3, 13:44}
+Dialogue: 10,0:23:35.62,0:23:38.95,GJM_Main,Ohta,0,0,0,,{\an8}What?! She wasted a {\i1}homemade cookie{\i0}?!{ep3, 16:01}
+Dialogue: 10,0:23:38.95,0:23:41.56,GJM_Main,Echizen,0,0,0,,{\an8}Fight me, Tanaka!{ep3, 04:12}
 Dialogue: 10,0:23:41.96,0:23:43.45,GJM_Main,Ohta,0,0,0,,{\an8}Next time, Episode 3:
 Dialogue: 10,0:23:43.45,0:23:45.48,GJM_Main,Ohta,0,0,0,,{\an8}Girl of Contrast, Echizen-san.
 Comment: 0,0:23:45.48,0:23:47.48,GJM_Main,,0,0,0,,OP
