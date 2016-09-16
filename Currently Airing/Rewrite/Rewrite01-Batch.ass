@@ -16,9 +16,9 @@ Video File: D:/Fansubbing/GoodJob/Rewrite/01/rewrite01_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 1184
-Active Line: 1187
-Video Position: 45323
+Scroll Position: 1374
+Active Line: 1380
+Video Position: 67001
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1099,8 +1099,8 @@ Dialogue: 0,0:23:34.22,0:23:36.93,Signs,,0,0,0,,{\pos(1072,249.333)\fscx363\fscy
 Dialogue: 2,0:23:34.22,0:23:36.93,Signs,,0,0,0,,{\an1\pos(906.67,63)\fs15\c&H000000&\fad(0,700)}2nd Year "Gray Boy" Tennouji Kotarou
 Dialogue: 2,0:23:34.22,0:23:36.93,Signs,,0,0,0,,{\an1\pos(906.67,95)\fs15\c&H000000&\fad(0,700)}Lots of irregularities in his history,\Nlike he has no background at all?
 Dialogue: 2,0:23:34.22,0:23:36.93,Signs,,0,0,0,,{\an1\pos(906.67,112)\fs15\c&H000000&\fad(0,700)}Possibility of a direct interview
-Dialogue: 1,0:29:53.93,0:29:55.56,Signs,,0,0,40,,{\an8\pos(645.714,578.286)\fnIwata Mincho Old Pro-Fate B\fs45\blur0.4}Theranden = "The veranda, then."
-Dialogue: 0,0:29:53.93,0:29:55.56,Signs,,0,0,40,,{\an8\pos(645.714,578.286)\fnIwata Mincho Old Pro-Fate B\fs45\bord1\c&H000000&\blur1.1}Theranden = "The veranda, then."
+Dialogue: 1,0:29:53.93,0:29:55.56,Minchos,,0,0,40,,{\an8\pos(645.714,583.286)\fs40\blur0.4\b1}Theranden = "The veranda, then."
+Dialogue: 0,0:29:53.93,0:29:55.56,Minchos,,0,0,40,,{\an8\pos(645.714,583.286)\fs40\bord1\c&H000000&\blur1.1\b1}Theranden = "The veranda, then."
 Dialogue: 1,0:31:08.93,0:31:08.97,Signs,,0,0,0,,{\pos(526.4,553.16)\fscx81.36\fscy81.36\frz8.053\fax-0.05\fnAnime Ace\fs25\b1\c&H1A1B1E&\blur0.8}Y{\c&H1A1B26&}o{\c&H1B1B2D&}u {\c&H1B1C3D&}w{\c&H1B1C44&}i{\c&H1C1C4C&}l{\c&H1C1C54&}l {\c&H1C1C63&}d{\c&H1D1C6B&}i{\c&H1D1C73&}e{\c&H1D1D7A&}\N{\c&H1D1D82&}i{\c&H1E1D8A&}n {\c&H1E1D99&}t{\c&H1E1DA1&}w{\c&H1F1DA9&}o {\c&H1F1EB8&}d{\c&H1F1EC0&}a{\c&H201EC7&}y{\c&H201ECF&}s
 Dialogue: 1,0:31:08.97,0:31:09.01,Signs,,0,0,0,,{\pos(517.35,569.27)\fscx88.25\fscy88.25\frz8.053\fax-0.05\fnAnime Ace\fs25\b1\c&H1A1B1E&\blur0.6}Y{\c&H1A1B26&}o{\c&H1B1B2D&}u {\c&H1B1C3D&}w{\c&H1B1C44&}i{\c&H1C1C4C&}l{\c&H1C1C54&}l {\c&H1C1C63&}d{\c&H1D1C6B&}i{\c&H1D1C73&}e{\c&H1D1D7A&}\N{\c&H1D1D82&}i{\c&H1E1D8A&}n {\c&H1E1D99&}t{\c&H1E1DA1&}w{\c&H1F1DA9&}o {\c&H1F1EB8&}d{\c&H1F1EC0&}a{\c&H201EC7&}y{\c&H201ECF&}s
 Dialogue: 1,0:31:09.01,0:31:09.05,Signs,,0,0,0,,{\pos(509.55,583.34)\fscx94.19\fscy94.19\frz8.053\fax-0.05\fnAnime Ace\fs25\b1\c&H1A1B1E&\blur1.5}Y{\c&H1A1B26&}o{\c&H1B1B2D&}u {\c&H1B1C3D&}w{\c&H1B1C44&}i{\c&H1C1C4C&}l{\c&H1C1C54&}l {\c&H1C1C63&}d{\c&H1D1C6B&}i{\c&H1D1C73&}e{\c&H1D1D7A&}\N{\c&H1D1D82&}i{\c&H1E1D8A&}n {\c&H1E1D99&}t{\c&H1E1DA1&}w{\c&H1F1DA9&}o {\c&H1F1EB8&}d{\c&H1F1EC0&}a{\c&H201EC7&}y{\c&H201ECF&}s
@@ -1143,81 +1143,81 @@ Dialogue: 1,0:31:10.51,0:31:10.55,Signs,,0,0,0,,{\pos(499.77,593.8)\fscx99.82\fs
 Dialogue: 1,0:31:10.55,0:31:10.59,Signs,,0,0,0,,{\pos(499.86,593.59)\fscx99.93\fscy99.93\frz8.053\fax-0.05\fnAnime Ace\fs25\b1\c&H1A1B1E&\blur0.6}Y{\c&H1A1B26&}o{\c&H1B1B2D&}u {\c&H1B1C3D&}w{\c&H1B1C44&}i{\c&H1C1C4C&}l{\c&H1C1C54&}l {\c&H1C1C63&}d{\c&H1D1C6B&}i{\c&H1D1C73&}e{\c&H1D1D7A&}\N{\c&H1D1D82&}i{\c&H1E1D8A&}n {\c&H1E1D99&}t{\c&H1E1DA1&}w{\c&H1F1DA9&}o {\c&H1F1EB8&}d{\c&H1F1EC0&}a{\c&H201EC7&}y{\c&H201ECF&}s
 Dialogue: 1,0:31:10.59,0:31:10.64,Signs,,0,0,0,,{\pos(500.01,593.21)\fscx99.94\fscy99.94\frz8.053\fax-0.05\fnAnime Ace\fs25\b1\c&H1A1B1E&\blur0.6}Y{\c&H1A1B26&}o{\c&H1B1B2D&}u {\c&H1B1C3D&}w{\c&H1B1C44&}i{\c&H1C1C4C&}l{\c&H1C1C54&}l {\c&H1C1C63&}d{\c&H1D1C6B&}i{\c&H1D1C73&}e{\c&H1D1D7A&}\N{\c&H1D1D82&}i{\c&H1E1D8A&}n {\c&H1E1D99&}t{\c&H1E1DA1&}w{\c&H1F1DA9&}o {\c&H1F1EB8&}d{\c&H1F1EC0&}a{\c&H201EC7&}y{\c&H201ECF&}s
 Dialogue: 1,0:31:10.64,0:31:10.68,Signs,,0,0,0,,{\pos(500.2,593)\frz8.053\fax-0.05\fnAnime Ace\fs25\b1\c&H1A1B1E&\blur0.6}Y{\c&H1A1B26&}o{\c&H1B1B2D&}u {\c&H1B1C3D&}w{\c&H1B1C44&}i{\c&H1C1C4C&}l{\c&H1C1C54&}l {\c&H1C1C63&}d{\c&H1D1C6B&}i{\c&H1D1C73&}e{\c&H1D1D7A&}\N{\c&H1D1D82&}i{\c&H1E1D8A&}n {\c&H1E1D99&}t{\c&H1E1DA1&}w{\c&H1F1DA9&}o {\c&H1F1EB8&}d{\c&H1F1EC0&}a{\c&H201EC7&}y{\c&H201ECF&}s
-Dialogue: 0,0:31:25.82,0:31:26.86,Signs,,0,0,0,,{\pos(1074.33,264.67)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:26.86,0:31:26.90,Signs,,0,0,0,,{\pos(1073.49,264.67)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:26.90,0:31:26.94,Signs,,0,0,0,,{\pos(1070.91,264.85)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:26.94,0:31:26.98,Signs,,0,0,0,,{\pos(1066.83,265.07)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:26.98,0:31:27.03,Signs,,0,0,0,,{\pos(1061.13,265.39)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.03,0:31:27.07,Signs,,0,0,0,,{\pos(1054.02,265.74)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.07,0:31:27.11,Signs,,0,0,0,,{\pos(1045.46,266.25)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.11,0:31:27.15,Signs,,0,0,0,,{\pos(1035.42,266.77)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.15,0:31:27.19,Signs,,0,0,0,,{\pos(1024.06,267.39)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.19,0:31:27.24,Signs,,0,0,0,,{\pos(1011.41,268.08)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.24,0:31:27.28,Signs,,0,0,0,,{\pos(997.48,268.84)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.28,0:31:27.32,Signs,,0,0,0,,{\pos(982.37,269.65)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.32,0:31:27.36,Signs,,0,0,0,,{\pos(966.05,270.57)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.36,0:31:27.40,Signs,,0,0,0,,{\pos(948.63,271.51)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.40,0:31:27.44,Signs,,0,0,0,,{\pos(930.15,272.51)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.44,0:31:27.49,Signs,,0,0,0,,{\pos(910.63,273.55)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.49,0:31:27.53,Signs,,0,0,0,,{\pos(890.15,274.7)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.53,0:31:27.57,Signs,,0,0,0,,{\pos(868.68,275.84)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.57,0:31:27.61,Signs,,0,0,0,,{\pos(846.4,277.06)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.61,0:31:27.65,Signs,,0,0,0,,{\pos(823.21,278.33)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.65,0:31:27.69,Signs,,0,0,0,,{\pos(799.26,279.61)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.69,0:31:27.74,Signs,,0,0,0,,{\pos(774.58,280.98)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.74,0:31:27.78,Signs,,0,0,0,,{\pos(749.19,282.35)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.78,0:31:27.82,Signs,,0,0,0,,{\pos(723.14,283.77)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.82,0:31:27.86,Signs,,0,0,0,,{\pos(696.47,285.23)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.86,0:31:27.90,Signs,,0,0,0,,{\pos(669.25,286.71)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.90,0:31:27.94,Signs,,0,0,0,,{\pos(641.53,288.21)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.94,0:31:27.99,Signs,,0,0,0,,{\pos(613.36,289.74)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:27.99,0:31:28.03,Signs,,0,0,0,,{\pos(584.74,291.32)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.03,0:31:28.07,Signs,,0,0,0,,{\pos(555.75,292.91)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.07,0:31:28.11,Signs,,0,0,0,,{\pos(526.46,294.48)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.11,0:31:28.15,Signs,,0,0,0,,{\pos(496.88,296.11)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.15,0:31:28.19,Signs,,0,0,0,,{\pos(467.05,297.74)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.19,0:31:28.24,Signs,,0,0,0,,{\pos(437.06,299.35)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.24,0:31:28.28,Signs,,0,0,0,,{\pos(406.93,301.01)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.28,0:31:28.32,Signs,,0,0,0,,{\pos(376.7,302.66)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.32,0:31:28.36,Signs,,0,0,0,,{\pos(346.45,304.32)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.36,0:31:28.40,Signs,,0,0,0,,{\pos(316.2,305.94)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.40,0:31:28.44,Signs,,0,0,0,,{\pos(285.98,307.61)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.44,0:31:28.49,Signs,,0,0,0,,{\pos(255.85,309.25)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.49,0:31:28.53,Signs,,0,0,0,,{\pos(225.9,310.9)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.53,0:31:28.57,Signs,,0,0,0,,{\pos(196.08,312.53)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.57,0:31:28.61,Signs,,0,0,0,,{\pos(166.55,314.12)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.61,0:31:28.65,Signs,,0,0,0,,{\pos(137.3,315.7)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.65,0:31:28.69,Signs,,0,0,0,,{\pos(108.35,317.3)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.69,0:31:28.74,Signs,,0,0,0,,{\pos(79.81,318.86)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.74,0:31:28.78,Signs,,0,0,0,,{\pos(51.65,320.38)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.78,0:31:28.82,Signs,,0,0,0,,{\pos(24.03,321.89)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.82,0:31:28.86,Signs,,0,0,0,,{\pos(-3.12,323.38)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.86,0:31:28.90,Signs,,0,0,0,,{\pos(-29.67,324.85)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.90,0:31:28.95,Signs,,0,0,0,,{\pos(-55.67,326.24)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.95,0:31:28.99,Signs,,0,0,0,,{\pos(-80.95,327.6)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:28.99,0:31:29.03,Signs,,0,0,0,,{\pos(-105.57,328.94)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.03,0:31:29.07,Signs,,0,0,0,,{\pos(-129.41,330.23)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.07,0:31:29.11,Signs,,0,0,0,,{\pos(-152.46,331.5)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.11,0:31:29.15,Signs,,0,0,0,,{\pos(-174.67,332.7)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.15,0:31:29.20,Signs,,0,0,0,,{\pos(-195.96,333.85)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.20,0:31:29.24,Signs,,0,0,0,,{\pos(-216.32,334.95)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.24,0:31:29.28,Signs,,0,0,0,,{\pos(-235.71,336)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.28,0:31:29.32,Signs,,0,0,0,,{\pos(-254.04,337)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.32,0:31:29.36,Signs,,0,0,0,,{\pos(-271.29,337.98)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.36,0:31:29.40,Signs,,0,0,0,,{\pos(-287.48,338.83)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.40,0:31:29.45,Signs,,0,0,0,,{\pos(-302.47,339.65)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.45,0:31:29.49,Signs,,0,0,0,,{\pos(-316.22,340.39)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.49,0:31:29.53,Signs,,0,0,0,,{\pos(-328.72,341.13)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.53,0:31:29.57,Signs,,0,0,0,,{\pos(-339.87,341.72)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.57,0:31:29.61,Signs,,0,0,0,,{\pos(-349.68,342.24)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.61,0:31:29.65,Signs,,0,0,0,,{\pos(-358.1,342.72)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.65,0:31:29.70,Signs,,0,0,0,,{\pos(-365.07,343.05)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.70,0:31:29.74,Signs,,0,0,0,,{\pos(-370.47,343.38)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.74,0:31:29.78,Signs,,0,0,0,,{\pos(-374.37,343.56)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.78,0:31:29.82,Signs,,0,0,0,,{\pos(-376.63,343.73)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:29.82,0:31:30.32,Signs,,0,0,0,,{\pos(-377.36,343.74)\frz1.386\fnIwata Mincho Old Pro-Fate B\c&H282A2D&\blur0.6\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:31:30.32,0:31:32.07,Signs,,0,0,0,,{\pos(441,491.334)\frz2.993\fnIwata Mincho Old Pro-Fate B\fs65\c&H2C2B2C&\blur1}The World
-Dialogue: 0,0:31:30.32,0:31:32.07,Signs,,0,0,0,,{\pos(1038,457.2)\frz2.946\fnIwata Mincho Old Pro-Fate B\fs65\c&H2C2B2C&\blur1}Myself
+Dialogue: 0,0:31:25.82,0:31:26.86,Minchos,,0,0,0,,{\pos(1074.33,264.67)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:26.86,0:31:26.90,Minchos,,0,0,0,,{\pos(1073.49,264.67)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:26.90,0:31:26.94,Minchos,,0,0,0,,{\pos(1070.91,264.85)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:26.94,0:31:26.98,Minchos,,0,0,0,,{\pos(1066.83,265.07)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:26.98,0:31:27.03,Minchos,,0,0,0,,{\pos(1061.13,265.39)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.03,0:31:27.07,Minchos,,0,0,0,,{\pos(1054.02,265.74)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.07,0:31:27.11,Minchos,,0,0,0,,{\pos(1045.46,266.25)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.11,0:31:27.15,Minchos,,0,0,0,,{\pos(1035.42,266.77)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.15,0:31:27.19,Minchos,,0,0,0,,{\pos(1024.06,267.39)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.19,0:31:27.24,Minchos,,0,0,0,,{\pos(1011.41,268.08)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.24,0:31:27.28,Minchos,,0,0,0,,{\pos(997.48,268.84)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.28,0:31:27.32,Minchos,,0,0,0,,{\pos(982.37,269.65)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.32,0:31:27.36,Minchos,,0,0,0,,{\pos(966.05,270.57)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.36,0:31:27.40,Minchos,,0,0,0,,{\pos(948.63,271.51)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.40,0:31:27.44,Minchos,,0,0,0,,{\pos(930.15,272.51)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.44,0:31:27.49,Minchos,,0,0,0,,{\pos(910.63,273.55)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.49,0:31:27.53,Minchos,,0,0,0,,{\pos(890.15,274.7)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.53,0:31:27.57,Minchos,,0,0,0,,{\pos(868.68,275.84)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.57,0:31:27.61,Minchos,,0,0,0,,{\pos(846.4,277.06)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.61,0:31:27.65,Minchos,,0,0,0,,{\pos(823.21,278.33)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.65,0:31:27.69,Minchos,,0,0,0,,{\pos(799.26,279.61)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.69,0:31:27.74,Minchos,,0,0,0,,{\pos(774.58,280.98)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.74,0:31:27.78,Minchos,,0,0,0,,{\pos(749.19,282.35)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.78,0:31:27.82,Minchos,,0,0,0,,{\pos(723.14,283.77)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.82,0:31:27.86,Minchos,,0,0,0,,{\pos(696.47,285.23)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.86,0:31:27.90,Minchos,,0,0,0,,{\pos(669.25,286.71)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.90,0:31:27.94,Minchos,,0,0,0,,{\pos(641.53,288.21)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.94,0:31:27.99,Minchos,,0,0,0,,{\pos(613.36,289.74)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:27.99,0:31:28.03,Minchos,,0,0,0,,{\pos(584.74,291.32)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.03,0:31:28.07,Minchos,,0,0,0,,{\pos(555.75,292.91)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.07,0:31:28.11,Minchos,,0,0,0,,{\pos(526.46,294.48)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.11,0:31:28.15,Minchos,,0,0,0,,{\pos(496.88,296.11)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.15,0:31:28.19,Minchos,,0,0,0,,{\pos(467.05,297.74)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.19,0:31:28.24,Minchos,,0,0,0,,{\pos(437.06,299.35)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.24,0:31:28.28,Minchos,,0,0,0,,{\pos(406.93,301.01)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.28,0:31:28.32,Minchos,,0,0,0,,{\pos(376.7,302.66)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.32,0:31:28.36,Minchos,,0,0,0,,{\pos(346.45,304.32)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.36,0:31:28.40,Minchos,,0,0,0,,{\pos(316.2,305.94)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.40,0:31:28.44,Minchos,,0,0,0,,{\pos(285.98,307.61)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.44,0:31:28.49,Minchos,,0,0,0,,{\pos(255.85,309.25)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.49,0:31:28.53,Minchos,,0,0,0,,{\pos(225.9,310.9)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.53,0:31:28.57,Minchos,,0,0,0,,{\pos(196.08,312.53)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.57,0:31:28.61,Minchos,,0,0,0,,{\pos(166.55,314.12)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.61,0:31:28.65,Minchos,,0,0,0,,{\pos(137.3,315.7)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.65,0:31:28.69,Minchos,,0,0,0,,{\pos(108.35,317.3)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.69,0:31:28.74,Minchos,,0,0,0,,{\pos(79.81,318.86)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.74,0:31:28.78,Minchos,,0,0,0,,{\pos(51.65,320.38)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.78,0:31:28.82,Minchos,,0,0,0,,{\pos(24.03,321.89)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.82,0:31:28.86,Minchos,,0,0,0,,{\pos(-3.12,323.38)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.86,0:31:28.90,Minchos,,0,0,0,,{\pos(-29.67,324.85)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.90,0:31:28.95,Minchos,,0,0,0,,{\pos(-55.67,326.24)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.95,0:31:28.99,Minchos,,0,0,0,,{\pos(-80.95,327.6)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:28.99,0:31:29.03,Minchos,,0,0,0,,{\pos(-105.57,328.94)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.03,0:31:29.07,Minchos,,0,0,0,,{\pos(-129.41,330.23)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.07,0:31:29.11,Minchos,,0,0,0,,{\pos(-152.46,331.5)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.11,0:31:29.15,Minchos,,0,0,0,,{\pos(-174.67,332.7)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.15,0:31:29.20,Minchos,,0,0,0,,{\pos(-195.96,333.85)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.20,0:31:29.24,Minchos,,0,0,0,,{\pos(-216.32,334.95)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.24,0:31:29.28,Minchos,,0,0,0,,{\pos(-235.71,336)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.28,0:31:29.32,Minchos,,0,0,0,,{\pos(-254.04,337)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.32,0:31:29.36,Minchos,,0,0,0,,{\pos(-271.29,337.98)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.36,0:31:29.40,Minchos,,0,0,0,,{\pos(-287.48,338.83)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.40,0:31:29.45,Minchos,,0,0,0,,{\pos(-302.47,339.65)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.45,0:31:29.49,Minchos,,0,0,0,,{\pos(-316.22,340.39)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.49,0:31:29.53,Minchos,,0,0,0,,{\pos(-328.72,341.13)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.53,0:31:29.57,Minchos,,0,0,0,,{\pos(-339.87,341.72)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.57,0:31:29.61,Minchos,,0,0,0,,{\pos(-349.68,342.24)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.61,0:31:29.65,Minchos,,0,0,0,,{\pos(-358.1,342.72)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.65,0:31:29.70,Minchos,,0,0,0,,{\pos(-365.07,343.05)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.70,0:31:29.74,Minchos,,0,0,0,,{\pos(-370.47,343.38)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.74,0:31:29.78,Minchos,,0,0,0,,{\pos(-374.37,343.56)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.78,0:31:29.82,Minchos,,0,0,0,,{\pos(-376.63,343.73)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:29.82,0:31:30.32,Minchos,,0,0,0,,{\pos(-377.36,343.74)\frz1.386\c&H282A2D&\blur0.6\q2\b1\fs39}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:31:30.32,0:31:32.07,Minchos,,0,0,0,,{\pos(441,491.334)\frz2.993\fs60\c&H2C2B2C&\blur1\b1}The World
+Dialogue: 0,0:31:30.32,0:31:32.07,Minchos,,0,0,0,,{\pos(1038,457.2)\frz2.946\fs60\c&H2C2B2C&\blur1\b1}Myself
 Dialogue: 0,0:35:25.68,0:35:27.68,Signs,,0,0,0,,{\pos(444.286,76.143)\frz352\fnEpisodeTitle-Kokoro\fs18\b1\c&HCED3E0&\blur0.6}Subject
 Dialogue: 0,0:35:25.68,0:35:27.68,Signs,,0,0,0,,{\pos(912,116)\frz352\fnEpisodeTitle-Kokoro\fs50\b1\c&HD5D9E2&\blur0.6}(No Subject)
 Dialogue: 0,0:35:25.68,0:35:27.68,Signs,,0,0,0,,{\pos(458,192)\frz350\fnEpisodeTitle-Kokoro\fs50\b1\c&HD2D8E1&\blur0.6}T{\c&HCED4DF&}o {\c&HC4CCDA&}K{\c&HC0C8D8&}.{\c&HBCC4D6&}T{\c&HB7C0D4&}.
@@ -1288,126 +1288,126 @@ Dialogue: 0,0:45:49.05,0:45:49.10,Signs,,0,0,0,,{\pos(295.76,317.96)\fscx110.67\
 Dialogue: 0,0:45:49.10,0:45:49.14,Signs,,0,0,0,,{\pos(294.93,317.86)\fscx110.93\fscy110.93\fnPost Human\fs35\b1\c&H3C4342&\blur0.6}To K.T:\NCarry the Colonel\Nto the Room
 Dialogue: 0,0:45:49.14,0:45:49.18,Signs,,0,0,0,,{\pos(294.12,317.75)\fscx111.19\fscy111.19\fnPost Human\fs35\b1\c&H3C4342&\blur0.6}To K.T:\NCarry the Colonel\Nto the Room
 Dialogue: 0,0:45:49.18,0:45:49.22,Signs,,0,0,0,,{\pos(293.29,317.65)\fscx111.46\fscy111.46\fnPost Human\fs35\b1\c&H3C4342&\blur0.6}To K.T:\NCarry the Colonel\Nto the Room
-Dialogue: 0,0:46:29.39,0:46:29.43,Signs,,0,0,0,,{\pos(632,738.73)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.43,0:46:29.47,Signs,,0,0,0,,{\pos(632,732.5)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.47,0:46:29.51,Signs,,0,0,0,,{\pos(632,726.26)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.51,0:46:29.55,Signs,,0,0,0,,{\pos(632,720.04)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.55,0:46:29.59,Signs,,0,0,0,,{\pos(632,713.79)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.59,0:46:29.64,Signs,,0,0,0,,{\pos(632,707.58)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.64,0:46:29.68,Signs,,0,0,0,,{\pos(631.99,701.35)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.68,0:46:29.72,Signs,,0,0,0,,{\pos(632,695.15)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.72,0:46:29.76,Signs,,0,0,0,,{\pos(632,688.9)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.76,0:46:29.80,Signs,,0,0,0,,{\pos(632,682.66)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.80,0:46:29.85,Signs,,0,0,0,,{\pos(632,676.45)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.85,0:46:29.89,Signs,,0,0,0,,{\pos(632,670.21)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.89,0:46:29.93,Signs,,0,0,0,,{\pos(632,663.95)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.93,0:46:29.97,Signs,,0,0,0,,{\pos(632,657.73)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:29.97,0:46:30.01,Signs,,0,0,0,,{\pos(632,651.5)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.01,0:46:30.05,Signs,,0,0,0,,{\pos(632,645.3)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.05,0:46:30.10,Signs,,0,0,0,,{\pos(632,639.06)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.10,0:46:30.14,Signs,,0,0,0,,{\pos(632,632.83)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.14,0:46:30.18,Signs,,0,0,0,,{\pos(632,626.58)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.18,0:46:30.22,Signs,,0,0,0,,{\pos(632,620.36)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.22,0:46:30.26,Signs,,0,0,0,,{\pos(632,614.14)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.26,0:46:30.30,Signs,,0,0,0,,{\pos(632,607.92)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.30,0:46:30.35,Signs,,0,0,0,,{\pos(632,601.7)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.35,0:46:30.39,Signs,,0,0,0,,{\pos(632,595.46)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.39,0:46:30.43,Signs,,0,0,0,,{\pos(632,589.23)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.43,0:46:30.47,Signs,,0,0,0,,{\pos(632,583)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.47,0:46:30.51,Signs,,0,0,0,,{\pos(632,576.75)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.51,0:46:30.55,Signs,,0,0,0,,{\pos(632,570.56)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.55,0:46:30.60,Signs,,0,0,0,,{\pos(632.01,564.29)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.60,0:46:30.64,Signs,,0,0,0,,{\pos(632,558.08)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.64,0:46:30.68,Signs,,0,0,0,,{\pos(632,551.86)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.68,0:46:30.72,Signs,,0,0,0,,{\pos(632.01,545.62)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.72,0:46:30.76,Signs,,0,0,0,,{\pos(632.01,539.36)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.76,0:46:30.80,Signs,,0,0,0,,{\pos(632,533.16)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.80,0:46:30.85,Signs,,0,0,0,,{\pos(632.01,526.92)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.85,0:46:30.89,Signs,,0,0,0,,{\pos(632.01,520.71)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.89,0:46:30.93,Signs,,0,0,0,,{\pos(632.01,514.48)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.93,0:46:30.97,Signs,,0,0,0,,{\pos(632.01,508.24)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:30.97,0:46:31.01,Signs,,0,0,0,,{\pos(632.01,502.01)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.01,0:46:31.05,Signs,,0,0,0,,{\pos(632.01,495.78)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.05,0:46:31.10,Signs,,0,0,0,,{\pos(632.01,489.55)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.10,0:46:31.14,Signs,,0,0,0,,{\pos(632.01,483.32)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.14,0:46:31.18,Signs,,0,0,0,,{\pos(632,477.11)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.18,0:46:31.22,Signs,,0,0,0,,{\pos(632.01,470.89)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.22,0:46:31.26,Signs,,0,0,0,,{\pos(632.01,464.65)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.26,0:46:31.31,Signs,,0,0,0,,{\pos(632.01,458.42)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.31,0:46:31.35,Signs,,0,0,0,,{\pos(632.01,452.17)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.35,0:46:31.39,Signs,,0,0,0,,{\pos(632,445.96)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.39,0:46:31.43,Signs,,0,0,0,,{\pos(632.01,439.72)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.43,0:46:31.47,Signs,,0,0,0,,{\pos(632.01,433.49)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.47,0:46:31.51,Signs,,0,0,0,,{\pos(632.01,427.29)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.51,0:46:31.56,Signs,,0,0,0,,{\pos(632.01,421.05)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.56,0:46:31.60,Signs,,0,0,0,,{\pos(632.01,414.79)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.60,0:46:31.64,Signs,,0,0,0,,{\pos(632.01,408.57)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.64,0:46:31.68,Signs,,0,0,0,,{\pos(632.01,402.34)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.68,0:46:31.72,Signs,,0,0,0,,{\pos(632.01,396.1)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.72,0:46:31.76,Signs,,0,0,0,,{\pos(632.01,389.9)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.76,0:46:31.81,Signs,,0,0,0,,{\pos(632.01,383.67)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.81,0:46:31.85,Signs,,0,0,0,,{\pos(632.01,377.43)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.85,0:46:31.89,Signs,,0,0,0,,{\pos(632.01,371.2)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.89,0:46:31.93,Signs,,0,0,0,,{\pos(632.01,364.95)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.93,0:46:31.97,Signs,,0,0,0,,{\pos(632.01,358.75)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:31.97,0:46:32.01,Signs,,0,0,0,,{\pos(632.01,352.51)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.01,0:46:32.06,Signs,,0,0,0,,{\pos(632.01,346.26)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.06,0:46:32.10,Signs,,0,0,0,,{\pos(632.01,340.05)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.10,0:46:32.14,Signs,,0,0,0,,{\pos(632.01,333.83)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.14,0:46:32.18,Signs,,0,0,0,,{\pos(632.01,327.57)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.18,0:46:32.22,Signs,,0,0,0,,{\pos(632.01,321.38)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.22,0:46:32.26,Signs,,0,0,0,,{\pos(632.01,315.13)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.26,0:46:32.31,Signs,,0,0,0,,{\pos(632.01,308.89)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.31,0:46:32.35,Signs,,0,0,0,,{\pos(632.01,302.69)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.35,0:46:32.39,Signs,,0,0,0,,{\pos(632.01,296.44)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.39,0:46:32.43,Signs,,0,0,0,,{\pos(632.01,290.21)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.43,0:46:32.47,Signs,,0,0,0,,{\pos(632.01,283.99)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.47,0:46:32.51,Signs,,0,0,0,,{\pos(632.01,277.76)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.51,0:46:32.56,Signs,,0,0,0,,{\pos(632.01,271.52)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.56,0:46:32.60,Signs,,0,0,0,,{\pos(632.01,265.3)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.60,0:46:32.64,Signs,,0,0,0,,{\pos(632.01,259.05)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.64,0:46:32.68,Signs,,0,0,0,,{\pos(632.01,252.85)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.68,0:46:32.72,Signs,,0,0,0,,{\pos(632.01,246.62)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.72,0:46:32.76,Signs,,0,0,0,,{\pos(632.01,240.37)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.76,0:46:32.81,Signs,,0,0,0,,{\pos(632.01,234.16)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.81,0:46:32.85,Signs,,0,0,0,,{\pos(632.01,227.92)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.85,0:46:32.89,Signs,,0,0,0,,{\pos(632.01,221.69)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.89,0:46:32.93,Signs,,0,0,0,,{\pos(632.01,215.48)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.93,0:46:32.97,Signs,,0,0,0,,{\pos(632.01,209.24)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:32.97,0:46:33.02,Signs,,0,0,0,,{\pos(632.01,202.99)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.02,0:46:33.06,Signs,,0,0,0,,{\pos(632,196.78)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.06,0:46:33.10,Signs,,0,0,0,,{\pos(632.01,190.55)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.10,0:46:33.14,Signs,,0,0,0,,{\pos(632,184.32)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.14,0:46:33.18,Signs,,0,0,0,,{\pos(632.01,178.09)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.18,0:46:33.22,Signs,,0,0,0,,{\pos(632,171.85)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.22,0:46:33.27,Signs,,0,0,0,,{\pos(632,165.65)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.27,0:46:33.31,Signs,,0,0,0,,{\pos(632.01,159.42)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.31,0:46:33.35,Signs,,0,0,0,,{\pos(632.01,153.18)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.35,0:46:33.39,Signs,,0,0,0,,{\pos(632.01,146.94)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.39,0:46:33.43,Signs,,0,0,0,,{\pos(632.01,140.72)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.43,0:46:33.47,Signs,,0,0,0,,{\pos(632.01,134.47)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.47,0:46:33.52,Signs,,0,0,0,,{\pos(632.02,128.27)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.52,0:46:33.56,Signs,,0,0,0,,{\pos(632.02,122.03)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.56,0:46:33.60,Signs,,0,0,0,,{\pos(632.02,115.79)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.60,0:46:33.64,Signs,,0,0,0,,{\pos(632.02,109.58)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.64,0:46:33.68,Signs,,0,0,0,,{\pos(632.02,103.35)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.68,0:46:33.72,Signs,,0,0,0,,{\pos(632.02,97.1)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.72,0:46:33.77,Signs,,0,0,0,,{\pos(632.03,90.88)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.77,0:46:33.81,Signs,,0,0,0,,{\pos(632.03,84.63)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.81,0:46:33.85,Signs,,0,0,0,,{\pos(632.03,78.42)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.85,0:46:33.89,Signs,,0,0,0,,{\pos(632.03,72.22)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.89,0:46:33.93,Signs,,0,0,0,,{\pos(632.03,65.96)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.93,0:46:33.97,Signs,,0,0,0,,{\pos(632.03,59.75)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:33.97,0:46:34.02,Signs,,0,0,0,,{\pos(632.03,53.51)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.02,0:46:34.06,Signs,,0,0,0,,{\pos(632.03,47.27)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.06,0:46:34.10,Signs,,0,0,0,,{\pos(632.03,41.06)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.10,0:46:34.14,Signs,,0,0,0,,{\pos(632.04,34.83)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.14,0:46:34.18,Signs,,0,0,0,,{\pos(632.04,28.57)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.18,0:46:34.22,Signs,,0,0,0,,{\pos(632.04,22.37)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.22,0:46:34.27,Signs,,0,0,0,,{\pos(632.04,16.14)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.27,0:46:34.31,Signs,,0,0,0,,{\pos(632.04,9.9)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.31,0:46:34.35,Signs,,0,0,0,,{\pos(632.04,3.7)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.35,0:46:34.39,Signs,,0,0,0,,{\pos(632.04,-2.56)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.39,0:46:34.43,Signs,,0,0,0,,{\pos(632.04,-8.8)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.43,0:46:34.47,Signs,,0,0,0,,{\pos(632.04,-15)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
-Dialogue: 0,0:46:34.47,0:46:34.52,Signs,,0,0,0,,{\pos(632.04,-21.27)\fnIwata Mincho Old Pro-Fate B\fs26\blur0.5}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.39,0:46:29.43,Minchos,,0,0,0,,{\pos(632.000,743.730)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.43,0:46:29.47,Minchos,,0,0,0,,{\pos(632.000,737.500)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.47,0:46:29.51,Minchos,,0,0,0,,{\pos(632.000,731.260)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.51,0:46:29.55,Minchos,,0,0,0,,{\pos(632.000,725.040)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.55,0:46:29.59,Minchos,,0,0,0,,{\pos(632.000,718.790)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.59,0:46:29.64,Minchos,,0,0,0,,{\pos(632.000,712.580)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.64,0:46:29.68,Minchos,,0,0,0,,{\pos(631.990,706.350)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.68,0:46:29.72,Minchos,,0,0,0,,{\pos(632.000,700.150)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.72,0:46:29.76,Minchos,,0,0,0,,{\pos(632.000,693.900)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.76,0:46:29.80,Minchos,,0,0,0,,{\pos(632.000,687.660)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.80,0:46:29.85,Minchos,,0,0,0,,{\pos(632.000,681.450)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.85,0:46:29.89,Minchos,,0,0,0,,{\pos(632.000,675.210)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.89,0:46:29.93,Minchos,,0,0,0,,{\pos(632.000,668.950)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.93,0:46:29.97,Minchos,,0,0,0,,{\pos(632.000,662.730)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:29.97,0:46:30.01,Minchos,,0,0,0,,{\pos(632.000,656.500)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.01,0:46:30.05,Minchos,,0,0,0,,{\pos(632.000,650.300)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.05,0:46:30.10,Minchos,,0,0,0,,{\pos(632.000,644.060)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.10,0:46:30.14,Minchos,,0,0,0,,{\pos(632.000,637.830)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.14,0:46:30.18,Minchos,,0,0,0,,{\pos(632.000,631.580)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.18,0:46:30.22,Minchos,,0,0,0,,{\pos(632.000,625.360)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.22,0:46:30.26,Minchos,,0,0,0,,{\pos(632.000,619.140)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.26,0:46:30.30,Minchos,,0,0,0,,{\pos(632.000,612.920)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.30,0:46:30.35,Minchos,,0,0,0,,{\pos(632.000,606.700)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.35,0:46:30.39,Minchos,,0,0,0,,{\pos(632.000,600.460)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.39,0:46:30.43,Minchos,,0,0,0,,{\pos(632.000,594.230)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.43,0:46:30.47,Minchos,,0,0,0,,{\pos(632.000,588.000)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.47,0:46:30.51,Minchos,,0,0,0,,{\pos(632.000,581.750)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.51,0:46:30.55,Minchos,,0,0,0,,{\pos(632.000,575.560)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.55,0:46:30.60,Minchos,,0,0,0,,{\pos(632.010,569.290)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.60,0:46:30.64,Minchos,,0,0,0,,{\pos(632.000,563.080)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.64,0:46:30.68,Minchos,,0,0,0,,{\pos(632.000,556.860)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.68,0:46:30.72,Minchos,,0,0,0,,{\pos(632.010,550.620)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.72,0:46:30.76,Minchos,,0,0,0,,{\pos(632.010,544.360)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.76,0:46:30.80,Minchos,,0,0,0,,{\pos(632.000,538.160)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.80,0:46:30.85,Minchos,,0,0,0,,{\pos(632.010,531.920)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.85,0:46:30.89,Minchos,,0,0,0,,{\pos(632.010,525.710)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.89,0:46:30.93,Minchos,,0,0,0,,{\pos(632.010,519.480)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.93,0:46:30.97,Minchos,,0,0,0,,{\pos(632.010,513.240)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:30.97,0:46:31.01,Minchos,,0,0,0,,{\pos(632.010,507.010)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.01,0:46:31.05,Minchos,,0,0,0,,{\pos(632.010,500.780)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.05,0:46:31.10,Minchos,,0,0,0,,{\pos(632.010,494.550)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.10,0:46:31.14,Minchos,,0,0,0,,{\pos(632.010,488.320)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.14,0:46:31.18,Minchos,,0,0,0,,{\pos(632.000,482.110)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.18,0:46:31.22,Minchos,,0,0,0,,{\pos(632.010,475.890)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.22,0:46:31.26,Minchos,,0,0,0,,{\pos(632.010,469.650)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.26,0:46:31.31,Minchos,,0,0,0,,{\pos(632.010,463.420)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.31,0:46:31.35,Minchos,,0,0,0,,{\pos(632.010,457.170)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.35,0:46:31.39,Minchos,,0,0,0,,{\pos(632.000,450.960)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.39,0:46:31.43,Minchos,,0,0,0,,{\pos(632.010,444.720)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.43,0:46:31.47,Minchos,,0,0,0,,{\pos(632.010,438.490)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.47,0:46:31.51,Minchos,,0,0,0,,{\pos(632.010,432.290)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.51,0:46:31.56,Minchos,,0,0,0,,{\pos(632.010,426.050)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.56,0:46:31.60,Minchos,,0,0,0,,{\pos(632.010,419.790)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.60,0:46:31.64,Minchos,,0,0,0,,{\pos(632.010,413.570)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.64,0:46:31.68,Minchos,,0,0,0,,{\pos(632.010,407.340)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.68,0:46:31.72,Minchos,,0,0,0,,{\pos(632.010,401.100)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.72,0:46:31.76,Minchos,,0,0,0,,{\pos(632.010,394.900)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.76,0:46:31.81,Minchos,,0,0,0,,{\pos(632.010,388.670)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.81,0:46:31.85,Minchos,,0,0,0,,{\pos(632.010,382.430)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.85,0:46:31.89,Minchos,,0,0,0,,{\pos(632.010,376.200)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.89,0:46:31.93,Minchos,,0,0,0,,{\pos(632.010,369.950)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.93,0:46:31.97,Minchos,,0,0,0,,{\pos(632.010,363.750)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:31.97,0:46:32.01,Minchos,,0,0,0,,{\pos(632.010,357.510)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.01,0:46:32.06,Minchos,,0,0,0,,{\pos(632.010,351.260)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.06,0:46:32.10,Minchos,,0,0,0,,{\pos(632.010,345.050)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.10,0:46:32.14,Minchos,,0,0,0,,{\pos(632.010,338.830)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.14,0:46:32.18,Minchos,,0,0,0,,{\pos(632.010,332.570)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.18,0:46:32.22,Minchos,,0,0,0,,{\pos(632.010,326.380)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.22,0:46:32.26,Minchos,,0,0,0,,{\pos(632.010,320.130)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.26,0:46:32.31,Minchos,,0,0,0,,{\pos(632.010,313.890)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.31,0:46:32.35,Minchos,,0,0,0,,{\pos(632.010,307.690)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.35,0:46:32.39,Minchos,,0,0,0,,{\pos(632.010,301.440)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.39,0:46:32.43,Minchos,,0,0,0,,{\pos(632.010,295.210)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.43,0:46:32.47,Minchos,,0,0,0,,{\pos(632.010,288.990)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.47,0:46:32.51,Minchos,,0,0,0,,{\pos(632.010,282.760)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.51,0:46:32.56,Minchos,,0,0,0,,{\pos(632.010,276.520)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.56,0:46:32.60,Minchos,,0,0,0,,{\pos(632.010,270.300)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.60,0:46:32.64,Minchos,,0,0,0,,{\pos(632.010,264.050)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.64,0:46:32.68,Minchos,,0,0,0,,{\pos(632.010,257.850)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.68,0:46:32.72,Minchos,,0,0,0,,{\pos(632.010,251.620)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.72,0:46:32.76,Minchos,,0,0,0,,{\pos(632.010,245.370)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.76,0:46:32.81,Minchos,,0,0,0,,{\pos(632.010,239.160)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.81,0:46:32.85,Minchos,,0,0,0,,{\pos(632.010,232.920)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.85,0:46:32.89,Minchos,,0,0,0,,{\pos(632.010,226.690)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.89,0:46:32.93,Minchos,,0,0,0,,{\pos(632.010,220.480)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.93,0:46:32.97,Minchos,,0,0,0,,{\pos(632.010,214.240)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:32.97,0:46:33.02,Minchos,,0,0,0,,{\pos(632.010,207.990)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.02,0:46:33.06,Minchos,,0,0,0,,{\pos(632.000,201.780)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.06,0:46:33.10,Minchos,,0,0,0,,{\pos(632.010,195.550)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.10,0:46:33.14,Minchos,,0,0,0,,{\pos(632.000,189.320)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.14,0:46:33.18,Minchos,,0,0,0,,{\pos(632.010,183.090)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.18,0:46:33.22,Minchos,,0,0,0,,{\pos(632.000,176.850)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.22,0:46:33.27,Minchos,,0,0,0,,{\pos(632.000,170.650)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.27,0:46:33.31,Minchos,,0,0,0,,{\pos(632.010,164.420)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.31,0:46:33.35,Minchos,,0,0,0,,{\pos(632.010,158.180)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.35,0:46:33.39,Minchos,,0,0,0,,{\pos(632.010,151.940)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.39,0:46:33.43,Minchos,,0,0,0,,{\pos(632.010,145.720)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.43,0:46:33.47,Minchos,,0,0,0,,{\pos(632.010,139.470)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.47,0:46:33.52,Minchos,,0,0,0,,{\pos(632.020,133.270)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.52,0:46:33.56,Minchos,,0,0,0,,{\pos(632.020,127.030)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.56,0:46:33.60,Minchos,,0,0,0,,{\pos(632.020,120.790)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.60,0:46:33.64,Minchos,,0,0,0,,{\pos(632.020,114.580)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.64,0:46:33.68,Minchos,,0,0,0,,{\pos(632.020,108.350)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.68,0:46:33.72,Minchos,,0,0,0,,{\pos(632.020,102.100)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.72,0:46:33.77,Minchos,,0,0,0,,{\pos(632.030,95.880)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.77,0:46:33.81,Minchos,,0,0,0,,{\pos(632.030,89.630)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.81,0:46:33.85,Minchos,,0,0,0,,{\pos(632.030,83.420)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.85,0:46:33.89,Minchos,,0,0,0,,{\pos(632.030,77.220)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.89,0:46:33.93,Minchos,,0,0,0,,{\pos(632.030,70.960)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.93,0:46:33.97,Minchos,,0,0,0,,{\pos(632.030,64.750)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:33.97,0:46:34.02,Minchos,,0,0,0,,{\pos(632.030,58.510)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.02,0:46:34.06,Minchos,,0,0,0,,{\pos(632.030,52.270)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.06,0:46:34.10,Minchos,,0,0,0,,{\pos(632.030,46.060)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.10,0:46:34.14,Minchos,,0,0,0,,{\pos(632.040,39.830)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.14,0:46:34.18,Minchos,,0,0,0,,{\pos(632.040,33.570)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.18,0:46:34.22,Minchos,,0,0,0,,{\pos(632.040,27.370)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.22,0:46:34.27,Minchos,,0,0,0,,{\pos(632.040,21.140)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.27,0:46:34.31,Minchos,,0,0,0,,{\pos(632.040,14.900)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.31,0:46:34.35,Minchos,,0,0,0,,{\pos(632.040,8.700)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.35,0:46:34.39,Minchos,,0,0,0,,{\pos(632.040,2.440)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.39,0:46:34.43,Minchos,,0,0,0,,{\pos(632.040,-3.800)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.43,0:46:34.47,Minchos,,0,0,0,,{\pos(632.040,-10.000)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?
+Dialogue: 0,0:46:34.47,0:46:34.52,Minchos,,0,0,0,,{\pos(632.040,-16.270)\fs24\blur0.5\b1}Episode 1:\NThe World or Myself?

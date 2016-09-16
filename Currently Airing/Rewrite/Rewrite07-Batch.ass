@@ -11,22 +11,21 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: rewrite 07 premux[8E0C0903].mkv
-Video File: rewrite 07 premux[8E0C0903].mkv
-Keyframes File: rewrite 07 premux[8E0C0903]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Rewrite/07/rewrite 07 premux[8E0C0903].mkv
+Video File: D:/Fansubbing/GoodJob/Rewrite/07/rewrite 07 premux[8E0C0903].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 231
-Active Line: 248
-Video Position: 19367
+Scroll Position: 451
+Active Line: 457
+Video Position: 31830
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H003F1313,&HC0441A0F,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
 Style: Default - Alt,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H0013133F,&HC00F0F44,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
-Style: KMinR,Kozuka Mincho Pro Strippedv2 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
-Style: KMinH,Kozuka Mincho Pro Strippedv2 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinR,Kozuka Mincho Pro Strippedv3 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinH,Kozuka Mincho Pro Strippedv3 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: CentraleSans,CentraleSansRnd Bold,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: CentraleSansLight,CentraleSansRnd Medium,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: ED-R,Dominican,50,&H00FFFFFF,&H000000FF,&H00FFFFFF,&HC4000000,-1,0,0,0,98,100,0,0,1,3,0,7,40,40,25,1
@@ -491,4 +490,4 @@ Dialogue: 0,0:21:45.62,0:21:47.37,CentraleSansLight,,0,0,0,,{\fs20\blur0.6\c&H73
 Dialogue: 0,0:21:45.62,0:21:47.37,CentraleSansLight,,0,0,0,,{\fs16\blur0.7\c&H837A6F&\pos(780,525)\1a&H2F&}No answer
 Dialogue: 0,0:21:45.62,0:21:47.37,CentraleSansLight,,0,0,0,,{\fs20\blur0.6\c&H736E63&\alpha&H20&\pos(703,593)}I'm begging you, call me
 Dialogue: 0,0:21:45.62,0:21:47.37,CentraleSansLight,,0,0,0,,{\fs16\blur0.7\c&H878473&\1a&H00&\pos(781,707)}Canceled
-Dialogue: 0,0:22:07.55,0:22:09.30,KMinR,,0,0,0,,{\fs40\pos(776,339)\blur0.7\c&H6F89F2&}No entry for students
+Dialogue: 0,0:22:07.55,0:22:09.30,KMinR,,0,0,0,,{\fs40\pos(776,339)\blur0.7\c&H6F89F2&\b1}No entry for students

@@ -11,21 +11,21 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: rewrite 08 premux[407FD058].mkv
-Video File: rewrite 08 premux[407FD058].mkv
+Audio File: D:/Fansubbing/GoodJob/Rewrite/08/rewrite 08 premux[407FD058].mkv
+Video File: D:/Fansubbing/GoodJob/Rewrite/08/rewrite 08 premux[407FD058].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.125000
-Scroll Position: 478
+Scroll Position: 473
 Active Line: 479
-Video Position: 32443
+Video Position: 32476
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H003F1313,&HC0441A0F,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
 Style: Default - Alt,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H0013133F,&HC00F0F44,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
-Style: KMinR,Kozuka Mincho Pro Strippedv2 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
-Style: KMinH,Kozuka Mincho Pro Strippedv2 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinR,Kozuka Mincho Pro Strippedv3 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinH,Kozuka Mincho Pro Strippedv3 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: CentraleSans,CentraleSansRnd Bold,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Hand1,LEHN075,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Chalk1,FrankReactionWeb,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
@@ -501,7 +501,7 @@ Dialogue: 5,0:23:39.68,0:23:47.57,ED2-E,,0,0,0,,{\fad(150,150)\blur1\c&HB7E8EC&\
 Dialogue: 5,0:23:47.57,0:23:56.91,ED2-R,,0,0,0,,{\fad(150,150)\blur1\c&HB7E8EC&\3c&H38A0C7&\4c&H38A0C7&}itsuka deau anata he saigo ni hohoemi wo
 Dialogue: 5,0:23:47.57,0:23:56.91,ED2-E,,0,0,0,,{\fad(150,150)\blur1\c&HB7E8EC&\3c&H38A0C7&\4c&H38A0C7&}So I'll offer you one last smile before we meet again
 Comment: 0,0:22:30.29,0:22:32.29,Default,,0,0,0,,TS
-Dialogue: 0,0:03:08.99,0:03:10.25,KMinR,,0,0,0,,{\pos(763,167)\fs16\b1\c&H797CC3&\blur0.6}No entry for students
+Dialogue: 0,0:03:08.99,0:03:10.25,KMinR,,0,0,0,,{\pos(763,167)\fs18\b1\c&H797CC3&\blur0.6}No entry for students
 Dialogue: 0,0:04:18.40,0:04:20.15,CentraleSansLight,,0,0,0,,{\pos(917,19)\frz0.393\fs20\c&H919B81&\blur1.2}No answer
 Dialogue: 0,0:04:18.40,0:04:20.15,CentraleSansLight,,0,0,0,,{\pos(778,144)\frz1.163\fs26\c&H9FA08F&\blur0.7}I{\c&H9D9E8D&}'{\c&H9B9C8C&}m {\c&H979789&}b{\c&H959587&}e{\c&H939286&}g{\c&H919084&}g{\c&H8F8E82&}i{\c&H8D8C81&}n{\c&H8B8A7F&}g {\c&H87857C&}y{\c&H87857B&}ou{\c&H86867A&}, {\c&H868678&}ca{\c&H868677&}l{\c&H868676&}l {\c&H858775&}m{\c&H858774&}e
 Dialogue: 0,0:04:18.40,0:04:20.15,CentraleSansLight,,0,0,0,,{\pos(927,345)\frz0.393\fs20\c&H59654F&\blur0.6}Canceled

@@ -11,22 +11,21 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: rewrite10_premux.mkv
-Video File: rewrite10_premux.mkv
-Keyframes File: rewrite10_workraw_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/Rewrite/10/rewrite10_premux.mkv
+Video File: D:/Fansubbing/GoodJob/Rewrite/10/rewrite10_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 351
-Active Line: 363
-Video Position: 29698
+Video Zoom Percent: 0.750000
+Scroll Position: 475
+Active Line: 484
+Video Position: 4355
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H003F1313,&HC0441A0F,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
 Style: Default - Alt,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H0013133F,&HC00F0F44,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
-Style: KMinH,Kozuka Mincho Pro Strippedv2 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
-Style: KMinR,Kozuka Mincho Pro Strippedv2 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinR,Kozuka Mincho Pro Strippedv3 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinH,Kozuka Mincho Pro Strippedv3 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Hand2,VinceHand 2 15,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: jojo_012,Backlash BRK,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: jojo_020,Black Metal Sans,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
@@ -527,7 +526,7 @@ Dialogue: 2,0:03:01.61,0:03:05.61,KMinR,,0,0,0,,{\pos(886,601)\fs22\b1\c&H000000
 Dialogue: 0,0:03:01.61,0:03:05.61,KMinR,,0,0,0,,{\an4\pos(956,601)\fs22\b1\bord3\3c&HFFFFFF&\1a&HFF&\blur4\fad(450,450)\t(405,450,\1a&H00&)\t(3550,3595,\1a&HFF&)}Simply, As Friends
 Dialogue: 1,0:03:01.61,0:03:05.61,KMinR,,0,0,0,,{\an4\pos(956,601)\fs22\b1\bord1.5\c&HFFFBFF&\3c&HFFFBFF&\1a&HFF&\blur0.6\fad(450,450)\t(405,450,\1a&H00&)\t(3550,3595,\1a&HFF&)}Simply, As Friends
 Dialogue: 2,0:03:01.61,0:03:05.61,KMinR,,0,0,0,,{\an4\pos(956,601)\fs22\b1\c&H000000&\blur0.4\fad(450,450)}Simply, As Friends
-Dialogue: 0,0:11:35.50,0:11:36.96,KMinH,,0,0,0,,{\pos(1074.33,264.67)\frz1.386\fnIwata Mincho Old Pro-Fate B\fs40\c&H282A2D&\blur0.6\fad(231,0)\q2}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
-Dialogue: 0,0:11:35.50,0:11:36.96,KMinR,,0,0,0,,{\an4\pos(282.428,549.285)\fscx115\frz1.369\fnIwata Mincho Old Pro-Fate B\fs22\c&H1A1F23&\blur1\fad(231,0)\q2}The World
-Dialogue: 0,0:11:35.50,0:11:36.96,KMinR,,0,0,0,,{\an4\pos(519,541.286)\fscx115\frz1.369\fnIwata Mincho Old Pro-Fate B\fs22\c&H1A1F23&\blur1\fad(231,0)\q2}Myself
+Dialogue: 0,0:11:35.50,0:11:36.96,KMinR,,0,0,0,,{\pos(1074.33,264.67)\frz1.386\fs39\c&H282A2D&\blur0.6\fad(231,0)\q2\b1}Q25) You have power and are discontent with this world. Tell me, do you wish to change this world? Or do you wish to change yourself?
+Dialogue: 0,0:11:35.50,0:11:36.96,KMinR,,0,0,0,,{\an4\pos(282.428,549.285)\fscx115\frz1.369\fs20\c&H1A1F23&\blur1\fad(231,0)\q2\b1}The World
+Dialogue: 0,0:11:35.50,0:11:36.96,KMinR,,0,0,0,,{\an4\pos(519,541.286)\fscx115\frz1.369\fs20\c&H1A1F23&\blur1\fad(231,0)\q2\b1}Myself
 Dialogue: 0,0:11:38.34,0:11:40.34,Hand2,,0,0,0,,{\pos(358,432)\frz336.8\fs80\fsp3\c&H6F7379&\blur0.8}I don't know.

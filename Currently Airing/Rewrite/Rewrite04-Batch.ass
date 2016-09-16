@@ -16,16 +16,16 @@ Video File: D:/Fansubbing/GoodJob/Rewrite/04/rewrite04_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 458
-Active Line: 459
-Video Position: 32836
+Scroll Position: 1684
+Active Line: 1692
+Video Position: 3252
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H003F1313,&HC0441A0F,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
 Style: Default - Alt,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H0013133F,&HC00F0F44,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
-Style: KMinH,Kozuka Mincho Pro Strippedv2 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
-Style: KMinR,Kozuka Mincho Pro Strippedv2 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinR,Kozuka Mincho Pro Strippedv3 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+Style: KMinH,Kozuka Mincho Pro Strippedv3 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: jojo_009,Armor Piercing 2.0 BB,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: jojo_022,Blue Highway D,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: jojo_026,Bronic,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
@@ -1731,4 +1731,3 @@ Dialogue: 0,0:09:01.72,0:09:04.48,jojo_031,,0,0,0,,{=3}{\move(406,487,429.33,472
 Dialogue: 0,0:09:01.72,0:09:04.48,jojo_031,,0,0,0,,{=2}{\move(909,489,882.07,474.63,30,2741)\fs20\fsp1\c&H5055D5&\blur0.8\t(30,2741,\fscy90.01)\t(30,2741,\fscx90.01)}Listen to those nostalgic tunes one more time!
 Dialogue: 0,0:09:01.72,0:09:04.48,jojo_026,,0,0,0,,{=1}{\move(482,286,497.74,291.92,30,2741)\frz6.818\fsp1\c&HEAF2F7&\alpha&H80&\blur5\t(30,2741,\fscy90.01)\t(30,2741,\fscx90.01)}All
 Dialogue: 1,0:09:01.72,0:09:04.48,jojo_026,,0,0,0,,{=0}{\move(482,286,497.74,291.92,30,2741)\frz6.818\fsp1\c&HEAF2F7&\blur1\t(30,2741,\fscy90.01)\t(30,2741,\fscx90.01)}All
-Comment: 0,0:24:01.53,0:24:03.53,Default,,0,0,0,,
