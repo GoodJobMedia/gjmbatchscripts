@@ -14,8 +14,7 @@ Last Style Storage: Default
 Video File: ?dummy:23.976000:45000:1280:720:118:118:118:c
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 303
-Active Line: 321
+Active Line: 20
 Video Position: 5351
 
 [V4+ Styles]
@@ -47,7 +46,7 @@ Dialogue: 10,0:01:35.61,0:01:37.41,Default,,0,0,0,,Heart Hybrid successful!
 Dialogue: 10,0:01:37.41,0:01:38.91,Default,,0,0,0,,Charging is complete, Himekawa!
 Dialogue: 10,0:01:55.72,0:01:57.51,Default,,0,0,0,,You're finally done.
 Dialogue: 10,0:01:59.09,0:02:00.18,Default,,0,0,0,,Julicia!
-Dialogue: 10,0:02:00.18,0:02:04.06,Default,,0,0,0,,Your Heart Hybrid always takes so long, Hayuru.
+Dialogue: 10,0:02:00.18,0:02:04.06,Default,,0,0,0,,Your Heart Hybrids always take so long, Hayuru.
 Dialogue: 10,0:02:04.06,0:02:06.56,Default,,0,0,0,,Well, you were having a good time, I suppose.
 Dialogue: 10,0:02:06.85,0:02:08.52,Default,,0,0,0,,Th-That's crass slander!
 Dialogue: 10,0:02:08.52,0:02:13.78,Default,,0,0,0,,I would never do something\Nso indecent for such a reason!
@@ -59,7 +58,7 @@ Dialogue: 10,0:02:22.74,0:02:23.16,Default,,0,0,0,,See you.
 Dialogue: 10,0:02:41.14,0:02:42.10,Default,,0,0,0,,Aine!
 Dialogue: 10,0:02:46.52,0:02:47.68,Default,,0,0,0,,Aine?
 Dialogue: 10,0:02:49.77,0:02:52.23,Default,,0,0,0,,A-Aine{-san}? What do you think you're doing?
-Dialogue: 10,0:02:52.23,0:02:55.23,Default,,0,0,0,,It's supposed to be my turn now! No fair!
+Dialogue: 10,0:02:52.23,0:02:55.23,Default,,0,0,0,,It's supposed to be my turn next! No fair!
 Dialogue: 10,0:02:55.23,0:02:56.90,Default,,0,0,0,,Talk about an annoying crowd.
 Dialogue: 10,0:02:56.90,0:02:58.24,Default,,0,0,0,,Wha—
 Dialogue: 10,0:02:58.24,0:02:59.07,Default,,0,0,0,,Aine?
