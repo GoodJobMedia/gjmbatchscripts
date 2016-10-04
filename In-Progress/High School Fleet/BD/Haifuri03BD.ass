@@ -17,8 +17,8 @@ Keyframes File: haifuri03bd_premux_[2EBD774B]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 367
-Active Line: 378
+Scroll Position: 349
+Active Line: 381
 Video Position: 31923
 
 [V4+ Styles]
@@ -417,7 +417,6 @@ Dialogue: 5,0:22:04.30,0:22:06.61,Default,,0,0,0,,There's the shark from this ev
 Dialogue: 5,0:22:06.61,0:22:09.47,Default,,0,0,0,,I never imagined Munetani-san's \Nroom would be like this.
 Dialogue: 5,0:22:11.43,0:22:12.85,Default,,0,0,0,,An excellent room.
 Dialogue: 5,0:22:13.72,0:22:15.37,Default,,0,0,0,,I look forward to sharing it with you.
-Dialogue: 5,1:59:59.90,1:59:59.90,Default,,0,0,0,,{ED}
 Dialogue: 0,0:00:00.48,0:00:03.90,Serif_Large,,0,0,0,,{\fad(350,350)\3c&H0D080E&\c&H0D080E&\bord3\fs60\pos(640,560)\blur0.48\1a&HFF&\t(305,350,\1a&H00&)\t(3070,3115,\1a&HFF&)}April 8th 16:00
 Dialogue: 1,0:00:00.48,0:00:03.90,Serif_Large,,0,0,0,,{\fad(350,350)\c&HE6E6E7&\bord0\fs60\pos(640,560)\blur0.48\4a&HFF&\t(305,350,\1a&H00&)}April 8th 16:00
 Dialogue: 0,0:00:04.48,0:00:04.52,CellPhoneFont02,,0,0,0,,{\alpha&HF6&\an4\fs28\fax-0.13\blur0.7\b0\pos(746,-21)\c&HECE725&\frz7.769}Hamakaze
