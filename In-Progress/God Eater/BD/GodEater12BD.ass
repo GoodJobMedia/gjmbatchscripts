@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: God Eater
-Audio File: GodEater12BD_premux[E3A5B4E8].mkv
-Video File: GodEater12BD_premux[E3A5B4E8].mkv
-Keyframes File: GodEater12BD_premux[E3A5B4E8]_keyframes.log
+Audio File: D:/Fansubbing/GoodJob/.BD Projects/God Eater BD/Vol7/12/GodEater12BD_premux[E3A5B4E8].mkv
+Video File: D:/Fansubbing/GoodJob/.BD Projects/God Eater BD/Vol7/12/GodEater12BD_premux[E3A5B4E8].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 244
-Active Line: 256
-Video Position: 30875
+Video Zoom Percent: 0.500000
+Scroll Position: 187
+Active Line: 204
+Video Position: 23356
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -237,8 +236,8 @@ Dialogue: 10,0:15:56.67,0:15:58.64,GJM_Main,,0,0,0,,Just save me a beer.
 Dialogue: 10,0:15:59.70,0:16:00.65,GJM_Main,,0,0,0,,Rindou...
 Dialogue: 10,0:16:03.14,0:16:06.09,GJM_Main,,0,0,0,,You'd better come get it!
 Dialogue: 10,0:16:06.99,0:16:07.98,GJM_Main,,0,0,0,,Let's go!
-Dialogue: 10,0:16:09.33,0:16:12.45,GJM_Main,,0,0,0,,Make sure you obey your own orders, Captain!{ep11 preview line}
-Dialogue: 10,0:16:12.45,0:16:14.14,GJM_Main,,0,0,0,,You too.
+Dialogue: 10,0:16:09.33,0:16:12.32,GJM_Main,,0,0,0,,Make sure you obey your own orders, Captain!{ep11 preview line}
+Dialogue: 10,0:16:12.32,0:16:14.14,GJM_Main,,0,0,0,,You too.
 Dialogue: 10,0:16:14.14,0:16:17.80,GJM_Main,,0,0,0,,I haven't had a chance to\Nlearn anything from you, sir!
 Dialogue: 10,0:16:17.80,0:16:19.95,GJM_Main,,0,0,0,,Please come back and teach me!{ep11 preview line}
 Dialogue: 10,0:16:20.53,0:16:21.87,GJM_Main,,0,0,0,,You can count on that.
