@@ -16,8 +16,8 @@ Video File: D:/Fansubbing/GoodJob/Tanaka/03/tanaka03_premux[855F4421].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 75
-Active Line: 76
+Scroll Position: 372
+Active Line: 390
 Video Position: 6047
 
 [V4+ Styles]
@@ -417,12 +417,12 @@ Dialogue: 10,0:22:01.67,0:22:03.70,GJM_Main,Police,0,0,0,,You two threatening hi
 Dialogue: 10,0:22:04.48,0:22:05.55,GJM_Main,Ohta,0,0,0,,We're good friends.
 Dialogue: 10,0:22:05.55,0:22:06.93,GJM_Main,Echizen,0,0,0,,No we're not!
 Dialogue: 10,0:22:06.93,0:22:08.12,GJM_Main,Ohta,0,0,0,,We're good friends.
-Dialogue: 10,0:23:30.55,0:23:33.32,GJM_Main,Shiraishi,0,0,0,,{\an8}Yes! Alone at last!
-Dialogue: 10,0:23:33.32,0:23:34.83,GJM_Main,Ohta,0,0,0,,{\an8}About that...
-Dialogue: 10,0:23:34.83,0:23:36.08,GJM_Main,Boy,0,0,0,,{\an8}It's Shiraishi-san.
-Dialogue: 10,0:23:36.08,0:23:37.39,GJM_Main,Shiraishi,0,0,0,,{\an8}I'm below a male?
-Dialogue: 10,0:23:37.39,0:23:38.91,GJM_Main,Tanaka,0,0,0,,{\an8}Are you like that in private, too?
-Dialogue: 10,0:23:38.91,0:23:41.56,GJM_Main,Shiraishi,0,0,0,,{\an8}Stop, Ohta!
+Dialogue: 10,0:23:30.55,0:23:33.32,GJM_Main,Shiraishi,0,0,0,,{\an8}Hell yeah! Alone at last!{ep4, 08:59}
+Dialogue: 10,0:23:33.32,0:23:34.83,GJM_Main,Ohta,0,0,0,,{\an8}Actually...{ep4, 15:25}
+Dialogue: 10,0:23:34.83,0:23:36.08,GJM_Main,Boy,0,0,0,,{\an8}It's Shiraishi-san.{ep4, 12:38}
+Dialogue: 10,0:23:36.08,0:23:37.39,GJM_Main,Shiraishi,0,0,0,,{\an8}...I'm below a male to him?{ep4, 14:03}
+Dialogue: 10,0:23:37.39,0:23:38.91,GJM_Main,Tanaka,0,0,0,,{\an8}Are you like that in private, too?{ep4, 13:01}
+Dialogue: 10,0:23:38.91,0:23:41.56,GJM_Main,Shiraishi,0,0,0,,{\an8}I said stop, Ohta!{ep4, 15:37}
 Dialogue: 10,0:23:42.07,0:23:43.56,GJM_Main,Ohta,0,0,0,,{\an8}Next time, Episode 4:
 Dialogue: 10,0:23:43.56,0:23:45.33,GJM_Main,Ohta,0,0,0,,{\an8}Shiraishi-san's Secret.
 Comment: 0,0:23:45.33,0:23:47.33,GJM_Main,,0,0,0,,OP
