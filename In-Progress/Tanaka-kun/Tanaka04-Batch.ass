@@ -16,8 +16,8 @@ Video File: D:/Fansubbing/GoodJob/Tanaka/04/tanaka04_premux[AE75842F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 235
-Active Line: 244
+Scroll Position: 319
+Active Line: 338
 Video Position: 22473
 
 [V4+ Styles]
@@ -382,10 +382,10 @@ Dialogue: 10,0:21:48.10,0:21:49.94,GJM_Main,Tanaka,0,0,0,,A girl can cover up he
 Dialogue: 10,0:21:51.11,0:21:54.50,GJM_Main,Tanaka,0,0,0,,but she can't hide her chest size.
 Dialogue: 10,0:21:55.13,0:21:56.47,GJM_Main,Tanaka,0,0,0,,I recognized it right away.
 Dialogue: 10,0:21:59.39,0:22:03.57,GJM_Main,Ohta,0,0,0,,You'd better not ever tell her that.
-Dialogue: 10,0:23:30.55,0:23:32.16,GJM_Main,Miyano,0,0,0,,{\an8}You were watching earlier, right?
-Dialogue: 10,0:23:32.16,0:23:35.91,GJM_Main,Ohta,0,0,0,,{\an8}Don't abandon the human \Nlifestyle at your young age!
-Dialogue: 10,0:23:35.91,0:23:38.70,GJM_Main,Tanaka,0,0,0,,{\an8}Maybe it was a bad idea\Nto come here with you, Ohta...
-Dialogue: 10,0:23:38.70,0:23:41.56,GJM_Main,Shiraishi,0,0,0,,{\an8}What I need more than anything\Nright now is muscle training!
+Dialogue: 10,0:23:30.55,0:23:32.16,GJM_Main,Miyano,0,0,0,,{\an8}You were watching earlier, right?{ep5, 19:10}
+Dialogue: 10,0:23:32.16,0:23:35.91,GJM_Main,Ohta,0,0,0,,{\an8}Don't abandon the human \Nlifestyle at your young age!{ep5, 03:52}
+Dialogue: 10,0:23:35.91,0:23:38.70,GJM_Main,Tanaka,0,0,0,,{\an8}Maybe it was a bad idea\Nto come here with you, Ohta.{ep5, 05:56}
+Dialogue: 10,0:23:38.70,0:23:41.56,GJM_Main,Shiraishi,0,0,0,,{\an8}What I need more than anything\Nright now is muscle training!{ep5, 15:04}
 Dialogue: 10,0:23:41.89,0:23:43.40,GJM_Main,Shiraishi,0,0,0,,{\an8}Next time, Episode 5:
 Dialogue: 10,0:23:43.40,0:23:45.11,GJM_Main,Shiraishi,0,0,0,,{\an8}A Day in the Life of Tanaka-kun.
 Comment: 0,0:23:45.11,0:23:47.11,GJM_Main,,0,0,0,,OP
