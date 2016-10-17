@@ -7,7 +7,7 @@ WrapStyle: 0
 PlayResX: 1280
 PlayResY: 720
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
@@ -16,18 +16,18 @@ Video File: TanakaONA09BD_premux[5029F144].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Active Line: 3
-Video Position: 535
+Active Line: 7
+Video Position: 108
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: GJM_Main,Gandhi Sans,50,&H00FFFFFF,&H000200E9,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
-Style: GJM_Overlap,Gandhi Sans,50,&H00FFFFFF,&H000200E9,&H00713F19,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
-Style: tanakaop,De Vinne Text,46,&H0054A7F7,&H006B7B8E,&H00102436,&H55102436,-1,0,0,0,100,100,0,0,1,0,0.5,3,30,30,30,1
+Style: GJM_Main,Gandhi Sans,50,&H00FFFFFF,&H000017FD,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: GJM_Overlap,Gandhi Sans,50,&H00FFFFFF,&H000017FD,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: tanakaop,De Vinne Text,46,&H004FAAFF,&H006A7C90,&H000F2538,&H550F2538,-1,0,0,0,100,100,0,0,1,0,0.5,3,30,30,30,1
 Style: tanakaop-Back,De Vinne Text,46,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H55000000,-1,0,0,0,100,100,0,0,1,3,0,3,30,30,30,1
-Style: tanakaED,Iwata Maru Gothic Pro M-Kami,40,&H00FFFFFF,&H000200E9,&H00BC7EE0,&HA0000000,-1,0,0,0,100,100,0,0,1,2,0,3,50,50,40,1
-Style: tanakaED-BG,Iwata Maru Gothic Pro M-Kami,40,&H00FFFFFF,&H000200E9,&H00FFFFFF,&HA0000000,-1,0,0,0,100,100,0,0,1,4,0,3,50,50,40,1
-Style: ChhSigns,Brush Stroke,40,&H00000000,&H000200E9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
+Style: tanakaED,Iwata Maru Gothic Pro M-Kami,40,&H00FFFFFF,&H000017FD,&H00BD8BE8,&HA0000000,-1,0,0,0,100,100,0,0,1,2,0,3,50,50,40,1
+Style: tanakaED-BG,Iwata Maru Gothic Pro M-Kami,40,&H00FFFFFF,&H000017FD,&H00FFFFFF,&HA0000000,-1,0,0,0,100,100,0,0,1,4,0,3,50,50,40,1
+Style: ChhSigns,Brush Stroke,40,&H00000000,&H000017FD,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -36,7 +36,7 @@ Dialogue: 10,0:00:15.28,0:00:16.16,GJM_Main,,0,0,0,,It grew.
 Dialogue: 10,0:00:17.97,0:00:20.16,GJM_Main,,0,0,0,,I can never get it right.
 Dialogue: 10,0:00:21.12,0:00:24.62,GJM_Main,,0,0,0,,Well, maybe it'll taste\Neven better after ten minutes.
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,TS
-Dialogue: 0,0:00:00.00,0:00:01.83,ChhSigns,,0,0,0,,{\pos(924.031,448.557)\frz6.227\fnFormata Regular\fs80\c&H050308&\blur0.5\fad(0,351)}Instant Noodles
+Dialogue: 0,0:00:00.00,0:00:01.83,ChhSigns,,0,0,0,,{\pos(924.031,448.557)\frz6.227\fnFormata Regular\fs80\c&H050408&\blur0.5\fad(0,351)}Instant Noodles
 Dialogue: 0,0:00:02.64,0:00:02.69,ChhSigns,,0,0,0,,{=5}{\pos(1028,96.03)\fnITC Stone Sans Std Medium\fs32\b1\c&H6A6968&\blur0.5}Japan Standard Time
 Dialogue: 0,0:00:02.69,0:00:02.73,ChhSigns,,0,0,0,,{=5}{\pos(1028,158.71)\fnITC Stone Sans Std Medium\fs32\b1\c&H6A6968&\blur0.5}Japan Standard Time
 Dialogue: 0,0:00:02.73,0:00:02.77,ChhSigns,,0,0,0,,{=5}{\pos(1028,220.72)\fnITC Stone Sans Std Medium\fs32\b1\c&H6A6968&\blur0.5}Japan Standard Time

@@ -7,7 +7,7 @@ WrapStyle: 0
 PlayResX: 1920
 PlayResY: 1080
 ScaledBorderAndShadow: yes
-YCbCr Matrix: TV.601
+YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Tanaka
@@ -22,13 +22,13 @@ Video Position: 597
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: GJM_Main,Gandhi Sans,75,&H00FFFFFF,&H000200E9,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
-Style: GJM_Overlap,Gandhi Sans,75,&H00FFFFFF,&H000200E9,&H00713F19,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
-Style: tanakaop,De Vinne Text,69,&H0054A7F7,&H006B7B8E,&H00102436,&H55102436,-1,0,0,0,100,100,0,0,1,0,0.75,3,45,45,45,1
+Style: GJM_Main,Gandhi Sans,75,&H00FFFFFF,&H000017FD,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+Style: GJM_Overlap,Gandhi Sans,75,&H00FFFFFF,&H000017FD,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+Style: tanakaop,De Vinne Text,69,&H004FAAFF,&H006A7C90,&H000F2538,&H550F2538,-1,0,0,0,100,100,0,0,1,0,0.75,3,45,45,45,1
 Style: tanakaop-Back,De Vinne Text,69,&H00FFFFFF,&H00FFFFFF,&H00FFFFFF,&H55000000,-1,0,0,0,100,100,0,0,1,4.5,0,3,45,45,45,1
-Style: tanakaED,Iwata Maru Gothic Pro M-Kami,60,&H00FFFFFF,&H000200E9,&H00BC7EE0,&HA0000000,-1,0,0,0,100,100,0,0,1,3,0,3,75,75,60,1
-Style: tanakaED-BG,Iwata Maru Gothic Pro M-Kami,60,&H00FFFFFF,&H000200E9,&H00FFFFFF,&HA0000000,-1,0,0,0,100,100,0,0,1,6,0,3,75,75,60,1
-Style: ChhSigns,Brush Stroke,60,&H00000000,&H000200E9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
+Style: tanakaED,Iwata Maru Gothic Pro M-Kami,60,&H00FFFFFF,&H000017FD,&H00BD8BE8,&HA0000000,-1,0,0,0,100,100,0,0,1,3,0,3,75,75,60,1
+Style: tanakaED-BG,Iwata Maru Gothic Pro M-Kami,60,&H00FFFFFF,&H000017FD,&H00FFFFFF,&HA0000000,-1,0,0,0,100,100,0,0,1,6,0,3,75,75,60,1
+Style: ChhSigns,Brush Stroke,60,&H00000000,&H000017FD,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,15,15,15,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -43,7 +43,7 @@ Dialogue: 10,0:00:21.41,0:00:22.33,GJM_Main,,0,0,0,,{\an8}Welcome!
 Dialogue: 10,0:00:22.33,0:00:23.22,GJM_Main,,0,0,0,,{\an8}Maybe this?
 Dialogue: 10,0:00:23.96,0:00:25.92,GJM_Main,,0,0,0,,{\an8}At least go on an adventure.
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,TS
-Dialogue: 0,0:00:00.00,0:00:01.81,ChhSigns,,0,0,0,,{\pos(1512.546,725.835)\frz7.417\fnFormata Regular\fs120\c&H050308&\blur0.75\fad(0,351)}Games
+Dialogue: 0,0:00:00.00,0:00:01.81,ChhSigns,,0,0,0,,{\pos(1512.546,725.835)\frz7.417\fnFormata Regular\fs120\c&H050408&\blur0.75\fad(0,351)}Games
 Dialogue: 0,0:00:20.87,0:00:20.95,ChhSigns,,0,0,0,,{=3}{\an1\pos(178.5,891)\fnArial Rounded MT Bold\fs105\b1\shad6\c&HFFFFFF&\blur0.9}A {\alpha&HFF&}villager: "Welcome!"
 Dialogue: 0,0:00:20.95,0:00:21.04,ChhSigns,,0,0,0,,{=3}{\an1\pos(178.5,891)\fnArial Rounded MT Bold\fs105\b1\shad6\c&HFFFFFF&\blur0.9}A vi{\alpha&HFF&}llager: "Welcome!"
 Dialogue: 0,0:00:21.04,0:00:21.12,ChhSigns,,0,0,0,,{=3}{\an1\pos(178.5,891)\fnArial Rounded MT Bold\fs105\b1\shad6\c&HFFFFFF&\blur0.9}A vill{\alpha&HFF&}ager: "Welcome!"
@@ -63,7 +63,7 @@ Dialogue: 0,0:00:23.50,0:00:23.54,ChhSigns,,0,0,0,,{=3}{\an1\pos(178.5,891)\fnAr
 Dialogue: 0,0:00:23.54,0:00:23.58,ChhSigns,,0,0,0,,{=3}{\an1\pos(178.5,891)\fnArial Rounded MT Bold\fs105\b1\shad6\c&HFFFFFF&\blur0.9\clip(m 330 780 l 342 813 351 855 351 876 369 903 375 942 372 966 1206 963 1221 789)}A villager: "Welcome!"
 Dialogue: 0,0:00:23.58,0:00:23.63,ChhSigns,,0,0,0,,{=3}{\an1\pos(178.5,891)\fnArial Rounded MT Bold\fs105\b1\shad6\c&HFFFFFF&\blur0.9\clip(m 336 777 l 348 822 351 852 366 867 372 891 375 924 372 957 1191 978 1206 786)}A villager: "Welcome!"
 Dialogue: 1,0:00:23.63,0:00:27.38,ChhSigns,,0,0,0,,{=3}{\an1\pos(178.5,891)\fnArial Rounded MT Bold\fs105\b1\c&HFFFFFF&\blur0.9\fad(0,1271)\clip(m 339 777 l 346.5 805.5 348 828 349.5 841.5 363 855 372 882 375 921 366 960 1194 960 1203 783)}A villager: "Welcome!"
-Dialogue: 0,0:00:23.63,0:00:27.38,ChhSigns,,0,0,0,,{=3}{\an1\pos(184.5,897)\fnArial Rounded MT Bold\fs105\b1\blur0.9\clip(m 339 777 l 345 810 346.5 829.5 348 837 363 855 372 882 375 921 366 960 786 996 786 906 789 849 798 807 804 774)\t(2479,3750,\c&HC89FF7&)}A villager: "Welcome!"
+Dialogue: 0,0:00:23.63,0:00:27.38,ChhSigns,,0,0,0,,{=3}{\an1\pos(184.5,897)\fnArial Rounded MT Bold\fs105\b1\blur0.9\clip(m 339 777 l 345 810 346.5 829.5 348 837 363 855 372 882 375 921 366 960 786 996 786 906 789 849 798 807 804 774)\t(2479,3750,\c&HC8AAFE&)}A villager: "Welcome!"
 Dialogue: 0,0:00:23.63,0:00:27.38,ChhSigns,,0,0,0,,{=3}{\an1\pos(184.5,897)\fnArial Rounded MT Bold\fs105\b1\blur0.9\clip(m 804 774 l 795 828 786 903 783 960 1194 960 1203 783)\t(2479,3750,\c&HFFFFFF&)}A villager: "Welcome!"
 
 [Aegisub Extradata]
