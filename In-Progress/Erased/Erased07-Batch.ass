@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: BokuMachi
-Audio File: erased07_premux.mkv
-Video File: erased07_premux.mkv
-Keyframes File: erased07_premux_keyframes.log
+Audio File: ../../../bokumachi/07/erased07_premux.mkv
+Video File: ../../../bokumachi/07/erased07_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 277
-Active Line: 289
-Video Position: 29772
+Scroll Position: 123
+Active Line: 134
+Video Position: 14715
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -140,7 +139,7 @@ Dialogue: 10,0:08:07.64,0:08:11.79,GJM_Main,,0,0,0,,Yeah, I did hate her, but at
 Dialogue: 10,0:08:12.67,0:08:15.67,GJM_Main,,0,0,0,,Oh, I kinda get what you mean.
 Dialogue: 10,0:08:18.72,0:08:20.65,GJM_Main,,0,0,0,,Satoru, Kenya.
 Dialogue: 10,0:08:21.52,0:08:22.95,GJM_Main,,0,0,0,,Stand in the hallway with those buckets.{###}
-Dialogue: 10,0:08:25.40,0:08:28.93,GJM_Main,,0,0,0,,Heroes often end up with\Nthe short end of the stick, huh?
+Dialogue: 10,0:08:25.40,0:08:28.93,GJM_Main,,0,0,0,,Superheroes often end up with\Nthe short end of the stick, huh?
 Dialogue: 10,0:08:28.93,0:08:29.94,GJM_Main,,0,0,0,,{\i1}Tell me about it.
 Dialogue: 10,0:08:31.50,0:08:33.32,GJM_Main,,0,0,0,,I need to stop by somewhere.
 Dialogue: 10,0:08:33.32,0:08:36.83,GJM_Main,,0,0,0,,Hiromi, Kenya. Could you take Hinazuki\Nto the kids' center and wait for me there?
@@ -657,99 +656,99 @@ Dialogue: 0,0:10:16.72,0:10:19.64,CicSigns,,0,0,0,,{\pos(535.143,458.572)\fscx81
 Dialogue: 1,0:10:16.72,0:10:19.64,CicSigns,,0,0,0,,{\pos(688.477,495.238)\fscx81\fscy80\frz12.09\fax-0.06\fnRainstorms in July\b1\c&H77828D&\blur0.8}- Kenya
 Dialogue: 0,0:10:16.72,0:10:19.64,CicSigns,,0,0,0,,{\an7\pos(681.81,497.905)\c&HDDE4F4&\blur1\p1}m -9 -26 l -18 0 -2 18 34 22 36 -5 26 -29
 Dialogue: 0,0:11:23.87,0:11:23.91,CicSigns,,0,0,0,,{=581}{\pos(405,382)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:23.87,0:11:23.91,CicSigns,,0,0,0,,{=581}{\pos(405,442)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:23.87,0:11:23.91,CicSigns,,0,0,0,,{=581}{\pos(405,442)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:23.91,0:11:23.95,CicSigns,,0,0,0,,{=581}{\pos(404.98,383.23)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:23.91,0:11:23.95,CicSigns,,0,0,0,,{=581}{\pos(404.98,443.23)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:23.91,0:11:23.95,CicSigns,,0,0,0,,{=581}{\pos(404.98,443.23)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:23.95,0:11:23.99,CicSigns,,0,0,0,,{=581}{\pos(405,384.56)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:23.95,0:11:23.99,CicSigns,,0,0,0,,{=581}{\pos(405,444.56)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:23.95,0:11:23.99,CicSigns,,0,0,0,,{=581}{\pos(405,444.56)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:23.99,0:11:24.03,CicSigns,,0,0,0,,{=581}{\pos(404.99,385.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:23.99,0:11:24.03,CicSigns,,0,0,0,,{=581}{\pos(404.99,445.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:23.99,0:11:24.03,CicSigns,,0,0,0,,{=581}{\pos(404.99,445.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.03,0:11:24.07,CicSigns,,0,0,0,,{=581}{\pos(405.01,387.18)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.03,0:11:24.07,CicSigns,,0,0,0,,{=581}{\pos(405.01,447.18)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.03,0:11:24.07,CicSigns,,0,0,0,,{=581}{\pos(405.01,447.18)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.07,0:11:24.12,CicSigns,,0,0,0,,{=581}{\pos(405.02,388.51)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.07,0:11:24.12,CicSigns,,0,0,0,,{=581}{\pos(405.02,448.51)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.07,0:11:24.12,CicSigns,,0,0,0,,{=581}{\pos(405.02,448.51)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.12,0:11:24.16,CicSigns,,0,0,0,,{=581}{\pos(405.01,389.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.12,0:11:24.16,CicSigns,,0,0,0,,{=581}{\pos(405.01,449.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.12,0:11:24.16,CicSigns,,0,0,0,,{=581}{\pos(405.01,449.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.16,0:11:24.20,CicSigns,,0,0,0,,{=581}{\pos(405.02,391.21)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.16,0:11:24.20,CicSigns,,0,0,0,,{=581}{\pos(405.02,451.21)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.16,0:11:24.20,CicSigns,,0,0,0,,{=581}{\pos(405.02,451.21)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.20,0:11:24.24,CicSigns,,0,0,0,,{=581}{\pos(405.01,392.53)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.20,0:11:24.24,CicSigns,,0,0,0,,{=581}{\pos(405.01,452.53)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.20,0:11:24.24,CicSigns,,0,0,0,,{=581}{\pos(405.01,452.53)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.24,0:11:24.28,CicSigns,,0,0,0,,{=581}{\pos(405.02,393.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.24,0:11:24.28,CicSigns,,0,0,0,,{=581}{\pos(405.02,453.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.24,0:11:24.28,CicSigns,,0,0,0,,{=581}{\pos(405.02,453.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.28,0:11:24.33,CicSigns,,0,0,0,,{=581}{\pos(405.03,395.22)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.28,0:11:24.33,CicSigns,,0,0,0,,{=581}{\pos(405.03,455.22)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.28,0:11:24.33,CicSigns,,0,0,0,,{=581}{\pos(405.03,455.22)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.33,0:11:24.37,CicSigns,,0,0,0,,{=581}{\pos(405.03,396.53)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.33,0:11:24.37,CicSigns,,0,0,0,,{=581}{\pos(405.03,456.53)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.33,0:11:24.37,CicSigns,,0,0,0,,{=581}{\pos(405.03,456.53)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.37,0:11:24.41,CicSigns,,0,0,0,,{=581}{\pos(405.04,397.87)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.37,0:11:24.41,CicSigns,,0,0,0,,{=581}{\pos(405.04,457.87)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.37,0:11:24.41,CicSigns,,0,0,0,,{=581}{\pos(405.04,457.87)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.41,0:11:24.45,CicSigns,,0,0,0,,{=581}{\pos(405.03,399.17)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.41,0:11:24.45,CicSigns,,0,0,0,,{=581}{\pos(405.03,459.17)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.41,0:11:24.45,CicSigns,,0,0,0,,{=581}{\pos(405.03,459.17)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.45,0:11:24.49,CicSigns,,0,0,0,,{=581}{\pos(405,400.5)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.45,0:11:24.49,CicSigns,,0,0,0,,{=581}{\pos(405,460.5)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.45,0:11:24.49,CicSigns,,0,0,0,,{=581}{\pos(405,460.5)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.49,0:11:24.53,CicSigns,,0,0,0,,{=581}{\pos(405.02,401.79)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.49,0:11:24.53,CicSigns,,0,0,0,,{=581}{\pos(405.02,461.79)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.49,0:11:24.53,CicSigns,,0,0,0,,{=581}{\pos(405.02,461.79)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.53,0:11:24.58,CicSigns,,0,0,0,,{=581}{\pos(405.02,403.07)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.53,0:11:24.58,CicSigns,,0,0,0,,{=581}{\pos(405.02,463.07)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.53,0:11:24.58,CicSigns,,0,0,0,,{=581}{\pos(405.02,463.07)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.58,0:11:24.62,CicSigns,,0,0,0,,{=581}{\pos(405.01,404.24)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.58,0:11:24.62,CicSigns,,0,0,0,,{=581}{\pos(405.01,464.24)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.58,0:11:24.62,CicSigns,,0,0,0,,{=581}{\pos(405.01,464.24)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.62,0:11:24.66,CicSigns,,0,0,0,,{=581}{\pos(405.02,405.61)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.62,0:11:24.66,CicSigns,,0,0,0,,{=581}{\pos(405.02,465.61)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.62,0:11:24.66,CicSigns,,0,0,0,,{=581}{\pos(405.02,465.61)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.66,0:11:24.70,CicSigns,,0,0,0,,{=581}{\pos(404.99,406.8)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.66,0:11:24.70,CicSigns,,0,0,0,,{=581}{\pos(404.99,466.8)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.66,0:11:24.70,CicSigns,,0,0,0,,{=581}{\pos(404.99,466.8)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.70,0:11:24.74,CicSigns,,0,0,0,,{=581}{\pos(405,408.05)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.70,0:11:24.74,CicSigns,,0,0,0,,{=581}{\pos(405,468.05)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.70,0:11:24.74,CicSigns,,0,0,0,,{=581}{\pos(405,468.05)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.74,0:11:24.78,CicSigns,,0,0,0,,{=581}{\pos(404.99,409.19)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.74,0:11:24.78,CicSigns,,0,0,0,,{=581}{\pos(404.99,469.19)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.74,0:11:24.78,CicSigns,,0,0,0,,{=581}{\pos(404.99,469.19)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.78,0:11:24.83,CicSigns,,0,0,0,,{=581}{\pos(404.98,410.28)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.78,0:11:24.83,CicSigns,,0,0,0,,{=581}{\pos(404.98,470.28)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.78,0:11:24.83,CicSigns,,0,0,0,,{=581}{\pos(404.98,470.28)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.83,0:11:24.87,CicSigns,,0,0,0,,{=581}{\pos(404.99,411.46)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.83,0:11:24.87,CicSigns,,0,0,0,,{=581}{\pos(404.99,471.46)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.83,0:11:24.87,CicSigns,,0,0,0,,{=581}{\pos(404.99,471.46)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.87,0:11:24.91,CicSigns,,0,0,0,,{=581}{\pos(404.98,412.54)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.87,0:11:24.91,CicSigns,,0,0,0,,{=581}{\pos(404.98,472.54)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.87,0:11:24.91,CicSigns,,0,0,0,,{=581}{\pos(404.98,472.54)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.91,0:11:24.95,CicSigns,,0,0,0,,{=581}{\pos(404.99,413.58)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.91,0:11:24.95,CicSigns,,0,0,0,,{=581}{\pos(404.99,473.58)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.91,0:11:24.95,CicSigns,,0,0,0,,{=581}{\pos(404.99,473.58)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.95,0:11:24.99,CicSigns,,0,0,0,,{=581}{\pos(405,414.63)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.95,0:11:24.99,CicSigns,,0,0,0,,{=581}{\pos(405,474.63)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.95,0:11:24.99,CicSigns,,0,0,0,,{=581}{\pos(405,474.63)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:24.99,0:11:25.03,CicSigns,,0,0,0,,{=581}{\pos(404.99,415.64)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:24.99,0:11:25.03,CicSigns,,0,0,0,,{=581}{\pos(404.99,475.64)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:24.99,0:11:25.03,CicSigns,,0,0,0,,{=581}{\pos(404.99,475.64)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.03,0:11:25.08,CicSigns,,0,0,0,,{=581}{\pos(404.99,416.63)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.03,0:11:25.08,CicSigns,,0,0,0,,{=581}{\pos(404.99,476.63)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.03,0:11:25.08,CicSigns,,0,0,0,,{=581}{\pos(404.99,476.63)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.08,0:11:25.12,CicSigns,,0,0,0,,{=581}{\pos(404.99,417.52)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.08,0:11:25.12,CicSigns,,0,0,0,,{=581}{\pos(404.99,477.52)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.08,0:11:25.12,CicSigns,,0,0,0,,{=581}{\pos(404.99,477.52)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.12,0:11:25.16,CicSigns,,0,0,0,,{=581}{\pos(405.01,418.56)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.12,0:11:25.16,CicSigns,,0,0,0,,{=581}{\pos(405.01,478.56)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.12,0:11:25.16,CicSigns,,0,0,0,,{=581}{\pos(405.01,478.56)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.16,0:11:25.20,CicSigns,,0,0,0,,{=581}{\pos(405,419.37)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.16,0:11:25.20,CicSigns,,0,0,0,,{=581}{\pos(405,479.37)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.16,0:11:25.20,CicSigns,,0,0,0,,{=581}{\pos(405,479.37)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.20,0:11:25.24,CicSigns,,0,0,0,,{=581}{\pos(405.02,420.05)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.20,0:11:25.24,CicSigns,,0,0,0,,{=581}{\pos(405.02,480.05)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.20,0:11:25.24,CicSigns,,0,0,0,,{=581}{\pos(405.02,480.05)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.24,0:11:25.28,CicSigns,,0,0,0,,{=581}{\pos(405,420.96)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.24,0:11:25.28,CicSigns,,0,0,0,,{=581}{\pos(405,480.96)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.24,0:11:25.28,CicSigns,,0,0,0,,{=581}{\pos(405,480.96)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.28,0:11:25.33,CicSigns,,0,0,0,,{=581}{\pos(404.98,421.65)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.28,0:11:25.33,CicSigns,,0,0,0,,{=581}{\pos(404.98,481.65)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.28,0:11:25.33,CicSigns,,0,0,0,,{=581}{\pos(404.98,481.65)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.33,0:11:25.37,CicSigns,,0,0,0,,{=581}{\pos(404.99,422.3)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.33,0:11:25.37,CicSigns,,0,0,0,,{=581}{\pos(404.99,482.3)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.33,0:11:25.37,CicSigns,,0,0,0,,{=581}{\pos(404.99,482.3)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.37,0:11:25.41,CicSigns,,0,0,0,,{=581}{\pos(404.99,422.91)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.37,0:11:25.41,CicSigns,,0,0,0,,{=581}{\pos(404.99,482.91)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.37,0:11:25.41,CicSigns,,0,0,0,,{=581}{\pos(404.99,482.91)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.41,0:11:25.45,CicSigns,,0,0,0,,{=581}{\pos(405.01,423.47)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.41,0:11:25.45,CicSigns,,0,0,0,,{=581}{\pos(405.01,483.47)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.41,0:11:25.45,CicSigns,,0,0,0,,{=581}{\pos(405.01,483.47)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.45,0:11:25.49,CicSigns,,0,0,0,,{=581}{\pos(405,424)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.45,0:11:25.49,CicSigns,,0,0,0,,{=581}{\pos(405,484)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.45,0:11:25.49,CicSigns,,0,0,0,,{=581}{\pos(405,484)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.49,0:11:25.53,CicSigns,,0,0,0,,{=581}{\pos(404.99,424.44)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.49,0:11:25.53,CicSigns,,0,0,0,,{=581}{\pos(404.99,484.44)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.49,0:11:25.53,CicSigns,,0,0,0,,{=581}{\pos(404.99,484.44)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:25.53,0:11:25.58,CicSigns,,0,0,0,,{=581}{\pos(404.98,424.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Shiratori
-Dialogue: 0,0:11:25.53,0:11:25.58,CicSigns,,0,0,0,,{=581}{\pos(404.98,484.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Catering
+Dialogue: 0,0:11:25.53,0:11:25.58,CicSigns,,0,0,0,,{=581}{\pos(404.98,484.9)\fscx204\fscy165\frz4.11\fax-0.07\fnBairam\c&H160C0D&\blur1.01}Foods
 Dialogue: 0,0:11:27.16,0:11:28.91,CicSigns,,0,0,0,,{\pos(524.86,420)\org(515.86,458)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65}Shiratori
-Dialogue: 0,0:11:27.16,0:11:28.91,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65}Catering
+Dialogue: 0,0:11:27.16,0:11:28.91,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65}Foods
 Dialogue: 0,0:11:28.91,0:11:29.04,CicSigns,,0,0,0,,{\pos(524.86,420)\org(515.86,458)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 528 436 l 532 424 537 412 542 401 490 408 493 439)}Shiratori
-Dialogue: 0,0:11:28.91,0:11:29.04,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 528 436 l 532 424 537 412 542 401 490 408 493 439)}Catering
+Dialogue: 0,0:11:28.91,0:11:29.04,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 528 436 l 532 424 537 412 542 401 490 408 493 439)}Foods
 Dialogue: 0,0:11:29.04,0:11:29.16,CicSigns,,0,0,0,,{\pos(524.86,420)\org(515.86,458)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 518 432 l 523 419 529 408 491 408 486 436 515 447)}Shiratori
-Dialogue: 0,0:11:29.04,0:11:29.16,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 518 432 l 523 419 529 408 491 408 486 436 515 447)}Catering
+Dialogue: 0,0:11:29.04,0:11:29.16,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 518 432 l 523 419 529 408 491 408 486 436 515 447)}Foods
 Dialogue: 0,0:11:29.54,0:11:29.66,CicSigns,,0,0,0,,{\pos(524.86,420)\org(515.86,458)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 537 435 l 534 422 530 409 527 402 561 400 554 442 535 445)}Shiratori
-Dialogue: 0,0:11:29.54,0:11:29.66,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 537 435 l 534 422 530 409 527 402 561 400 554 442 535 445)}Catering
+Dialogue: 0,0:11:29.54,0:11:29.66,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 537 435 l 534 422 530 409 527 402 561 400 554 442 535 445)}Foods
 Dialogue: 0,0:11:29.66,0:11:29.79,CicSigns,,0,0,0,,{\pos(524.86,420)\org(515.86,458)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 527 433 l 528 424 526 417 522 408 520 403 558 400 558 449)}Shiratori
-Dialogue: 0,0:11:29.66,0:11:29.79,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 527 433 l 528 424 526 417 522 408 520 403 558 400 558 449)}Catering
+Dialogue: 0,0:11:29.66,0:11:29.79,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65\clip(m 527 433 l 528 424 526 417 522 408 520 403 558 400 558 449)}Foods
 Dialogue: 0,0:11:29.79,0:11:30.87,CicSigns,,0,0,0,,{\pos(524.86,420)\org(515.86,458)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65}Shiratori
-Dialogue: 0,0:11:29.79,0:11:30.87,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65}Catering
+Dialogue: 0,0:11:29.79,0:11:30.87,CicSigns,,0,0,0,,{\pos(524.86,429)\org(515.86,467)\fscx23.52\fscy22.54\fry338\fnBairam\c&H1F1113&\blur0.65}Foods
 Dialogue: 0,0:11:30.88,0:11:32.02,CicSigns,,0,0,0,,{\pos(643,338)\org(663,418)\fscx63\fscy86\frz336\frx26\fax-0.62\fnMy Grandpa's Farm\c&H261C28&\blur0.8}I'll kill you
 Dialogue: 0,0:11:32.02,0:11:32.12,CicSigns,,0,0,0,,{\pos(643,338)\org(663,418)\fscx63\fscy86\frz336\frx26\fax-0.62\fnMy Grandpa's Farm\c&H1C1215&\blur0.8\clip(m 745 362 l 736 363 726 364 717 363 707 362 697 360 690 361 686 363 674 363 664 363 654 377 702 398 756 399 763 371)}I'll kill you
 Dialogue: 0,0:18:44.22,0:18:51.10,CicSigns,,0,0,0,,{\pos(770.221,318.656)\fscx33\fscy29\frz-12.9\fry356\frx354\fax0.16\fnVarela Round\b1\bord1.6\c&HBAACA0&\3c&HBAACA0&\blur0.68}Ice {\fax0.15}Hoc{\fax0.14}key C{\fax0.13}lub

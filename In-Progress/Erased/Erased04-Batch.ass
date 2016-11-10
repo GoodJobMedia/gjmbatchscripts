@@ -11,14 +11,13 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: BokuMachi
-Audio File: erased04_premux.mkv
-Video File: erased04_premux.mkv
-Keyframes File: erased04_premux_keyframes.log
+Audio File: ../../../bokumachi/04/erased04_premux.mkv
+Video File: ../../../bokumachi/04/erased04_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 364
-Active Line: 415
+Video Zoom Percent: 0.750000
+Scroll Position: 338
+Active Line: 355
 Video Position: 32842
 
 [V4+ Styles]
@@ -170,7 +169,7 @@ Dialogue: 10,0:07:39.31,0:07:42.03,GJM_Main,,0,0,0,,Do you know what's going on 
 Dialogue: 10,0:07:42.03,0:07:43.07,GJM_Main,,0,0,0,,Nah.
 Dialogue: 10,0:07:43.07,0:07:46.77,GJM_Main,,0,0,0,,But after our conversation and looking at her mother, I can make a guess.
 Dialogue: 10,0:07:46.77,0:07:49.81,GJM_Main,,0,0,0,,{\i1}That's a former TV news reporter for you.
-Dialogue: 10,0:07:49.81,0:07:51.70,GJM_Main,,0,0,0,,Kayo's pretty cute, eh?
+Dialogue: 10,0:07:49.81,0:07:51.70,GJM_Main,,0,0,0,,Kayo's pretty cute, huh?
 Dialogue: 10,0:07:52.95,0:07:54.99,GJM_Main,,0,0,0,,{\i1}You're 29 years old! What are you blushing for?!
 Dialogue: 10,0:07:56.24,0:07:58.82,GJM_Main,,0,0,0,,You'd better not give up just yet.
 Dialogue: 10,0:07:58.82,0:07:59.58,GJM_Main,,0,0,0,,Of course.
@@ -269,7 +268,7 @@ Dialogue: 10,0:12:48.56,0:12:50.08,GJM_Main,,0,0,0,,Morning, Fujinuma.
 Dialogue: 10,0:12:50.43,0:12:51.33,GJM_Main,,0,0,0,,Morning.
 Dialogue: 10,0:12:54.01,0:12:56.13,GJM_Main,,0,0,0,,{\i1}Hinazuki won't be going anywhere.
 Dialogue: 10,0:12:56.54,0:12:58.23,GJM_Main,,0,0,0,,We're off.
-Dialogue: 10,0:13:04.43,0:13:09.16,GJM_Main,,0,0,0,,{\i1}The circumstances now are\Nquite different than 18 years ago.
+Dialogue: 10,0:13:04.43,0:13:09.16,GJM_Main,,0,0,0,,{\i1}The circumstances now are\Nquite different from 18 years ago.
 Dialogue: 10,0:13:09.16,0:13:11.39,GJM_Main,,0,0,0,,Satoru's got guts!
 Dialogue: 10,0:13:11.74,0:13:16.61,GJM_Main,,0,0,0,,{\i1}Hinazuki was targeted because\Nshe was always by herself at that park.
 Dialogue: 10,0:13:17.63,0:13:19.93,GJM_Main,,0,0,0,,Well, you guys better come tomorrow!

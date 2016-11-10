@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: BokuMachi
-Audio File: erased10_premux.mkv
-Video File: erased10_premux.mkv
-Keyframes File: erased10_premux_keyframes.log
+Audio File: ../../../bokumachi/10/erased10_premux.mkv
+Video File: ../../../bokumachi/10/erased10_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 280
-Active Line: 292
-Video Position: 28039
+Scroll Position: 308
+Active Line: 309
+Video Position: 29885
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -72,8 +71,8 @@ Dialogue: 10,0:03:23.09,0:03:24.01,GJM_Main,,0,0,0,,How childish.
 Dialogue: 10,0:03:24.01,0:03:26.54,GJM_Main,,0,0,0,,Ch-Ch-Chi—
 Dialogue: 10,0:03:26.54,0:03:28.63,GJM_Main,,0,0,0,,Don't call it childish.
 Dialogue: 10,0:03:28.63,0:03:33.58,GJM_Main,,0,0,0,,You boys are always sneaking around,\Nmaking secret bases or hideouts or whatever.
-Dialogue: 10,0:03:33.58,0:03:35.48,GJM_Main,,0,0,0,,I bet you pretend to be heroes or something.
-Dialogue: 10,0:03:35.48,0:03:38.23,GJM_Main,,0,0,0,,D-Don't make fun of heroes!
+Dialogue: 10,0:03:33.58,0:03:35.48,GJM_Main,,0,0,0,,I bet you pretend to be superheroes or something.
+Dialogue: 10,0:03:35.48,0:03:38.23,GJM_Main,,0,0,0,,D-Don't make fun of superheroes!
 Dialogue: 10,0:03:38.23,0:03:40.24,GJM_Main,,0,0,0,,Satoru!
 Dialogue: 10,0:03:40.24,0:03:43.03,GJM_Main,,0,0,0,,Anyway, I have to go.
 Dialogue: 10,0:03:43.34,0:03:44.65,GJM_Main,,0,0,0,,Goodbye.
@@ -239,7 +238,7 @@ Dialogue: 10,0:12:18.38,0:12:22.84,GJM_Main,,0,0,0,,Still, I admire your spirit 
 Dialogue: 10,0:12:22.84,0:12:24.04,GJM_Main,,0,0,0,,Really?
 Dialogue: 10,0:12:24.70,0:12:28.43,GJM_Main,,0,0,0,,But this time, I hid behind the excuse\Nthat things were awkward between us
 Dialogue: 10,0:12:28.43,0:12:31.14,GJM_Main,,0,0,0,,and ended up using her like bait.
-Dialogue: 10,0:12:32.64,0:12:36.30,GJM_Main,,0,0,0,,Bait, eh? You must be pretty serious about this.
+Dialogue: 10,0:12:32.64,0:12:36.30,GJM_Main,,0,0,0,,Bait, huh? You must be pretty serious about this.
 Dialogue: 10,0:12:36.30,0:12:41.36,GJM_Main,,0,0,0,,So that's why you've suddenly been\Nawfully friendly with people lately.
 Dialogue: 10,0:12:41.36,0:12:45.81,GJM_Main,,0,0,0,,Yeah. I want to fill the gaping\Nhole in everyone's hearts.
 Dialogue: 10,0:12:45.81,0:12:47.20,GJM_Main,,0,0,0,,Both mine and other people's.
@@ -263,8 +262,8 @@ Dialogue: 10,0:13:56.02,0:13:57.61,GJM_Main,,0,0,0,,Thanks, Satoru.
 Dialogue: 10,0:13:57.61,0:13:59.79,GJM_Main,,0,0,0,,But there's no candy in there.
 Dialogue: 10,0:14:02.97,0:14:07.45,GJM_Main,,0,0,0,,After all, this isn't my car.
 Dialogue: 10,0:14:20.54,0:14:23.36,GJM_Main,,0,0,0,,What do you mean, this isn't your car?
-Dialogue: 10,0:14:23.36,0:14:29.01,GJM_Main,,0,0,0,,Don't you think one's happiest moment\Nin life never stays the same?
-Dialogue: 10,0:14:29.35,0:14:32.52,GJM_Main,,0,0,0,,Because you know, I have a new one now.
+Dialogue: 10,0:14:23.36,0:14:29.01,GJM_Main,,0,0,0,,Don't you think one's happiest moment\Nin life always changes?
+Dialogue: 10,0:14:29.35,0:14:32.52,GJM_Main,,0,0,0,,Because mine changed just now.
 Dialogue: 10,0:14:32.52,0:14:37.47,GJM_Main,,0,0,0,,Nothing beats that moment when\Nyou fill that void in your heart.
 Dialogue: 10,0:14:37.47,0:14:41.66,GJM_Main,,0,0,0,,When you find what you're looking\Nfor and try to make it yours,
 Dialogue: 10,0:14:41.66,0:14:47.34,GJM_Main,,0,0,0,,the more hurdles you face, the more happiness\Nyou obtain when you overcome them.
@@ -298,7 +297,7 @@ Dialogue: 10,0:16:37.56,0:16:40.14,GJM_Main,,0,0,0,,This is who I really am.
 Dialogue: 10,0:16:41.30,0:16:45.11,GJM_Main,,0,0,0,,By the way, I picked up this car right before coming.
 Dialogue: 10,0:16:45.11,0:16:48.87,GJM_Main,,0,0,0,,My standards for choosing a car\Nare a tad different from others.
 Dialogue: 10,0:16:48.87,0:16:52.25,GJM_Main,,0,0,0,,There should be several cars of\Nthe same make and color in the area,
-Dialogue: 10,0:16:52.25,0:16:54.98,GJM_Main,,0,0,0,,allowing me to use them\Nas dummies whenever I want.
+Dialogue: 10,0:16:52.25,0:16:54.98,GJM_Main,,0,0,0,,so I can use them\Nas dummies whenever I want.
 Dialogue: 10,0:16:54.98,0:16:58.50,GJM_Main,,0,0,0,,This is the first time they've ever come in handy, though.
 Dialogue: 10,0:16:58.50,0:17:01.08,GJM_Main,,0,0,0,,{\i1}I'm such a fool.
 Dialogue: 10,0:17:08.94,0:17:10.71,GJM_Main,,0,0,0,,{\i1}The truth was under my nose all along.
@@ -319,7 +318,7 @@ Dialogue: 10,0:18:38.49,0:18:41.40,GJM_Main,,0,0,0,,I still can't believe it, Sa
 Dialogue: 10,0:18:41.40,0:18:45.18,GJM_Main,,0,0,0,,You predicted my moves every step\Nof the way and destroyed my plans.
 Dialogue: 10,0:18:45.18,0:18:48.77,GJM_Main,,0,0,0,,It sends shivers down my spine\Nthat you've forced me into this.
 Dialogue: 10,0:18:51.93,0:18:55.88,GJM_Main,,0,0,0,,It's almost like you've seen the future.
-Dialogue: 10,0:18:58.20,0:19:01.80,GJM_Main,,0,0,0,,I don't want this to keep me up at night,\Nso let me get it out of the way.
+Dialogue: 10,0:18:58.20,0:19:01.80,GJM_Main,,0,0,0,,I don't want it keeping me up at night,\Nso let me get it out of the way.
 Dialogue: 10,0:19:01.80,0:19:06.48,GJM_Main,,0,0,0,,What I'm about to do isn't an act of revenge\Nagainst you for foiling my plans.
 Dialogue: 10,0:19:07.22,0:19:10.15,GJM_Main,,0,0,0,,I seriously do admire you.
 Dialogue: 10,0:19:11.78,0:19:16.44,GJM_Main,,0,0,0,,Think of it as a substitute for\Nmy desire that couldn't be fulfilled.
@@ -330,7 +329,7 @@ Dialogue: 10,0:19:29.43,0:19:34.40,GJM_Main,,0,0,0,,And I'm going to bring upon 
 Dialogue: 10,0:19:34.40,0:19:38.36,GJM_Main,,0,0,0,,Screw you, Yashiro!\NI won't die until I see you destroyed!
 Dialogue: 10,0:19:38.99,0:19:41.61,GJM_Main,,0,0,0,,That's what they call being overambitious.
 Dialogue: 10,0:19:44.28,0:19:48.50,GJM_Main,,0,0,0,,Screw you, Yashiro!
-Dialogue: 10,0:19:52.78,0:19:53.54,GJM_Main,,0,0,0,,Dammit!
+Dialogue: 10,0:19:52.78,0:19:53.54,GJM_Main,,0,0,0,,Damn it!
 Dialogue: 10,0:19:53.54,0:19:54.04,GJM_Main,,0,0,0,,Da—
 Dialogue: 10,0:19:54.88,0:19:57.56,GJM_Main,,0,0,0,,I've decided to leave this town.
 Dialogue: 10,0:20:01.01,0:20:02.84,GJM_Main,,0,0,0,,Yashiro!

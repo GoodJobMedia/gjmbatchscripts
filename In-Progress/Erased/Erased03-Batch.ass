@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: BokuMachi
-Audio File: erased03_premux.mkv
-Video File: erased03_premux.mkv
-Keyframes File: erased03_premux_keyframes.log
+Audio File: ../../../bokumachi/03/erased03_premux.mkv
+Video File: ../../../bokumachi/03/erased03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 367
-Active Line: 381
-Video Position: 26905
+Scroll Position: 324
+Active Line: 331
+Video Position: 30213
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -184,7 +183,7 @@ Dialogue: 9,0:09:19.87,0:09:21.45,GJM_Main,,0,0,0,,4 a.m.? Really?
 Dialogue: 9,0:09:21.45,0:09:23.92,GJM_Main,,0,0,0,,Yeah. Only until noon, though.
 Dialogue: 9,0:09:23.92,0:09:25.23,GJM_Main,,0,0,0,,Ah...
 Dialogue: 9,0:09:25.23,0:09:29.33,GJM_Main,,0,0,0,,{\i1}Since I always saw him hanging around in\Nthe afternoon, I just assumed he was unemployed.
-Dialogue: 9,0:09:30.21,0:09:36.20,GJM_Main,,0,0,0,,{\i1}Now that I'm 29, I can tell he's making an effort\Nto use proper Japanese in front of me.
+Dialogue: 9,0:09:30.21,0:09:36.20,GJM_Main,,0,0,0,,{\i1}Now that I'm 29, I can tell he's making an effort\Nto use standard Japanese in front of me.
 Dialogue: 9,0:09:36.20,0:09:40.35,GJM_Main,,0,0,0,,{\i1}Kids tend to find this manner\Nof speech credible and mature.
 Dialogue: 9,0:09:40.97,0:09:43.70,GJM_Main,,0,0,0,,How did he talk to you?
 Dialogue: 9,0:09:43.70,0:09:46.23,GJM_Main,,0,0,0,,Did it give you the impression he was a nice guy?
@@ -271,14 +270,14 @@ Dialogue: 9,0:15:12.84,0:15:16.00,GJM_Main,,0,0,0,,But as of now, no concrete st
 Dialogue: 9,0:15:16.00,0:15:17.29,GJM_Main,,0,0,0,,Why?
 Dialogue: 9,0:15:17.29,0:15:20.20,GJM_Main,,0,0,0,,Her mother ends up covering it up well.
 Dialogue: 9,0:15:20.74,0:15:24.89,GJM_Main,,0,0,0,,The Child Welfare Center has visited\Nthem three times as of last month,
-Dialogue: 9,0:15:24.89,0:15:28.40,GJM_Main,,0,0,0,,but she had a good intuition, because each time they came, she was out with Kayo.
+Dialogue: 9,0:15:24.89,0:15:28.40,GJM_Main,,0,0,0,,but she has good intuition, because each time they came, she was out with Kayo.
 Dialogue: 9,0:15:28.40,0:15:31.08,GJM_Main,,0,0,0,,They haven't been able to question them yet.
 Dialogue: 9,0:15:31.08,0:15:33.07,GJM_Overlap,,0,0,0,,{\i1\an8}Useless hacks.
 Dialogue: 9,0:15:31.08,0:15:33.07,GJM_Main,,0,0,0,,Useless hacks.
 Dialogue: 9,0:15:33.07,0:15:34.95,GJM_Main,,0,0,0,,{\i1}I said that out loud.
 Dialogue: 9,0:15:34.95,0:15:38.24,GJM_Main,,0,0,0,,Yeah. I've met the mother a few times.
 Dialogue: 9,0:15:39.13,0:15:41.25,GJM_Main,,0,0,0,,Kayo's definitely being abused.
-Dialogue: 9,0:15:41.79,0:15:44.38,GJM_Main,,0,0,0,,All we need is official confirmation\Nfrom the Child Welfare Center.
+Dialogue: 9,0:15:41.79,0:15:44.38,GJM_Main,,0,0,0,,All we need is confirmation\Nfrom the Child Welfare Center.
 Dialogue: 9,0:15:44.72,0:15:47.59,GJM_Main,,0,0,0,,We'll free Kayo from her mother as soon as possible.
 Dialogue: 9,0:15:47.59,0:15:49.77,GJM_Main,,0,0,0,,{\i1}Their preparations are that far along, huh?
 Dialogue: 9,0:15:50.34,0:15:53.26,GJM_Main,,0,0,0,,But if and when that happens,
@@ -287,7 +286,7 @@ Dialogue: 9,0:15:56.75,0:15:59.72,GJM_Main,,0,0,0,,As long as Hinazuki is saved,
 Dialogue: 9,0:15:59.72,0:16:00.75,GJM_Main,,0,0,0,,Hurry, Mr. Yashiro.
 Dialogue: 9,0:16:02.49,0:16:05.76,GJM_Main,,0,0,0,,{\i1}Yashiro must be waiting\Nfor spring break to take action.
 Dialogue: 9,0:16:06.86,0:16:08.82,GJM_Main,,0,0,0,,{\i1}But it'll be too late by then!
-Dialogue: 9,0:16:09.69,0:16:11.41,GJM_Main,,0,0,0,,{\i1}Step on it, dammit!
+Dialogue: 9,0:16:09.69,0:16:11.41,GJM_Main,,0,0,0,,{\i1}Step on it, damn it!
 Dialogue: 9,0:16:13.20,0:16:14.41,GJM_Main,,0,0,0,,Sit down already!
 Dialogue: 9,0:16:14.41,0:16:16.78,GJM_Main,,0,0,0,,{\i1}Oh, shit.
 Dialogue: 9,0:16:16.78,0:16:19.57,GJM_Main,,0,0,0,,{\i1}The lunch money is gone.
