@@ -7954,7 +7954,7 @@ Dialogue: 2,0:57:55.53,0:57:55.57,FyuSigns,,0,0,0,,{\pos(200.61,652.78)\fnJenn B
 Dialogue: 2,0:57:55.57,0:57:55.61,FyuSigns,,0,0,0,,{\pos(200.36,652.88)\fnJenn Bee\fs28\b1\c&H29293F&\alpha&HC4&\blur0.5}I see.
 Dialogue: 2,0:57:55.61,0:57:55.66,FyuSigns,,0,0,0,,{\pos(200.03,652.97)\fnJenn Bee\fs28\b1\c&H29293F&\alpha&HEB&\blur0.5}I see.
 Dialogue: 0,0:59:09.94,0:59:10.98,FyuSigns,,0,0,0,,{\pos(589.219,467.467)\fnKozuka Mincho Pro Strp\fs34\b1\bord2\c&HF8F8FA&\3c&HF8F8FA&\1a&HFF&\2a&HFF&\blur0.4\fad(484,0)\ko4\t(439,484,\1a&H00&)}I{\ko4}'{\ko4}m {\ko4}s{\ko4}u{\ko4}r{\ko4}e {\ko4}s{\ko4}h{\ko4}e{\ko4}'{\ko4}s {\ko4}a{\ko4}l{\ko4}s{\ko4}o{\ko4}.{\ko4}.{\ko4}.
-Dialogue: 1,0:59:09.94,0:59:10.98,FyuSigns,,0,0,0,,{\pos(589.219,467.467)\fnKozuka Mincho Pro Strp\fs34\b1\c&H3A3B41&\2a&HFF&\4a&HFF&\blur0.4\fad(484,0)\k4}I{\k4}'{\k4}m {\k4}s{\k4}u{\k4}r{\k4}e {\k4}h{\k4}e{\k4}'{\k4}s {\k4}a{\k4}l{\k4}s{\k4}o{\k4}.{\k4}.{\k4}.
+Dialogue: 1,0:59:09.94,0:59:10.98,FyuSigns,,0,0,0,,{\pos(589.219,467.467)\fnKozuka Mincho Pro Strp\fs34\b1\c&H3A3B41&\2a&HFF&\4a&HFF&\blur0.4\fad(484,0)\k4}I{\k4}'{\k4}m {\k4}s{\k4}u{\k4}r{\k4}e {\k4}s{\k4}h{\k4}e{\k4}'{\k4}s {\k4}a{\k4}l{\k4}s{\k4}o{\k4}.{\k4}.{\k4}.
 Dialogue: 2,0:59:10.77,0:59:10.98,FyuSigns,,0,0,0,,{\an7\pos(605.8,507.4)\c&HFEFEFE&\blur30\t(0,155,\fscx400\fscy400)\p1}m -2 -43 b -22 -51 -47 -18 -47 -7 -49 7 -54 38 0 31 39 29 72 -28 -2 -43
 Dialogue: 0,0:59:11.06,0:59:11.11,FyuSigns,,0,0,0,,{\pos(598.36,459.47)\fnKozuka Mincho Pro Strp\fs40\b1\c&H3A3B41&\alpha&H97&\blur0.5}in love with... me.
 Dialogue: 0,0:59:11.11,0:59:11.15,FyuSigns,,0,0,0,,{\pos(598.36,459.41)\fscx100.12\fscy100.12\fnKozuka Mincho Pro Strp\fs40\b1\c&H3A3B41&\blur0.5}in love with... me.
