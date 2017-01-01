@@ -16,7 +16,7 @@ Keyframes File: flipflap_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Active Line: 2
+Active Line: 13
 Video Position: 959
 
 [V4+ Styles]
@@ -40,7 +40,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:32.22,0:00:34.60,GJM_Main,,0,0,0,,Stop, Papika! Get back here!
 Dialogue: 10,0:00:36.86,0:00:38.93,GJM_Main,,0,0,0,,But this was another bust.
 Dialogue: 10,0:00:39.98,0:00:41.22,GJM_Main,,0,0,0,,I'll go by myself!
-Dialogue: 10,0:00:41.63,0:00:45.04,GJM_Main,,0,0,0,,Looking for a candidate on foot is highly inefficient.
+Dialogue: 10,0:00:41.63,0:00:45.04,GJM_Main,,0,0,0,,Looking for a partner on foot is highly inefficient.
 Dialogue: 10,0:00:45.04,0:00:46.23,GJM_Main,,0,0,0,,{\i1}Don't care!
 Dialogue: 10,0:00:47.01,0:00:48.36,GJM_Main,,0,0,0,,Dr. Salt?
 Dialogue: 10,0:00:56.73,0:00:58.40,GJM_Main,,0,0,0,,Thanks for the welcome party!
@@ -119,7 +119,7 @@ Dialogue: 10,0:08:30.67,0:08:33.22,GJM_Main,,0,0,0,,P-Puey? Pew?
 Dialogue: 10,0:08:33.22,0:08:34.20,GJM_Main,,0,0,0,,What was it, again?
 Dialogue: 10,0:08:37.78,0:08:40.12,GJM_Main,,0,0,0,,Pure Illusion.
 Dialogue: 10,0:08:48.73,0:08:51.38,GJM_Main,,0,0,0,,TT-392 has secured Papika.
-Dialogue: 10,0:08:51.92,0:08:53.59,GJM_Main,,0,0,0,,Is she a possible candidate?{## "partner" if it's a repeated term, maybe come back and fix this?}
+Dialogue: 10,0:08:51.92,0:08:53.59,GJM_Main,,0,0,0,,Is she a possible partner?
 Dialogue: 10,0:08:54.71,0:08:56.12,GJM_Main,,0,0,0,,Put them to the test.
 Dialogue: 10,0:08:56.59,0:08:58.10,GJM_Main,,0,0,0,,Palpation time!
 Dialogue: 10,0:08:58.10,0:09:00.51,GJM_Main,,0,0,0,,Try sending them through!
