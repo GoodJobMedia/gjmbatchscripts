@@ -25,7 +25,6 @@ Video Position: 7008
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Default,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H003F1313,&HC0441A0F,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
 Style: Default - Alt,Alegreya Sub Sans,53,&H00FFFFFF,&H000000FF,&H0013133F,&HC00F0F44,-1,0,0,0,100,100,0,0,1,2.7,1.35,2,160,160,45,1
-Style: KMinH,Kozuka Mincho Pro Strippedv2 H,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: jojo_022,Blue Highway D,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
 Style: Script2,DIST Inking Fxd,50,&H00262123,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,2,10,10,10,1
 Style: KMinR,Kozuka Mincho Pro Strippedv3 R,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
