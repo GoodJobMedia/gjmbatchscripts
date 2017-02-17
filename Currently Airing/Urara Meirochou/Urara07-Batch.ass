@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: AK
-Audio File: 07.mkv
-Video File: 07.mkv
-Keyframes File: 07_keyframes.log
+Audio File: E:/GJM/Urara/07/[GJM] Urara Meirochou - 07 [6155C215].mkv
+Video File: E:/GJM/Urara/07/[GJM] Urara Meirochou - 07 [6155C215].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 294
-Active Line: 295
-Video Position: 21960
+Video Zoom Percent: 0.750000
+Scroll Position: 2177
+Active Line: 2181
+Video Position: 1211
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2225,7 +2224,10 @@ Dialogue: 0,0:00:14.82,0:00:14.86,Chalkboard,,0,0,0,,{\pos(173.24,458)\fs70\c&HE
 Dialogue: 0,0:00:14.86,0:00:14.91,Chalkboard,,0,0,0,,{\pos(172.47,458)\fs70\c&HE7EBF8&\blur0.8\clip(m -60.41 490 l -61.41 426 391.59 426 390.59 490 41.59 490 b 38.59 482 40.59 460 32.59 462 25.59 461 11.59 482 3.59 490)}Incantations
 Dialogue: 0,0:00:14.91,0:00:14.95,Chalkboard,,0,0,0,,{\pos(171.72,458)\fs70\c&HE7EBF8&\blur0.8\clip(m -61.63 490 l -62.63 426 390.37 426 389.37 490 40.37 490 b 37.37 482 39.37 460 31.37 462 24.37 461 10.37 482 2.37 490)}Incantations
 Dialogue: 0,0:00:14.95,0:00:14.99,Chalkboard,,0,0,0,,{\pos(170.96,458)\fs70\c&HE7EBF8&\blur0.8\clip(m -62.63 490 l -63.63 426 389.37 426 388.37 490 39.37 490 b 36.37 482 38.37 460 30.37 462 23.37 461 9.37 482 1.37 490)}Incantations
-Dialogue: 0,0:00:46.35,0:00:50.94,Chalkboard,,0,0,0,,{\pos(523,693)\frz7.948\fax-0.15\fs70\blur0.8}Incanta{\1a&HFF&}tions
+Dialogue: 0,0:00:46.35,0:00:49.61,Chalkboard,,0,0,0,,{\pos(523,693)\frz7.948\fax-0.15\fs70\blur0.8}Incanta{\1a&HFF&}tions
+Dialogue: 0,0:00:49.61,0:00:49.73,Chalkboard,,0,0,0,,{\pos(523,693)\frz7.948\fax-0.15\fs70\blur0.8\iclip(m 558 638 l 550 665 547 684 547 703 550 719 700 720 657 607)}Incanta{\1a&HFF&}tions
+Dialogue: 0,0:00:49.73,0:00:49.86,Chalkboard,,0,0,0,,{\pos(523,693)\frz7.948\fax-0.15\fs70\blur0.8\iclip(m 552 641 l 541 667 539 687 541 706 544 722 694 723 651 610)}Incanta{\1a&HFF&}tions
+Dialogue: 0,0:00:49.86,0:00:50.94,Chalkboard,,0,0,0,,{\pos(523,693)\frz7.948\fax-0.15\fs70\blur0.8\iclip(m 543 640 l 530 667 530 686 532 705 535 721 685 722 642 609)}Incanta{\1a&HFF&}tions
 Dialogue: 0,0:00:29.50,0:00:29.55,Incantation,,0,0,0,,{\pos(-87.99,170)\fax0.2\fs52\bord2\c&H2E2FA5&\3c&H2E2FA5&\blur0.8}Obstacle
 Dialogue: 0,0:00:29.55,0:00:29.59,Incantation,,0,0,0,,{\pos(-83.79,170)\fax0.2\fs52\bord2\c&H2E2FA5&\3c&H2E2FA5&\blur0.8}Obstacle
 Dialogue: 0,0:00:29.59,0:00:29.63,Incantation,,0,0,0,,{\pos(-79.66,170)\fax0.2\fs52\bord2\c&H2E2FA5&\3c&H2E2FA5&\blur0.8}Obstacle
