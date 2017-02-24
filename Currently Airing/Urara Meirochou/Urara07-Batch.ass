@@ -727,8 +727,6 @@ Dialogue: 2,0:01:17.60,0:01:19.18,Gate Post,,0,0,0,,{\pos(1078.5,560.56)\fscx84\
 Dialogue: 0,0:01:42.20,0:01:45.54,Show Title,,0,0,0,,{\pos(640,180)\fs80\xbord12\ybord8\c&HFEFFFD&\3c&HFEFFFD&\alpha&H50&\blur4\fad(459,0)}The Urara of Labyrinth Town
 Dialogue: 1,0:01:42.20,0:01:45.54,Show Title,,0,0,0,,{\pos(642,182)\fs80\bord2\c&HFEFFFD&\3c&HFEFFFD&\blur0.6\fad(459,0)}The Urara of Labyrinth Town
 Dialogue: 2,0:01:42.20,0:01:45.54,Show Title,,0,0,0,,{\pos(640,180)\fs80\c&H0655E7&\blur0.6\fad(459,0)}The Urara {\c&H0040A5&}of {\c&H0655E7&}Labyrinth Town
-Dialogue: 0,0:24:57.77,0:25:00.85,FyuSigns,,0,0,0,,{\pos(640,405)\fnwonderfull\fs43\fsp1\b1\bord5\c&H000000&\1a&HFF&\blur0.6\fad(315,0)\t(270,315,\1a&H00&)}INCANTATIONS AND WITCHES, AND SOMETIMES RESOLVE
-Dialogue: 1,0:24:57.77,0:25:00.85,FyuSigns,,0,0,0,,{\pos(640,405)\fnwonderfull\fs43\fsp1\b1\4a&HFF&\blur0.6\fad(315,0)}INCANTATIONS AND WITCHES, AND SOMETIMES RESOLVE
 Dialogue: 0,0:00:51.07,0:00:51.11,Signs,,0,0,0,,{\pos(1051.26,425.67)\fscx126.61\fscy126.61\fnKG Behind These Hazel Eyes\fsp2\1c&H000000&\blur1.48}O{\blur1.54}n{\blur1.59}e{\blur1.65}i{\blur1.71}r{\blur1.77}o{\blur1.83}m{\blur1.89}a{\blur1.95}n{\blur2.01}c{\blur2.07}y
 Dialogue: 0,0:00:51.11,0:00:51.15,Signs,,0,0,0,,{\pos(1051.13,425.21)\fscx126.9\fscy126.9\fnKG Behind These Hazel Eyes\fsp2\1c&H010405&\blur1.48}O{\blur1.54}n{\blur1.6}e{\blur1.66}i{\blur1.72}r{\blur1.78}o{\blur1.83}m{\blur1.89}a{\blur1.95}n{\blur2.01}c{\blur2.07}y
 Dialogue: 0,0:00:51.15,0:00:51.20,Signs,,0,0,0,,{\pos(1051.46,425.4)\fscx126.85\fscy126.85\fnKG Behind These Hazel Eyes\fsp2\1c&H03070A&\blur1.48}O{\blur1.54}n{\blur1.6}e{\blur1.66}i{\blur1.72}r{\blur1.77}o{\blur1.83}m{\blur1.89}a{\blur1.95}n{\blur2.01}c{\blur2.07}y
