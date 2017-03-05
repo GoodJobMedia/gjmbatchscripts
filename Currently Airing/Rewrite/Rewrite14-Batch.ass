@@ -32,7 +32,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:13.07,0:00:15.66,Default,Ko,0,0,0,,Step aside, Kotarou-kun.
 Dialogue: 10,0:00:16.25,0:00:17.16,Default,K,0,0,0,,Kotori...
 Dialogue: 10,0:00:17.71,0:00:21.07,Default,Ko,0,0,0,,If Salvation comes to pass, \Nthe Key will return to the stars,
-Dialogue: 10,0:00:21.07,0:00:23.37,Default,Ko,0,0,0,,and I'll lose my Druid powers.
+Dialogue: 10,0:00:21.07,0:00:23.37,Default,Ko,0,0,0,,and I'll lose my druid powers.
 Dialogue: 10,0:00:23.37,0:00:24.67,Default,Ko,0,0,0,,And if that happens...
 Dialogue: 10,0:00:25.13,0:00:29.98,Default,K,0,0,0,,Because I'm probably a daemon \Nwho's only alive thanks to your powers,
 Dialogue: 10,0:00:29.98,0:00:30.67,Default,K,0,0,0,,I'll die?
@@ -46,7 +46,7 @@ Dialogue: 10,0:00:47.91,0:00:49.69,Default,Ko,0,0,0,,Prove...?
 Dialogue: 10,0:00:50.03,0:00:54.03,Default,K,0,0,0,,If I really were a daemon,\N I wouldn't be able to defy my master.
 Dialogue: 10,0:00:54.03,0:00:57.70,Default,K,0,0,0,,So I'll go against your wishes to prove that I'm not.
 Dialogue: 10,0:00:57.70,0:00:59.90,Default,Ko,0,0,0,,My wishes?
-Dialogue: 10,0:00:59.90,0:01:03.20,Default,K,0,0,0,,You want to get away from all \Nthis Key and Druid stuff, right?
+Dialogue: 10,0:00:59.90,0:01:03.20,Default,K,0,0,0,,You want to get away from all \Nthis Key and druid stuff, right?
 Dialogue: 10,0:01:03.69,0:01:05.44,Default,K,0,0,0,,I won't let you.
 Dialogue: 10,0:01:05.44,0:01:08.71,Default,K,0,0,0,,I'll force you to make the most difficult choice.
 Dialogue: 10,0:01:09.49,0:01:11.37,Default,Ko,0,0,0,,Are you saying I should continue to suffer?
