@@ -17406,9 +17406,9 @@ Dialogue: 0,0:23:39.68,0:24:09.55,iFSigns,,0,0,0,,{\pos(1018,498.667)\fscx48\fsc
 Dialogue: 0,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord4.1\3c&H356BB4&\1a&HFF&\blur0.5\fad(437,0)\t(0,437,\3c&H588ACE&\c&H588ACE&)\t(396,437,\1a&H00&)}Next  Time
 Dialogue: 1,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(437,0)}Next  Time
 Dialogue: 2,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\c&H023779&\blur0.5\fad(437,0)\t(0,437,\c&H1374E3&)}Next  Time
-Dialogue: 0,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.1\3c&H356BB4&\1a&HFF&\blur0.5\fad(437,0)\t(0,437,\3c&H588ACE&\c&H588ACE&)\t(396,437,\1a&H00&)}Kyouko Touno       Chapter 1
-Dialogue: 1,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(437,0)}Kyouko Touno       Chapter 1
-Dialogue: 2,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&H023779&\blur0.5\fad(437,0)\t(0,437,\c&H1374E3&)}Kyouko Touno       Chapter 1
+Dialogue: 0,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.1\3c&H356BB4&\1a&HFF&\blur0.5\fad(437,0)\t(0,437,\3c&H588ACE&\c&H588ACE&)\t(396,437,\1a&H00&)}Touno Kyouko       Chapter 1
+Dialogue: 1,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(437,0)}Touno Kyouko       Chapter 1
+Dialogue: 2,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&H023779&\blur0.5\fad(437,0)\t(0,437,\c&H1374E3&)}Touno Kyouko       Chapter 1
 Dialogue: 0,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord4.7\3c&H193D6E&\1a&HFF&\blur0.5\fad(437,0)\t(0,437,\3c&H3B7CD1&\c&H3B7CD1&)\t(396,437,\1a&H00&)}Home Ec. Club
 Dialogue: 1,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord3\3c&HFFFFFF&\blur0.5\fad(437,0)}Home Ec. Club
 Dialogue: 2,0:24:05.09,0:24:09.55,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\c&H00377C&\blur0.5\fad(437,0)\t(0,437,\c&H006FF7&)}Home Ec. Club
