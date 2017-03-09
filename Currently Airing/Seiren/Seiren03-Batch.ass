@@ -17310,9 +17310,9 @@ Dialogue: 1,0:20:35.72,0:20:36.59,CicSigns,,0,0,0,,{\blur0.6\fnCoreHumanistSans\
 Dialogue: 1,0:20:35.72,0:20:36.59,CicSigns,,0,0,0,,{\blur0.6\fnCoreHumanistSans\b0\frz90\fscx55.94\fscy61.32\c&H626169&\pos(403.666,395.912)}Kikuchi Youko
 Dialogue: 1,0:20:35.72,0:20:36.59,CicSigns,,0,0,0,,{\blur0.6\fnCoreHumanistSans\b0\frz90\fscx48.88\fscy53.58\c&H626169&\pos(425.889,370.245)}07/30    09:55 {\fscx41.88\fscy47}Missed Call
 Dialogue: 1,0:20:35.72,0:20:36.59,CicSigns,,0,0,0,,{\blur0.6\fnCoreHumanistSans\b0\frz90\fscx55.94\fscy61.32\c&H626169&\pos(452.999,395.912)}Kikuchi Youko
-Dialogue: 0,0:02:40.39,0:02:44.87,iFSigns,Title,0,0,0,,{\fad(396,0)\blur0.5\bord4.3\b0\fs35\pos(640,270)\fnBurbin Casual NC\c&HFFFFFF&\3c&HFFFFFF&\t(0,396,\1a&H00&\c&HE9C323&\3c&HE9C323&)}Tsuneki  Hikari       Chapter 3
-Dialogue: 1,0:02:40.39,0:02:44.87,iFSigns,Title,0,0,0,,{\fad(396,0)\pos(640,270)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\c&HFFFFFF&\alpha&HDF&\blur0.5\t(0,396,\alpha&H00&\3c&HFFFFFF&\c&HFFFFFF&)}Tsuneki  Hikari       Chapter 3
-Dialogue: 2,0:02:40.39,0:02:44.87,iFSigns,Title,0,0,0,,{\fad(396,0)\pos(640,270)\fnBurbin Casual NC\fs35\alpha&HEF&\c&HE9C323&\blur0.5\t(0,396,\alpha&H00&\c&HE9C323&)}Tsuneki  Hikari       Chapter 3
+Dialogue: 0,0:02:40.39,0:02:44.87,iFSigns,Title,0,0,0,,{\fad(396,0)\blur0.5\bord4.3\b0\fs35\pos(640,270)\fnBurbin Casual NC\c&HFFFFFF&\3c&HFFFFFF&\t(0,396,\1a&H00&\c&HE9C323&\3c&HE9C323&)}Tsuneki  Hikari       Chapter  3
+Dialogue: 1,0:02:40.39,0:02:44.87,iFSigns,Title,0,0,0,,{\fad(396,0)\pos(640,270)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\c&HFFFFFF&\alpha&HDF&\blur0.5\t(0,396,\alpha&H00&\3c&HFFFFFF&\c&HFFFFFF&)}Tsuneki  Hikari       Chapter  3
+Dialogue: 2,0:02:40.39,0:02:44.87,iFSigns,Title,0,0,0,,{\fad(396,0)\pos(640,270)\fnBurbin Casual NC\fs35\alpha&HEF&\c&HE9C323&\blur0.5\t(0,396,\alpha&H00&\c&HE9C323&)}Tsuneki  Hikari       Chapter  3
 Dialogue: 0,0:02:40.39,0:02:44.87,iFSigns,Title,0,0,0,,{\fad(396,0)\blur0.5\bord4.6\b0\fs50\pos(640,454)\fnCentraleSansRnd Bold\c&HFFFFFF&\3c&HFFFFFF&\1a&HFF&\t(0,396,\1a&H00&\c&HE9C323&\3c&HE9C323&)}In the Men's Bath
 Dialogue: 1,0:02:40.39,0:02:44.87,iFSigns,Title,0,0,0,,{\fad(396,0)\pos(640,454)\fnCentraleSansRnd Bold\bord3\c&HFFFFFF&\3c&HFFFFFF&\alpha&HDF&\blur0.5\t(0,396,\alpha&H00&\3c&HFFFFFF&\c&HFFFFFF&)}In the Men's Bath
 Dialogue: 2,0:02:40.39,0:02:44.87,iFSigns,Title,0,0,0,,{\fad(396,0)\pos(640,454)\fnCentraleSansRnd Bold\c&HE9C323&\alpha&HEF&\blur0.5\t(0,396,\alpha&H00&\c&HE9C323&)}In the Men's Bath
@@ -17331,9 +17331,9 @@ Dialogue: 2,0:23:39.82,0:23:43.76,iFSigns,Next,0,0,0,,{\pos(220.513,43.831)\fnCe
 Dialogue: 0,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord4.3\c&HF2D39A&\3c&HFFFCF4&\1a&HFF&\blur0.5\fad(430,0)\t(0,350,\1a&H00&\3c&HE7C024&\c&HE7C024&)}Next  Time
 Dialogue: 1,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Next  Time
 Dialogue: 2,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\c&HC9A819&\blur0.5\fad(430,0)\t(0,430,\c&HE9C323&)}Next  Time
-Dialogue: 0,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.3\3c&HFFFCF4&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\1a&H00&\3c&HE7C024&\c&HE7C024&)}Tsuneki  Hikari       Chapter 4
-Dialogue: 1,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Tsuneki  Hikari       Chapter 4
-Dialogue: 2,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&HC9A819&\blur0.5\fad(430,0)\t(0,430,\c&HE9C323&)}Tsuneki  Hikari       Chapter 4
+Dialogue: 0,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.3\3c&HFFFCF4&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\1a&H00&\3c&HE7C024&\c&HE7C024&)}Tsuneki  Hikari       Final  Chapter
+Dialogue: 1,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Tsuneki  Hikari       Final  Chapter
+Dialogue: 2,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&HC9A819&\blur0.5\fad(430,0)\t(0,430,\c&HE9C323&)}Tsuneki  Hikari       Final  Chapter
 Dialogue: 0,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord4.6\3c&HFFFCF4&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HE7C024&\c&HE7C024&\1a&H00&)}Starry Sky
 Dialogue: 1,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord3\3c&HFFFFFF&\blur0.5\fad(430,0)}Starry Sky
 Dialogue: 2,0:24:05.67,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\c&HC9A819&\blur0.5\fad(430,0)\t(0,430,\c&HE9C323&)}Starry Sky

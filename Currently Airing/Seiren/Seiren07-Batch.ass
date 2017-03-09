@@ -16899,9 +16899,9 @@ Dialogue: 0,0:01:20.85,0:01:21.22,iFSigns,,0,0,0,,{\pos(802,335.333)\frz6.103\fn
 Dialogue: 0,0:01:20.85,0:01:21.22,iFSigns,,0,0,0,,{\pos(830.881,330.844)\frz5.341\fnBeauregard Display SSi\b1\c&H9F6895&\alpha&H5D&\blur1.1\t(258,383,\c&HFFFFFF&\blur4)}o
 Dialogue: 0,0:01:20.85,0:01:21.22,iFSigns,,0,0,0,,{\pos(855.599,332.623)\frz357.8\fnBeauregard Display SSi\b1\c&H9F6895&\alpha&H5D&\blur1.1\t(258,383,\c&HFFFFFF&\blur4)}r
 Dialogue: 0,0:01:20.85,0:01:21.22,iFSigns,,0,0,0,,{\pos(878.138,336.177)\frz3.849\fnBeauregard Display SSi\b1\c&H9F6895&\alpha&H5D&\blur1.1\t(258,383,\c&HFFFFFF&\blur4)}u
-Dialogue: 1,0:02:16.78,0:02:21.20,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\blur0.5\c&H4B0037&\3c&HFF90E7&\pos(640,263)\bord4.1\1a&HFF&\t(\3c&HA11489&\c&HA11489&)\t(896,941,\1a&H00&)\t(3589,3634,\1a&HFF&)}Miyamae Tooru       Chapter  3
-Dialogue: 2,0:02:16.78,0:02:21.20,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\blur0.5\3c&HFFFFFF&\c&HFFFFFF&\pos(640,263)\bord2.6\1a&HFF&\t(756,901,\1a&H00&)\t(3589,3634,\1a&HFF&)}Miyamae Tooru       Chapter  3
-Dialogue: 3,0:02:16.78,0:02:21.20,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\c&HFF06C9&\blur0.5\pos(640,263)\bord0\4a&HFF&}Miyamae Tooru       Chapter  3
+Dialogue: 1,0:02:16.78,0:02:21.20,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\blur0.5\c&H4B0037&\3c&HFF90E7&\pos(640,263)\bord4.1\1a&HFF&\t(\3c&HA11489&\c&HA11489&)\t(896,941,\1a&H00&)\t(3589,3634,\1a&HFF&)}Miyamae  Tooru       Chapter  3
+Dialogue: 2,0:02:16.78,0:02:21.20,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\blur0.5\3c&HFFFFFF&\c&HFFFFFF&\pos(640,263)\bord2.6\1a&HFF&\t(756,901,\1a&H00&)\t(3589,3634,\1a&HFF&)}Miyamae  Tooru       Chapter  3
+Dialogue: 3,0:02:16.78,0:02:21.20,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\c&HFF06C9&\blur0.5\pos(640,263)\bord0\4a&HFF&}Miyamae  Tooru       Chapter  3
 Dialogue: 1,0:02:16.78,0:02:21.20,iFSigns,Title,0,0,0,,{\fad(941,931)\fnCentraleSansRnd Bold\blur0.5\bord4.7\c&H4B0037&\3c&HCD2093&\1a&HFF&\t(896,941,\1a&H00&)\t(3589,3634,\1a&HFF&)\pos(640,451.43)}Brother Complex
 Dialogue: 2,0:02:16.78,0:02:21.20,iFSigns,Title,0,0,0,,{\fad(941,931)\fnCentraleSansRnd Bold\blur0.5\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(796,941,\1a&H00&)\t(3589,3634,\1a&HFF&)\pos(640,451.43)}Brother Complex
 Dialogue: 3,0:02:16.78,0:02:21.20,iFSigns,Title,0,0,0,,{\fad(941,931)\fnCentraleSansRnd Bold\c&HFF06C9&\blur0.5\bord0\4a&HFF&\pos(640,451.43)}Brother Complex
@@ -17220,9 +17220,9 @@ Dialogue: 3,0:23:39.73,0:23:43.73,iFSigns,Next,0,0,0,,{\pos(220.513,43.831)\fnCe
 Dialogue: 0,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord4.1\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Next  Time
 Dialogue: 1,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Next  Time
 Dialogue: 2,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HD81CAB&)}Next  Time
-Dialogue: 0,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.1\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Miyamae Tooru       Final Chapter
-Dialogue: 1,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Miyamae Tooru       Final Chapter
-Dialogue: 2,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HD81CAB&)}Miyamae Tooru       Final Chapter
+Dialogue: 0,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.1\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Miyamae  Tooru       Final  Chapter
+Dialogue: 1,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Miyamae  Tooru       Final  Chapter
+Dialogue: 2,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HD81CAB&)}Miyamae  Tooru       Final  Chapter
 Dialogue: 0,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord4.7\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Fluffy
 Dialogue: 1,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord3\3c&HFFFFFF&\blur0.5\fad(430,0)}Fluffy
 Dialogue: 2,0:24:03.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HE824BD&)}Fluffy

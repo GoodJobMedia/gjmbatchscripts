@@ -16950,9 +16950,9 @@ Dialogue: 1,0:02:04.11,0:02:04.15,CicSigns,,0,0,0,,{\pos(710.16,331)\org(630.35,
 Dialogue: 0,0:02:04.11,0:02:04.15,CicSigns,,0,0,0,,{\pos(712.16,333)\org(632.35,322)\fscx85\fscy93\frz24.56\fnMarker SD\fsp1\b1\c&H000000&\1a&H6C&\blur1.1}s
 Dialogue: 1,0:02:04.11,0:02:04.15,CicSigns,,0,0,0,,{\pos(726.59,319)\org(630.35,320)\fscx85\fscy93\frz14.74\fnMarker SD\fsp1\b1\c&HD46760&\blur1.01}e
 Dialogue: 0,0:02:04.11,0:02:04.15,CicSigns,,0,0,0,,{\pos(728.59,321)\org(632.35,322)\fscx85\fscy93\frz14.74\fnMarker SD\fsp1\b1\c&H000000&\1a&H6C&\blur1.1}e
-Dialogue: 0,0:02:33.38,0:02:37.85,iFSigns,Title,0,0,0,,{\pos(640,270)\fnBurbin Casual NC\fs35\bord4.3\3c&HFFFFFF&\blur0.5\fad(524,0)\t(0,524,\3c&HE9C323&\c&HE9C323&)}Tsuneki  Hikari       Chapter 4
-Dialogue: 1,0:02:33.38,0:02:37.85,iFSigns,Title,0,0,0,,{\pos(640,270)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(524,0)}Tsuneki  Hikari       Chapter 4
-Dialogue: 2,0:02:33.38,0:02:37.85,iFSigns,Title,0,0,0,,{\pos(640,270)\fnBurbin Casual NC\fs35\c&HE9C323&\alpha&HEF&\blur0.5\fad(524,0)\t(0,524,\alpha&H00&\c&HE9C323&)}Tsuneki  Hikari       Chapter 4
+Dialogue: 0,0:02:33.38,0:02:37.85,iFSigns,Title,0,0,0,,{\pos(640,270)\fnBurbin Casual NC\fs35\bord4.3\3c&HFFFFFF&\blur0.5\fad(524,0)\t(0,524,\3c&HE9C323&\c&HE9C323&)}Tsuneki  Hikari       Final  Chapter
+Dialogue: 1,0:02:33.38,0:02:37.85,iFSigns,Title,0,0,0,,{\pos(640,270)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(524,0)}Tsuneki  Hikari       Final  Chapter
+Dialogue: 2,0:02:33.38,0:02:37.85,iFSigns,Title,0,0,0,,{\pos(640,270)\fnBurbin Casual NC\fs35\c&HE9C323&\alpha&HEF&\blur0.5\fad(524,0)\t(0,524,\alpha&H00&\c&HE9C323&)}Tsuneki  Hikari       Final  Chapter
 Dialogue: 0,0:02:33.38,0:02:37.85,iFSigns,Title,0,0,0,,{\pos(640,454)\fnCentraleSansRnd Bold\bord4.6\3c&HFFFFFF&\1a&HFF&\blur0.5\fad(524,0)\t(0,524,\c&HE9C323&\3c&HE9C323&)\t(440,500,\1a&H00&)}Starry Sky
 Dialogue: 1,0:02:33.38,0:02:37.85,iFSigns,Title,0,0,0,,{\pos(640,454)\fnCentraleSansRnd Bold\bord3\3c&HFFFFFF&\blur0.5\fad(524,0)\t(0,524,\3c&HFFFFFF&\c&HFFFFFF&)}Starry Sky
 Dialogue: 2,0:02:33.38,0:02:37.85,iFSigns,Title,0,0,0,,{\pos(640,454)\fnCentraleSansRnd Bold\c&HE9C323&\alpha&HEF&\blur0.5\fad(524,0)\t(0,524,\alpha&H00&\c&HF0CA2A&)}Starry Sky
@@ -17113,9 +17113,9 @@ Dialogue: 3,0:23:39.82,0:23:43.76,iFSigns,Next,0,0,0,,{\pos(220.513,43.831)\fnCe
 Dialogue: 0,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord4.1\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Next  Time
 Dialogue: 1,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Next  Time
 Dialogue: 2,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HE824BD&)}Next  Time
-Dialogue: 0,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.1\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Miyamae Tooru       Chapter  1
-Dialogue: 1,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Miyamae Tooru       Chapter  1
-Dialogue: 2,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HE824BD&)}Miyamae Tooru       Chapter  1
+Dialogue: 0,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.1\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Miyamae  Tooru       Chapter  1
+Dialogue: 1,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Miyamae  Tooru       Chapter  1
+Dialogue: 2,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HE824BD&)}Miyamae  Tooru       Chapter  1
 Dialogue: 0,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord4.7\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Switch
 Dialogue: 1,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord3\3c&HFFFFFF&\blur0.5\fad(430,0)}Switch
 Dialogue: 2,0:24:03.50,0:24:09.46,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HE824BD&)}Switch

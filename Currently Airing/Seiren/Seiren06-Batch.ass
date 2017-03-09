@@ -16903,9 +16903,9 @@ Dialogue: 0,0:00:51.82,0:00:52.20,iFSigns,,0,0,0,,{\pos(878.138,336.177)\frz3.84
 Dialogue: 0,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord4.1\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Next  Time
 Dialogue: 1,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Next  Time
 Dialogue: 2,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HD81CAB&)}Next  Time
-Dialogue: 0,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.1\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Miyamae Tooru       Chapter  3
-Dialogue: 1,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Miyamae Tooru       Chapter  3
-Dialogue: 2,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HD81CAB&)}Miyamae Tooru       Chapter  3
+Dialogue: 0,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.1\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Miyamae  Tooru       Chapter  3
+Dialogue: 1,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Miyamae  Tooru       Chapter  3
+Dialogue: 2,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HD81CAB&)}Miyamae  Tooru       Chapter  3
 Dialogue: 0,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord4.7\3c&HFF90E7&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HA11489&\c&HA11489&)\t(400,430,\1a&H00&)}Brother Complex
 Dialogue: 1,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord3\3c&HFFFFFF&\blur0.5\fad(430,0)}Brother Complex
 Dialogue: 2,0:24:03.17,0:24:09.63,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\c&H7B005D&\blur0.5\fad(430,0)\t(0,430,\c&HE824BD&)}Brother Complex
@@ -16922,9 +16922,9 @@ Dialogue: 0,0:23:39.77,0:23:43.73,iFSigns,Next,0,0,0,,{\pos(220.513,43.831)\fnCe
 Dialogue: 1,0:23:39.77,0:23:43.73,iFSigns,Next,0,0,0,,{\pos(220.513,43.831)\fnCentraleSansRnd Bold\fs35\bord4.6\c&HAB1C8C&\3c&HAB1C8C&\blur0.5\fad(0,850)\t(3110,3960,\1a&HFF&\3c&HAF2394&\c&HFFFFFF&)}Episode Preview
 Dialogue: 2,0:23:39.77,0:23:43.73,iFSigns,Next,0,0,0,,{\pos(220.513,43.831)\fnCentraleSansRnd Bold\fs35\bord3\3c&HFFFFFF&\blur0.5\fad(0,850)\t(3110,3960,\1a&HFF&)}Episode Preview
 Dialogue: 3,0:23:39.77,0:23:43.73,iFSigns,Next,0,0,0,,{\pos(220.513,43.831)\fnCentraleSansRnd Bold\fs35\c&HE704B8&\blur0.5\fad(0,850)}Episode Preview
-Dialogue: 1,0:01:52.13,0:01:57.05,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\blur0.5\c&H4B0037&\3c&HFF90E7&\pos(640,290)\bord4.1\1a&HFF&\t(\3c&HA11489&\c&HA11489&)\t(896,941,\1a&H00&)\t(3989,4034,\1a&HFF&)}Miyamae Tooru       Chapter  2
-Dialogue: 2,0:01:52.13,0:01:57.05,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\blur0.5\3c&HFFFFFF&\c&HFFFFFF&\pos(640,290)\bord2.6\1a&HFF&\t(856,901,\1a&H00&)\t(3989,4034,\1a&HFF&)}Miyamae Tooru       Chapter  2
-Dialogue: 3,0:01:52.13,0:01:57.05,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\c&HFF06C9&\blur0.5\pos(640,290)\bord0\4a&HFF&}Miyamae Tooru       Chapter  2
+Dialogue: 1,0:01:52.13,0:01:57.05,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\blur0.5\c&H4B0037&\3c&HFF90E7&\pos(640,290)\bord4.1\1a&HFF&\t(\3c&HA11489&\c&HA11489&)\t(896,941,\1a&H00&)\t(3989,4034,\1a&HFF&)}Miyamae  Tooru       Chapter  2
+Dialogue: 2,0:01:52.13,0:01:57.05,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\blur0.5\3c&HFFFFFF&\c&HFFFFFF&\pos(640,290)\bord2.6\1a&HFF&\t(856,901,\1a&H00&)\t(3989,4034,\1a&HFF&)}Miyamae  Tooru       Chapter  2
+Dialogue: 3,0:01:52.13,0:01:57.05,iFSigns,Title,0,0,0,,{\fad(941,931)\fnBurbin Casual NC\fs35\c&HFF06C9&\blur0.5\pos(640,290)\bord0\4a&HFF&}Miyamae  Tooru       Chapter  2
 Dialogue: 1,0:01:52.13,0:01:57.05,iFSigns,Title,0,0,0,,{\fad(941,931)\fnCentraleSansRnd Bold\blur0.5\bord4.7\c&H4B0037&\3c&HCD2093&\1a&HFF&\t(896,941,\1a&H00&)\t(3989,4034,\1a&HFF&)\pos(640,478.429)}Versus
 Dialogue: 2,0:01:52.13,0:01:57.05,iFSigns,Title,0,0,0,,{\fad(941,931)\fnCentraleSansRnd Bold\blur0.5\bord3\3c&HFFFFFF&\c&HFFFFFF&\1a&HFF&\t(896,941,\1a&H00&)\t(3989,4034,\1a&HFF&)\pos(640,478.429)}Versus
 Dialogue: 3,0:01:52.13,0:01:57.05,iFSigns,Title,0,0,0,,{\fad(941,931)\fnCentraleSansRnd Bold\c&HFF06C9&\blur0.5\bord0\4a&HFF&\pos(640,478.429)}Versus

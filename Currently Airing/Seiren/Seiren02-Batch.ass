@@ -17618,9 +17618,9 @@ Dialogue: 2,0:13:05.72,0:13:06.74,iFSigns,,0,0,0,,{\pos(640.4,236.843)\fnFOT Seu
 Dialogue: 2,0:13:05.72,0:13:06.74,iFSigns,,0,0,0,,{\pos(640.4,236.843)\fnFOT Seurat ProN Strp ExtraBold\fs65\c&H3E35ED&\1a&HFF&\blur6\clip(523,258,759,259)\t(23,274,\1a&H40&)}Brewing
 Dialogue: 2,0:13:05.72,0:13:06.74,iFSigns,,0,0,0,,{\pos(640.4,236.843)\fnFOT Seurat ProN Strp ExtraBold\fs65\c&H3B2FEC&\1a&HFF&\blur6\clip(523,259,759,260)\t(23,274,\1a&H40&)}Brewing
 Dialogue: 2,0:13:05.72,0:13:06.74,iFSigns,,0,0,0,,{\pos(640.4,236.843)\fnFOT Seurat ProN Strp ExtraBold\fs65\c&H3929EC&\1a&HFF&\blur6\clip(523,260,759,269)\t(23,274,\1a&H40&)}Brewing
-Dialogue: 0,0:02:10.86,0:02:14.53,iFSigns,Title,0,0,0,,{\blur0.5\bord4.3\b0\fs35\pos(640,270)\fnBurbin Casual NC\3c&H6D6D6D&\c&H6D6D6D&\1a&HFF&\t(0,640,\1a&H00&\3c&HE7C024&\c&HE7C024&)\alpha&HDF&\t(0,688,\alpha&H00&)}Tsuneki  Hikari       Chapter 2
-Dialogue: 1,0:02:10.86,0:02:14.53,iFSigns,Title,0,0,0,,{\pos(640,270)\fnBurbin Casual NC\fs35\bord2.6\3c&H6D6D6D&\c&H6D6D6D&\alpha&HDF&\blur0.5\t(0,688,\alpha&H00&\3c&HFFFFFF&\c&HFFFFFF&)}Tsuneki  Hikari       Chapter 2
-Dialogue: 2,0:02:10.86,0:02:14.53,iFSigns,Title,0,0,0,,{\pos(640,270)\fnBurbin Casual NC\fs35\c&H110D00&\alpha&HEF&\blur0.5\t(0,688,\alpha&H00&\c&HE9C323&)}Tsuneki  Hikari       Chapter 2
+Dialogue: 0,0:02:10.86,0:02:14.53,iFSigns,Title,0,0,0,,{\blur0.5\bord4.3\b0\fs35\pos(640,270)\fnBurbin Casual NC\3c&H6D6D6D&\c&H6D6D6D&\1a&HFF&\t(0,640,\1a&H00&\3c&HE7C024&\c&HE7C024&)\alpha&HDF&\t(0,688,\alpha&H00&)}Tsuneki  Hikari       Chapter  2
+Dialogue: 1,0:02:10.86,0:02:14.53,iFSigns,Title,0,0,0,,{\pos(640,270)\fnBurbin Casual NC\fs35\bord2.6\3c&H6D6D6D&\c&H6D6D6D&\alpha&HDF&\blur0.5\t(0,688,\alpha&H00&\3c&HFFFFFF&\c&HFFFFFF&)}Tsuneki  Hikari       Chapter  2
+Dialogue: 2,0:02:10.86,0:02:14.53,iFSigns,Title,0,0,0,,{\pos(640,270)\fnBurbin Casual NC\fs35\c&H110D00&\alpha&HEF&\blur0.5\t(0,688,\alpha&H00&\c&HE9C323&)}Tsuneki  Hikari       Chapter  2
 Dialogue: 0,0:02:10.86,0:02:14.53,iFSigns,Title,0,0,0,,{\blur0.5\bord4.6\b0\fs50\pos(640,454)\fnCentraleSansRnd Bold\1a&HFF&\3c&H6D6D6D&\c&H6D6D6D&\t(0,650,\3c&HE7C024&\c&HE7C024&\1a&H00&)\alpha&HDF&\t(0,688,\alpha&H00&)}Deep in the Mountains
 Dialogue: 1,0:02:10.86,0:02:14.53,iFSigns,Title,0,0,0,,{\pos(640,454)\fnCentraleSansRnd Bold\bord3\c&H6D6D6D&\3c&H6D6D6D&\alpha&HDF&\blur0.5\t(0,688,\alpha&H00&\3c&HFFFFFF&\c&HFFFFFF&)}Deep in the Mountains
 Dialogue: 2,0:02:10.86,0:02:14.53,iFSigns,Title,0,0,0,,{\pos(640,454)\fnCentraleSansRnd Bold\c&H110D00&\alpha&HEF&\blur0.5\t(0,688,\alpha&H00&\c&HE9C323&)}Deep in the Mountains
@@ -17639,9 +17639,9 @@ Dialogue: 2,0:23:39.77,0:23:43.71,iFSigns,Next,0,0,0,,{\pos(220.513,43.831)\fnCe
 Dialogue: 0,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord4.3\c&HF2D39A&\3c&HFFFCF4&\1a&HFF&\blur0.5\fad(430,0)\t(0,350,\1a&H00&\3c&HE7C024&\c&HE7C024&)}Next  Time
 Dialogue: 1,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Next  Time
 Dialogue: 2,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,196)\fnBurbin Casual NC\fs35\c&HC9A819&\blur0.5\fad(430,0)\t(0,430,\c&HE9C323&)}Next  Time
-Dialogue: 0,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.3\3c&HFFFCF4&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\1a&H00&\3c&HE7C024&\c&HE7C024&)}Tsuneki  Hikari       Chapter 3
-Dialogue: 1,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Tsuneki  Hikari       Chapter 3
-Dialogue: 2,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&HC9A819&\blur0.5\fad(430,0)\t(0,430,\c&HE9C323&)}Tsuneki  Hikari       Chapter 3
+Dialogue: 0,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord4.3\3c&HFFFCF4&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\1a&H00&\3c&HE7C024&\c&HE7C024&)}Tsuneki  Hikari       Chapter  3
+Dialogue: 1,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\bord2.6\3c&HFFFFFF&\blur0.5\fad(430,0)}Tsuneki  Hikari       Chapter  3
+Dialogue: 2,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,240)\fnBurbin Casual NC\fs35\c&HC9A819&\blur0.5\fad(430,0)\t(0,430,\c&HE9C323&)}Tsuneki  Hikari       Chapter  3
 Dialogue: 0,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord4.6\3c&HFFFCF4&\1a&HFF&\blur0.5\fad(430,0)\t(0,430,\3c&HE7C024&\c&HE7C024&\1a&H00&)}In the Men's Bath
 Dialogue: 1,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\bord3\3c&HFFFFFF&\blur0.5\fad(430,0)}In the Men's Bath
 Dialogue: 2,0:24:04.63,0:24:09.59,iFSigns,Next,0,0,0,,{\pos(640,484)\fnCentraleSansRnd Bold\c&HC9A819&\blur0.5\fad(430,0)\t(0,430,\c&HE9C323&)}In the Men's Bath
