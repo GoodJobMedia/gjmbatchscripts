@@ -523,8 +523,8 @@ Dialogue: 6,0:02:31.84,0:02:34.92,OP,,0,0,0,,{\bord0\4a&HFF&\fad(90,200)}One! Tw
 Dialogue: 5,0:02:34.92,0:02:38.30,OP,,0,0,0,,{\c&HDF0909&\1a&HFF&\blur0.6\fad(90,200)\t(45,90,\1a&H00&)\t(3180,3225,\1a&HFF&)}One! Two! Three! Four! Five! Six! Cha-cha!
 Dialogue: 6,0:02:34.92,0:02:38.30,OP,,0,0,0,,{\bord0\4a&HFF&\fad(90,200)}One! Two! Three! Four! Five! Six! Cha-cha!
 Comment: 0,0:22:34.41,0:22:36.41,ED,,0,0,0,,ED
-Dialogue: 5,0:22:36.33,0:22:39.87,ED,,0,0,0,,{\3c&HFFFFFF&\bord5\be2}If all these twists and bends match up,
-Dialogue: 6,0:22:36.33,0:22:39.87,ED,,0,0,0,,{\3c&H275DAA&\be2}If all these twists and bends match up,
+Dialogue: 5,0:22:36.33,0:22:39.87,ED,,0,0,0,,{\3c&HFFFFFF&\bord5\be2}Once I round the corner up ahead,
+Dialogue: 6,0:22:36.33,0:22:39.87,ED,,0,0,0,,{\3c&H275DAA&\be2}Once I round the corner up ahead,
 Dialogue: 5,0:22:40.67,0:22:44.33,ED,,0,0,0,,{\3c&HFFFFFF&\bord5\be2}will I find my way to my dream?
 Dialogue: 6,0:22:40.67,0:22:44.33,ED,,0,0,0,,{\3c&H275DAA&\be2}will I find my way to my dream?
 Dialogue: 5,0:22:44.93,0:22:49.10,ED,,0,0,0,,{\3c&HFFFFFF&\be2\bord5}As I wander and wander, round and round,
