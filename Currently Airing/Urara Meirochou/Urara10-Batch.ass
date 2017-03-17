@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: 10 v3.mkv
-Video File: 10 v3.mkv
-Keyframes File: 10_keyframes.log
+Audio File: E:/GJM/Urara/10/10 v3.mkv
+Video File: E:/GJM/Urara/10/10 v3.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 458
-Active Line: 470
-Video Position: 2037
+Video Zoom Percent: 1.000000
+Scroll Position: 6132
+Active Line: 6139
+Video Position: 5086
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -6148,59 +6147,59 @@ Dialogue: 1,0:03:33.23,0:03:33.27,Gate Post,,0,0,0,text,{\pos(159.43,701)\frz48.
 Dialogue: 1,0:03:33.27,0:03:33.31,Gate Post,,0,0,0,text,{\pos(156.26,701)\frz48.05\fs34\1c&H273747&\blur0.7}HISHI
 Dialogue: 1,0:03:33.31,0:03:33.35,Gate Post,,0,0,0,text,{\pos(153.15,701)\frz48.05\fs34\1c&H273747&\blur0.7}HISHI
 Dialogue: 1,0:03:33.35,0:03:33.40,Gate Post,,0,0,0,text,{\pos(150,701)\frz48.05\fs34\1c&H263646&\blur0.7}HISHI
-Dialogue: 1,0:03:31.19,0:03:31.23,Gate Post,,0,0,0,text,{\pos(512.21,703)\frz48.05\fs34\1c&H29374A&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.23,0:03:31.27,Gate Post,,0,0,0,text,{\pos(509.09,703)\frz48.05\fs34\1c&H29374A&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.27,0:03:31.31,Gate Post,,0,0,0,text,{\pos(505.94,703)\frz48.05\fs34\1c&H28374A&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.31,0:03:31.35,Gate Post,,0,0,0,text,{\pos(502.8,703)\frz48.05\fs34\1c&H283649&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.35,0:03:31.39,Gate Post,,0,0,0,text,{\pos(499.67,703)\frz48.05\fs34\1c&H283649&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.39,0:03:31.44,Gate Post,,0,0,0,text,{\pos(496.53,703)\frz48.05\fs34\1c&H283649&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.44,0:03:31.48,Gate Post,,0,0,0,text,{\pos(493.4,703)\frz48.05\fs34\1c&H273649&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.48,0:03:31.52,Gate Post,,0,0,0,text,{\pos(490.25,703)\frz48.05\fs34\1c&H273649&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.52,0:03:31.56,Gate Post,,0,0,0,text,{\pos(487.12,703)\frz48.05\fs34\1c&H273649&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.56,0:03:31.60,Gate Post,,0,0,0,text,{\pos(483.96,703)\frz48.05\fs34\1c&H273548&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.60,0:03:31.64,Gate Post,,0,0,0,text,{\pos(480.83,703)\frz48.05\fs34\1c&H263548&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.64,0:03:31.69,Gate Post,,0,0,0,text,{\pos(477.7,703)\frz48.05\fs34\1c&H263548&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.69,0:03:31.73,Gate Post,,0,0,0,text,{\pos(474.56,703)\frz48.05\fs34\1c&H263548&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.73,0:03:31.77,Gate Post,,0,0,0,text,{\pos(471.44,703)\frz48.05\fs34\1c&H263548&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.77,0:03:31.81,Gate Post,,0,0,0,text,{\pos(468.27,703)\frz48.05\fs34\1c&H253548&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.81,0:03:31.85,Gate Post,,0,0,0,text,{\pos(465.15,703)\frz48.05\fs34\1c&H253447&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.85,0:03:31.89,Gate Post,,0,0,0,text,{\pos(462,703)\frz48.05\fs34\1c&H253447&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.89,0:03:31.94,Gate Post,,0,0,0,text,{\pos(458.86,703)\frz48.05\fs34\1c&H253447&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.94,0:03:31.98,Gate Post,,0,0,0,text,{\pos(455.73,703)\frz48.05\fs34\1c&H243447&\blur0.7}FURUTA
-Dialogue: 1,0:03:31.98,0:03:32.02,Gate Post,,0,0,0,text,{\pos(452.59,703)\frz48.05\fs34\1c&H243447&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.02,0:03:32.06,Gate Post,,0,0,0,text,{\pos(449.45,703)\frz48.05\fs34\1c&H243447&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.06,0:03:32.10,Gate Post,,0,0,0,text,{\pos(446.31,703)\frz48.05\fs34\1c&H243346&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.10,0:03:32.15,Gate Post,,0,0,0,text,{\pos(443.17,703)\frz48.05\fs34\1c&H233346&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.15,0:03:32.19,Gate Post,,0,0,0,text,{\pos(440.03,703)\frz48.05\fs34\1c&H233346&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.19,0:03:32.23,Gate Post,,0,0,0,text,{\pos(436.89,703)\frz48.05\fs34\1c&H233346&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.23,0:03:32.27,Gate Post,,0,0,0,text,{\pos(433.75,703)\frz48.05\fs34\1c&H233346&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.27,0:03:32.31,Gate Post,,0,0,0,text,{\pos(430.61,703)\frz48.05\fs34\1c&H223246&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.31,0:03:32.35,Gate Post,,0,0,0,text,{\pos(427.48,703)\frz48.05\fs34\1c&H223245&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.35,0:03:32.40,Gate Post,,0,0,0,text,{\pos(424.34,703)\frz48.05\fs34\1c&H223245&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.40,0:03:32.44,Gate Post,,0,0,0,text,{\pos(421.2,703)\frz48.05\fs34\1c&H223245&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.44,0:03:32.48,Gate Post,,0,0,0,text,{\pos(418.08,703)\frz48.05\fs34\1c&H223245&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.48,0:03:32.52,Gate Post,,0,0,0,text,{\pos(414.93,703)\frz48.05\fs34\1c&H213245&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.52,0:03:32.56,Gate Post,,0,0,0,text,{\pos(411.8,703)\frz48.05\fs34\1c&H213144&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.56,0:03:32.60,Gate Post,,0,0,0,text,{\pos(408.65,703)\frz48.05\fs34\1c&H213144&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.60,0:03:32.65,Gate Post,,0,0,0,text,{\pos(405.5,703)\frz48.05\fs34\1c&H213144&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.65,0:03:32.69,Gate Post,,0,0,0,text,{\pos(402.37,703)\frz48.05\fs34\1c&H203144&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.69,0:03:32.73,Gate Post,,0,0,0,text,{\pos(399.22,703)\frz48.05\fs34\1c&H203144&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.73,0:03:32.77,Gate Post,,0,0,0,text,{\pos(396.09,703)\frz48.05\fs34\1c&H203144&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.77,0:03:32.81,Gate Post,,0,0,0,text,{\pos(392.94,703)\frz48.05\fs34\1c&H203043&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.81,0:03:32.85,Gate Post,,0,0,0,text,{\pos(389.81,703)\frz48.05\fs34\1c&H1F3043&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.85,0:03:32.90,Gate Post,,0,0,0,text,{\pos(386.68,703)\frz48.05\fs34\1c&H1F3043&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.90,0:03:32.94,Gate Post,,0,0,0,text,{\pos(383.54,703)\frz48.05\fs34\1c&H1F3043&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.94,0:03:32.98,Gate Post,,0,0,0,text,{\pos(380.42,703)\frz48.05\fs34\1c&H1F3043&\blur0.7}FURUTA
-Dialogue: 1,0:03:32.98,0:03:33.02,Gate Post,,0,0,0,text,{\pos(377.28,703)\frz48.05\fs34\1c&H1E3043&\blur0.7}FURUTA
-Dialogue: 1,0:03:33.02,0:03:33.06,Gate Post,,0,0,0,text,{\pos(374.16,703)\frz48.05\fs34\1c&H1E2F42&\blur0.7}FURUTA
-Dialogue: 1,0:03:33.06,0:03:33.10,Gate Post,,0,0,0,text,{\pos(371.02,703)\frz48.05\fs34\1c&H1E2F42&\blur0.7}FURUTA
-Dialogue: 1,0:03:33.10,0:03:33.15,Gate Post,,0,0,0,text,{\pos(367.83,703)\frz48.05\fs34\1c&H1E2F42&\blur0.7}FURUTA
-Dialogue: 1,0:03:33.15,0:03:33.19,Gate Post,,0,0,0,text,{\pos(364.72,703)\frz48.05\fs34\1c&H1D2F42&\blur0.7}FURUTA
-Dialogue: 1,0:03:33.19,0:03:33.23,Gate Post,,0,0,0,text,{\pos(361.56,703)\frz48.05\fs34\1c&H1D2F42&\blur0.7}FURUTA
-Dialogue: 1,0:03:33.23,0:03:33.27,Gate Post,,0,0,0,text,{\pos(358.43,703)\frz48.05\fs34\1c&H1D2F42&\blur0.7}FURUTA
-Dialogue: 1,0:03:33.27,0:03:33.31,Gate Post,,0,0,0,text,{\pos(355.26,703)\frz48.05\fs34\1c&H1D2E41&\blur0.7}FURUTA
-Dialogue: 1,0:03:33.31,0:03:33.35,Gate Post,,0,0,0,text,{\pos(352.15,703)\frz48.05\fs34\1c&H1C2E41&\blur0.7}FURUTA
-Dialogue: 1,0:03:33.35,0:03:33.40,Gate Post,,0,0,0,text,{\pos(349,703)\frz48.05\fs34\1c&H1C2E41&\blur0.7}FURUTA
+Dialogue: 1,0:03:31.19,0:03:31.23,Gate Post,,0,0,0,text,{\pos(509.210,703.000)\frz48.05\fs34\1c&H29374A&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.23,0:03:31.27,Gate Post,,0,0,0,text,{\pos(506.090,703.000)\frz48.05\fs34\1c&H29374A&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.27,0:03:31.31,Gate Post,,0,0,0,text,{\pos(502.940,703.000)\frz48.05\fs34\1c&H28374A&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.31,0:03:31.35,Gate Post,,0,0,0,text,{\pos(499.800,703.000)\frz48.05\fs34\1c&H283649&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.35,0:03:31.39,Gate Post,,0,0,0,text,{\pos(496.670,703.000)\frz48.05\fs34\1c&H283649&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.39,0:03:31.44,Gate Post,,0,0,0,text,{\pos(493.530,703.000)\frz48.05\fs34\1c&H283649&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.44,0:03:31.48,Gate Post,,0,0,0,text,{\pos(490.400,703.000)\frz48.05\fs34\1c&H273649&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.48,0:03:31.52,Gate Post,,0,0,0,text,{\pos(487.250,703.000)\frz48.05\fs34\1c&H273649&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.52,0:03:31.56,Gate Post,,0,0,0,text,{\pos(484.120,703.000)\frz48.05\fs34\1c&H273649&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.56,0:03:31.60,Gate Post,,0,0,0,text,{\pos(480.960,703.000)\frz48.05\fs34\1c&H273548&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.60,0:03:31.64,Gate Post,,0,0,0,text,{\pos(477.830,703.000)\frz48.05\fs34\1c&H263548&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.64,0:03:31.69,Gate Post,,0,0,0,text,{\pos(474.700,703.000)\frz48.05\fs34\1c&H263548&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.69,0:03:31.73,Gate Post,,0,0,0,text,{\pos(471.560,703.000)\frz48.05\fs34\1c&H263548&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.73,0:03:31.77,Gate Post,,0,0,0,text,{\pos(468.440,703.000)\frz48.05\fs34\1c&H263548&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.77,0:03:31.81,Gate Post,,0,0,0,text,{\pos(465.270,703.000)\frz48.05\fs34\1c&H253548&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.81,0:03:31.85,Gate Post,,0,0,0,text,{\pos(462.150,703.000)\frz48.05\fs34\1c&H253447&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.85,0:03:31.89,Gate Post,,0,0,0,text,{\pos(459.000,703.000)\frz48.05\fs34\1c&H253447&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.89,0:03:31.94,Gate Post,,0,0,0,text,{\pos(455.860,703.000)\frz48.05\fs34\1c&H253447&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.94,0:03:31.98,Gate Post,,0,0,0,text,{\pos(452.730,703.000)\frz48.05\fs34\1c&H243447&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:31.98,0:03:32.02,Gate Post,,0,0,0,text,{\pos(449.590,703.000)\frz48.05\fs34\1c&H243447&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.02,0:03:32.06,Gate Post,,0,0,0,text,{\pos(446.450,703.000)\frz48.05\fs34\1c&H243447&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.06,0:03:32.10,Gate Post,,0,0,0,text,{\pos(443.310,703.000)\frz48.05\fs34\1c&H243346&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.10,0:03:32.15,Gate Post,,0,0,0,text,{\pos(440.170,703.000)\frz48.05\fs34\1c&H233346&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.15,0:03:32.19,Gate Post,,0,0,0,text,{\pos(437.030,703.000)\frz48.05\fs34\1c&H233346&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.19,0:03:32.23,Gate Post,,0,0,0,text,{\pos(433.890,703.000)\frz48.05\fs34\1c&H233346&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.23,0:03:32.27,Gate Post,,0,0,0,text,{\pos(430.750,703.000)\frz48.05\fs34\1c&H233346&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.27,0:03:32.31,Gate Post,,0,0,0,text,{\pos(427.610,703.000)\frz48.05\fs34\1c&H223246&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.31,0:03:32.35,Gate Post,,0,0,0,text,{\pos(424.480,703.000)\frz48.05\fs34\1c&H223245&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.35,0:03:32.40,Gate Post,,0,0,0,text,{\pos(421.340,703.000)\frz48.05\fs34\1c&H223245&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.40,0:03:32.44,Gate Post,,0,0,0,text,{\pos(418.200,703.000)\frz48.05\fs34\1c&H223245&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.44,0:03:32.48,Gate Post,,0,0,0,text,{\pos(415.080,703.000)\frz48.05\fs34\1c&H223245&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.48,0:03:32.52,Gate Post,,0,0,0,text,{\pos(411.930,703.000)\frz48.05\fs34\1c&H213245&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.52,0:03:32.56,Gate Post,,0,0,0,text,{\pos(408.800,703.000)\frz48.05\fs34\1c&H213144&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.56,0:03:32.60,Gate Post,,0,0,0,text,{\pos(405.650,703.000)\frz48.05\fs34\1c&H213144&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.60,0:03:32.65,Gate Post,,0,0,0,text,{\pos(402.500,703.000)\frz48.05\fs34\1c&H213144&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.65,0:03:32.69,Gate Post,,0,0,0,text,{\pos(399.370,703.000)\frz48.05\fs34\1c&H203144&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.69,0:03:32.73,Gate Post,,0,0,0,text,{\pos(396.220,703.000)\frz48.05\fs34\1c&H203144&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.73,0:03:32.77,Gate Post,,0,0,0,text,{\pos(393.090,703.000)\frz48.05\fs34\1c&H203144&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.77,0:03:32.81,Gate Post,,0,0,0,text,{\pos(389.940,703.000)\frz48.05\fs34\1c&H203043&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.81,0:03:32.85,Gate Post,,0,0,0,text,{\pos(386.810,703.000)\frz48.05\fs34\1c&H1F3043&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.85,0:03:32.90,Gate Post,,0,0,0,text,{\pos(383.680,703.000)\frz48.05\fs34\1c&H1F3043&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.90,0:03:32.94,Gate Post,,0,0,0,text,{\pos(380.540,703.000)\frz48.05\fs34\1c&H1F3043&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.94,0:03:32.98,Gate Post,,0,0,0,text,{\pos(377.420,703.000)\frz48.05\fs34\1c&H1F3043&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:32.98,0:03:33.02,Gate Post,,0,0,0,text,{\pos(374.280,703.000)\frz48.05\fs34\1c&H1E3043&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:33.02,0:03:33.06,Gate Post,,0,0,0,text,{\pos(371.160,703.000)\frz48.05\fs34\1c&H1E2F42&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:33.06,0:03:33.10,Gate Post,,0,0,0,text,{\pos(368.020,703.000)\frz48.05\fs34\1c&H1E2F42&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:33.10,0:03:33.15,Gate Post,,0,0,0,text,{\pos(364.830,703.000)\frz48.05\fs34\1c&H1E2F42&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:33.15,0:03:33.19,Gate Post,,0,0,0,text,{\pos(361.720,703.000)\frz48.05\fs34\1c&H1D2F42&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:33.19,0:03:33.23,Gate Post,,0,0,0,text,{\pos(358.560,703.000)\frz48.05\fs34\1c&H1D2F42&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:33.23,0:03:33.27,Gate Post,,0,0,0,text,{\pos(355.430,703.000)\frz48.05\fs34\1c&H1D2F42&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:33.27,0:03:33.31,Gate Post,,0,0,0,text,{\pos(352.260,703.000)\frz48.05\fs34\1c&H1D2E41&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:33.31,0:03:33.35,Gate Post,,0,0,0,text,{\pos(349.150,703.000)\frz48.05\fs34\1c&H1C2E41&\blur0.7}YOSHIDA
+Dialogue: 1,0:03:33.35,0:03:33.40,Gate Post,,0,0,0,text,{\pos(346.000,703.000)\frz48.05\fs34\1c&H1C2E41&\blur0.7}YOSHIDA
 Dialogue: 1,0:03:31.19,0:03:31.23,Gate Post,,0,0,0,text,{\pos(743.21,702)\frz48.05\fs34\1c&H1B2A38&\blur0.7}EBI
 Dialogue: 1,0:03:31.23,0:03:31.27,Gate Post,,0,0,0,text,{\pos(740.09,702)\frz48.05\fs34\1c&H1B2A38&\blur0.7}EBI
 Dialogue: 1,0:03:31.27,0:03:31.31,Gate Post,,0,0,0,text,{\pos(736.94,702)\frz48.05\fs34\1c&H1B2A38&\blur0.7}EBI
