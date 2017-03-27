@@ -16,8 +16,7 @@ Video File: E:/GJM/Urara/07/[GJM] Urara Meirochou - 07 [6155C215].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 395
-Active Line: 438
+Active Line: 1
 Video Position: 1211
 
 [V4+ Styles]
@@ -43,8 +42,8 @@ Style: Pencil Headband,Gloria Hallelujah,30,&H00FFFFFF,&H000000FF,&H00000000,&H0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:00.80,0:00:03.13,GJM_Main,Nina,0,0,0,,"Come, gathered friends from near and far.
-Dialogue: 10,0:00:03.13,0:00:05.61,GJM_Main,Nina,0,0,0,,Let us see if omen shall hold true."
+Dialogue: 10,0:00:00.80,0:00:03.13,GJM_Main,Nina,0,0,0,,"Come now, come now, gather 'bout.
+Dialogue: 10,0:00:03.13,0:00:05.61,GJM_Main,Nina,0,0,0,,See this omen, test thy doubt."
 Dialogue: 10,0:00:05.61,0:00:11.57,GJM_Main,Nina,0,0,0,,As you know, the words recited at the start \Nof a divination ritual are known as incantations.
 Dialogue: 10,0:00:11.57,0:00:14.99,GJM_Main,Nina,0,0,0,,Today, you will be memorizing \Nall of them in preparation for a test.
 Dialogue: 10,0:00:14.99,0:00:16.41,GJM_Main,All,0,0,0,,What?!
