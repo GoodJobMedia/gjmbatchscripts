@@ -17,8 +17,8 @@ Keyframes File: rewrite24_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 332
-Active Line: 361
+Scroll Position: 206
+Active Line: 207
 Video Position: 29283
 
 [V4+ Styles]
@@ -240,7 +240,7 @@ Dialogue: 10,0:16:15.62,0:16:17.20,Default,Y,0,0,0,,{\i1}As Earth heads toward r
 Dialogue: 10,0:16:17.20,0:16:19.95,Default,Y,0,0,0,,{\i1}humanity only has one resource left to turn to.
 Dialogue: 10,0:16:20.54,0:16:23.33,Default,Y,0,0,0,,{\i1}It exists within us
 Dialogue: 10,0:16:23.33,0:16:26.79,Default,Y,0,0,0,,{\i1}as the limited yet infinite power that is life.
-Dialogue: 10,0:16:30.55,0:16:35.05,Default,Y,0,0,0,,{\i1}The sin of living by devouring \Nthe livesof people and the planet 
+Dialogue: 10,0:16:30.55,0:16:35.05,Default,Y,0,0,0,,{\i1}The sin of living by devouring \Nthe lives of people and the planet
 Dialogue: 10,0:16:35.05,0:16:36.55,Default,Y,0,0,0,,{\i1}is one the planet will surely forgive.
 Dialogue: 10,0:16:37.60,0:16:40.97,Default,Y,0,0,0,,{\i1}Because a child using its mother \Nas a stepping stone on its journey
 Dialogue: 10,0:16:40.97,0:16:45.31,Default,Y,0,0,0,,{\i1}is in no way a sad memory.
