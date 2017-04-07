@@ -16,8 +16,8 @@ Video File: rewrite12_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 387
-Active Line: 408
+Scroll Position: 159
+Active Line: 380
 Video Position: 10518
 
 [V4+ Styles]
@@ -414,30 +414,30 @@ Dialogue: 0,0:02:00.92,0:02:06.22,OP-R,,0,0,0,,{\fad(150,150)\blur2\3c&HF6F5D2&}
 Dialogue: 0,0:02:06.22,0:02:12.22,OP-E,,0,0,0,,{\fad(150,150)\blur2\3c&HF6F5D2&}On the eve of this world's end
 Dialogue: 0,0:02:06.22,0:02:12.22,OP-R,,0,0,0,,{\fad(150,150)\blur2\3c&HF6F5D2&}owaru sono hi ni wa
 Comment: 0,0:22:30.37,0:22:32.37,Default,,0,0,0,,ED
-Dialogue: 1,0:22:31.91,0:22:39.46,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}natsukashisa mo kieta yume
-Dialogue: 0,0:22:31.91,0:22:39.46,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}Losing myself in a dream where even nostalgia lost form
-Dialogue: 1,0:22:39.46,0:22:47.35,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}mayoi kono te ga samishiku kaze wo nadeta
-Dialogue: 0,0:22:39.46,0:22:47.35,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}Lonely, I reached out with my hands to feel the wind's gentle caress
-Dialogue: 1,0:22:47.35,0:22:54.39,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}kotoba wo shiranai mama naraba
-Dialogue: 0,0:22:47.35,0:22:54.39,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}The names of those emotions still eluded me
-Dialogue: 1,0:22:54.39,0:22:59.19,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}kono hitomi wo tojiru koto mo
-Dialogue: 0,0:22:54.39,0:22:59.19,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}Even closing my eyes for eternity
-Dialogue: 1,0:22:59.19,0:23:03.86,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}kantan datta no ni
-Dialogue: 0,0:22:59.19,0:23:03.86,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}Should have been simple
-Dialogue: 1,0:23:03.86,0:23:10.66,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}hajimete fureta nukumori
-Dialogue: 0,0:23:03.86,0:23:10.66,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}But I felt warmth for the first time
-Dialogue: 1,0:23:10.66,0:23:16.12,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}chiisaku mebuku kodou ni
-Dialogue: 0,0:23:10.66,0:23:16.12,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}A tiny soul began to bud within my heart
-Dialogue: 1,0:23:16.12,0:23:21.46,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}tomadoi wo oboeta
-Dialogue: 0,0:23:16.12,0:23:21.46,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}And I learned of bewilderment
-Dialogue: 1,0:23:24.13,0:23:31.85,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}anata no koe sagashite mugen no michi wo yuku
-Dialogue: 0,0:23:24.13,0:23:31.85,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}Walking on the path of eternity, searching for your voice
-Dialogue: 1,0:23:31.85,0:23:39.56,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}hoshi no hajimari wo shiru tada sore dake
-Dialogue: 0,0:23:31.85,0:23:39.56,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}I'm led to the time when stars are born, nothing more
-Dialogue: 1,0:23:39.56,0:23:47.45,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}kuchi ni nokoru nigami mo hiroku mada ki ni naru
-Dialogue: 0,0:23:39.56,0:23:47.45,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}This bitterness that lingers inside my mouth tempts my curiosity
-Dialogue: 1,0:23:47.45,0:23:56.79,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}itsuka deau anata he saigo ni hohoemi wo
-Dialogue: 0,0:23:47.45,0:23:56.79,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}So I'll offer you one last smile before we meet again
+Dialogue: 6,0:22:31.91,0:22:39.46,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}natsukashisa mo kieta yume
+Dialogue: 5,0:22:31.91,0:22:39.46,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}Losing myself in a dream where even nostalgia lost form
+Dialogue: 6,0:22:39.46,0:22:47.35,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}mayoi kono te ga samishiku kaze wo nadeta
+Dialogue: 5,0:22:39.46,0:22:47.35,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}Lonely, I reached out with my hands to feel the wind's gentle caress
+Dialogue: 6,0:22:47.35,0:22:54.39,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}kotoba wo shiranai mama naraba
+Dialogue: 5,0:22:47.35,0:22:54.39,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}The names of those emotions still eluded me
+Dialogue: 6,0:22:54.39,0:22:59.19,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}kono hitomi wo tojiru koto mo
+Dialogue: 5,0:22:54.39,0:22:59.19,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}Even closing my eyes for eternity
+Dialogue: 6,0:22:59.19,0:23:03.86,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}kantan datta no ni
+Dialogue: 5,0:22:59.19,0:23:03.86,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}Should have been simple
+Dialogue: 6,0:23:03.86,0:23:10.66,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}hajimete fureta nukumori
+Dialogue: 5,0:23:03.86,0:23:10.66,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}But I felt warmth for the first time
+Dialogue: 6,0:23:10.66,0:23:16.12,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}chiisaku mebuku kodou ni
+Dialogue: 5,0:23:10.66,0:23:16.12,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}A tiny soul began to bud within my heart
+Dialogue: 6,0:23:16.12,0:23:21.46,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}tomadoi wo oboeta
+Dialogue: 5,0:23:16.12,0:23:21.46,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}And I learned of bewilderment
+Dialogue: 6,0:23:24.13,0:23:31.85,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}anata no koe sagashite mugen no michi wo yuku
+Dialogue: 5,0:23:24.13,0:23:31.85,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}Walking on the path of eternity, searching for your voice
+Dialogue: 6,0:23:31.85,0:23:39.56,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}hoshi no hajimari wo shiru tada sore dake
+Dialogue: 5,0:23:31.85,0:23:39.56,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}I'm led to the time when stars are born, nothing more
+Dialogue: 6,0:23:39.56,0:23:47.45,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}kuchi ni nokoru nigami mo hiroku mada ki ni naru
+Dialogue: 5,0:23:39.56,0:23:47.45,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}This bitterness that lingers inside my mouth tempts my curiosity
+Dialogue: 6,0:23:47.45,0:23:56.79,ED2-R,,0,0,0,,{\an9\fad(150,150)\blur1}itsuka deau anata he saigo ni hohoemi wo
+Dialogue: 5,0:23:47.45,0:23:56.79,ED2-E,,0,0,0,,{\an9\fad(150,150)\blur1}So I'll offer you one last smile before we meet again
 Comment: 0,0:22:32.37,0:22:34.37,Default,,0,0,0,,TS
 Dialogue: 0,0:14:42.15,0:14:43.65,Hand2,,0,0,0,,{\an7\pos(671,210)\c&HD8D4D2&\blur5\p1}m -88 63 l -56 224 147 184 102 24
 Dialogue: 1,0:14:42.15,0:14:43.65,Hand2,,0,0,0,,{\pos(705,339)\frz11.94\fs70\c&H969192&\blur0.5}I'm sorry, Touka
