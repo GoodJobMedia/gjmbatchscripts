@@ -17,8 +17,8 @@ Keyframes File: 01_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 624
-Active Line: 632
+Scroll Position: 636
+Active Line: 676
 Video Position: 58042
 
 [V4+ Styles]
@@ -704,23 +704,23 @@ Comment: 0,0:42:46.75,0:42:46.75,Alice-ED,,0,0,0,,{ED shifting line. Correspondi
 Dialogue: 0,0:42:49.33,0:42:52.88,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}Hidden beneath this scab
 Dialogue: 0,0:42:53.55,0:42:58.30,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}Are a great many things all working in unison
 Dialogue: 0,0:42:58.30,0:43:02.30,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}So please hold on just a little bit longer
-Dialogue: 0,0:43:02.55,0:43:05.64,Alice-ED,,0,0,0,,{\blur4\fad(100,0)}Because I'll change myself starting from there
-Dialogue: 0,0:43:05.64,0:43:07.35,Alice-ED,,0,0,0,,{\c&HDEA536&\3c&HF8FBFA&\blur4}Because I'll change myself starting from there
+Dialogue: 0,0:43:02.55,0:43:05.64,Alice-ED,,0,0,0,,{\blur4\fad(100,0)}Because I'll change myse{\fsp-7}lf{\fsp0} starting {\fsp-7}fr{\fsp0}om there
+Dialogue: 0,0:43:05.64,0:43:07.35,Alice-ED,,0,0,0,,{\c&HDEA536&\3c&HF8FBFA&\blur4}Because I'll change myse{\fsp-7}lf{\fsp0} starting {\fsp-7}fr{\fsp0}om there
 Dialogue: 0,0:43:11.98,0:43:16.53,Alice-ED,,0,0,0,,{\c&HE6FBFB&\3c&HDCB2A9&\blur4\fad(100,200)\t(1611,2654,\c&HF4C4FD&\3c&HBA1F19&)}When do I start
-Dialogue: 0,0:43:16.53,0:43:23.37,Alice-ED,,0,0,0,,{\blur4\fad(100,0)}To truly become myself?
-Dialogue: 0,0:43:23.37,0:43:25.49,Alice-ED,,0,0,0,,{\c&HF33700&\3c&HFFFFFF&\blur4}To truly become myself?
-Dialogue: 0,0:43:25.49,0:43:29.46,Alice-ED,,0,0,0,,{\blur4\fad(0,200)}Let's go meet the people who deserve my affection
-Dialogue: 0,0:43:29.79,0:43:35.21,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}We'll find them scattered across the world
+Dialogue: 0,0:43:16.53,0:43:23.37,Alice-ED,,0,0,0,,{\blur4\fad(100,0)}To truly become myse{\fsp-7}l{\fsp0}f?
+Dialogue: 0,0:43:23.37,0:43:25.49,Alice-ED,,0,0,0,,{\c&HF33700&\3c&HFFFFFF&\blur4}To truly become myse{\fsp-7}l{\fsp0}f?
+Dialogue: 0,0:43:25.49,0:43:29.46,Alice-ED,,0,0,0,,{\blur4\fad(0,200)}Let{\fsp-11}'{\fsp0}s go meet the people who deserve my {\fsp-7}a{\fsp-13}f{\fsp-7}f{\fsp0}ection
+Dialogue: 0,0:43:29.79,0:43:35.21,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}We'll {\fsp-4}f{\fsp0}ind them scattered across the world
 Dialogue: 0,0:43:35.21,0:43:38.72,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}I want to learn so much about them
-Dialogue: 0,0:43:38.72,0:43:40.76,Alice-ED,,0,0,0,,{\c&HFFFFFF&\3c&HBB2B22&\blur4\fad(0,200)}One person, another person, more and more people
-Dialogue: 0,0:43:40.76,0:43:43.39,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}Three, four, five, six, the number rises and rises
+Dialogue: 0,0:43:38.72,0:43:40.76,Alice-ED,,0,0,0,,{\c&HFFFFFF&\3c&HBB2B22&\blur4\fad(0,200)}One p{\fsp4}e{\fsp-8}r{\fsp0}son, another p{\fsp4}e{\fsp-8}r{\fsp0}son, more and more p{\fsp3}e{\fsp-7}o{\fsp0}ple
+Dialogue: 0,0:43:40.76,0:43:43.39,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}Th{\fsp-3}r{\fsp5}e{\fsp0}e, {\fsp-7}f{\fsp0}ou{\fsp-15}r{\fsp0}, {\fsp-3}f{\fsp0}ive, six, the number rises and rises
 Dialogue: 0,0:43:43.39,0:43:45.68,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}Finding out the truth
-Dialogue: 0,0:43:45.68,0:43:48.06,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}Can sometimes be painful, but...
+Dialogue: 0,0:43:45.68,0:43:48.06,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}Can sometimes be pai{\fsp-5}n{\fsp-7}f{\fsp0}ul, but...
 Dialogue: 0,0:43:48.06,0:43:52.60,Alice-ED,,0,0,0,,{\blur4\fad(100,200)}The world will keep moving
-Dialogue: 0,0:43:52.60,0:43:56.11,Alice-ED,,0,0,0,,{\bord8\3c&HB91107&\blur1\fad(0,200)}On and on, forever and ever
-Dialogue: 0,0:43:56.11,0:43:57.11,Alice-ED,,0,0,0,,{\blur4\fad(100,0)}Even far into the future
-Dialogue: 0,0:43:57.11,0:43:59.28,Alice-ED,,0,0,0,,{\c&HFFFFFF&\blur4\fad(0,200)}Even far into the future
-Dialogue: 0,0:43:59.53,0:44:02.53,Alice-ED,,0,0,0,,{=23}{\clip()\t(23,2985,\bord6\t(23,2985,\bord3.65)\fscx100\t(23,2985,\fscx60.84)\fscy100\t(23,2985,\fscy60.84)\alpha&H00&\fade(255,0,255,0,100,2800,3000)\blur4\t(23,2985,\blur2.43)\c&HFFFFFF&\move(1790,1020,1485.61,821.94,23,2985)}Remaining unchanged
+Dialogue: 0,0:43:52.60,0:43:56.11,Alice-ED,,0,0,0,,{\blur4\fad(0,200)}On and on, {\fsp-7}f{\fsp0}orever and ever
+Dialogue: 0,0:43:56.11,0:43:57.11,Alice-ED,,0,0,0,,{\blur4\fad(100,0)}Even {\fsp-7}f{\fsp0}ar into the {\fsp-5}f{\fsp0}uture
+Dialogue: 0,0:43:57.11,0:43:59.28,Alice-ED,,0,0,0,,{\c&HFFFFFF&\blur4\fad(0,200)}Even {\fsp-7}f{\fsp0}ar into the {\fsp-5}f{\fsp0}uture
+Dialogue: 0,0:43:59.53,0:44:02.53,Alice-ED,,0,0,0,,{=23}{\clip()\t(23,2985,\clip())\bord6\t(23,2985,\bord3.65)\fscx100\t(23,2985,\fscx60.84)\fscy100\t(23,2985,\fscy60.84)\alpha&H00&\fade(255,0,255,0,100,2800,3000)\blur4\t(23,2985,\blur2.43)\c&HFFFFFF&\move(1790,1020,1485.61,821.94,23,2985)}Remaining unchanged
 Comment: 0,0:44:02.53,0:44:04.53,GJM_Main_1080p,,0,0,0,,TS
 Comment: 0,0:44:09.96,0:44:10.00,Next Ep Title,,0,0,0,,next ep title
 Dialogue: 0,0:44:09.96,0:44:14.96,Next Ep Title,,0,0,0,,{\pos(970,438)\fs60\bord4.5\c&H000000&\alpha&H33&\blur6}Next Episode
