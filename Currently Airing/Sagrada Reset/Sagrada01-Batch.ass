@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: SagradaReset01Premux [364F396D].mkv
-Video File: SagradaReset01Premux [364F396D].mkv
-Keyframes File: SagradaReset01Premux [364F396D]_keyframes.log
+Audio File: E:/GJM/Sagrada Reset/01/SagradaReset01Premux [364F396D].mkv
+Video File: E:/GJM/Sagrada Reset/01/SagradaReset01Premux [364F396D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 211
-Active Line: 219
-Video Position: 19751
+Video Zoom Percent: 0.500000
+Scroll Position: 395
+Active Line: 403
+Video Position: 33878
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -402,7 +401,7 @@ Dialogue: 10,0:21:22.88,0:21:27.26,GJM_Main_1080p,,0,0,0,,And to always make the
 Dialogue: 10,0:21:27.56,0:21:32.64,GJM_Main_1080p,,0,0,0,,I think only Haruki, who doesn't have \Na sense of self, can remain righteous.
 Dialogue: 10,0:21:33.69,0:21:36.64,GJM_Main_1080p,,0,0,0,,If there really is a person out \Nthere who we can call "Good,"
 Dialogue: 10,0:21:37.27,0:21:39.14,GJM_Main_1080p,,0,0,0,,I'm sure it'd be Haruki.
-Dialogue: 10,0:21:39.14,0:21:41.65,GJM_Main_1080p,,0,0,0,,But Haruki isn't able to help anyone.
+Dialogue: 10,0:21:39.14,0:21:41.65,GJM_Main_1080p,,0,0,0,,But Haruki isn't able to help anyone.{flashbacks in ep2, 03:13}
 Dialogue: 10,0:21:42.58,0:21:44.88,GJM_Main_1080p,,0,0,0,,People would rather get help, even from a hypocrite,
 Dialogue: 10,0:21:44.88,0:21:47.47,GJM_Main_1080p,,0,0,0,,than to be watched over by a good person.
 Dialogue: 10,0:21:47.47,0:21:48.91,GJM_Main_1080p,,0,0,0,,I guess.
@@ -425,15 +424,16 @@ Dialogue: 10,0:22:38.68,0:22:42.94,GJM_Main_1080p,,0,0,0,,Nice to meet you. I'm 
 Dialogue: 10,0:22:42.94,0:22:44.82,GJM_Main_1080p,,0,0,0,,I'd like to ask you something.
 Dialogue: 10,0:22:44.82,0:22:45.67,GJM_Main_1080p,,0,0,0,,What?
 Dialogue: 10,0:22:46.48,0:22:52.18,GJM_Main_1080p,,0,0,0,,Did you know that a little girl named \NKurakawa Mari died seven years ago?
-Dialogue: 10,0:22:52.66,0:22:55.50,GJM_Main_1080p,,0,0,0,,Kurakawa Mari died seven years ago.
-Dialogue: 10,0:22:55.50,0:22:56.56,GJM_Main_1080p,,0,0,0,,She died?
-Dialogue: 10,0:22:56.56,0:23:01.15,GJM_Main_1080p,,0,0,0,,{\q2}When the doctor performed a C-section on Mari's \Nmother, Mari had already stopped breathing.
-Dialogue: 10,0:23:03.15,0:23:08.13,GJM_Main_1080p,,0,0,0,,Mari, if Kurakawa Mari died, \Nthen who might you be?
-Dialogue: 10,0:23:26.78,0:23:30.34,GJM_Main_1080p,,0,0,0,,You choose, Haruki. Who is going \Nto hand Mari over to the Bureau?
-Dialogue: 10,0:23:29.42,0:23:32.59,GJM_Main_1080p,,0,0,0,,{\an8}Doing what you don't want to do is called a job.
-Dialogue: 10,0:23:31.55,0:23:33.85,GJM_Main_1080p,,0,0,0,,What did you do to Misora Haruki?
-Dialogue: 10,0:23:32.97,0:23:36.35,GJM_Main_1080p,,0,0,0,,{\an8}I remembered all of the sadness\N I was supposed to feel from now on.
-Dialogue: 10,0:23:35.99,0:23:39.60,GJM_Main_1080p,,0,0,0,,Let's go erase the girl's tears.
+Dialogue: 10,0:22:52.66,0:22:55.50,GJM_Main_1080p,,0,0,0,,Kurakawa Mari died seven years ago.{ep2, 00:01}
+Dialogue: 10,0:22:55.50,0:22:56.56,GJM_Main_1080p,,0,0,0,,She died?{ep2, 00:03}
+Dialogue: 10,0:22:56.56,0:23:01.15,GJM_Main_1080p,,0,0,0,,{\q2}When the doctor performed a C-section on Mari's \Nmother, Mari had already stopped breathing.{ep2, 00:04}
+Dialogue: 10,0:23:03.15,0:23:08.13,GJM_Main_1080p,,0,0,0,,Mari, if Kurakawa Mari died, \Nthen who might you be?{ep2, 00:11}
+Dialogue: 10,0:23:26.76,0:23:28.17,GJM_Main_1080p,,0,0,0,,You choose, Haruki.{ep2, 02:50}
+Dialogue: 10,0:23:28.17,0:23:30.34,GJM_Main_1080p,,0,0,0,,Are you going to hand Mari over to the Bureau?{ep2, 02:52}
+Dialogue: 10,0:23:29.42,0:23:32.59,GJM_Main_1080p,,0,0,0,,{\an8}My job means doing things I don't want to do.{ep2, 02:39}
+Dialogue: 10,0:23:31.55,0:23:33.85,GJM_Main_1080p,,0,0,0,,What do you want to do with Haruki Misora?{ep2, 07:09}
+Dialogue: 10,0:23:32.97,0:23:36.35,GJM_Main_1080p,,0,0,0,,{\an8}I remembered all of the sadness \NI was supposed to feel soon.{ep2, 04:37}
+Dialogue: 10,0:23:35.99,0:23:39.60,GJM_Main_1080p,,0,0,0,,Let's go erase the girl's tears.{ep2, 04:43}
 Comment: 0,0:23:39.60,0:23:41.60,GJM_Main_1080p,,0,0,0,,ED
 Comment: 0,0:23:39.60,0:23:39.60,Default,,0,0,0,,{ED First Frame}
 Dialogue: 0,0:23:40.12,0:23:47.24,SagradaED1,,0,0,0,,{\fad(160,160)\be3}We're always simply standing in a rain of eternal sadness
