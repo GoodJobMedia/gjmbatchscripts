@@ -17,9 +17,9 @@ Keyframes File: haifuri08bd_premux_[0452DD29]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 440
-Active Line: 441
-Video Position: 4161
+Scroll Position: 250
+Active Line: 261
+Video Position: 25435
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -298,8 +298,8 @@ Dialogue: 5,0:17:18.08,0:17:20.72,Default,,0,0,0,,I-I think they're going to hit
 Dialogue: 5,0:17:23.19,0:17:25.10,Default,,0,0,0,,Fire one torpedo to either side of them!
 Dialogue: 5,0:17:25.27,0:17:27.34,Default,,0,0,0,,Please make it through!
 Dialogue: 5,0:17:35.82,0:17:38.60,Default,,0,0,0,,We led the Hiei to point one!
-Comment: 5,0:17:39.06,0:17:39.97,Default,,0,0,0,,{missing wilhemina line}
-Comment: 5,0:17:39.97,0:17:41.44,Default,,0,0,0,,{missing coco line}{i have no idea}
+Dialogue: 5,0:17:39.06,0:17:39.97,Default,,0,0,0,,Kentert sie!
+Dialogue: 5,0:17:39.97,0:17:41.44,Default,,0,0,0,,Hiebe durch!
 Dialogue: 5,0:17:41.44,0:17:44.62,Default,,0,0,0,,If we can make them run aground here, \Nwe can stop the Hiei without sinking it!
 Dialogue: 5,0:17:47.30,0:17:48.36,Default,,0,0,0,,It made it through?!
 Dialogue: 5,0:17:49.50,0:17:50.51,Default,,0,0,0,,They're firing!
