@@ -17,8 +17,8 @@ Keyframes File: alice03_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 221
-Active Line: 230
+Scroll Position: 377
+Active Line: 412
 Video Position: 19592
 
 [V4+ Styles]
@@ -438,7 +438,7 @@ Dialogue: 0,0:01:48.83,0:01:52.21,Alice-OP,,0,0,0,,{\an3\fad(0,200)\c&HD2ACFB&\3
 Dialogue: 0,0:01:52.21,0:01:54.30,Alice-OP,,0,0,0,,{\an3\fad(100,200)\c&HD2ACFB&\3c&H2B2223&}Uncertainty, hesitation, and confusion
 Dialogue: 0,0:01:54.30,0:01:57.76,Alice-OP,,0,0,0,,{\an3\fad(100,0)\c&HD2ACFB&\3c&H2B2223&}Just throw it all away!
 Dialogue: 0,0:01:57.76,0:02:00.64,Alice-OP,,0,0,0,,{\fad(0,200)\c&HDAF7FF&\3c&H010000&}Wonder drive! Keep charging along this path
-Dialogue: 0,0:02:00.64,0:02:04.22,Alice-OP,,0,0,0,,{\fad(100,200)\c&HDAF7FF&\3c&H010000&}Believe in your heart and it will take you there
+Dialogue: 0,0:02:00.64,0:02:04.22,Alice-OP,,0,0,0,,{\fad(100,200)\c&HDAF7FF&\3c&H010000&}Replace that clock's rhythm with your own
 Dialogue: 0,0:02:04.22,0:02:06.89,Alice-OP,,0,0,0,,{\an3\fad(100,200)\c&HDAF7FF&\3c&H010000&\t(737,862,\c&HD1F7FC&\3c&HC7356D&)}We are walking along a road
 Dialogue: 0,0:02:06.89,0:02:08.39,Alice-OP,,0,0,0,,{\an3\fad(100,0)\c&HDAF7FF&\3c&H010000&}No one has yet dreamed of
 Dialogue: 0,0:02:08.85,0:02:10.27,Alice-OP,,0,0,0,,{\an3\fad(100,0)\c&HFFFFFF&\3c&H000000&}Mirror, mirror, on the wall

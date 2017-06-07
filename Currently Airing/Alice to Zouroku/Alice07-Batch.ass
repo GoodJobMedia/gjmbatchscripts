@@ -16,8 +16,8 @@ Video File: 07.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 288
-Active Line: 304
+Scroll Position: 396
+Active Line: 434
 Video Position: 23702
 
 [V4+ Styles]
@@ -474,7 +474,7 @@ Dialogue: 0,0:02:45.77,0:02:49.15,Alice-OP,,0,0,0,,{\an3\fad(0,200)\c&HD2ACFB&\3
 Dialogue: 0,0:02:49.15,0:02:51.24,Alice-OP,,0,0,0,,{\an3\fad(100,200)\c&HD2ACFB&\3c&H2B2223&}Uncertainty, hesitation, and confusion
 Dialogue: 0,0:02:51.24,0:02:54.70,Alice-OP,,0,0,0,,{\an3\fad(100,0)\c&HD2ACFB&\3c&H2B2223&}Just throw it all away!
 Dialogue: 0,0:02:54.70,0:02:57.58,Alice-OP,,0,0,0,,{\fad(0,200)\c&HDAF7FF&\3c&H010000&}Wonder drive! Keep charging along this path
-Dialogue: 0,0:02:57.58,0:03:01.16,Alice-OP,,0,0,0,,{\fad(100,200)\c&HDAF7FF&\3c&H010000&}Believe in your heart and it will take you there
+Dialogue: 0,0:02:57.58,0:03:01.16,Alice-OP,,0,0,0,,{\fad(100,200)\c&HDAF7FF&\3c&H010000&}Replace that clock's rhythm with your own
 Dialogue: 0,0:03:01.16,0:03:03.83,Alice-OP,,0,0,0,,{\an3\fad(100,200)\c&HDAF7FF&\3c&H010000&\t(737,862,\c&HD1F7FC&\3c&HC7356D&)}We are walking along a road
 Dialogue: 0,0:03:03.83,0:03:05.33,Alice-OP,,0,0,0,,{\an3\fad(100,0)\c&HDAF7FF&\3c&H010000&}No one has yet dreamed of
 Dialogue: 0,0:03:05.79,0:03:07.21,Alice-OP,,0,0,0,,{\an3\fad(100,0)\c&HFFFFFF&\3c&H000000&}Mirror, mirror, on the wall
