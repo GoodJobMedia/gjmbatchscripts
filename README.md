@@ -13,7 +13,7 @@ If you're not looking for a staff position though, you can still find us via our
 
 [Twitter](http://www.twitter.com/goodjobmedia)
 
-[Nyaa Torrent Directory](http://www.nyaa.se/?user=290733)
+[Nyaa Torrent Directory](https://nyaa.si/user/GoodJobMedia)
 
 [#goodjob@irc.rizon.net](irc://irc.rizon.net/goodjob)
 
