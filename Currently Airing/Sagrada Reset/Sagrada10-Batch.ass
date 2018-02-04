@@ -17,8 +17,8 @@ Keyframes File: Sagrada Reset - 10 Premux [F1889E8D]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 177
-Active Line: 194
+Scroll Position: 357
+Active Line: 375
 Video Position: 19759
 
 [V4+ Styles]
@@ -199,7 +199,7 @@ Dialogue: 0,0:12:12.96,0:12:14.03,GJM_Main_1080p,Kei,0,0,0,,Thanks.
 Dialogue: 0,0:12:14.54,0:12:16.48,GJM_Main_1080p,Kei,0,0,0,,See you later.
 Dialogue: 0,0:12:16.48,0:12:17.15,GJM_Main_1080p,Haruki,0,0,0,,See you.
 Dialogue: 0,0:12:19.06,0:12:20.52,GJM_Main_1080p,Kei,0,0,0,,{\i1}Thinking back on it,
-Dialogue: 0,0:12:20.52,0:12:22.88,GJM_Main_1080p,Kei,0,0,0,,{\i1}
+Dialogue: 0,0:12:20.52,0:12:22.88,GJM_Main_1080p,Kei,0,0,0,,{\i1}there have been hints all along.
 Dialogue: 0,0:12:28.87,0:12:30.25,GJM_Main_1080p,Tomoki,0,0,0,,Hey, Kei.
 Dialogue: 0,0:12:33.09,0:12:34.60,GJM_Main_1080p,Kei,0,0,0,,Hey, Tomoki.
 Dialogue: 0,0:12:35.31,0:12:37.05,GJM_Main_1080p,Tomoki,0,0,0,,I saw Souma yesterday.
@@ -406,7 +406,6 @@ Dialogue: 0,0:25:01.24,0:25:03.09,GJM_Main_1080p,Haruki,0,0,0,,Yeah, rice porrid
 Dialogue: 0,0:25:03.09,0:25:03.95,GJM_Main_1080p,Haruki,0,0,0,,Now that's a problem.
 Dialogue: 0,0:25:03.95,0:25:06.06,GJM_Main_1080p,Haruki,0,0,0,,I wonder if this will make Kei happy.
 Dialogue: 0,0:25:06.06,0:25:08.77,GJM_Main_1080p,Haruki,0,0,0,,Will you be my friend?
-Comment: 0,0:25:08.77,0:25:11.77,GJM_Main_1080p,,0,0,0,,
 Comment: 0,0:23:38.99,0:23:40.99,GJM_Main_1080p,,0,0,0,,OP
 Comment: 0,0:01:40.99,0:01:43.99,Sagrada-OP,,0,0,0,,{firstframe}
 Dialogue: 2,0:01:53.33,0:01:59.73,Sagrada-OP,,0,0,0,fx,{\move(240,1008,202,1026,0,400)\bord2\c&H000000&\3c&H000000&\alpha&HFF&\blur2\t(60,180,\alpha&H00&)\t(240,400,\alpha&HFF&)}The
