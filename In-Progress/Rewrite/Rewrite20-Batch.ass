@@ -198,7 +198,7 @@ Dialogue: 10,0:10:16.99,0:10:18.34,Default,G,0,0,0,,Each team is to assign
 Dialogue: 10,0:10:18.34,0:10:21.66,Default,G,0,0,0,,the appropriate members\N and equipment for their roles.
 Dialogue: 10,0:10:21.66,0:10:22.50,Default,G,0,0,0,,Dismissed!
 Dialogue: 10,0:10:24.81,0:10:26.71,Default,G,0,0,0,,Luis, Bond, come with me.
-Dialogue: 10,0:10:26.71,0:10:29.31,Default,G,0,0,0,,Team Variant is in charge of the direct assault.
+Dialogue: 10,0:10:26.71,0:10:29.31,Default,G,0,0,0,,Team Valiant is in charge of the direct assault.
 Dialogue: 10,0:10:29.31,0:10:30.19,Default,Bo,0,0,0,,Sir!
 Dialogue: 10,0:10:30.88,0:10:33.48,Default,L,0,0,0,,We've never had such \Na large-scale mission before.
 Dialogue: 10,0:10:33.48,0:10:35.75,Default,K,0,0,0,,Let's visit the school tomorrow.
@@ -239,7 +239,7 @@ Dialogue: 10,0:14:03.39,0:14:05.53,Default,L,0,0,0,,I went and did it again...
 Dialogue: 10,0:14:05.53,0:14:08.53,Default,K,0,0,0,,You couldn't have known in that split second.
 Dialogue: 10,0:14:08.53,0:14:11.20,Default,L,0,0,0,,They were so young!
 Dialogue: 10,0:14:11.20,0:14:13.22,Default,L,0,0,0,,This is too awful!
-Dialogue: 10,0:14:22.34,0:14:23.96,Default,K,0,0,0,,This is Variant 4.
+Dialogue: 10,0:14:22.34,0:14:23.96,Default,K,0,0,0,,This is Valiant 4.
 Dialogue: 10,0:14:24.83,0:14:27.22,Default,K,0,0,0,,We've neutralized six summoners.
 Dialogue: 10,0:14:30.56,0:14:31.39,Default,K,0,0,0,,Captain!
 Dialogue: 10,0:14:31.39,0:14:33.19,Default,C,0,0,0,,What's with the glare?
@@ -325,7 +325,7 @@ Dialogue: 10,0:19:01.32,0:19:03.08,Default,G,0,0,0,,You look awful.
 Dialogue: 10,0:19:03.77,0:19:05.96,Default,K,0,0,0,,I apologize for my late return.
 Dialogue: 10,0:19:05.96,0:19:09.14,Default,K,0,0,0,,I got separated from the others \Ndue to the carpet bombing.
 Dialogue: 10,0:19:09.14,0:19:09.99,Default,G,0,0,0,,Yeah.
-Dialogue: 10,0:19:09.99,0:19:13.34,Default,G,0,0,0,,You're Team Variant's sole survivor.
+Dialogue: 10,0:19:09.99,0:19:13.34,Default,G,0,0,0,,You're Team Valiant's sole survivor.
 Dialogue: 10,0:19:14.52,0:19:17.34,Default,K,0,0,0,,Just when we'd wiped out the summoners...
 Dialogue: 10,0:19:17.34,0:19:19.47,Default,G,0,0,0,,We have plenty of replacements.
 Dialogue: 10,0:19:19.47,0:19:23.35,Default,G,0,0,0,,Return to active duty once you sort out \Nyour team's personal belongings.
