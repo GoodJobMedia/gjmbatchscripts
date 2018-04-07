@@ -206,7 +206,7 @@ Comment: 0,0:00:00.60,0:00:00.64,GJM_Main,,0,0,0,,OP
 Dialogue: 0,0:00:02.31,0:00:04.90,OP,,0,0,0,,{\blur5\c&H000000&\bord0\1a&H40&}Both the big-brained and the bird-brained
 Dialogue: 0,0:00:04.90,0:00:07.69,OP,,0,0,0,,{\blur5\c&H000000&\bord0\1a&H40&}Are singing out loud because they want you, cock-a-doodle-doo!
 Dialogue: 0,0:00:07.69,0:00:10.86,OP,,0,0,0,,{\blur5\c&H000000&\bord0\1a&H40&}They need to do it before their life runs out
-Dialogue: 0,0:00:10.86,0:00:12.74,OP,,0,0,0,,{\blur5\c&H000000&\bord0\1a&H40&}They're making it their dream!
+Dialogue: 0,0:00:10.86,0:00:12.74,OP,,0,0,0,,{\blur5\c&H000000&\bord0\1a&H40&}All of your dreams can come true!
 Dialogue: 0,0:00:12.74,0:00:15.16,OP,,0,0,0,,{\blur5\c&H000000&\bord0\1a&H40&}Common sense is a good morning call
 Dialogue: 0,0:00:15.16,0:00:18.03,OP,,0,0,0,,{\blur5\c&H000000&\bord0\1a&H40&}To keeping the status quo, cock-a-doodle-doo!
 Dialogue: 0,0:00:18.03,0:00:20.70,OP,,0,0,0,,{\blur5\c&H000000&\bord0\1a&H40&}So plan out your life and sew out the mysteries
@@ -215,15 +215,15 @@ Dialogue: 0,0:00:23.96,0:00:25.71,OP,,0,0,0,,{\blur5\c&H000000&\bord0\1a&H40&}Th
 Dialogue: 1,0:00:02.31,0:00:04.90,OP,,0,0,0,,{\blur0.6}Both the big-brained and the bird-brained
 Dialogue: 1,0:00:04.90,0:00:07.69,OP,,0,0,0,,{\blur0.6}Are singing out loud because they want you, cock-a-doodle-doo!
 Dialogue: 1,0:00:07.69,0:00:10.86,OP,,0,0,0,,{\blur0.6}They need to do it before their life runs out
-Dialogue: 1,0:00:10.86,0:00:12.74,OP,,0,0,0,,{\blur0.6}They're making it their dream!
+Dialogue: 1,0:00:10.86,0:00:12.74,OP,,0,0,0,,{\blur0.6}All of your dreams can come true!
 Dialogue: 1,0:00:12.74,0:00:15.16,OP,,0,0,0,,{\blur0.6}Common sense is a good morning call
 Dialogue: 1,0:00:15.16,0:00:18.03,OP,,0,0,0,,{\blur0.6}To keeping the status quo, cock-a-doodle-doo!
 Dialogue: 1,0:00:18.03,0:00:20.70,OP,,0,0,0,,{\blur0.6}So plan out your life and sew out the mysteries
 Dialogue: 1,0:00:20.70,0:00:23.46,OP,,0,0,0,,{\blur0.6}Every Friday is my birthday!
 Dialogue: 1,0:00:23.96,0:00:25.71,OP,,0,0,0,,{\blur0.6}The planet is still blue today?!
 Comment: 0,0:05:38.27,0:05:38.31,GJM_Main,,0,0,0,,ED
-Dialogue: 0,0:05:33.64,0:05:38.69,ED,,0,0,0,,{\fad(240,240)\blur9}I search for you everywhere I can
-Dialogue: 0,0:05:39.02,0:05:42.28,ED,,0,0,0,,{\fad(240,240)\blur9}Going from one place to another
+Dialogue: 0,0:05:33.64,0:05:38.69,ED,,0,0,0,,{\fad(240,240)\blur9}I'm searching the entire galaxy for you
+Dialogue: 0,0:05:39.02,0:05:42.28,ED,,0,0,0,,{\fad(240,240)\blur9}Going from one planet to the next
 Dialogue: 0,0:05:44.15,0:05:49.57,ED,,0,0,0,,{\fad(240,240)\blur9}I'm broadcasting my feelings of love to you, beep, beep
 Dialogue: 0,0:05:49.57,0:05:52.41,ED,,0,0,0,,{\fad(240,240)\blur9}So please receive them!
 Dialogue: 0,0:05:53.54,0:05:59.21,ED,,0,0,0,,{\fad(240,240)\blur9}They float gently
