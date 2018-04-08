@@ -44,8 +44,8 @@ Style: UW_Overlap,Painfresco,49,&H00FFFFFF,&H000000FF,&H00161B41,&HDC26293E,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:30.28,0:00:31.42,UW_Main,L,0,0,0,,{\i1}I'm Luluco.
-Dialogue: 10,0:00:31.42,0:00:33.68,UW_Main,L,0,0,0,,{\i1}I was living in Ogikubo,\Nthe most abnormal town on Earth{I lived in Ogikubo, the most \Nabnormal town on Earth,}
-Dialogue: 10,0:00:33.68,0:00:36.80,UW_Main,L,0,0,0,,{\i1}Until it was shoplifted\Nby my space pirate mother.{which was shoplifted by \Nmy mother, a space pirate.}
+Dialogue: 10,0:00:31.42,0:00:33.68,UW_Main,L,0,0,0,,{\i1}I was living in Ogikubo,\Nthe most abnormal town on Earth,{I lived in Ogikubo, the most \Nabnormal town on Earth,}
+Dialogue: 10,0:00:33.68,0:00:36.80,UW_Main,L,0,0,0,,{\i1}until it was shoplifted\Nby my space pirate mother.{which was shoplifted by \Nmy mother, a space pirate.}
 Dialogue: 10,0:00:37.10,0:00:39.31,UW_Main,L,0,0,0,,{\i1}When my Space Patrol father's brain met her,
 Dialogue: 10,0:00:39.31,0:00:42.56,UW_Main,L,0,0,0,,{\i1}they had a heated spat, things went\Nhorribly wrong, and the warp gate distorted,
 Dialogue: 10,0:00:42.56,0:00:44.69,UW_Main,L,0,0,0,,{\i1}which made space you-know-what\Nand teleported us somewhere!
