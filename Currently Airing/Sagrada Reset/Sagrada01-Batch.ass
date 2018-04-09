@@ -16,9 +16,9 @@ Video File: E:/GJM/Sagrada Reset/01/SagradaReset01Premux [364F396D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 395
-Active Line: 403
-Video Position: 33878
+Scroll Position: 405
+Active Line: 413
+Video Position: 2192
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,6 +26,7 @@ Style: GJM_Main_1080p,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000
 Style: GJM_Overlap_1080p,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
 Style: ShikawaSigns,arial,30,&H00000000,&H000200E9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: SagradaED1,a song for jennifer,62,&H00E6E6E6,&H000000FF,&H000E1D47,&HA0000000,-1,0,0,0,100,100,0,0,1,7,0,9,60,60,60,1
+Style: Sagrada-OP-insert,Kozuka Mincho Pr6N M-EN,60,&H00FFFFFF,&H000000FF,&H00CBBD4C,&H00FFE82D,0,0,0,0,96,100,0,0,1,0,0,9,60,60,54,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -434,6 +435,18 @@ Dialogue: 10,0:23:29.42,0:23:32.59,GJM_Main_1080p,,0,0,0,,{\an8}My job means doi
 Dialogue: 10,0:23:31.55,0:23:33.85,GJM_Main_1080p,,0,0,0,,What do you want to do with Haruki Misora?{ep2, 07:09}
 Dialogue: 10,0:23:32.97,0:23:36.35,GJM_Main_1080p,,0,0,0,,{\an8}I remembered all of the sadness \NI was supposed to feel soon.{ep2, 04:37}
 Dialogue: 10,0:23:35.99,0:23:39.60,GJM_Main_1080p,,0,0,0,,Let's go erase the girl's tears.{ep2, 04:43}
+Comment: 0,0:00:22.79,0:00:22.83,GJM_Main_1080p,,0,0,0,,INSERT OP
+Dialogue: 5,0:00:22.79,0:00:30.64,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}The flow of time makes a continuous sound
+Dialogue: 5,0:00:32.17,0:00:39.72,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}It's a melody that invites the coming future
+Dialogue: 5,0:00:41.60,0:00:51.03,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}What kind of world is waiting for me?
+Dialogue: 5,0:00:51.03,0:00:57.99,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}I tried asking myself for an answer
+Dialogue: 5,0:01:01.95,0:01:10.15,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}Here, in the middle of ideals and reality
+Dialogue: 5,0:01:11.21,0:01:20.96,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}The hands of the clock are being constantly moved
+Dialogue: 5,0:01:21.81,0:01:29.37,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}I'll do anything to erase all sadness
+Dialogue: 5,0:01:31.40,0:01:40.58,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}Even if it means going back down the passage of dark stairs
+Dialogue: 5,0:01:40.58,0:01:48.89,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}There's something I want to protect no matter what
+Dialogue: 5,0:01:50.09,0:01:54.25,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}I'll say that out loud
+Dialogue: 5,0:01:54.55,0:02:02.60,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}Believing that fate will bring us together again
 Comment: 0,0:23:39.60,0:23:41.60,GJM_Main_1080p,,0,0,0,,ED
 Comment: 0,0:23:39.60,0:23:39.60,Default,,0,0,0,,{ED First Frame}
 Dialogue: 0,0:23:40.12,0:23:47.24,SagradaED1,,0,0,0,,{\fad(160,160)\be3}We're always simply standing in a rain of eternal sadness
@@ -451,16 +464,15 @@ Dialogue: 0,0:24:48.67,0:24:55.74,SagradaED1,,0,0,0,,{\fad(160,160)\3c&H9F5E46&\
 Dialogue: 0,0:24:55.74,0:24:59.81,SagradaED1,,0,0,0,,{\fad(160,160)\3c&H9F5E46&\c&HFFFFFF&\be3}You're the one who brought it back
 Dialogue: 0,0:24:59.81,0:25:06.68,SagradaED1,,0,0,0,,{\fad(160,160)\3c&H214B92&\c&HFFFFFF&\be3}And taught me that even lies can be meaningful
 Comment: 0,0:23:41.60,0:23:43.60,GJM_Main_1080p,,0,0,0,,TS
-Dialogue: 0,0:00:01.14,0:00:09.44,ShikawaSigns,,0,0,0,,{\pos(960,610)\fnFOT-MatisseMinori Pro DB\fs80\fsp5\blur0.9\fad(3500,2400)}Sagrada Reset
-Dialogue: 0,0:00:10.90,0:00:14.41,ShikawaSigns,,0,0,0,,{\pos(730,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 27th
-Dialogue: 0,0:00:10.90,0:00:14.41,ShikawaSigns,,0,0,0,,{\an6\pos(1370,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Tuesday
-Dialogue: 0,0:01:40.87,0:01:44.20,ShikawaSigns,,0,0,0,,{\pos(730,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 27th
-Dialogue: 0,0:01:40.87,0:01:44.20,ShikawaSigns,,0,0,0,,{\an6\pos(1370,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Tuesday
-Dialogue: 0,0:01:44.20,0:01:46.96,ShikawaSigns,,0,0,0,,{\pos(675.32,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 2
-Dialogue: 0,0:01:44.20,0:01:46.96,ShikawaSigns,,0,0,0,,{\move(809.945,642.8,809.945,560,0,613)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(513.53,571.09,1457.17,644.73)}7\N8
-Dialogue: 0,0:01:44.20,0:01:46.96,ShikawaSigns,,0,0,0,,{\pos(864.625,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}th
-Dialogue: 0,0:01:44.20,0:01:46.96,ShikawaSigns,,0,0,0,,{\an6\pos(1370,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}day
-Dialogue: 0,0:01:44.20,0:01:46.96,ShikawaSigns,,0,0,0,,{\an6\move(1253.453,642.8,1253.453,560,0,613)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(513.53,571.09,1457.17,644.73)}Tues\NWednes
+Dialogue: 0,0:00:01.14,0:00:09.53,ShikawaSigns,,0,0,0,,{\pos(960,610)\fnFOT-MatisseMinori Pro DB\fs80\fsp5\blur0.9\fad(3500,2400)}Sagrada Reset
+Dialogue: 0,0:00:10.90,0:00:14.41,ShikawaSigns,,0,0,0,,{\pos(727.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 27th
+Dialogue: 0,0:00:10.90,0:00:14.41,ShikawaSigns,,0,0,0,,{\an6\pos(1370.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Tuesday
+Dialogue: 0,0:01:40.87,0:01:44.20,ShikawaSigns,,0,0,0,,{\pos(727,370)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 27th
+Dialogue: 0,0:01:40.87,0:01:44.20,ShikawaSigns,,0,0,0,,{\an6\pos(1370.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Tuesday
+Dialogue: 0,0:01:44.20,0:01:46.96,ShikawaSigns,,0,0,0,,{\pos(727,370)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 2{\alpha&HFF&}7{\alpha&H00&}th
+Dialogue: 0,0:01:44.20,0:01:46.96,ShikawaSigns,,0,0,0,,{\move(807.5,415.800,807.5,330.000,0,615)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(513.530,341.090,1457.170,414.730)}7\N8
+Dialogue: 0,0:01:44.20,0:01:46.96,ShikawaSigns,,0,0,0,,{\an6\pos(1370.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}day
+Dialogue: 0,0:01:44.20,0:01:46.96,ShikawaSigns,,0,0,0,,{\an6\move(1253.453,412.800,1253.453,330.000,0,613)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(513.530,341.090,1457.170,414.730)}Tues\NWednes
 Dialogue: 0,0:04:08.39,0:04:13.90,ShikawaSigns,,0,0,0,,{\pos(730,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 27th
 Dialogue: 0,0:04:08.39,0:04:13.90,ShikawaSigns,,0,0,0,,{\an6\pos(1370,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Tuesday
 Dialogue: 0,0:04:10.39,0:04:13.90,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs80\alpha&HFF&\blur20\t(0,444,\blur0.8)\t(0,402,\alpha&H30&)\t(402,444,\alpha&H00&)}Second Time
@@ -476,9 +488,9 @@ Dialogue: 0,0:18:51.06,0:18:54.07,ShikawaSigns,,0,0,0,,{\pos(960,365)\fnFOT-Mati
 Dialogue: 0,0:18:51.06,0:18:54.07,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}First Time
 Dialogue: 0,0:22:18.98,0:22:20.27,ShikawaSigns,,0,0,0,,{\an4\pos(560,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}August 13th
 Dialogue: 0,0:22:18.98,0:22:20.27,ShikawaSigns,,0,0,0,,{\an6\pos(1370,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Friday
-Dialogue: 0,0:22:20.27,0:22:22.98,ShikawaSigns,,0,0,0,,{\an4\pos(560,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}August 1
-Dialogue: 0,0:22:20.27,0:22:22.98,ShikawaSigns,,0,0,0,,{\an4\move(853.734,642,853.734,560,0,695)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(513.53,571.09,1457.17,644.73)}3\N4
-Dialogue: 0,0:22:20.27,0:22:22.98,ShikawaSigns,,0,0,0,,{\an4\pos(896.406,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}th
-Dialogue: 0,0:22:20.27,0:22:22.98,ShikawaSigns,,0,0,0,,{\an6\move(1253.453,642,1253.453,560,0,695)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(513.53,571.09,1457.17,644.73)}Fri\NSatur
-Dialogue: 0,0:22:20.27,0:22:22.98,ShikawaSigns,,0,0,0,,{\an6\pos(1370,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}day
+Dialogue: 0,0:22:20.27,0:22:22.98,ShikawaSigns,,0,0,0,,{\an4\pos(560.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}August 1
+Dialogue: 0,0:22:20.27,0:22:22.98,ShikawaSigns,,0,0,0,,{\an4\move(853.734,412.000,853.734,330.000,0,695)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(513.530,341.090,1457.170,414.730)}3\N4
+Dialogue: 0,0:22:20.27,0:22:22.98,ShikawaSigns,,0,0,0,,{\an4\pos(896.406,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}th
+Dialogue: 0,0:22:20.27,0:22:22.98,ShikawaSigns,,0,0,0,,{\an6\move(1253.453,412.000,1253.453,330.000,0,695)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(513.530,341.090,1457.170,414.730)}Fri\NSatur
+Dialogue: 0,0:22:20.27,0:22:22.98,ShikawaSigns,,0,0,0,,{\an6\pos(1370.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}day
 Dialogue: 0,0:23:24.59,0:23:26.09,ShikawaSigns,,0,0,0,,{\pos(960,620)\fnFOT-MatisseMinori Pro DB\fs90\blur0.6}Next Episode
