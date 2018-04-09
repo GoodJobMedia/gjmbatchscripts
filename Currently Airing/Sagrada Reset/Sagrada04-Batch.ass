@@ -18,7 +18,7 @@ Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 401
 Active Line: 414
-Video Position: 33818
+Video Position: 33908
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -444,7 +444,7 @@ Dialogue: 10,0:23:27.94,0:23:29.33,GJM_Main_1080p,,0,0,0,,Hello. It's nice to me
 Dialogue: 10,0:23:29.33,0:23:30.47,GJM_Main_1080p,,0,0,0,,Do you like marbles?{ep5, 09:45}
 Dialogue: 10,0:23:30.47,0:23:33.05,GJM_Main_1080p,,0,0,0,,It's like they're making fun of the world.{ep5, 10:00}
 Dialogue: 10,0:23:32.10,0:23:35.06,GJM_Main_1080p,,0,0,0,,{\an8}...said it was weird for me \Nto speak politely since we're classmates.{ep5, 13:29}
-Dialogue: 10,0:23:34.24,0:23:35.80,GJM_Main_1080p,,0,0,0,,Because it's something I don't need.{ep5, 12:57}
+Dialogue: 10,0:23:34.24,0:23:35.80,GJM_Main_1080p,,0,0,0,,Because it's something I didn't need.{ep5, 12:57}
 Dialogue: 10,0:23:35.80,0:23:37.21,GJM_Main_1080p,,0,0,0,,Why are you crying?{ep5, 23:18}
 Dialogue: 10,0:23:37.21,0:23:37.97,GJM_Main_1080p,,0,0,0,,I don't know!{ep5, 23:20}
 Comment: 0,0:00:30.00,0:00:30.00,Sagrada-OP,,0,0,0,,OP
