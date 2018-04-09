@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: sagrada
-Audio File: SagradaReset03Premuxv2 [2F9E0B7D].mkv
-Video File: SagradaReset03Premuxv2 [2F9E0B7D].mkv
-Keyframes File: SagradaReset03Premuxv2 [2F9E0B7D]_keyframes.log
+Audio File: E:/GJM/Sagrada Reset/03/SagradaReset03Premuxv2 [2F9E0B7D].mkv
+Video File: E:/GJM/Sagrada Reset/03/SagradaReset03Premuxv2 [2F9E0B7D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 217
-Active Line: 234
-Video Position: 20646
+Scroll Position: 876
+Active Line: 1054
+Video Position: 13919
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -112,7 +111,7 @@ Dialogue: 10,0:05:46.78,0:05:50.11,GJM_Main_1080p,,0,0,0,,What'll happen if my v
 Dialogue: 10,0:05:50.11,0:05:51.77,GJM_Main_1080p,,0,0,0,,Are you looking for a cat today?
 Dialogue: 10,0:05:51.77,0:05:52.81,GJM_Main_1080p,,0,0,0,,Yeah.
 Dialogue: 10,0:05:52.81,0:05:55.33,GJM_Main_1080p,,0,0,0,,Let me introduce you to a cat expert.
-Dialogue: 10,0:05:55.33,0:05:58.65,GJM_Main_1080p,,0,0,0,,Nonou Seika, a first-year at Oomiya High School.
+Dialogue: 10,0:05:55.33,0:05:58.65,GJM_Main_1080p,,0,0,0,,Nonoh Seika, a first-year at Oomiya High School.
 Dialogue: 10,0:05:58.65,0:06:00.63,GJM_Main_1080p,,0,0,0,,Her ability allows her to distribute information.
 Dialogue: 10,0:06:01.01,0:06:03.61,GJM_Main_1080p,,0,0,0,,However, it works only on cats.
 Dialogue: 10,0:06:03.61,0:06:08.11,GJM_Main_1080p,,0,0,0,,When it comes to cats, there's no one more knowledgeable and loving than she is.
@@ -144,7 +143,7 @@ Dialogue: 10,0:07:19.52,0:07:21.50,GJM_Main_1080p,,0,0,0,,We don't have much tim
 Dialogue: 10,0:07:32.30,0:07:34.97,GJM_Main_1080p,,0,0,0,,I'd like to ask you about a cat \Nthat was in an accident.
 Dialogue: 10,0:07:37.85,0:07:41.48,GJM_Main_1080p,,0,0,0,,We might be able to save that cat.
 Dialogue: 10,0:07:54.64,0:07:57.74,GJM_Main_1080p,,0,0,0,,{\i1}Just 13 more minutes. We're cutting it close.
-Dialogue: 10,0:08:11.30,0:08:12.72,GJM_Main_1080p,,0,0,0,,Are you Nonou?
+Dialogue: 10,0:08:11.30,0:08:12.72,GJM_Main_1080p,,0,0,0,,Are you Nonoh?
 Dialogue: 10,0:08:13.60,0:08:14.64,GJM_Main_1080p,,0,0,0,,Morning.
 Dialogue: 10,0:08:15.22,0:08:17.35,GJM_Main_1080p,,0,0,0,,You said someone was in an accident?
 Dialogue: 10,0:08:17.35,0:08:20.64,GJM_Main_1080p,,0,0,0,,A cat with gray fur, blue eyes, and a crooked tail.
@@ -214,7 +213,7 @@ Dialogue: 10,0:11:31.67,0:11:33.00,GJM_Main_1080p,,0,0,0,,"U-Research"?
 Dialogue: 10,0:11:33.00,0:11:35.36,GJM_Main_1080p,,0,0,0,,It's a club that researches the unidentified.
 Dialogue: 10,0:11:35.36,0:11:37.13,GJM_Main_1080p,,0,0,0,,I'm a member.
 Dialogue: 10,0:11:37.38,0:11:43.20,GJM_Main_1080p,,0,0,0,,{\i1}After what happened two years ago, \NKei hates changing the future unnecessarily.
-Dialogue: 10,0:11:52.90,0:11:56.40,GJM_Main_1080p,,0,0,0,,What kind of person is that cat-lover Nonou?
+Dialogue: 10,0:11:52.90,0:11:56.40,GJM_Main_1080p,,0,0,0,,What kind of person is that cat-lover Nonoh?
 Dialogue: 10,0:11:56.69,0:12:00.81,GJM_Main_1080p,,0,0,0,,She's cat-like, but she doesn't end her \Nsentences with "meow" when she talks.
 Dialogue: 10,0:12:00.81,0:12:02.61,GJM_Main_1080p,,0,0,0,,Do you like things like that?
 Dialogue: 10,0:12:02.80,0:12:04.14,GJM_Main_1080p,,0,0,0,,Things like what?
@@ -230,7 +229,7 @@ Dialogue: 10,0:12:23.09,0:12:26.31,GJM_Main_1080p,,0,0,0,,You should value yours
 Dialogue: 10,0:12:26.31,0:12:28.38,GJM_Main_1080p,,0,0,0,,If you say so, I'll try my best to.
 Dialogue: 10,0:12:28.38,0:12:31.40,GJM_Main_1080p,,0,0,0,,For now, you should do something\N about that thought process.
 Dialogue: 10,0:12:31.40,0:12:33.89,GJM_Main_1080p,,0,0,0,,You sure say some complicated things.
-Dialogue: 10,0:12:38.19,0:12:39.19,GJM_Main_1080p,,0,0,0,,Nonou.
+Dialogue: 10,0:12:38.19,0:12:39.19,GJM_Main_1080p,,0,0,0,,Nonoh.
 Dialogue: 10,0:12:41.16,0:12:42.27,GJM_Main_1080p,,0,0,0,,And you are?
 Dialogue: 10,0:12:42.27,0:12:45.03,GJM_Main_1080p,,0,0,0,,We met in three days. My name's Kei Asai.
 Dialogue: 10,0:12:47.78,0:12:50.97,GJM_Main_1080p,,0,0,0,,So basically, what you two are saying \Nis that you know the future.
@@ -289,7 +288,7 @@ Dialogue: 10,0:15:13.26,0:15:14.60,GJM_Main_1080p,,0,0,0,,Kei, that's—
 Dialogue: 10,0:15:14.87,0:15:15.82,GJM_Main_1080p,,0,0,0,,This is Asai.
 Dialogue: 10,0:15:15.82,0:15:18.60,GJM_Main_1080p,,0,0,0,,Hey, Kei. What do you need today?
 Dialogue: 10,0:15:18.92,0:15:22.00,GJM_Main_1080p,,0,0,0,,We reset after I got information from you.
-Dialogue: 10,0:15:22.00,0:15:26.06,GJM_Main_1080p,,0,0,0,,I was looking for the cat,\N and I got introduced to Nonou Seika.
+Dialogue: 10,0:15:22.00,0:15:26.06,GJM_Main_1080p,,0,0,0,,I was looking for the cat,\N and I got introduced to Nonoh Seika.
 Dialogue: 10,0:15:26.06,0:15:27.39,GJM_Main_1080p,,0,0,0,,I see.
 Dialogue: 10,0:15:27.39,0:15:29.74,GJM_Main_1080p,,0,0,0,,So why did you go through\N the trouble of calling me this time?
 Dialogue: 10,0:15:29.74,0:15:31.77,GJM_Main_1080p,,0,0,0,,I've got something I want to ask.
@@ -436,12 +435,13 @@ Dialogue: 10,0:23:13.64,0:23:16.29,GJM_Main_1080p,,0,0,0,,Um... Morning?
 Dialogue: 10,0:23:15.93,0:23:19.79,GJM_Main_1080p,,0,0,0,,{\an8}I'm giving you this wake-up call \Nso that you don't oversleep.
 Dialogue: 10,0:23:18.18,0:23:19.79,GJM_Main_1080p,,0,0,0,,Morning...
 Dialogue: 10,0:23:20.50,0:23:24.09,GJM_Main_1080p,,0,0,0,,And now, it's time for our pop idol, \NHaruki Misora, to take the stage!
-Dialogue: 10,0:23:26.30,0:23:28.20,GJM_Main_1080p,,0,0,0,,We found Minami's body.
-Dialogue: 10,0:23:27.64,0:23:29.71,GJM_Main_1080p,,0,0,0,,{\an8}He was alive before the reset.
-Dialogue: 10,0:23:29.14,0:23:32.18,GJM_Main_1080p,,0,0,0,,He goes by "Hitsuuchi." He was killed.
-Dialogue: 10,0:23:31.30,0:23:33.47,GJM_Main_1080p,,0,0,0,,{\an8}Even so, I did something bad.
-Dialogue: 10,0:23:33.47,0:23:35.10,GJM_Main_1080p,,0,0,0,,Do you know what a MacGuffin is?
-Dialogue: 10,0:23:34.58,0:23:36.60,GJM_Main_1080p,,0,0,0,,{\an8}I decided to kill all of you.
+Dialogue: 10,0:23:26.30,0:23:28.20,GJM_Main_1080p,,0,0,0,,We found Minami's body.{ep4, 02:49}
+Dialogue: 10,0:23:27.64,0:23:29.71,GJM_Main_1080p,,0,0,0,,{\an8}She was alive before the reset.{ep4, 04:16}
+Dialogue: 10,0:23:29.14,0:23:30.84,GJM_Main_1080p,,0,0,0,,He goes by "Hitsuuchi."{ep4, 02:57}
+Dialogue: 10,0:23:30.84,0:23:32.18,GJM_Main_1080p,,0,0,0,,He was killed.{ep4, 02:53}
+Dialogue: 10,0:23:31.30,0:23:33.47,GJM_Main_1080p,,0,0,0,,{\an8}I still did something bad.{ep4, 11:31}
+Dialogue: 10,0:23:33.47,0:23:35.10,GJM_Main_1080p,,0,0,0,,Do you know what a MacGuffin is?{ep4, 05:30}
+Dialogue: 10,0:23:34.58,0:23:36.60,GJM_Main_1080p,,0,0,0,,{\an8}I decided to kill you both.{ep4, 04:47}
 Comment: 0,0:00:43.02,0:00:43.02,Sagrada-OP,,0,0,0,,OP
 Dialogue: 2,0:00:55.37,0:01:01.77,Sagrada-OP,,0,0,0,fx,{\move(240,1008,202,1026,0,400)\alpha&HFF&\t(60,180,\alpha&H00&)\t(240,400,\alpha&HFF&)\blur2\bord2\c&H000000&\3c&H000000&}The
 Dialogue: 2,0:00:55.37,0:01:01.77,Sagrada-OP,,0,0,0,fx,{\move(240,1008,202,1026,0,400)\alpha&HFF&\t(0,200,\alpha&H00&)\blur6\t(0,280,\blur0.6)\fad(0,250)\c&H000000&}The
@@ -906,8 +906,8 @@ Dialogue: 0,0:24:48.88,0:24:55.95,SagradaED1,,0,0,0,,{\fad(160,160)\3c&H9F5E46&\
 Dialogue: 0,0:24:55.95,0:25:00.02,SagradaED1,,0,0,0,,{\fad(160,160)\3c&H9F5E46&\c&HFFFFFF&\be3}You're the one who brought it back
 Dialogue: 0,0:25:00.02,0:25:06.89,SagradaED1,,0,0,0,,{\fad(160,160)\3c&H214B92&\c&HFFFFFF&\be3}And taught me that even lies can be meaningful
 Comment: 0,0:23:36.60,0:23:39.60,GJM_Main,,0,0,0,,TS
-Dialogue: 0,0:00:00.00,0:00:02.85,ShikawaSigns,,0,0,0,,{\an4\pos(572,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 15th
-Dialogue: 0,0:00:00.00,0:00:02.85,ShikawaSigns,,0,0,0,,{\an6\pos(1373,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Saturday
+Dialogue: 0,0:00:00.00,0:00:02.85,ShikawaSigns,,0,0,0,,{\an4\pos(572.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 15th
+Dialogue: 0,0:00:00.00,0:00:02.85,ShikawaSigns,,0,0,0,,{\an6\pos(1373.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Saturday
 Dialogue: 0,0:06:00.63,0:06:05.55,ShikawaSigns,,0,0,0,,{\an7\pos(0,0)\c&HAEC3DC&\blur1.3\clip(961,83,966,379)\p1}m 1449.5 101.5 l 1443 185 1435 287 1430 358.33 b 1430 358.33 1387.67 362.67 1376.67 371.33 l 1222.33 371 b 1222.33 371 1207 367 1186.33 371.33 l 1164.67 371.33 b 1164.67 371.33 1138 367 1123.33 372.33 l 998 370.33 967.67 367 978.33 239 981.33 207 979.67 171.33 989 89 1356.33 96.33 1449.5 101.5
 Dialogue: 0,0:06:00.63,0:06:05.55,ShikawaSigns,,0,0,0,,{\an7\pos(0,0)\c&HAEC3DC&\blur1.3\clip(966,83,971,379)\p1}m 1449.5 101.5 l 1443 185 1435 287 1430 358.33 b 1430 358.33 1387.67 362.67 1376.67 371.33 l 1222.33 371 b 1222.33 371 1207 367 1186.33 371.33 l 1164.67 371.33 b 1164.67 371.33 1138 367 1123.33 372.33 l 998 370.33 967.67 367 978.33 239 981.33 207 979.67 171.33 989 89 1356.33 96.33 1449.5 101.5
 Dialogue: 0,0:06:00.63,0:06:05.55,ShikawaSigns,,0,0,0,,{\an7\pos(0,0)\c&HAEC3DC&\blur1.3\clip(971,83,976,379)\p1}m 1449.5 101.5 l 1443 185 1435 287 1430 358.33 b 1430 358.33 1387.67 362.67 1376.67 371.33 l 1222.33 371 b 1222.33 371 1207 367 1186.33 371.33 l 1164.67 371.33 b 1164.67 371.33 1138 367 1123.33 372.33 l 998 370.33 967.67 367 978.33 239 981.33 207 979.67 171.33 989 89 1356.33 96.33 1449.5 101.5
@@ -1079,18 +1079,18 @@ Dialogue: 3,0:06:00.63,0:06:05.55,ShikawaSigns,,0,0,0,,{\an7\pos(0,0)\c&H70BBDB&
 Dialogue: 4,0:06:00.63,0:06:05.55,ShikawaSigns,,0,0,0,,{\pos(1161.531,138.818)\frz359.5\fax-0.09\fnMf Air Balloon\fs50\c&H737E8F&\blur1.1}O{\c&H727F91&}u{\c&H718094&}r {\c&H6F8398&}s{\c&H6F8397&}p{\c&H708296&}ec{\c&H708195&}i{\c&H718194&}a{\c&H718094&}l{\c&H718093&}i{\c&H728092&}t{\c&H727F91&}y{\fscx180\fax-0.15\fsp-6} {\c&H737E90&}!
 Dialogue: 4,0:06:00.63,0:06:05.55,ShikawaSigns,,0,0,0,,{\pos(1210.375,228.546)\frz358.6\fax-0.09\fnMf Air Balloon\fs55\c&H737E8F&\blur1.1}P{\c&H778192&}a{\c&H7A8494&}c{\c&H7E8797&}k{\c&H7D8696&}ed {\c&H7B8595&}w{\c&H7A8494&}i{\c&H7A8394&}t{\c&H798393&}h {\c&H778292&}c{\c&H778192&}r{\c&H768091&}e{\c&H758091&}a{\c&H747F90&}m:
 Dialogue: 4,0:06:00.63,0:06:05.55,ShikawaSigns,,0,0,0,,{\pos(1205,308)\frz359.4\fax-0.09\fnKG Always A Good Time\fs110\c&H5A5E6B&\blur1.5}C{\c&H5E6470&}r{\c&H626B76&}e{\c&H616A75&}a{\c&H5F6874&}m {\c&H5C6571&}B{\c&H5B6470&}r{\c&H59626F&}e{\c&H58616D&}a{\c&H565F6C&}d
-Dialogue: 0,0:09:36.59,0:09:43.72,ShikawaSigns,,0,0,0,,{\an4\pos(572,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 1
-Dialogue: 0,0:09:36.59,0:09:37.97,ShikawaSigns,,0,0,0,,{\an4\pos(767.188,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}5
-Dialogue: 0,0:09:36.59,0:09:43.72,ShikawaSigns,,0,0,0,,{\an4\pos(809.86,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}th
-Dialogue: 0,0:09:36.59,0:09:37.97,ShikawaSigns,,0,0,0,,{\an6\pos(1256.453,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Satur
-Dialogue: 0,0:09:36.59,0:09:43.72,ShikawaSigns,,0,0,0,,{\an6\pos(1373,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}day
-Dialogue: 0,0:09:37.97,0:09:38.64,ShikawaSigns,,0,0,0,,{\an4\move(767.188,321,767.188,405,0,608)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.38,335.4,1385.22,409.23)}4\N5
-Dialogue: 0,0:09:37.97,0:09:38.64,ShikawaSigns,,0,0,0,,{\an6\move(1256.453,321,1256.453,405,0,608)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.38,335.4,1385.22,409.23)}Fri\NSatur
-Dialogue: 0,0:09:38.64,0:09:39.30,ShikawaSigns,,0,0,0,,{\an4\move(767.188,325,767.188,405,0,605)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.38,335.4,1385.22,409.23)}3\N4
-Dialogue: 0,0:09:38.64,0:09:39.30,ShikawaSigns,,0,0,0,,{\an6\move(1256.453,325,1256.453,405,0,605)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.38,335.4,1385.22,409.23)}Thurs\NFri
-Dialogue: 0,0:09:39.30,0:09:43.72,ShikawaSigns,,0,0,0,,{\an4\move(767.188,325,767.188,405,0,613)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.38,335.4,1385.22,409.23)}2\N3
-Dialogue: 0,0:09:39.30,0:09:43.72,ShikawaSigns,,0,0,0,,{\an6\move(1256.453,325,1256.453,405,0,613)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.38,335.4,1385.22,409.23)}Wednes\NThurs
-Dialogue: 0,0:09:41.01,0:09:43.72,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\fad(404,0)}Second Time
+Dialogue: 0,0:09:36.59,0:09:43.72,ShikawaSigns,,0,0,0,,{\an4\pos(572.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 1
+Dialogue: 0,0:09:36.59,0:09:37.97,ShikawaSigns,,0,0,0,,{\an4\pos(767.188,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}5
+Dialogue: 0,0:09:36.59,0:09:43.72,ShikawaSigns,,0,0,0,,{\an4\pos(809.860,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}th
+Dialogue: 0,0:09:36.59,0:09:37.97,ShikawaSigns,,0,0,0,,{\an6\pos(1256.453,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Satur
+Dialogue: 0,0:09:36.59,0:09:43.72,ShikawaSigns,,0,0,0,,{\an6\pos(1373.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}day
+Dialogue: 0,0:09:37.97,0:09:38.64,ShikawaSigns,,0,0,0,,{\an4\move(767.188,326.000,767.188,410.000,0,608)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.380,340.400,1385.220,414.230)}4\N5
+Dialogue: 0,0:09:37.97,0:09:38.64,ShikawaSigns,,0,0,0,,{\an6\move(1256.453,326.000,1256.453,410.000,0,608)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.380,340.400,1385.220,414.230)}Fri\NSatur
+Dialogue: 0,0:09:38.64,0:09:39.30,ShikawaSigns,,0,0,0,,{\an4\move(767.188,330.000,767.188,410.000,0,605)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.380,340.400,1385.220,414.230)}3\N4
+Dialogue: 0,0:09:38.64,0:09:39.30,ShikawaSigns,,0,0,0,,{\an6\move(1256.453,330.000,1256.453,410.000,0,605)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.380,340.400,1385.220,414.230)}Thurs\NFri
+Dialogue: 0,0:09:39.30,0:09:43.72,ShikawaSigns,,0,0,0,,{\an4\move(767.188,330.000,767.188,410.000,0,613)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.380,340.400,1385.220,414.230)}2\N3
+Dialogue: 0,0:09:39.30,0:09:43.72,ShikawaSigns,,0,0,0,,{\an6\move(1256.453,330.000,1256.453,410.000,0,613)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.380,340.400,1385.220,414.230)}Wednes\NThurs
+Dialogue: 0,0:09:41.01,0:09:43.72,ShikawaSigns,,0,0,0,,{\pos(960.000,595.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\fad(404,0)}Second Time
 Dialogue: 0,0:11:52.65,0:11:52.69,ShikawaSigns,,0,0,0,,{\pos(1788.18,970.88)\org(1948.22,923.52)\frz10.19\fry10\frx350\fax0.03\fnGyosho\fs45\c&H467F85&\blur0.8}Sangatsudou
 Dialogue: 0,0:11:52.69,0:11:52.73,ShikawaSigns,,0,0,0,,{\pos(1787.96,970.98)\org(1948,923.61)\frz10.19\fry10\frx350\fax0.03\fnGyosho\fs45\c&H467F85&\blur0.8}Sangatsudou
 Dialogue: 0,0:11:52.73,0:11:52.77,ShikawaSigns,,0,0,0,,{\pos(1787.73,971.07)\org(1947.77,923.71)\frz10.19\fry10\frx350\fax0.03\fnGyosho\fs45\c&H467F85&\blur0.8}Sangatsudou
@@ -1163,16 +1163,16 @@ Dialogue: 0,0:11:56.11,0:11:56.15,ShikawaSigns,,0,0,0,,{\pos(1457.31,1041.14)\or
 Dialogue: 0,0:11:56.15,0:11:56.19,ShikawaSigns,,0,0,0,,{\pos(1579.45,984.6)\org(1739.49,937.24)\frz10.19\fry10\frx350\fax0.03\fnGyosho\fs45\c&H467F85&\blur0.8}Sangatsudou
 Dialogue: 0,0:11:56.19,0:11:56.27,ShikawaSigns,,0,0,0,,{\pos(1579.51,984.37)\org(1739.55,937)\frz10.19\fry10\frx350\fax0.03\fnGyosho\fs45\c&H467F85&\blur0.8}Sangatsudou
 Dialogue: 0,0:11:56.27,0:11:56.40,ShikawaSigns,,0,0,0,,{\pos(1717.17,977.73)\org(1877.21,930.37)\frz10.19\fry10\frx350\fax0.03\fnGyosho\fs45\c&H467F85&\blur0.8}Sangatsudou
-Dialogue: 0,0:17:26.85,0:17:29.86,ShikawaSigns,,0,0,0,,{\an4\pos(572,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 13th
-Dialogue: 0,0:17:26.85,0:17:29.86,ShikawaSigns,,0,0,0,,{\an6\pos(1373,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Thursday
+Dialogue: 0,0:17:26.85,0:17:29.86,ShikawaSigns,,0,0,0,,{\an4\pos(572.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 13th
+Dialogue: 0,0:17:26.85,0:17:29.86,ShikawaSigns,,0,0,0,,{\an6\pos(1373.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Thursday
 Dialogue: 0,0:17:26.85,0:17:29.86,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Second Time
-Dialogue: 0,0:19:33.02,0:19:36.02,ShikawaSigns,,0,0,0,,{\pos(750.989,443.368)\frz325.8\fry349\frx2\fax-0.01\fnMontaga\fs28\c&H4C4D4C&\blur0.9}Ham and lettuce
+Dialogue: 0,0:19:33.02,0:19:36.02,ShikawaSigns,,0,0,0,,{\pos(750.989,443.368)\frz325.8\fry349\frx2\fax-0.01\fnMontaga\fs28\c&H4C4D4C&\blur0.9}Ham and Lettuce
 Dialogue: 0,0:19:33.02,0:19:36.02,ShikawaSigns,,0,0,0,,{\pos(425.542,670.818)\frz0.817\fax0.08\fay-0.65\fnMontaga\fs35\c&H520E0B&\blur0.9}Sakura
 Dialogue: 0,0:19:33.02,0:19:36.02,ShikawaSigns,,0,0,0,,{\pos(415.084,704.545)\frz0.817\fax0.08\fay-0.66\fnIndira K\fs32\c&H520E0B&\blur0.9}Milk
-Dialogue: 0,0:20:52.43,0:20:57.44,ShikawaSigns,,0,0,0,,{\an4\pos(572,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 14th
-Dialogue: 0,0:20:52.43,0:20:57.44,ShikawaSigns,,0,0,0,,{\an6\pos(1373,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Friday
+Dialogue: 0,0:20:52.43,0:20:57.44,ShikawaSigns,,0,0,0,,{\an4\pos(572.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 14th
+Dialogue: 0,0:20:52.43,0:20:57.44,ShikawaSigns,,0,0,0,,{\an6\pos(1373.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Friday
 Dialogue: 0,0:20:52.43,0:20:57.44,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Second Time
-Dialogue: 0,0:22:58.77,0:23:01.77,ShikawaSigns,,0,0,0,,{\an4\pos(572,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 15th
-Dialogue: 0,0:22:58.77,0:23:01.77,ShikawaSigns,,0,0,0,,{\an6\pos(1373,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Saturday
+Dialogue: 0,0:22:58.77,0:23:01.77,ShikawaSigns,,0,0,0,,{\an4\pos(572.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 15th
+Dialogue: 0,0:22:58.77,0:23:01.77,ShikawaSigns,,0,0,0,,{\an6\pos(1373.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Saturday
 Dialogue: 0,0:22:58.77,0:23:01.77,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Second Time
 Dialogue: 0,0:23:24.79,0:23:26.30,ShikawaSigns,,0,0,0,,{\pos(960,620)\fnFOT-MatisseMinori Pro DB\fs90\blur0.6}Next Episode
