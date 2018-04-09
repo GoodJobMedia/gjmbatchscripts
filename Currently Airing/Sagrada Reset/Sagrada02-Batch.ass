@@ -16,9 +16,9 @@ Video File: E:/GJM/Sagrada Reset/02/SagradaReset02Premux_v2 [8F7C54D6].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 401
-Active Line: 430
-Video Position: 16038
+Scroll Position: 389
+Active Line: 402
+Video Position: 3116
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -26,6 +26,7 @@ Style: GJM_Main_1080p,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000
 Style: GJM_Overlap_1080p,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
 Style: ShikawaSigns,arial,30,&H00000000,&H000200E9,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,0,0,0,1
 Style: SagradaED1,a song for jennifer,62,&H00E6E6E6,&H000000FF,&H000E1D47,&HA0000000,-1,0,0,0,100,100,0,0,1,7,0,9,60,60,60,1
+Style: Sagrada-OP-insert,Kozuka Mincho Pr6N M-EN,60,&H00FFFFFF,&H000000FF,&H00CBBD4C,&H00FFE82D,0,0,0,0,96,100,0,0,1,0,0,9,60,60,54,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -420,6 +421,18 @@ Dialogue: 10,0:23:21.21,0:23:23.24,GJM_Main_1080p,,0,0,0,,So we're being monitor
 Dialogue: 10,0:23:23.24,0:23:26.96,GJM_Main_1080p,,0,0,0,,Don't you two want to help others\N with your combined abilities?
 Dialogue: 10,0:23:28.65,0:23:30.05,GJM_Main_1080p,,0,0,0,,What are you going to do, Haruki?
 Dialogue: 10,0:23:31.32,0:23:34.42,GJM_Main_1080p,,0,0,0,,I'll follow your lead, Kei.
+Comment: 0,0:00:22.79,0:00:22.83,GJM_Main_1080p,,0,0,0,,INSERT OP
+Dialogue: 5,0:00:28.46,0:00:36.02,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}The flow of time makes a continuous sound
+Dialogue: 5,0:00:37.85,0:00:45.35,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}It's a melody that invites the coming future
+Dialogue: 5,0:00:47.31,0:00:56.74,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}What kind of world is waiting for me?
+Dialogue: 5,0:00:56.74,0:01:03.33,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}I tried asking myself for an answer
+Dialogue: 5,0:01:07.54,0:01:15.63,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}Here, in the middle of ideals and reality
+Dialogue: 5,0:01:16.93,0:01:26.23,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}The hands of the clock are being constantly moved
+Dialogue: 5,0:01:27.58,0:01:34.86,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}I'll do anything to erase all sadness
+Dialogue: 5,0:01:37.16,0:01:46.33,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}Even if it means going back down the passage of dark stairs
+Dialogue: 5,0:01:46.33,0:01:54.33,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}There's something I want to protect no matter what
+Dialogue: 5,0:01:55.84,0:02:00.39,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}I'll say that out loud
+Dialogue: 5,0:02:00.39,0:02:08.31,Sagrada-OP-insert,,0,0,0,,{\bord6\3c&HA95C40&\blur3\fad(180,180)}Believing that fate will bring us together again
 Comment: 0,0:23:36.42,0:23:38.42,GJM_Main_1080p,,0,0,0,,ED
 Comment: 0,0:23:39.89,0:23:39.89,Default,,0,0,0,,{ED First Frame}
 Dialogue: 0,0:23:40.41,0:23:47.53,SagradaED1,,0,0,0,,{\fad(160,160)\be3}We're always simply standing in a rain of eternal sadness
@@ -453,8 +466,8 @@ Dialogue: 0,0:08:44.00,0:08:47.50,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-Mati
 Dialogue: 0,0:10:37.74,0:10:41.24,ShikawaSigns,,0,0,0,,{\an4\pos(365,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}August 13th
 Dialogue: 0,0:10:37.74,0:10:41.24,ShikawaSigns,,0,0,0,,{\an6\pos(1560,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Friday, 08:15 PM
 Dialogue: 0,0:10:37.78,0:10:41.24,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\fad(441,0)}Third Time
-Dialogue: 0,0:11:02.47,0:11:05.72,ShikawaSigns,,0,0,0,,{\an4\pos(560,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}August 14th
-Dialogue: 0,0:11:02.47,0:11:05.72,ShikawaSigns,,0,0,0,,{\an6\pos(1370,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Saturday
+Dialogue: 0,0:11:02.47,0:11:05.72,ShikawaSigns,,0,0,0,,{\an4\pos(560.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}August 14th
+Dialogue: 0,0:11:02.47,0:11:05.72,ShikawaSigns,,0,0,0,,{\an6\pos(1370.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Saturday
 Dialogue: 0,0:11:05.72,0:11:08.93,ShikawaSigns,,0,0,0,,{\pos(949.005,109.182)\fscx147\fscy126\frz0.453\fax0.01\fnBlogger Sans\bord1\c&H70786D&\3c&H70786D&\blur1}H{*\frz360.646}o{*\frz360.609}s{*\frz360.572}h{*\frz360.535}i{*\frz360.499}n{*\frz360.462}a {*\frz360.388}M{*\frz360.352}e{*\frz360.315}m{*\frz360.278}o{*\frz360.241}r{*\frz360.204}i{*\frz360.168}a{*\frz360.131}l {*\frz360.057}H{*\frz360.021}o{*\frz359.984}s{*\frz359.947}p{*\frz359.91}i{*\frz359.874}t{*\frz359.837}a{\frz359.8}l
 Dialogue: 1,0:11:05.72,0:11:08.93,ShikawaSigns,,0,0,0,,{\pos(949.005,109.182)\fscx147\fscy126\frz0.453\fax0.01\fnBlogger Sans\xshad1\yshad3\c&HBED3D6&\4c&H6D766E&\4a&H20&\blur1\clip(m 731 130 l 812 26 719 153 825 148 820 37 830 168 927 137 870 11 937 148 1051 55 928 162 1085 145 1079 3 1089 157 1138 135 1206 29 1123 163)}H{*\frz360.646}o{*\frz360.609}s{*\frz360.572}h{*\frz360.535}i{*\frz360.499}n{*\frz360.462}a {*\frz360.388}M{*\frz360.352}e{*\frz360.315}m{*\frz360.278}o{*\frz360.241}r{*\frz360.204}i{*\frz360.168}a{*\frz360.131}l {*\frz360.057}H{*\frz360.021}o{*\frz359.984}s{*\frz359.947}p{*\frz359.91}i{*\frz359.874}t{*\frz359.837}a{\frz359.8}l
 Dialogue: 1,0:11:05.72,0:11:08.93,ShikawaSigns,,0,0,0,,{\pos(949.005,109.182)\fscx147\fscy126\frz0.453\fax0.01\fnBlogger Sans\xshad1\yshad3\c&HD8E6E7&\4c&H6D766E&\4a&H20&\blur1\clip(m 731 130 l 812 26 719 153 825 148 820 37 830 168 927 137 870 11 937 148 1051 55 928 162 1085 145 1079 3 1089 157 1138 135 1206 29 1123 163)}H{*\frz360.646}o{*\frz360.609}s{*\frz360.572}h{*\frz360.535}i{*\frz360.499}n{*\frz360.462}a {*\frz360.388}M{*\frz360.352}e{*\frz360.315}m{*\frz360.278}o{*\frz360.241}r{*\frz360.204}i{*\frz360.168}a{*\frz360.131}l {*\frz360.057}H{*\frz360.021}o{*\frz359.984}s{*\frz359.947}p{*\frz359.91}i{*\frz359.874}t{*\frz359.837}a{\frz359.8}l
@@ -763,4 +776,3 @@ Dialogue: 1,0:21:58.46,0:21:58.50,ShikawaSigns,,0,0,0,,{=11}{\pos(742.91,446.14)
 Dialogue: 1,0:21:58.50,0:21:58.54,ShikawaSigns,,0,0,0,,{=11}{\pos(742.91,448.57)\fscx130\fscy143\frz7.646\fax-0.13\fnRosario\c&H494B48&\blur0.9}Local middle schooler dead
 Dialogue: 0,0:23:11.32,0:23:14.70,ShikawaSigns,,0,0,0,,{\pos(964,370)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Two years later
 Dialogue: 0,0:23:34.85,0:23:36.35,ShikawaSigns,,0,0,0,,{\pos(960,620)\fnFOT-MatisseMinori Pro DB\fs90\blur0.6}Next Episode
-Comment: 0,0:23:40.42,0:23:42.42,GJM_Main_1080p,,0,0,0,,
