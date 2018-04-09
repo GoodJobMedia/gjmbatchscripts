@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: sagrada
-Audio File: Sagrada Reset - 06 Premux [0AF5823B].mkv
-Video File: Sagrada Reset - 06 Premux [0AF5823B].mkv
-Keyframes File: Sagrada Reset - 06 Premux [0AF5823B]_keyframes.log
+Audio File: E:/GJM/Sagrada Reset/06/Sagrada Reset - 06 Premux [0AF5823B].mkv
+Video File: E:/GJM/Sagrada Reset/06/Sagrada Reset - 06 Premux [0AF5823B].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 268
-Active Line: 311
-Video Position: 31412
+Video Zoom Percent: 0.500000
+Scroll Position: 868
+Active Line: 874
+Video Position: 17392
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -429,14 +428,14 @@ Dialogue: 10,0:24:48.71,0:24:49.50,GJM_Main_1080p,,0,0,0,,Kei!
 Dialogue: 10,0:24:50.01,0:24:52.01,GJM_Main_1080p,,0,0,0,,Long time, Haruki!
 Dialogue: 10,0:24:52.01,0:24:53.55,GJM_Main_1080p,,0,0,0,,Haruki, reset.
 Dialogue: 10,0:24:54.05,0:24:54.93,GJM_Main_1080p,,0,0,0,,Reset.
-Dialogue: 10,0:24:56.43,0:24:59.49,GJM_Main_1080p,,0,0,0,,Please, help me! Come right away!
-Dialogue: 10,0:24:58.56,0:25:01.43,GJM_Main_1080p,,0,0,0,,{\an8}We'll fulfill our promise soon.
-Dialogue: 10,0:25:00.58,0:25:03.21,GJM_Main_1080p,,0,0,0,,Misfortune will befall someone else.
-Dialogue: 10,0:25:02.47,0:25:03.69,GJM_Main_1080p,,0,0,0,,{\an8}I'm going, too!
-Dialogue: 10,0:25:03.21,0:25:05.01,GJM_Main_1080p,,0,0,0,,Sorry, I'm gonna go alone.
-Dialogue: 10,0:25:04.34,0:25:05.44,GJM_Main_1080p,,0,0,0,,{\an8}Take a good look.
-Dialogue: 10,0:25:05.44,0:25:08.19,GJM_Main_1080p,,0,0,0,,But I think I was wrong.
-Dialogue: 10,0:25:07.40,0:25:09.94,GJM_Main_1080p,,0,0,0,,{\an8}Bye-bye.
+Dialogue: 10,0:24:56.43,0:24:59.49,GJM_Main_1080p,,0,0,0,,Please, help me! Come right away!{ep7, 10:11}
+Dialogue: 10,0:24:58.56,0:25:01.43,GJM_Main_1080p,,0,0,0,,{\an8}Our promise will be fulfilled soon.{ep7, 08:36}
+Dialogue: 10,0:25:00.58,0:25:03.21,GJM_Main_1080p,,0,0,0,,Even if it means making someone else unhappy?{ep7, 09:46}
+Dialogue: 10,0:25:02.47,0:25:03.69,GJM_Main_1080p,,0,0,0,,{\an8}I'm going, too.{ep7, 10:28}
+Dialogue: 10,0:25:03.21,0:25:05.01,GJM_Main_1080p,,0,0,0,,I'm sorry, but I'm going alone.{ep7, 10:31}
+Dialogue: 10,0:25:04.34,0:25:05.44,GJM_Main_1080p,,0,0,0,,{\an8}Take a good look.{ep7, 11:36}
+Dialogue: 10,0:25:05.44,0:25:08.19,GJM_Main_1080p,,0,0,0,,But I think I was wrong.{ep7, 20:17}
+Dialogue: 10,0:25:07.40,0:25:09.94,GJM_Main_1080p,,0,0,0,,{\an8}Bye-bye.{ep7, 22:56}
 Comment: 0,0:02:48.02,0:02:50.02,GJM_Main_1080p,,0,0,0,,OP
 Dialogue: 2,0:03:00.37,0:03:06.77,Sagrada-OP,,0,0,0,fx,{\move(240,1008,202,1026,0,400)\bord2\c&H000000&\3c&H000000&\alpha&HFF&\blur2\t(60,180,\alpha&H00&)\t(240,400,\alpha&HFF&)}The
 Dialogue: 2,0:03:00.37,0:03:06.77,Sagrada-OP,,0,0,0,fx,{\move(240,1008,202,1026,0,400)\c&H000000&\alpha&HFF&\blur6\fad(0,250)\t(0,200,\alpha&H00&)\t(0,280,\blur0.6)}The
@@ -902,10 +901,10 @@ Dialogue: 0,0:24:37.97,0:24:42.04,SagradaED1,,0,0,0,,{\c&HFFFFFF&\3c&H9F5E46&\be
 Dialogue: 0,0:24:42.04,0:24:48.91,SagradaED1,,0,0,0,,{\c&HFFFFFF&\3c&H9F5E46&\be3\fad(160,160)}And taught me that even lies can be meaningful
 Comment: 0,0:25:09.94,0:25:12.94,GJM_Main_1080p,,0,0,0,,
 Dialogue: 0,0:00:04.98,0:00:07.94,ShikawaSigns,,0,0,0,,{\pos(963,610)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Four Years Earlier
-Dialogue: 0,0:04:22.61,0:04:25.36,ShikawaSigns,,0,0,0,,{\an4\pos(560,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}August 9th
-Dialogue: 0,0:04:22.61,0:04:25.36,ShikawaSigns,,0,0,0,,{\an6\pos(1370,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Wednesday
-Dialogue: 0,0:04:22.61,0:04:25.36,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs75\blur0.75}First Time
-Dialogue: 0,0:12:05.37,0:12:08.37,ShikawaSigns,,0,0,0,,{\an4\pos(560,363)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}August 10th
-Dialogue: 0,0:12:05.37,0:12:08.37,ShikawaSigns,,0,0,0,,{\an6\pos(1370,363)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Thursday
-Dialogue: 0,0:12:05.37,0:12:08.37,ShikawaSigns,,0,0,0,,{\pos(960,588)\fnFOT-MatisseMinori Pro DB\fs75\blur0.75}First Time
+Dialogue: 0,0:04:22.61,0:04:25.36,ShikawaSigns,,0,0,0,,{\an4\pos(560.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}August 9th
+Dialogue: 0,0:04:22.61,0:04:25.36,ShikawaSigns,,0,0,0,,{\an6\pos(1370.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Wednesday
+Dialogue: 0,0:04:22.61,0:04:25.36,ShikawaSigns,,0,0,0,,{\pos(960.000,595.000)\fnFOT-MatisseMinori Pro DB\fs75\blur0.75}First Time
+Dialogue: 0,0:12:05.37,0:12:08.37,ShikawaSigns,,0,0,0,,{\an4\pos(560.000,368.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}August 10th
+Dialogue: 0,0:12:05.37,0:12:08.37,ShikawaSigns,,0,0,0,,{\an6\pos(1370.000,368.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Thursday
+Dialogue: 0,0:12:05.37,0:12:08.37,ShikawaSigns,,0,0,0,,{\pos(960.000,593.000)\fnFOT-MatisseMinori Pro DB\fs75\blur0.75}First Time
 Dialogue: 0,0:24:54.93,0:24:56.43,ShikawaSigns,,0,0,0,,{\pos(960,620)\fnFOT-MatisseMinori Pro DB\fs90\blur0.6}Next Episode
