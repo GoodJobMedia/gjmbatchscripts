@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: sagrada 05 premux[E5621480].mkv
-Video File: sagrada 05 premux[E5621480].mkv
-Keyframes File: sagrada 05 premux[E5621480]_keyframes.log
+Audio File: E:/GJM/Sagrada Reset/05/sagrada 05 premux[E5621480].mkv
+Video File: E:/GJM/Sagrada Reset/05/sagrada 05 premux[E5621480].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 191
-Active Line: 198
-Video Position: 17954
+Video Zoom Percent: 0.500000
+Scroll Position: 213
+Active Line: 214
+Video Position: 18694
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -906,13 +905,13 @@ Dialogue: 0,0:24:34.45,0:24:41.52,SagradaED1,,0,0,0,,{\c&HFFFFFF&\3c&H9F5E46&\be
 Dialogue: 0,0:24:41.52,0:24:45.59,SagradaED1,,0,0,0,,{\c&HFFFFFF&\3c&H9F5E46&\be3\fad(160,160)}You're the one who brought it back
 Dialogue: 0,0:24:45.59,0:24:52.46,SagradaED1,,0,0,0,,{\c&HFFFFFF&\3c&H9F5E46&\be3\fad(160,160)}And taught me that even lies can be meaningful
 Comment: 0,0:25:13.45,0:25:15.45,GJM_Main_1080p,,0,0,0,,TS
-Dialogue: 0,0:00:00.00,0:00:05.23,ShikawaSigns,,0,0,0,,{\an4\pos(559,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}September 1st
-Dialogue: 0,0:00:00.00,0:00:05.23,ShikawaSigns,,0,0,0,,{\an6\pos(1374,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Friday
-Dialogue: 0,0:00:00.00,0:00:05.23,ShikawaSigns,,0,0,0,,{\pos(965.5,587)\fnFOT-MatisseMinori Pro DB\fs59\blur0.7}First Day of the Second Semester
+Dialogue: 0,0:00:00.00,0:00:05.23,ShikawaSigns,,0,0,0,,{\an4\pos(559.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}September 1st
+Dialogue: 0,0:00:00.00,0:00:05.23,ShikawaSigns,,0,0,0,,{\an6\pos(1374.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Friday
+Dialogue: 0,0:00:00.00,0:00:05.23,ShikawaSigns,,0,0,0,,{\pos(965.500,592.000)\fnFOT-MatisseMinori Pro DB\fs59\blur0.7}First Day of the Second Semester
 Dialogue: 0,0:01:54.96,0:01:58.97,ShikawaSigns,,0,0,0,,{\pos(670.878,890)\fnTMotoyaSinkai\fs63\fsp-3\blur0.6}Marble World and Candy Resist
-Dialogue: 0,0:01:58.97,0:02:02.97,ShikawaSigns,,0,0,0,,{\an4\pos(561,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 10th
-Dialogue: 0,0:01:58.97,0:02:02.97,ShikawaSigns,,0,0,0,,{\an6\pos(1373,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Monday
-Dialogue: 0,0:01:58.97,0:02:02.97,ShikawaSigns,,0,0,0,,{\pos(960,581)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Entrance Ceremony
+Dialogue: 0,0:01:58.97,0:02:02.97,ShikawaSigns,,0,0,0,,{\an4\pos(561.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 10th
+Dialogue: 0,0:01:58.97,0:02:02.97,ShikawaSigns,,0,0,0,,{\an6\pos(1373.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Monday
+Dialogue: 0,0:01:58.97,0:02:02.97,ShikawaSigns,,0,0,0,,{\pos(960.000,586.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Entrance Ceremony
 Dialogue: 0,0:03:21.93,0:03:24.64,ShikawaSigns,,0,0,0,,{\an7\pos(0,0)\c&HF8F8F8&\blur1\p1}m 920 244 l 940 201 725 150 709 193
 Dialogue: 1,0:03:21.93,0:03:24.64,ShikawaSigns,,0,0,0,,{\an7\pos(830.643,199.464)\c&HF9F8F8&\blur1\p1}m 162 138 l -52 84 -17 65 171 116
 Dialogue: 2,0:03:21.93,0:03:24.64,ShikawaSigns,,0,0,0,,{\pos(830.643,199.464)\fscy110\frz346.3\fax-0.32\fnEncode Sans Compressed\fs28\c&H252323&\blur0.7}Club Member Application
@@ -1353,8 +1352,8 @@ Dialogue: 1,0:04:47.01,0:04:50.56,ShikawaSigns,,0,0,0,,{\an7\pos(0,0)\c&HF8F8F8&
 Dialogue: 1,0:04:47.01,0:04:50.56,ShikawaSigns,,0,0,0,,{\an7\pos(0,0)\c&HB7B8B8&\blur1\p1}m 516.75 983.25 l 508.25 1026 459.5 1026 486.5 981.25 516.75 983.25
 Dialogue: 4,0:04:47.01,0:04:50.56,ShikawaSigns,,0,0,0,,{\pos(698.063,991.819)\frz1.1\fax0.15\fnNoto Sans\fs70\c&H4C4A4A&\blur1.1\clip(m 446 1044 b 467 1009 485 980 494 965 657 950 984 922 1147 908 1151 940 1158 1005 1162 1037)}Reason for joining club
 Dialogue: 0,0:06:59.69,0:07:06.19,ShikawaSigns,,0,0,0,,{\pos(1224.067,396.636)\frz329.9\fax-0.37\fnIstok\fs16\c&H4B4842&\blur0.8}Sera Sawako
-Dialogue: 0,0:12:59.71,0:13:02.21,ShikawaSigns,,0,0,0,,{\an4\pos(561,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 11th
-Dialogue: 0,0:12:59.71,0:13:02.21,ShikawaSigns,,0,0,0,,{\an6\pos(1373,600)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Tuesday
+Dialogue: 0,0:12:59.71,0:13:02.21,ShikawaSigns,,0,0,0,,{\an4\pos(561.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}April 11th
+Dialogue: 0,0:12:59.71,0:13:02.21,ShikawaSigns,,0,0,0,,{\an6\pos(1373.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Tuesday
 Dialogue: 0,0:13:02.21,0:13:04.22,ShikawaSigns,,0,0,0,,{\an7\pos(0,0)\c&H7C7B7C&\blur1\clip(1413,444,1415,512)\p1}m 1718.67 447.67 l 1718.67 507.33 1416.67 508.33 1416.67 447.67 1718.67 447.67
 Dialogue: 0,0:13:02.21,0:13:04.22,ShikawaSigns,,0,0,0,,{\an7\pos(0,0)\c&H7B7A7B&\blur1\clip(1415,444,1417,512)\p1}m 1718.67 447.67 l 1718.67 507.33 1416.67 508.33 1416.67 447.67 1718.67 447.67
 Dialogue: 0,0:13:02.21,0:13:04.22,ShikawaSigns,,0,0,0,,{\an7\pos(0,0)\c&H7A7A7B&\blur1\clip(1417,444,1419,512)\p1}m 1718.67 447.67 l 1718.67 507.33 1416.67 508.33 1416.67 447.67 1718.67 447.67
@@ -1873,4 +1872,3 @@ Dialogue: 4,0:24:39.16,0:24:41.16,ShikawaSigns,,0,0,0,,{\pos(1346.344,629.545)\f
 Dialogue: 4,0:24:39.16,0:24:41.16,ShikawaSigns,,0,0,0,,{\pos(650.374,494.819)\frz348\fax-0.3\fnNoto Sans\fs19\c&H686663&\blur0.9\clip(m 643 516 b 645 504 649 479 651 466 694 474 780 491 823 499 822 513 818 540 817 554)}Reason for joining club
 Dialogue: 4,0:24:39.16,0:24:41.16,ShikawaSigns,,0,0,0,,{\pos(785.052,487.091)\fscy90\frz347.9\fax-0.39\fnBlessings through Raindrops\fs25\c&H918F8B&\blur0.9}Haruki Misora
 Dialogue: 0,0:24:54.84,0:24:56.34,ShikawaSigns,,0,0,0,,{\pos(960,620)\fnFOT-MatisseMinori Pro DB\fs90\blur0.6}Next Episode
-Comment: 0,0:25:15.45,0:25:17.45,GJM_Main_1080p,,0,0,0,,
