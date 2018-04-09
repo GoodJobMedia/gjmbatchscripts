@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: sagrada
-Audio File: sagrada 04 premux v2[BDD90C01].mkv
-Video File: sagrada 04 premux v2[BDD90C01].mkv
-Keyframes File: sagrada 04 premux v2[BDD90C01]_keyframes.log
+Audio File: E:/GJM/Sagrada Reset/04/sagrada 04 premux v2[BDD90C01].mkv
+Video File: E:/GJM/Sagrada Reset/04/sagrada 04 premux v2[BDD90C01].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 910
-Active Line: 916
-Video Position: 13967
+Video Zoom Percent: 0.500000
+Scroll Position: 401
+Active Line: 414
+Video Position: 33818
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -331,7 +330,7 @@ Dialogue: 10,0:16:44.20,0:16:46.98,GJM_Main_1080p,,0,0,0,,I'll be honest. I ate 
 Dialogue: 10,0:16:47.22,0:16:49.54,GJM_Main_1080p,,0,0,0,,"One"? You mean, one food tray?
 Dialogue: 10,0:16:49.54,0:16:51.22,GJM_Main_1080p,,0,0,0,,No, just one ball.
 Dialogue: 10,0:16:51.22,0:16:53.72,GJM_Main_1080p,,0,0,0,,Who ate the rest?
-Dialogue: 10,0:16:53.72,0:16:54.99,GJM_Main_1080p,,0,0,0,,Nonou did.
+Dialogue: 10,0:16:53.72,0:16:54.99,GJM_Main_1080p,,0,0,0,,Nonoh did.
 Dialogue: 10,0:16:55.52,0:16:58.37,GJM_Main_1080p,,0,0,0,,You've been spending a lot \Nof time with other girls lately.
 Dialogue: 10,0:16:58.63,0:17:01.14,GJM_Main_1080p,,0,0,0,,And tomorrow, I'll be seeing Murase.
 Dialogue: 10,0:17:01.14,0:17:03.00,GJM_Main_1080p,,0,0,0,,I'm going with you.
@@ -426,7 +425,7 @@ Dialogue: 10,0:22:03.46,0:22:05.97,GJM_Main_1080p,,0,0,0,,I don't remember anyth
 Dialogue: 10,0:22:06.22,0:22:08.97,GJM_Main_1080p,,0,0,0,,I know. But I'm still sorry.
 Dialogue: 10,0:22:09.97,0:22:11.28,GJM_Main_1080p,,0,0,0,,I give up.
 Dialogue: 10,0:22:11.83,0:22:14.37,GJM_Main_1080p,,0,0,0,,That cat is getting along just fine.
-Dialogue: 10,0:22:14.86,0:22:16.73,GJM_Main_1080p,,0,0,0,,He's taking a nap with Nonou.
+Dialogue: 10,0:22:14.86,0:22:16.73,GJM_Main_1080p,,0,0,0,,He's taking a nap with Nonoh.
 Dialogue: 10,0:22:17.46,0:22:20.45,GJM_Main_1080p,,0,0,0,,I was happy about the request to save the cat.
 Dialogue: 10,0:22:21.21,0:22:25.24,GJM_Main_1080p,,0,0,0,,From the bottom of my heart, I thought, \N"I really want to live doing this sort of thing."
 Dialogue: 10,0:22:26.25,0:22:31.19,GJM_Main_1080p,,0,0,0,,Savings dogs, cats, and if possible, people as well.
@@ -440,14 +439,14 @@ Dialogue: 10,0:22:59.71,0:23:00.47,GJM_Main_1080p,,0,0,0,,Yeah...
 Dialogue: 10,0:23:02.29,0:23:04.65,GJM_Main_1080p,,0,0,0,,It'd be nice to do that.
 Dialogue: 10,0:23:05.38,0:23:08.83,GJM_Main_1080p,,0,0,0,,I'm sure things will go just fine,\N just like it did for that cat.
 Dialogue: 10,0:23:12.88,0:23:16.11,GJM_Main_1080p,,0,0,0,,It's okay. Enough time has already passed.
-Dialogue: 10,0:23:26.74,0:23:27.94,GJM_Main_1080p,,0,0,0,,Congrats on your enrollment.
-Dialogue: 10,0:23:27.94,0:23:29.33,GJM_Main_1080p,,0,0,0,,Thanks! It's nice to meet you.
-Dialogue: 10,0:23:29.33,0:23:30.47,GJM_Main_1080p,,0,0,0,,Do you like marbles?
-Dialogue: 10,0:23:30.47,0:23:33.05,GJM_Main_1080p,,0,0,0,,I kinda feel like I'm being made fun of by society.
-Dialogue: 10,0:23:32.10,0:23:35.06,GJM_Main_1080p,,0,0,0,,{\an8}She said it was weird for me to be \Nspeaking politely since we're classmates.
-Dialogue: 10,0:23:34.24,0:23:35.80,GJM_Main_1080p,,0,0,0,,Because it's something I don't need.
-Dialogue: 10,0:23:35.80,0:23:37.21,GJM_Main_1080p,,0,0,0,,Why are you crying?
-Dialogue: 10,0:23:37.21,0:23:37.97,GJM_Main_1080p,,0,0,0,,I don't know!
+Dialogue: 10,0:23:26.74,0:23:27.94,GJM_Main_1080p,,0,0,0,,Congrats on your enrollment.{ep5, 04:31}
+Dialogue: 10,0:23:27.94,0:23:29.33,GJM_Main_1080p,,0,0,0,,Hello. It's nice to meet you.{ep5, 05:57}
+Dialogue: 10,0:23:29.33,0:23:30.47,GJM_Main_1080p,,0,0,0,,Do you like marbles?{ep5, 09:45}
+Dialogue: 10,0:23:30.47,0:23:33.05,GJM_Main_1080p,,0,0,0,,It's like they're making fun of the world.{ep5, 10:00}
+Dialogue: 10,0:23:32.10,0:23:35.06,GJM_Main_1080p,,0,0,0,,{\an8}...said it was weird for me \Nto speak politely since we're classmates.{ep5, 13:29}
+Dialogue: 10,0:23:34.24,0:23:35.80,GJM_Main_1080p,,0,0,0,,Because it's something I don't need.{ep5, 12:57}
+Dialogue: 10,0:23:35.80,0:23:37.21,GJM_Main_1080p,,0,0,0,,Why are you crying?{ep5, 23:18}
+Dialogue: 10,0:23:37.21,0:23:37.97,GJM_Main_1080p,,0,0,0,,I don't know!{ep5, 23:20}
 Comment: 0,0:00:30.00,0:00:30.00,Sagrada-OP,,0,0,0,,OP
 Dialogue: 2,0:00:42.35,0:00:48.75,Sagrada-OP,,0,0,0,fx,{\move(240,1008,202,1026,0,400)\alpha&HFF&\t(60,180,\alpha&H00&)\t(240,400,\alpha&HFF&)\blur2\bord2\c&H000000&\3c&H000000&}The
 Dialogue: 2,0:00:42.35,0:00:48.75,Sagrada-OP,,0,0,0,fx,{\move(240,1008,202,1026,0,400)\alpha&HFF&\t(0,200,\alpha&H00&)\blur6\t(0,280,\blur0.6)\fad(0,250)\c&H000000&}The
@@ -912,19 +911,19 @@ Dialogue: 0,0:24:48.96,0:24:56.03,SagradaED1,,0,0,0,,{\fad(160,160)\3c&H9F5E46&\
 Dialogue: 0,0:24:56.03,0:25:00.10,SagradaED1,,0,0,0,,{\fad(160,160)\3c&H9F5E46&\c&HFFFFFF&\be3}You're the one who brought it back
 Dialogue: 0,0:25:00.10,0:25:06.97,SagradaED1,,0,0,0,,{\fad(160,160)\3c&H214B92&\c&HFFFFFF&\be3}And taught me that even lies can be meaningful
 Comment: 0,0:23:37.97,0:23:40.97,GJM_Main_1080p,,0,0,0,,
-Dialogue: 0,0:05:57.50,0:06:04.38,ShikawaSigns,,0,0,0,,{\an4\pos(572,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 1
-Dialogue: 0,0:05:57.50,0:05:58.29,ShikawaSigns,,0,0,0,,{\an4\pos(767.188,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}5
-Dialogue: 0,0:05:57.50,0:06:04.38,ShikawaSigns,,0,0,0,,{\an4\pos(809.86,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}th
-Dialogue: 0,0:05:57.50,0:05:58.29,ShikawaSigns,,0,0,0,,{\an6\pos(1256.453,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Satur
-Dialogue: 0,0:05:57.50,0:06:04.38,ShikawaSigns,,0,0,0,,{\an6\pos(1373,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}day
-Dialogue: 0,0:05:58.29,0:05:59.17,ShikawaSigns,,0,0,0,,{\an4\move(767.188,321,767.188,405,0,569)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.38,335.4,1385.22,409.23)}4\N5
-Dialogue: 0,0:05:58.29,0:05:59.17,ShikawaSigns,,0,0,0,,{\an6\move(1256.453,321,1256.453,405,0,569)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.38,335.4,1385.22,409.23)}Fri\NSatur
-Dialogue: 0,0:05:59.17,0:06:04.38,ShikawaSigns,,0,0,0,,{\an4\move(767.188,325,767.188,405,0,564)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.38,335.4,1385.22,409.23)}3\N4
-Dialogue: 0,0:05:59.17,0:06:04.38,ShikawaSigns,,0,0,0,,{\an6\move(1256.453,325,1256.453,405,0,564)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.38,335.4,1385.22,409.23)}Thurs\NFri
-Dialogue: 0,0:06:00.50,0:06:04.38,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs80\alpha&HFF&\blur20\t(0,652,\blur0.8)\t(0,569,\alpha&H80&)\t(611,736,\alpha&H00&)}Third Time
-Dialogue: 0,0:07:57.66,0:08:01.16,ShikawaSigns,,0,0,0,,{\an4\pos(572,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 15th
-Dialogue: 0,0:07:57.66,0:08:01.16,ShikawaSigns,,0,0,0,,{\an6\pos(1373,365)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Saturday
-Dialogue: 0,0:07:57.66,0:08:01.16,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Third Time
+Dialogue: 0,0:05:57.50,0:06:04.38,ShikawaSigns,,0,0,0,,{\an4\pos(572.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 1
+Dialogue: 0,0:05:57.50,0:05:58.29,ShikawaSigns,,0,0,0,,{\an4\pos(767.188,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}5
+Dialogue: 0,0:05:57.50,0:06:04.38,ShikawaSigns,,0,0,0,,{\an4\pos(809.860,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}th
+Dialogue: 0,0:05:57.50,0:05:58.29,ShikawaSigns,,0,0,0,,{\an6\pos(1256.453,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Satur
+Dialogue: 0,0:05:57.50,0:06:04.38,ShikawaSigns,,0,0,0,,{\an6\pos(1373.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}day
+Dialogue: 0,0:05:58.29,0:05:59.17,ShikawaSigns,,0,0,0,,{\an4\move(767.188,326.000,767.188,410.000,0,569)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.380,340.400,1385.220,414.230)}4\N5
+Dialogue: 0,0:05:58.29,0:05:59.17,ShikawaSigns,,0,0,0,,{\an6\move(1256.453,326.000,1256.453,410.000,0,569)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.380,340.400,1385.220,414.230)}Fri\NSatur
+Dialogue: 0,0:05:59.17,0:06:04.38,ShikawaSigns,,0,0,0,,{\an4\move(767.188,330.000,767.188,410.000,0,564)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.380,340.400,1385.220,414.230)}3\N4
+Dialogue: 0,0:05:59.17,0:06:04.38,ShikawaSigns,,0,0,0,,{\an6\move(1256.453,330.000,1256.453,410.000,0,564)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8\clip(566.380,340.400,1385.220,414.230)}Thurs\NFri
+Dialogue: 0,0:06:00.50,0:06:04.38,ShikawaSigns,,0,0,0,,{\pos(960.000,595.000)\fnFOT-MatisseMinori Pro DB\fs80\alpha&HFF&\blur20\t(0,652,\blur0.8)\t(0,569,\alpha&H80&)\t(611,736,\alpha&H00&)}Third Time
+Dialogue: 0,0:07:57.66,0:08:01.16,ShikawaSigns,,0,0,0,,{\an4\pos(572.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}July 15th
+Dialogue: 0,0:07:57.66,0:08:01.16,ShikawaSigns,,0,0,0,,{\an6\pos(1373.000,370.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Saturday
+Dialogue: 0,0:07:57.66,0:08:01.16,ShikawaSigns,,0,0,0,,{\pos(960.000,595.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Third Time
 Dialogue: 0,0:17:38.12,0:17:39.24,ShikawaSigns,,0,0,0,,{=1}{\pos(958,610)\frz359.3\fnRoboto\c&HF4F2F2&\alpha&HBE&\blur3}July 16th (Sunday)
 Dialogue: 1,0:17:38.12,0:17:39.24,ShikawaSigns,,0,0,0,,{=0}{\pos(958,610)\frz359.3\fnRoboto\c&HF4F2F2&\blur0.9}July 16th (Sunday)
 Dialogue: 0,0:17:39.24,0:17:39.37,ShikawaSigns,,0,0,0,,{=1}{\pos(957.59,629.09)\frz359.4\fnRoboto\c&HF4F2F2&\alpha&HBE&\blur3}July 16th (Sunday)
@@ -943,7 +942,7 @@ Dialogue: 0,0:17:39.95,0:17:40.03,ShikawaSigns,,0,0,0,,{=1}{\pos(939.022,872.55)
 Dialogue: 1,0:17:39.95,0:17:40.03,ShikawaSigns,,0,0,0,,{=0}{\pos(939.022,872.55)\frz354.9\fax-0.02\fnRoboto\c&HF4F2F2&\blur0.9}July 16th (Sunday)
 Dialogue: 0,0:17:40.03,0:17:40.12,ShikawaSigns,,0,0,0,,{=1}{\pos(929.022,944.55)\frz353.1\fax0.02\fnRoboto\c&HF4F2F2&\alpha&HBE&\blur3}July 16th (Sunday)
 Dialogue: 1,0:17:40.03,0:17:40.12,ShikawaSigns,,0,0,0,,{=0}{\pos(929.022,944.55)\frz353.1\fax0.02\fnRoboto\c&HF4F2F2&\blur0.9}July 16th (Sunday)
-Dialogue: 0,0:21:49.53,0:21:53.54,ShikawaSigns,,0,0,0,,{\pos(960,590)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Second Time
+Dialogue: 0,0:21:49.53,0:21:53.54,ShikawaSigns,,0,0,0,,{\pos(960.000,595.000)\fnFOT-MatisseMinori Pro DB\fs80\blur0.8}Second Time
 Dialogue: 0,0:23:24.88,0:23:26.38,ShikawaSigns,,0,0,0,,{\pos(960,620)\fnFOT-MatisseMinori Pro DB\fs90\blur0.6}Next Episode
 Dialogue: 0,0:23:26.38,0:23:39.89,ShikawaSigns,,0,0,0,,{\pos(1015.861,423)\fnTMotoyaSinkai\fs70\fsp-3\blur0.6}Marble World and Candy Resist
 Dialogue: 0,0:09:42.52,0:09:44.77,ShikawaSigns,,0,0,0,,{\pos(1367.19,694.476)\frz15.75\fax-0.01\fnTMotoyaSinkai\fs17\c&H1A1817&\blur0.8}Hairp{\fax0}in -Plum {\fax0.01}Red-
