@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: irozuku01_premux_v2.mkv
-Video File: irozuku01_premux_v2.mkv
-Keyframes File: irozuku01_premux_v2_keyframes.log
+Audio File: E:/GJM/Irozuku Sekai no Ashita kara/01/irozuku01_premux_v2.mkv
+Video File: E:/GJM/Irozuku Sekai no Ashita kara/01/irozuku01_premux_v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 1979
-Active Line: 1989
-Video Position: 34643
+Video Zoom Percent: 0.750000
+Scroll Position: 137
+Active Line: 153
+Video Position: 15137
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -183,7 +182,7 @@ Dialogue: 10,0:10:24.44,0:10:25.74,GJM_Main,,0,0,0,,Sneaking his girlfriend into
 Dialogue: 10,0:10:25.74,0:10:27.93,GJM_Main,,0,0,0,,and making her escape out \Nthe window to avoid his parents.
 Dialogue: 10,0:10:27.93,0:10:29.56,GJM_Main,,0,0,0,,Something along those lines?
 Dialogue: 10,0:10:29.56,0:10:31.32,GJM_Main,,0,0,0,,Is she really his girlfriend?
-Dialogue: 10,0:10:31.32,0:10:34.51,GJM_Main,,0,0,0,,Let's send that image \Nto Chigusa and see Aoi's reaction.
+Dialogue: 10,0:10:31.32,0:10:34.51,GJM_Main,,0,0,0,,Let's have Chigusa get Aoi's reaction to this.
 Dialogue: 10,0:10:35.47,0:10:36.90,GJM_Main,,0,0,0,,She's really beautiful, isn't she?
 Dialogue: 10,0:10:36.90,0:10:40.00,GJM_Main,,0,0,0,,She has this mysterious vibe, \Nand a nice figure to boot.
 Dialogue: 10,0:10:40.00,0:10:42.89,GJM_Main,,0,0,0,,Long, straight, silky hair and pretty eyes.
@@ -3529,35 +3528,35 @@ Dialogue: 1,0:11:59.99,0:12:00.11,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat Pro
 Dialogue: 1,0:11:59.99,0:12:00.11,iFanzSigns,,0,0,0,,{\an7\fs26\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.148\frz12.65\pos(534.867,450.733)}Don't you both have the same\N shift today?
 Dialogue: 1,0:11:59.99,0:12:00.11,iFanzSigns,,0,0,0,,{\an7\fs29\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.14\frz12.65\pos(584.533,606.4)}Thanks
 Dialogue: 1,0:11:59.99,0:12:00.11,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H6220EB&\blur0.6\fay0.13\frz12.65\pos(682.58,748.853)}❤
-Dialogue: 1,0:11:59.99,0:12:00.11,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(588.58,729.853)}This is the image,\N(* >ω<)
+Dialogue: 1,0:11:59.99,0:12:00.11,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(588.58,729.853)}This is the image\N(* >ω<)
 Dialogue: 1,0:12:00.11,0:12:00.24,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(418.2,-18.6)}Chigusa~!
 Dialogue: 1,0:12:00.11,0:12:00.24,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(439,82.2)\fscx95\fscy95}Got a job for \Nyou!
 Dialogue: 1,0:12:00.11,0:12:00.24,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(490.962,220.194)}Show this photo to \NAoi and let me know \Nhow he reacts!
 Dialogue: 1,0:12:00.11,0:12:00.24,iFanzSigns,,0,0,0,,{\an7\fs26\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.148\frz12.65\pos(529.867,421.733)}Don't you both have the same\N shift today?
 Dialogue: 1,0:12:00.11,0:12:00.24,iFanzSigns,,0,0,0,,{\an7\fs29\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.14\frz12.65\pos(579.533,577.4)}Thanks
 Dialogue: 1,0:12:00.11,0:12:00.24,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H6220EB&\blur0.6\fay0.13\frz12.65\pos(674.58,718.853)}❤
-Dialogue: 1,0:12:00.11,0:12:00.24,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(580.58,699.853)}This is the image,\N(* >ω<)
+Dialogue: 1,0:12:00.11,0:12:00.24,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(580.58,699.853)}This is the image\N(* >ω<)
 Dialogue: 1,0:12:00.24,0:12:00.36,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(407.2,-64.6)}Chigusa~!
 Dialogue: 1,0:12:00.24,0:12:00.36,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(428,36.2)\fscx95\fscy95}Got a job for \Nyou!
 Dialogue: 1,0:12:00.24,0:12:00.36,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(479.962,174.194)}Show this photo to \NAoi and let me know \Nhow he reacts!
 Dialogue: 1,0:12:00.24,0:12:00.36,iFanzSigns,,0,0,0,,{\an7\fs26\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.148\frz12.65\pos(518.867,375.733)}Don't you both have the same\N shift today?
 Dialogue: 1,0:12:00.24,0:12:00.36,iFanzSigns,,0,0,0,,{\an7\fs29\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.14\frz12.65\pos(568.533,531.4)}Thanks
 Dialogue: 1,0:12:00.24,0:12:00.36,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H6220EB&\blur0.6\fay0.13\frz12.65\pos(664.98,680.453)}❤
-Dialogue: 1,0:12:00.24,0:12:00.36,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(570.98,661.453)}This is the image,\N(* >ω<)
+Dialogue: 1,0:12:00.24,0:12:00.36,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(570.98,661.453)}This is the image\N(* >ω<)
 Dialogue: 1,0:12:00.36,0:12:00.49,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(400.34,-96.6)}Chigusa~!
 Dialogue: 1,0:12:00.36,0:12:00.49,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(421.14,4.2)\fscx95\fscy95}Got a job for \Nyou!
 Dialogue: 1,0:12:00.36,0:12:00.49,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(473.11,142.19)}Show this photo to \NAoi and let me know \Nhow he reacts!
 Dialogue: 1,0:12:00.36,0:12:00.49,iFanzSigns,,0,0,0,,{\an7\fs26\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.148\frz12.65\pos(512.01,343.73)}Don't you both have the same\N shift today?
 Dialogue: 1,0:12:00.36,0:12:00.49,iFanzSigns,,0,0,0,,{\an7\fs29\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.14\frz12.65\pos(561.68,499.4)}Thanks
 Dialogue: 1,0:12:00.36,0:12:00.49,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H6220EB&\blur0.6\fay0.13\frz12.65\pos(656.98,647.12)}❤
-Dialogue: 1,0:12:00.36,0:12:00.49,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(562.98,628.12)}This is the image,\N(* >ω<)
+Dialogue: 1,0:12:00.36,0:12:00.49,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(562.98,628.12)}This is the image\N(* >ω<)
 Dialogue: 1,0:12:00.49,0:12:00.57,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(397.29,-110.21)}Chigusa~!
 Dialogue: 1,0:12:00.49,0:12:00.57,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(418.09,-9.41)\fscx95\fscy95}Got a job for \Nyou!
 Dialogue: 1,0:12:00.49,0:12:00.61,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(470.05,128.59)}Show this photo to \NAoi and let me know \Nhow he reacts!
 Dialogue: 1,0:12:00.49,0:12:00.61,iFanzSigns,,0,0,0,,{\an7\fs26\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.148\frz12.65\pos(508.96,330.13)}Don't you both have the same\N shift today?
 Dialogue: 1,0:12:00.49,0:12:00.57,iFanzSigns,,0,0,0,,{\an7\fs29\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.14\frz12.65\pos(558.62,485.79)}Thanks
 Dialogue: 1,0:12:00.49,0:12:00.61,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H6220EB&\blur0.6\fay0.13\frz12.65\pos(653.93,633.51)}❤
-Dialogue: 1,0:12:00.49,0:12:00.61,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(559.93,614.51)}This is the image,\N(* >ω<)
+Dialogue: 1,0:12:00.49,0:12:00.61,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(559.93,614.51)}This is the image\N(* >ω<)
 Dialogue: 1,0:12:00.57,0:12:00.61,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(397.29,-110.2)}Chigusa~!
 Dialogue: 1,0:12:00.57,0:12:00.61,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(418.09,-9.4)\fscx95\fscy95}Got a job for \Nyou!
 Dialogue: 1,0:12:00.57,0:12:00.61,iFanzSigns,,0,0,0,,{\an7\fs29\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.14\frz12.65\pos(558.62,485.8)}Thanks
@@ -3567,7 +3566,7 @@ Dialogue: 1,0:12:00.61,0:12:00.65,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat Pro
 Dialogue: 1,0:12:00.61,0:12:00.65,iFanzSigns,,0,0,0,,{\an7\fs26\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.148\frz12.65\pos(507.02,321.64)}Don't you both have the same\N shift today?
 Dialogue: 1,0:12:00.61,0:12:00.74,iFanzSigns,,0,0,0,,{\an7\fs29\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.14\frz12.65\pos(556.69,477.31)}Thanks
 Dialogue: 1,0:12:00.61,0:12:00.78,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H6220EB&\blur0.6\fay0.13\frz12.65\pos(652,625)}❤
-Dialogue: 1,0:12:00.61,0:12:00.78,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(558,606)}This is the image,\N(* >ω<)
+Dialogue: 1,0:12:00.61,0:12:00.78,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.13\frz12.65\pos(558,606)}This is the image\N(* >ω<)
 Dialogue: 1,0:12:00.65,0:12:00.78,iFanzSigns,,0,0,0,,{\an7\fs27\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(468.12,120.11)}Show this photo to \NAoi and let me know \Nhow he reacts!
 Dialogue: 1,0:12:00.65,0:12:00.78,iFanzSigns,,0,0,0,,{\an7\fs26\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.148\frz12.65\pos(507.02,321.65)}Don't you both have the same\N shift today?
 Dialogue: 1,0:12:00.74,0:12:00.78,iFanzSigns,,0,0,0,,{\an7\fs24\fnFOT Seurat ProN Strp DemiBold\c&H88867B&\blur0.6\fay0.157\frz12.65\pos(395.36,-118.68)}Chigusa~!
