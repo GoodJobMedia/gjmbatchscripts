@@ -15,10 +15,10 @@ Audio File: E:/GJM/Irozuku Sekai no Ashita kara/01/irozuku01_premux_v2.mkv
 Video File: E:/GJM/Irozuku Sekai no Ashita kara/01/irozuku01_premux_v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 137
-Active Line: 153
-Video Position: 15137
+Video Zoom Percent: 0.625000
+Scroll Position: 292
+Active Line: 310
+Video Position: 27719
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -337,9 +337,9 @@ Dialogue: 10,0:19:03.63,0:19:05.66,GJM_Main,,0,0,0,,Well then, let's have breakf
 Dialogue: 10,0:19:08.30,0:19:12.30,GJM_Main,,0,0,0,,Um... Is it all right if I head out later?
 Dialogue: 10,0:19:12.30,0:19:13.74,GJM_Main,,0,0,0,,Of course it is.
 Dialogue: 10,0:19:13.74,0:19:16.11,GJM_Main,,0,0,0,,I lost my azurite...
-Dialogue: 10,0:19:16.11,0:19:18.92,GJM_Main,,0,0,0,,Why not use a spell to locate lost items?
-Dialogue: 10,0:19:19.81,0:19:20.92,GJM_Main,,0,0,0,,Sure.
-Dialogue: 10,0:19:23.32,0:19:25.26,GJM_Main,,0,0,0,,Use this.
+Dialogue: 10,0:19:16.11,0:19:18.92,GJM_Main,,0,0,0,,You can't use a spell to locate lost items?
+Dialogue: 10,0:19:19.81,0:19:20.92,GJM_Main,,0,0,0,,That's right...
+Dialogue: 10,0:19:23.32,0:19:25.26,GJM_Main,,0,0,0,,Here. Use this.
 Dialogue: 10,0:19:25.69,0:19:28.75,GJM_Main,,0,0,0,,Close your eyes, think about the item you lost,
 Dialogue: 10,0:19:28.75,0:19:30.98,GJM_Main,,0,0,0,,then scatter it throughout the air.
 Dialogue: 10,0:19:31.33,0:19:32.43,GJM_Main,,0,0,0,,Okay.
