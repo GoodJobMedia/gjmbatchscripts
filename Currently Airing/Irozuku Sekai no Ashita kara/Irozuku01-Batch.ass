@@ -16,9 +16,9 @@ Video File: E:/GJM/Irozuku Sekai no Ashita kara/01/irozuku01_premux_v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 292
-Active Line: 310
-Video Position: 27719
+Scroll Position: 244
+Active Line: 245
+Video Position: 8973
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -604,7 +604,7 @@ Dialogue: 0,0:01:00.74,0:01:00.79,iFanzSigns,,0,0,0,,{\fnAlex_Bold\1a&H00&\fax0.
 Dialogue: 0,0:01:00.79,0:01:00.83,iFanzSigns,,0,0,0,,{\fnAlex_Bold\1a&H00&\fax0.023\fs15\frz0.5029\blur1\c&H3F4A66&\fscx110.25\fscy110.25\b1\pos(414.7,754.36)}S{\c&H414C68&}u{\c&H434E6A&}p{\c&H44506D&}p{\c&H46526F&}l{\c&H485371&}e{\c&H4A5573&}m{\c&H4B5776&}e{\c&H4D5978&}n{\c&H4F5B7A&}t{\c&H505C7B&}s {\c&H45506D&}\N{\c&H3F4A66&}f{\c&H404C68&}o{\c&H424D69&}r{\c&H434F6B&}t{\c&H44506D&}h{\c&H45526F&}e {\c&H485572&}S{\c&H495674&}p{\c&H4A5876&}i{\c&H4C5977&}ri{\c&H4D5B79&}t
 Dialogue: 0,0:01:00.83,0:01:00.87,iFanzSigns,,0,0,0,,{\fnAlex_Bold\1a&H00&\fax0.023\fs15\frz0.5029\blur1\c&H3F4A66&\fscx110.25\fscy110.25\b1\pos(414.7,769.18)}S{\c&H414C68&}u{\c&H434E6A&}p{\c&H44506D&}p{\c&H46526F&}l{\c&H485371&}e{\c&H4A5573&}m{\c&H4B5776&}e{\c&H4D5978&}n{\c&H4F5B7A&}t{\c&H505C7B&}s {\c&H45506D&}\N{\c&H3F4A66&}f{\c&H404C68&}o{\c&H424D69&}r{\c&H434F6B&}t{\c&H44506D&}h{\c&H45526F&}e {\c&H485572&}S{\c&H495674&}p{\c&H4A5876&}i{\c&H4C5977&}ri{\c&H4D5B79&}t
 Dialogue: 0,0:05:48.87,0:05:50.87,iFanzSigns,,0,0,0,,{\fnChristopherhand\b1\fax-0.099\fs26\blur0.8\pos(683.429,522.667)\c&H83492F&\frz345.3\fscx85.5\fscy85.5}Little Shop of Magic
-Dialogue: 0,0:05:48.87,0:05:50.87,iFanzSigns,,0,0,0,,{\fnChristopherhand\b1\frz344.9\fax-0.099\fs26\pos(677.714,541.714)\blur0.8\c&H83492F&\fscx85.5\fscy85.5}Kohaku Tsukishiro
+Dialogue: 0,0:05:48.87,0:05:50.87,iFanzSigns,,0,0,0,,{\fnChristopherhand\b1\frz344.9\fax-0.099\fs26\pos(677.714,541.714)\blur0.8\c&H83492F&\fscx85.5\fscy85.5}Tsukishiro Kohaku
 Dialogue: 0,0:05:56.54,0:05:59.54,iFanzSigns,,0,0,0,,{\fnFOT Gaku Maru Gothic Pro Strp\pos(578,128)\1a&H30&\fs30\fax-0.1\frz7.942\blur1.6\c&HA24C3D&}Stop
 Dialogue: 0,0:05:56.54,0:05:59.54,iFanzSigns,,0,0,0,,{\frz87.81\fax0.1\fnFelt\fsp0.5\fs20\c&H443027&\blur1\b0\org(574.17,315.531)\pos(603.503,279.975)\frx0\fry330}O{\c&H463229&\fax0.091}u{\c&H48332A&\fax0.082}t {\c&H4D372D&\fax0.064}o{\c&H4F382F&\fax0.055}f {\c&H533B32&\fax0.036}O{\c&H553D33&\fax0.027}r{\c&H583F35&\fax0.018}d{\c&H5A4036&\fax0.009}e{\c&H5C4238&\fax0}r
 Dialogue: 0,0:05:56.54,0:05:59.54,iFanzSigns,,0,0,0,,{\fnFOT Seurat ProN Strp ExtraBold\fs13\fax-0.08\blur0.7\c&H6D5443&\pos(584.457,269.486)\iclip(m 534 255 l 532 284 614 296 612 222)\fscx103\fscy122\frz7.835}Please press if you wish to stop
@@ -1997,20 +1997,20 @@ Dialogue: 0,0:14:15.04,0:14:17.12,iFanzSigns,,0,0,0,,{\clip(184,716,486,717)\pos
 Dialogue: 0,0:14:15.04,0:14:17.12,iFanzSigns,,0,0,0,,{\clip(184,717,486,718)\pos(344,654.667)\an7\fnAlex_Bold\bord0\fs12\blur1\b1\3c&H1D121E&\fscx100\fscy100\p1\c&H0F0B11&}m -152 -50 l -148 51 130 50 128 -45
 Dialogue: 0,0:15:03.75,0:15:05.75,iFanzSigns,,0,0,0,,{\fnIwata Mincho Pro En B\fax0.023\fs40\blur0.6\c&H757575&\fscx110.25\fscy110.25\b1\frz359.4\pos(674.857,58.857)}Smile Spells
 Dialogue: 0,0:15:03.75,0:15:05.75,iFanzSigns,,0,0,0,,{\fnIwata Mincho Pro En B\fax0.023\fs30\blur0.6\c&H757575&\fscx110.25\fscy110.25\b1\frz359.4\pos(799,177)}Yen
-Dialogue: 0,0:15:42.96,0:15:43.33,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.01\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\org(645.3,565.33)\fscx252.9\fscy253.8\pos(767.96,598.67)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:43.33,0:15:43.46,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.01\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\fscx251.87\fscy252.77\org(643.777,562.863)\pos(768.412,598.73)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:43.46,0:15:43.58,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.01\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\fscx250.63\fscy251.52\org(643.567,563.333)\pos(767.793,597.697)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:43.58,0:15:43.75,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.03\frx-7\fs5\blur0.8\c&H502B1F&\org(646.64,564.95)\fscx249.35\fscy250.24\frz342.1\pos(767.58,597.82)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:43.75,0:15:43.92,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.04\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\org(646.87,564.62)\fscx248.72\fscy249.62\pos(768.844,596.067)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:43.92,0:15:45.21,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.03\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\org(647.37,563.57)\fscx248.72\fscy249.62\pos(769.344,595.017)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:45.59,0:15:48.34,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.03\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\org(647.37,563.57)\fscx248.72\fscy249.62\pos(769.344,595.017)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:48.34,0:15:48.46,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.07\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\fscx248.72\fscy249.62\org(694.227,584.141)\pos(818.678,605.684)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:48.46,0:15:48.59,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.09\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\fscx248.72\fscy249.62\org(719.37,590.998)\pos(845.345,613.684)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:48.59,0:15:48.71,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.09\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\fscx248.72\fscy249.62\org(744.703,600.331)\pos(872.012,619.017)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:48.71,0:15:48.84,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.05\frx-7\fs5\blur0.8\c&H502B1F&\fscx248.72\fscy249.62\org(941.77,595.57)\frz359.5\pos(1046.297,629.684)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:48.84,0:15:48.96,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax-0.01\frx-7\fs5\blur0.8\c&H391C13&\fscx248.72\fscy249.62\org(1039.103,590.237)\pos(1136.964,627.017)\frz4.466}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:15:48.96,0:15:49.09,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax-0.09\frx-7\fs4.8\blur0.8\c&H391C13&\fscx248.72\fscy249.62\org(1136.246,583.38)\frz10.94\pos(1226.107,627.017)}Little Shop of Magic\NKohaku Tsukishiro
-Dialogue: 0,0:16:10.99,0:16:12.78,iFanzSigns,,0,0,0,,{\fax0.6\fay-0.\fnChristopherhand\b0\fs24.8\blur0.8\c&H32241E&\org(356,636)\frx46\fry358\frz233.5\pos(582.667,780)}Little Shop of Magic\NKohaku Tsukishiro
+Dialogue: 0,0:15:42.96,0:15:43.33,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.01\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\org(645.3,565.33)\fscx252.9\fscy253.8\pos(767.96,598.67)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:43.33,0:15:43.46,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.01\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\fscx251.87\fscy252.77\org(643.777,562.863)\pos(768.412,598.73)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:43.46,0:15:43.58,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.01\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\fscx250.63\fscy251.52\org(643.567,563.333)\pos(767.793,597.697)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:43.58,0:15:43.75,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.03\frx-7\fs5\blur0.8\c&H502B1F&\org(646.64,564.95)\fscx249.35\fscy250.24\frz342.1\pos(767.58,597.82)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:43.75,0:15:43.92,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.04\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\org(646.87,564.62)\fscx248.72\fscy249.62\pos(768.844,596.067)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:43.92,0:15:45.21,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.03\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\org(647.37,563.57)\fscx248.72\fscy249.62\pos(769.344,595.017)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:45.59,0:15:48.34,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.03\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\org(647.37,563.57)\fscx248.72\fscy249.62\pos(769.344,595.017)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:48.34,0:15:48.46,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.07\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\fscx248.72\fscy249.62\org(694.227,584.141)\pos(818.678,605.684)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:48.46,0:15:48.59,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.09\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\fscx248.72\fscy249.62\org(719.37,590.998)\pos(845.345,613.684)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:48.59,0:15:48.71,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.27\fay-0.09\frx-7\fs5\blur0.8\c&H502B1F&\frz341.6\fscx248.72\fscy249.62\org(744.703,600.331)\pos(872.012,619.017)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:48.71,0:15:48.84,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax0.05\frx-7\fs5\blur0.8\c&H502B1F&\fscx248.72\fscy249.62\org(941.77,595.57)\frz359.5\pos(1046.297,629.684)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:48.84,0:15:48.96,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax-0.01\frx-7\fs5\blur0.8\c&H391C13&\fscx248.72\fscy249.62\org(1039.103,590.237)\pos(1136.964,627.017)\frz4.466}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:15:48.96,0:15:49.09,iFanzSigns,,0,0,0,,{\fnChristopherhand\b0\fax-0.09\frx-7\fs4.8\blur0.8\c&H391C13&\fscx248.72\fscy249.62\org(1136.246,583.38)\frz10.94\pos(1226.107,627.017)}Little Shop of Magic\NTsukishiro Kohaku
+Dialogue: 0,0:16:10.99,0:16:12.78,iFanzSigns,,0,0,0,,{\fax0.6\fay-0.\fnChristopherhand\b0\fs24.8\blur0.8\c&H32241E&\org(356,636)\frx46\fry358\frz233.5\pos(582.667,780)}Little Shop of Magic\NTsukishiro Kohaku
 Dialogue: 0,0:18:21.95,0:18:24.95,iFanzSigns,,0,0,0,,{\blur0.4\fnBaramond\fs35\an4\fsp0\c&H000000&\b0\frz270\fax0\pos(1122.286,323.371)}Episode 1
 Dialogue: 0,0:18:21.95,0:18:24.95,iFanzSigns,,0,0,0,,{\blur0.4\fnBaramond\fs35\an4\fsp0\c&H000000&\b0\frz270\fax0\pos(998.4,323.371)}Where You
 Dialogue: 0,0:18:21.95,0:18:24.95,iFanzSigns,,0,0,0,,{\blur0.4\fnBaramond\fs35\an4\fsp0\c&H000000&\b0\frz270\fax0\pos(866.666,323.371)}Should Be
