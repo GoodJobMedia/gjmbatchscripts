@@ -16,9 +16,9 @@ Video File: E:/GJM/Irozuku Sekai no Ashita kara/02/irozuku02_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 166
-Active Line: 168
-Video Position: 16158
+Scroll Position: 155
+Active Line: 167
+Video Position: 16067
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -71,7 +71,7 @@ Dialogue: 10,0:03:49.38,0:03:52.65,GJM_Main,,0,0,0,,I wanted to know more about 
 Dialogue: 10,0:03:56.33,0:03:58.92,GJM_Main,,0,0,0,,Battery at critical levels.
 Dialogue: 10,0:03:58.92,0:04:03.15,GJM_Main,,0,0,0,,{\an8}Please bring into charging range as soon as possible.
 Dialogue: 10,0:04:03.15,0:04:06.43,GJM_Main,,0,0,0,,{\an8}The azurite will go into standby mode now.
-Dialogue: 10,0:03:59.85,0:04:03.93,GJM_Main,,0,0,0,,{\i1}I wonder why I was able to see the colors just then?
+Dialogue: 10,0:03:59.85,0:04:03.93,GJM_Main,,0,0,0,,{\i1}I wonder why I was able to see the colors just then.
 Dialogue: 10,0:04:07.34,0:04:09.43,GJM_Main,,0,0,0,,I'm... I'm back.
 Dialogue: 10,0:04:09.77,0:04:11.25,GJM_Main,,0,0,0,,Welcome back.
 Dialogue: 10,0:04:12.18,0:04:14.24,GJM_Main,,0,0,0,,What's wrong? Did something happen?
@@ -197,7 +197,7 @@ Dialogue: 10,0:10:59.73,0:11:01.55,GJM_Main,,0,0,0,,Hello! It's me from before!
 Dialogue: 10,0:11:02.45,0:11:03.70,GJM_Main,,0,0,0,,Do you remember us?
 Dialogue: 10,0:11:03.70,0:11:05.93,GJM_Main,,0,0,0,,Yes. Thank you so much for your help.
 Dialogue: 10,0:11:05.93,0:11:10.12,GJM_Main,,0,0,0,,I'm Kawai Kurumi, a third year student\N who's also in the Photography Club with Asagi.
-Dialogue: 10,0:11:10.12,0:11:12.43,GJM_Main,,0,0,0,,This is our President, Yamabuki Shou
+Dialogue: 10,0:11:10.12,0:11:12.43,GJM_Main,,0,0,0,,This is our President, Yamabuki Shou,
 Dialogue: 10,0:11:12.43,0:11:14.63,GJM_Main,,0,0,0,,and Fukazawa Chigusa \Nhere is a first-year student.{Chihuahua}
 Dialogue: 10,0:11:14.63,0:11:16.08,GJM_Main,,0,0,0,,Hey there!
 Dialogue: 10,0:11:16.08,0:11:17.84,GJM_Main,,0,0,0,,Oh, could I get you to model for my—
