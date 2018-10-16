@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: irozuku02_premux.mkv
-Video File: irozuku02_premux.mkv
-Keyframes File: irozuku02_premux_keyframes.log
+Audio File: E:/GJM/Irozuku Sekai no Ashita kara/02/irozuku02_premux.mkv
+Video File: E:/GJM/Irozuku Sekai no Ashita kara/02/irozuku02_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 331
-Active Line: 336
-Video Position: 1865
+Scroll Position: 166
+Active Line: 168
+Video Position: 16158
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -199,7 +198,7 @@ Dialogue: 10,0:11:02.45,0:11:03.70,GJM_Main,,0,0,0,,Do you remember us?
 Dialogue: 10,0:11:03.70,0:11:05.93,GJM_Main,,0,0,0,,Yes. Thank you so much for your help.
 Dialogue: 10,0:11:05.93,0:11:10.12,GJM_Main,,0,0,0,,I'm Kawai Kurumi, a third year student\N who's also in the Photography Club with Asagi.
 Dialogue: 10,0:11:10.12,0:11:12.43,GJM_Main,,0,0,0,,This is our President, Yamabuki Shou
-Dialogue: 10,0:11:12.43,0:11:14.63,GJM_Main,,0,0,0,,and he's a first year student, Fukazawa Chigusa.{Chihuahua}
+Dialogue: 10,0:11:12.43,0:11:14.63,GJM_Main,,0,0,0,,and Fukazawa Chigusa \Nhere is a first-year student.{Chihuahua}
 Dialogue: 10,0:11:14.63,0:11:16.08,GJM_Main,,0,0,0,,Hey there!
 Dialogue: 10,0:11:16.08,0:11:17.84,GJM_Main,,0,0,0,,Oh, could I get you to model for my—
 Dialogue: 10,0:11:17.84,0:11:19.76,GJM_Main,,0,0,0,,And last but not least!
