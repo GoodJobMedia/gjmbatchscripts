@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: gridman01-finaltest04 (1).mkv
-Video File: gridman01-finaltest04 (1).mkv
-Keyframes File: gridman01-finaltest04 (1)_keyframes.log
+Audio File: E:/GJM/SSSS.Gridman/01/gridman01-finaltest04 (1).mkv
+Video File: E:/GJM/SSSS.Gridman/01/gridman01-finaltest04 (1).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 375
-Active Line: 290
-Video Position: 23328
+Video Zoom Percent: 0.750000
+Scroll Position: 213
+Active Line: 225
+Video Position: 18449
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -51,7 +50,7 @@ Dialogue: 10,0:00:19.58,0:00:20.33,Gridman_Main,,0,0,0,,{\an8}Keep it up!
 Dialogue: 10,0:00:20.33,0:00:23.37,Gridman_Main,,0,0,0,,{\an8}29! 30! 31...
 Dialogue: 10,0:01:28.31,0:01:29.73,Gridman_Main,,0,0,0,,Oh, you're awake.
 Dialogue: 10,0:01:30.77,0:01:32.74,Gridman_Main,,0,0,0,,Good morning...
-Dialogue: 10,0:01:32.74,0:01:36.24,Gridman_Main,,0,0,0,,You were out for 30 minutes and I couldn't wake you.
+Dialogue: 10,0:01:32.74,0:01:36.24,Gridman_Main,,0,0,0,,You were out cold for half an hour.
 Dialogue: 10,0:01:36.24,0:01:37.24,Gridman_Main,,0,0,0,,Are you feeling all right?
 Dialogue: 10,0:01:37.76,0:01:40.57,Gridman_Main,,0,0,0,,Yeah, can't say I feel sore or anything.
 Dialogue: 10,0:01:40.57,0:01:44.50,Gridman_Main,,0,0,0,,You suddenly collapsed and fell asleep,\N so you really startled me.
@@ -158,7 +157,7 @@ Dialogue: 10,0:06:08.60,0:06:10.48,Gridman_Main,,0,0,0,,I'm getting hungry.
 Dialogue: 10,0:06:16.95,0:06:19.72,Gridman_Main,,0,0,0,,Why was I even sleeping at some girl's home?
 Dialogue: 10,0:06:20.40,0:06:23.61,Gridman_Main,,0,0,0,,Not "some girl." Takarada Rikka.
 Dialogue: 10,0:06:24.08,0:06:25.94,Gridman_Main,,0,0,0,,That's my name.
-Dialogue: 10,0:06:25.94,0:06:29.74,Gridman_Main,,0,0,0,,Hibiki{**-kun}, you were passed out in front\N of our place, and we couldn't wake you.
+Dialogue: 10,0:06:25.94,0:06:29.74,Gridman_Main,,0,0,0,,Hibiki{**-kun}, you passed out in front\N of our place and wouldn't respond to us.
 Dialogue: 10,0:06:30.29,0:06:31.46,Gridman_Main,,0,0,0,,The hell?
 Dialogue: 10,0:06:31.46,0:06:33.24,Gridman_Main,,0,0,0,,Wh-What's our relationship?
 Dialogue: 10,0:06:34.37,0:06:35.25,Gridman_Main,,0,0,0,,Are we friends?
@@ -257,7 +256,7 @@ Dialogue: 10,0:11:45.19,0:11:48.99,Gridman_Main,,0,0,0,,Yeah. But Shinjo{**-san}
 Dialogue: 10,0:11:48.99,0:11:53.26,Gridman_Main,,0,0,0,,Nice? There's a difference \Nbetween being nice and taking pity.
 Dialogue: 10,0:11:54.13,0:11:55.31,Gridman_Main,,0,0,0,,Let's not split hairs.
 Dialogue: 10,0:11:55.64,0:11:56.53,Gridman_Main,,0,0,0,,No, let's!
-Dialogue: 10,0:11:56.95,0:12:01.44,Gridman_Main,,0,0,0,,Shinjo Akane is one heavy-duty girl,\Nwith both looks and talent.
+Dialogue: 10,0:11:56.95,0:12:01.44,Gridman_Main,,0,0,0,,Shinjo Akane is one top-tier girl,\Nwith both beauty and brains.
 Dialogue: 10,0:12:01.44,0:12:05.24,Gridman_Main,,0,0,0,,She's like a miracle girl,\Nsomeone the whole class adores!
 Dialogue: 10,0:12:05.24,0:12:08.02,Gridman_Main,,0,0,0,,Utsumi, do you adore Shinjo{**-san} too?
 Dialogue: 10,0:12:08.02,0:12:10.86,Gridman_Main,,0,0,0,,N-No, not me, she's too unapproachable, if you ask me,
