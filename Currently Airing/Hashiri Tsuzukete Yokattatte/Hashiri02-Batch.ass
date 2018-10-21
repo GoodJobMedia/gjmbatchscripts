@@ -11,15 +11,15 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: Hashiritsuzukete_Yokattatte_02-encode[A9E0ADEF].mkv
-Video File: Hashiritsuzukete_Yokattatte_02-encode[A9E0ADEF].mkv
-Keyframes File: Hashiritsuzukete_Yokattatte_02-encode[A9E0ADEF]_keyframes.log
+Audio File: E:/GJM/Hashiri Tsuzukete Yokattatte/02/Hashiritsuzukete_Yokattatte_02-encode[A9E0ADEF].mkv
+Video File: E:/GJM/Hashiri Tsuzukete Yokattatte/02/Hashiritsuzukete_Yokattatte_02-encode[A9E0ADEF].mkv
+Keyframes File: E:/GJM/Hashiri Tsuzukete Yokattatte/02/Hashiritsuzukete_Yokattatte_02-encode[A9E0ADEF]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 156
-Active Line: 163
-Video Position: 16652
+Scroll Position: 162
+Active Line: 9
+Video Position: 3694
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,9 +42,9 @@ Dialogue: 10,0:00:15.44,0:00:17.04,GJM_Main_1080p,D,0,0,0,,She's trembling like 
 Dialogue: 10,0:00:20.09,0:00:22.16,GJM_Main_1080p,T,0,0,0,,The stage isn't just for you!
 Dialogue: 10,0:00:22.64,0:00:24.17,GJM_Main_1080p,T,0,0,0,,Now you're too timid!
 Dialogue: 10,0:00:24.82,0:00:26.58,GJM_Main_1080p,T,0,0,0,,Can't you be more confident?
-Dialogue: 10,0:02:25.14,0:02:30.38,GJM_Main_1080p,Chi,0,0,0,,I-I'd like to always... s-stay by your side... i-if I can.
-Dialogue: 10,0:02:31.00,0:02:33.25,GJM_Main_1080p,Chi,0,0,0,,B-But...
-Dialogue: 10,0:02:33.25,0:02:36.38,GJM_Main_1080p,Chi,0,0,0,,E-Even if our paths diverge,
+Dialogue: 10,0:02:25.14,0:02:32.76,GJM_Main_1080p,Chi,0,0,0,,I-I'd like to always... s-stay by your side... i-if I can.
+Dialogue: 10,0:02:33.28,0:02:34.05,GJM_Main_1080p,Chi,0,0,0,,B-But...
+Dialogue: 10,0:02:34.05,0:02:36.38,GJM_Main_1080p,Chi,0,0,0,,E-Even if our paths diverge,
 Dialogue: 10,0:02:36.38,0:02:39.85,GJM_Main_1080p,Chi,0,0,0,,l-let's both give it our best.
 Dialogue: 10,0:03:14.24,0:03:15.08,GJM_Main_1080p,Mi,0,0,0,,Hey.
 Dialogue: 10,0:03:20.74,0:03:22.85,GJM_Main_1080p,Mi,0,0,0,,You can have this, if you like.
