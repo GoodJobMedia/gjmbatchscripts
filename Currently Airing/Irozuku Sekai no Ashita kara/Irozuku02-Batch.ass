@@ -16,8 +16,8 @@ Video File: E:/GJM/Irozuku Sekai no Ashita kara/02/irozuku02_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 155
-Active Line: 167
+Scroll Position: 386
+Active Line: 409
 Video Position: 16067
 
 [V4+ Styles]
@@ -429,17 +429,17 @@ Dialogue: 2,0:02:26.49,0:02:30.96,IrozukuOP,,0,0,0,,{\blur10\bord6\t(0,350,\bord
 Dialogue: 3,0:02:30.96,0:02:32.62,IrozukuOP,,0,0,0,,{\fad(0,250)\blur0.5\c&HFFFFFF&}Like the clouds parting to reveal a rainbow in the sky
 Dialogue: 2,0:02:30.96,0:02:32.62,IrozukuOP,,0,0,0,,{\fad(0,250)\bord2\blur1\c&H13109C&\3c&H13109C&\t(233,400,\c&H833425&\3c&H833425&)}Like the clouds parting to reveal a rainbow in the sky
 Comment: 0,0:24:08.51,0:24:10.51,GJM_Main,,0,0,0,,ED
-Dialogue: 0,0:22:38.08,0:22:45.57,IrozukuED,,0,0,0,,{\blur3\bord4}Once I've climbed up the hill overlooking the twilit town
-Dialogue: 0,0:22:45.57,0:22:49.20,IrozukuED,,0,0,0,,{\blur3\bord4}Expanding before me was a scenery out of a dream
-Dialogue: 0,0:22:49.76,0:22:53.26,IrozukuED,,0,0,0,,{\blur3\bord4}A moment so fleeting yet special
-Dialogue: 0,0:22:53.26,0:22:57.27,IrozukuED,,0,0,0,,{\blur3\bord4}It was all like a gentle spell
-Dialogue: 0,0:22:57.27,0:23:01.31,IrozukuED,,0,0,0,,{\blur3\bord4}Magic caressing my skin, whispering into my heart
-Dialogue: 0,0:23:01.31,0:23:10.62,IrozukuED,,0,0,0,,{\blur3\bord4}I felt frozen in time, left behind by this vivid world of colors
-Dialogue: 0,0:23:11.99,0:23:17.58,IrozukuED,,0,0,0,,{\blur3\bord4}And yet this scenery was like an echo of the future
-Dialogue: 0,0:23:17.58,0:23:21.75,IrozukuED,,0,0,0,,{\blur3\bord4}Even if I were to drown
-Dialogue: 0,0:23:21.75,0:23:28.01,IrozukuED,,0,0,0,,{\blur3\bord4}In my monotonous life slipping from out under my feet
-Dialogue: 0,0:23:28.01,0:23:39.09,IrozukuED,,0,0,0,,{\blur3\bord4}As long as I embraced this ever unchanging world
-Dialogue: 0,0:23:39.81,0:23:47.19,IrozukuED,,0,0,0,,{\blur3\bord4}The distance between us would surely close
+Dialogue: 0,0:22:38.08,0:22:45.57,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}Once I've climbed up the hill overlooking the twilit town
+Dialogue: 0,0:22:45.57,0:22:49.20,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}Expanding before me was a scenery out of a dream
+Dialogue: 0,0:22:49.76,0:22:53.26,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}A moment so fleeting yet special
+Dialogue: 0,0:22:53.26,0:22:57.27,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}It was all like a gentle spell
+Dialogue: 0,0:22:57.27,0:23:01.31,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}Magic caressing my skin, whispering into my heart
+Dialogue: 0,0:23:01.31,0:23:10.62,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}I felt frozen in time, left behind by this vivid world of colors
+Dialogue: 0,0:23:11.99,0:23:17.58,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}And yet this scenery was like an echo of the future
+Dialogue: 0,0:23:17.58,0:23:21.75,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}Even if I were to drown
+Dialogue: 0,0:23:21.75,0:23:28.01,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}In my monotonous life slipping from out under my feet
+Dialogue: 0,0:23:28.01,0:23:39.09,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}As long as I embraced this ever unchanging world
+Dialogue: 0,0:23:39.81,0:23:47.19,IrozukuED,,0,0,0,,{\fad(150,150)\blur3\bord4}The distance between us would surely close
 Comment: 0,0:24:10.51,0:24:12.51,GJM_Main,,0,0,0,,TS
 Dialogue: 0,0:07:40.98,0:07:43.31,iFanzSigns,,0,0,0,,{\pos(778.743,194.543)\org(686.41,502.543)\frx6\fax-0.34\fay0.15\fnIwata Mincho Pro M-Kami\fs19.5\c&H61635F&\blur0.5\frz0.5137}Agreement relating to damage of personal property caused by magic
 Dialogue: 0,0:07:40.98,0:07:41.10,iFanzSigns,,0,0,0,,{\an1\pos(538.597,272.594)\org(685.81,503.143)\frx6\fax-0.34\fay0.15\fnIwata Mincho Pro M-Kami\fs15.8\c&H61635F&\1a&HFF&\blur0.5\clip(m 518 276 l 525 278 534 280 547 283 558 284 573 287 580 287 588 288 600 289 612 291 617 291 625 292 631 292 642 297 654 305 662 309 676 316 697 326 823 381 916 378 1016 380 1032 281 866 202 490 201 407 202)}.{\1a&H00&}I, Tsukishiro Hitomi, in accordance with transferring to Minamigaoka High School, \Npledge to adhere to the following rules:
