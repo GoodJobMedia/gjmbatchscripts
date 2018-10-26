@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: gridman03-finaltest01 (1).mkv
-Video File: gridman03-finaltest01 (1).mkv
-Keyframes File: gridman03-finaltest01 (1)_keyframes.log
+Audio File: E:/GJM/SSSS.Gridman/03/gridman03-finaltest01 (1).mkv
+Video File: E:/GJM/SSSS.Gridman/03/gridman03-finaltest01 (1).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 252
-Active Line: 264
-Video Position: 27578
+Video Zoom Percent: 0.625000
+Scroll Position: 2148
+Active Line: 2161
+Video Position: 17667
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2211,10 +2210,10 @@ Dialogue: 1,0:12:13.04,0:12:13.08,cellphone,,0,0,0,,{\pos(168.45,192.63)\org(527
 Dialogue: 1,0:12:13.08,0:12:13.12,cellphone,,0,0,0,,{\pos(167.1,189.64)\org(525.9,353.44)\fscx212\fscy211\frz24.33\fry0.32\frx-0.56\c&H4E4F4F&\blur0.8}Probably what?
 Dialogue: 1,0:12:13.12,0:12:14.08,cellphone,,0,0,0,,{\pos(166.72,188.71)\org(525.52,352.51)\fscx212\fscy211\frz24.33\fry0.32\frx-0.56\c&H4E4F4F&\blur0.8}Probably what?
 Dialogue: 0,0:12:16.84,0:12:18.09,cellphone,,0,0,0,sign,{\pos(353.857,252.571)\c&HF0EFEA&\blur1\p1}m -72 100 l 728 -256 928 -255 929 -125 51 335 b -67 399 -216 204 -71 100
-Dialogue: 1,0:12:16.84,0:12:18.09,cellphone,ENGLISH VERSION,0,0,0,sign,{\an4\pos(364.286,300.285)\org(676.4,469.1)\fscx525\fscy525\frz27.59\fry3.93\frx2\c&H4E4F4F&\alpha&H80&\blur4}Hibiki{**-kun}, are {\fscx700\fscy700\c&HCBCBCB&\t(188,605,\alpha&HFF&)\t(772,772,\alpha&H00)\t(980,1386,\alpha&HFF)}|
-Dialogue: 2,0:12:16.84,0:12:18.09,cellphone,ENGLISH VERSION,0,0,0,sign,{\an4\pos(364.286,300.285)\org(676.4,469.1)\fscx525\fscy525\frz27.59\fry3.93\frx2\c&H4E4F4F&\4a&HFF&\blur0.8}Hibiki{**-kun}, are {\fscx700\fscy700\c&HD88369&\t(188,605,\alpha&HFF&)\t(772,772,\alpha&H00)\t(980,1386,\alpha&HFF)}|
-Comment: 1,0:12:16.84,0:12:18.09,cellphone,WEEB VERSION,0,0,0,sign,{\an4\blur4\org(676.4,469.1)\fry3.93\frx2.00\frz27.59\fscx525\fscy525\pos(364.286,300.285)\c&H4E4F4F&\alpha&H80&}Hibiki-kun, are {\t(188,605,\alpha&HFF&)\t(772,772,\alpha&H00)\t(980,1386,\alpha&HFF)\fscy700\fscx700\c&HCBCBCB&}|
-Comment: 2,0:12:16.84,0:12:18.09,cellphone,WEEB VERSION,0,0,0,sign,{\bord0\an4\blur0.8\org(676.4,469.1)\fry3.93\frx2.00\frz27.59\fscx525\fscy525\c&H4E4F4F&\pos(364.286,300.285)\4a&HFF&}Hibiki-kun, are {\t(188,605,\alpha&HFF&)\t(772,772,\alpha&H00)\t(980,1386,\alpha&HFF)\fscy700\fscx700\c&HD88369&}|
+Dialogue: 1,0:12:16.84,0:12:18.09,cellphone,ENGLISH VERSION,0,0,0,sign,{\an4\pos(364.286,300.285)\org(676.4,469.1)\fscx525\fscy525\frz27.59\fry3.93\frx2\c&H4E4F4F&\alpha&H80&\blur4}Was Hibiki{**-kun} {\fscx700\fscy700\c&HCBCBCB&\t(188,605,\alpha&HFF&)\t(772,772,\alpha&H00)\t(980,1386,\alpha&HFF)}|
+Dialogue: 2,0:12:16.84,0:12:18.09,cellphone,ENGLISH VERSION,0,0,0,sign,{\an4\pos(364.286,300.285)\org(676.4,469.1)\fscx525\fscy525\frz27.59\fry3.93\frx2\c&H4E4F4F&\4a&HFF&\blur0.8}Was Hibiki{**-kun} {\fscx700\fscy700\c&HD88369&\t(188,605,\alpha&HFF&)\t(772,772,\alpha&H00)\t(980,1386,\alpha&HFF)}|
+Comment: 1,0:12:16.84,0:12:18.09,cellphone,WEEB VERSION,0,0,0,sign,{\an4\blur4\org(676.4,469.1)\fry3.93\frx2.00\frz27.59\fscx525\fscy525\pos(364.286,300.285)\c&H4E4F4F&\alpha&H80&}Was Hibiki-kun {\t(188,605,\alpha&HFF&)\t(772,772,\alpha&H00)\t(980,1386,\alpha&HFF)\fscy700\fscx700\c&HCBCBCB&}|
+Comment: 2,0:12:16.84,0:12:18.09,cellphone,WEEB VERSION,0,0,0,sign,{\bord0\an4\blur0.8\org(676.4,469.1)\fry3.93\frx2.00\frz27.59\fscx525\fscy525\c&H4E4F4F&\pos(364.286,300.285)\4a&HFF&}Was Hibiki-kun {\t(188,605,\alpha&HFF&)\t(772,772,\alpha&H00)\t(980,1386,\alpha&HFF)\fscy700\fscx700\c&HD88369&}|
 Dialogue: 0,0:12:16.84,0:12:18.09,cellphone,,0,0,0,sign,{\pos(-32.714,-128.715)\c&HF5F5EB&\blur1\p1}m 30 375 l 633 139 652 125 365 88 -13 123
 Dialogue: 1,0:12:16.84,0:12:18.09,cellphone,,0,0,0,sign,{\an4\pos(-32.714,-128.715)\org(676.4,469.1)\fscx525\fscy525\frz27.59\fry3.93\frx2\c&H4E4F4F&\alpha&H80&\blur4}Probably what?
 Dialogue: 2,0:12:16.84,0:12:18.09,cellphone,,0,0,0,sign,{\an4\pos(-32.714,-128.715)\org(676.4,469.1)\fscx525\fscy525\frz27.59\fry3.93\frx2\c&H4E4F4F&\4a&HFF&\blur0.8}Probably{\c&H464548&} what?
