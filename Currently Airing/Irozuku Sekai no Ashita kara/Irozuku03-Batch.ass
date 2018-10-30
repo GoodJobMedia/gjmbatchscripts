@@ -11,15 +11,14 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: irozuku03_premux.mkv
-Video File: irozuku03_premux.mkv
-Keyframes File: irozuku03_premux_keyframes.log
+Audio File: E:/GJM/Irozuku Sekai no Ashita kara/03/irozuku03_premux.mkv
+Video File: E:/GJM/Irozuku Sekai no Ashita kara/03/irozuku03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 282
-Active Line: 291
-Video Position: 23946
+Video Zoom Percent: 0.875000
+Scroll Position: 399
+Active Line: 404
+Video Position: 1825
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -434,10 +433,10 @@ Dialogue: 3,0:01:08.63,0:01:09.05,IrozukuOP,,0,0,0,,{\blur3\t(0,350,\blur0.5)\fa
 Dialogue: 2,0:01:08.63,0:01:09.05,IrozukuOP,,0,0,0,,{\blur10\bord6\t(0,350,\bord2\blur1)\fad(200,0)\c&HA93638&\3c&HA93638&}It was so bright, so dazzling, blinding me from the world around me
 Dialogue: 3,0:01:09.05,0:01:09.51,IrozukuOP,,0,0,0,,{\blur0.5\c&HFFFFFF&}It was so bright, so dazzling, blinding me from the world around me
 Dialogue: 2,0:01:09.05,0:01:09.51,IrozukuOP,,0,0,0,,{\bord2\blur1\c&HB09F46&\3c&HB09F46&}It was so bright, so dazzling, blinding me from the world around me
-Dialogue: 3,0:01:09.51,0:01:13.09,IrozukuOP,,0,0,0,,{\blur0.5\c&HFFFFFF&}It was so bright, so dazzling, blinding me from the world around me
-Dialogue: 2,0:01:09.51,0:01:13.09,IrozukuOP,,0,0,0,,{\bord2\blur1\c&H81296A&\3c&H81296A&}It was so bright, so dazzling, blinding me from the world around me
-Dialogue: 3,0:01:13.09,0:01:15.72,IrozukuOP,,0,0,0,,{\blur0.5\fad(0,250)\c&HCFD2D7&\t(0,2500,\c&HFFFFFF&)}It was so bright, so dazzling, blinding me from the world around me
-Dialogue: 2,0:01:13.09,0:01:15.72,IrozukuOP,,0,0,0,,{\bord2\blur1\fad(0,250)\c&H161617&\3c&H161617&\t(0,2500,\c&H2728B2&\3c&H2728B2&)}It was so bright, so dazzling, blinding me from the world around me
+Dialogue: 3,0:01:09.51,0:01:12.96,IrozukuOP,,0,0,0,,{\blur0.5\c&HFFFFFF&}It was so bright, so dazzling, blinding me from the world around me
+Dialogue: 2,0:01:09.51,0:01:12.96,IrozukuOP,,0,0,0,,{\bord2\blur1\c&H81296A&\3c&H81296A&}It was so bright, so dazzling, blinding me from the world around me
+Dialogue: 3,0:01:12.96,0:01:15.72,IrozukuOP,,0,0,0,,{\blur0.5\fad(0,250)\c&HCFD2D7&\t(0,2500,\c&HFFFFFF&)}It was so bright, so dazzling, blinding me from the world around me
+Dialogue: 2,0:01:12.96,0:01:15.72,IrozukuOP,,0,0,0,,{\bord2\blur1\fad(0,250)\c&H161617&\3c&H161617&\t(0,2500,\c&H2728B2&\3c&H2728B2&)}It was so bright, so dazzling, blinding me from the world around me
 Dialogue: 3,0:01:15.72,0:01:16.72,IrozukuOP,,0,0,0,,{\blur3\t(0,350,\blur0.5)\fad(200,0)\c&HFFFFFF&}I couldn't even tell what colors your feelings were
 Dialogue: 2,0:01:15.72,0:01:16.72,IrozukuOP,,0,0,0,,{\blur10\bord6\t(0,350,\bord2\blur1)\fad(200,0)\c&H2728B2&\3c&H2728B2&}I couldn't even tell what colors your feelings were
 Dialogue: 3,0:01:16.72,0:01:23.85,IrozukuOP,,0,0,0,,{\blur0.5\c&HFFFFFF&}I couldn't even tell what colors your feelings were
