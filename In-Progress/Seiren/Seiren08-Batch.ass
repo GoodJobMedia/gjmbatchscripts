@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: Premux - Seiren - 08 [A25F757F].mkv
-Video File: Premux - Seiren - 08 [A25F757F].mkv
-Keyframes File: Premux - Seiren - 08 [A25F757F]_keyframes.log
+Audio File: E:/GJM/Seiren/08/Premux - Seiren - 08 [A25F757F].mkv
+Video File: E:/GJM/Seiren/08/Premux - Seiren - 08 [A25F757F].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 373
-Active Line: 390
-Video Position: 34128
+Video Zoom Percent: 0.625000
+Scroll Position: 379
+Active Line: 388
+Video Position: 34055
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -421,7 +420,7 @@ Dialogue: 10,0:23:13.17,0:23:15.60,GJM_Main,,0,0,0,,Huh? Where's Rie{-chan}?
 Dialogue: 10,0:23:15.60,0:23:16.95,GJM_Main,,0,0,0,,Over there.
 Dialogue: 10,0:23:21.33,0:23:23.21,GJM_Main,,0,0,0,,There. That's everyone.
 Dialogue: 10,0:23:27.79,0:23:30.72,GJM_Main,,0,0,0,,She always falls asleep because \NDaddy's rides are so comfortable.
-Dialogue: 10,0:23:40.36,0:23:41.69,GJM_Main,,0,0,0,,Preview.
+Dialogue: 10,0:23:40.36,0:23:41.69,GJM_Main,,0,0,0,,Preview time.
 Dialogue: 10,0:23:41.69,0:23:43.41,GJM_Main,,0,0,0,,I did it, Miyamae{-senpai}!
 Dialogue: 10,0:23:43.41,0:23:46.19,GJM_Main,,0,0,0,,One more victory, \Nand I'll have a record streak in GusGal!
 Dialogue: 10,0:23:47.19,0:23:50.28,GJM_Main,,0,0,0,,Your next opponent looks like \Na tough one. Will you be all right?
