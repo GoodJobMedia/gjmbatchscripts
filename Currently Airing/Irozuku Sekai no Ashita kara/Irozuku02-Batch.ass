@@ -16,9 +16,9 @@ Video File: E:/GJM/Irozuku Sekai no Ashita kara/02/irozuku02_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 386
-Active Line: 409
-Video Position: 16067
+Scroll Position: 322
+Active Line: 334
+Video Position: 34616
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -106,7 +106,7 @@ Dialogue: 10,0:05:38.58,0:05:43.16,GJM_Main,,0,0,0,,Anyway, until then you'll be
 Dialogue: 10,0:05:43.16,0:05:44.15,GJM_Main,,0,0,0,,Thank you.
 Dialogue: 10,0:05:44.65,0:05:47.50,GJM_Main,,0,0,0,,I don't even know how to go back,
 Dialogue: 10,0:05:47.50,0:05:49.78,GJM_Main,,0,0,0,,or what I'm going to do now...
-Dialogue: 10,0:05:49.78,0:05:54.88,GJM_Main,,0,0,0,,Don't worry, when the time comes, you'll know.
+Dialogue: 10,0:05:49.78,0:05:54.88,GJM_Main,,0,0,0,,Don't worry, when the time comes, you'll know.{ep1 preview line}
 Dialogue: 10,0:05:54.88,0:05:56.41,GJM_Main,,0,0,0,,How much magic do you know?
 Dialogue: 10,0:05:57.83,0:06:01.41,GJM_Main,,0,0,0,,I don't really like magic...
 Dialogue: 10,0:06:01.41,0:06:03.80,GJM_Main,,0,0,0,,I haven't practiced for a while.
@@ -133,7 +133,7 @@ Dialogue: 10,0:07:11.45,0:07:12.93,GJM_Main,,0,0,0,,{BK, girl}With our club acti
 Dialogue: 10,0:07:12.93,0:07:14.38,GJM_Main,,0,0,0,,{BK, boy}Ha! What's with him?
 Dialogue: 10,0:07:14.38,0:07:16.12,GJM_Main,,0,0,0,,{BK, girl}I was first today!
 Dialogue: 10,0:07:19.87,0:07:22.04,GJM_Main,,0,0,0,,{\i1}I just want to be alone...
-Dialogue: 10,0:07:23.73,0:07:26.57,GJM_Main,,0,0,0,,{\i1}What did I even come here for?
+Dialogue: 10,0:07:23.73,0:07:26.57,GJM_Main,,0,0,0,,{\i1}What did I even come here for?{ep1 preview line}
 Dialogue: 10,0:07:32.80,0:07:37.85,GJM_Main,,0,0,0,,{\q2}And with that said, I hope you'll have an \Nenjoyable and fulfilling time here at our school.
 Dialogue: 10,0:07:38.27,0:07:39.40,GJM_Main,,0,0,0,,Yes, sir.
 Dialogue: 10,0:07:39.40,0:07:43.31,GJM_Main,,0,0,0,,{\q2}And just before you go, if we could \Nget you to sign that document, please.
@@ -183,7 +183,7 @@ Dialogue: 10,0:10:23.89,0:10:25.15,GJM_Main,,0,0,0,,I'll go grab an O'Free.
 Dialogue: 10,0:10:25.15,0:10:26.24,GJM_Main,,0,0,0,,Me too.
 Dialogue: 10,0:10:26.24,0:10:29.44,GJM_Main,,0,0,0,,Aoi, I got a juicy scoop!
 Dialogue: 10,0:10:29.44,0:10:30.57,GJM_Main,,0,0,0,,Look!
-Dialogue: 10,0:10:30.57,0:10:33.34,GJM_Main,,0,0,0,,You're right! It's Yuito's girlfriend.
+Dialogue: 10,0:10:30.57,0:10:33.34,GJM_Main,,0,0,0,,You're right! It's Yuito's girlfriend!{ep1 preview line}
 Dialogue: 10,0:10:33.34,0:10:34.48,GJM_Main,,0,0,0,,She's not my girlfriend.
 Dialogue: 10,0:10:34.48,0:10:36.64,GJM_Main,,0,0,0,,Don't get all flustered now.
 Dialogue: 10,0:10:36.64,0:10:39.04,GJM_Main,,0,0,0,,Hey, introduce us to her, yeah?
@@ -218,7 +218,7 @@ Dialogue: 10,0:11:52.69,0:11:54.41,GJM_Main,,0,0,0,,Hey, sorry to bother you, bu
 Dialogue: 10,0:11:54.41,0:11:55.19,GJM_Main,,0,0,0,,Yes?
 Dialogue: 10,0:11:55.46,0:11:57.28,GJM_Main,,0,0,0,,Could you do me a favor?
 Dialogue: 10,0:11:57.28,0:11:59.07,GJM_Main,,0,0,0,,Wh-What is it?
-Dialogue: 10,0:11:59.44,0:12:02.69,GJM_Main,,0,0,0,,Will you show us your magic?
+Dialogue: 10,0:11:59.44,0:12:02.69,GJM_Main,,0,0,0,,Will you show us your magic?{ep1 preview line}
 Dialogue: 10,0:12:02.69,0:12:07.45,GJM_Main,,0,0,0,,No one believes me when I say that \Nyou just somehow ended up in my room.
 Dialogue: 10,0:12:07.81,0:12:09.89,GJM_Main,,0,0,0,,Surely it's troublesome for you, too?
 Dialogue: 10,0:12:09.89,0:12:12.45,GJM_Main,,0,0,0,,{\q2}You only just transferred here and\N there are already rumors about you.
@@ -253,7 +253,7 @@ Dialogue: 10,0:13:53.18,0:13:54.69,GJM_Main,,0,0,0,,Huh... Why me?
 Dialogue: 10,0:13:54.69,0:13:57.38,GJM_Main,,0,0,0,,I can't do much more than that.
 Dialogue: 10,0:13:57.38,0:13:58.73,GJM_Main,,0,0,0,,I'm sorry.
 Dialogue: 10,0:14:00.94,0:14:02.52,GJM_Main,,0,0,0,,Oh, she ran away.
-Dialogue: 10,0:14:14.41,0:14:18.33,GJM_Main,,0,0,0,,Nothing's changed. I hate magic.
+Dialogue: 10,0:14:14.41,0:14:18.33,GJM_Main,,0,0,0,,Nothing's changed. I hate magic.{ep1 preview line}
 Dialogue: 10,0:14:18.33,0:14:19.91,GJM_Main,,0,0,0,,Hitomi!
 Dialogue: 10,0:14:21.74,0:14:24.04,GJM_Main,,0,0,0,,So you were here, Hitomi.
 Dialogue: 10,0:14:24.04,0:14:26.93,GJM_Main,,0,0,0,,Sorry things got a bit awkward up there.
@@ -282,7 +282,7 @@ Dialogue: 10,0:15:29.66,0:15:32.61,GJM_Main,,0,0,0,,Our Prez loves traditional f
 Dialogue: 10,0:15:33.79,0:15:36.62,GJM_Main,,0,0,0,,Here we can develop our own photos.
 Dialogue: 10,0:15:36.62,0:15:39.88,GJM_Main,,0,0,0,,Though we can't do anything \Nbesides monochrome ones.
 Dialogue: 10,0:15:39.88,0:15:41.00,GJM_Main,,0,0,0,,Monochrome...
-Dialogue: 10,0:15:43.07,0:15:44.96,GJM_Main,,0,0,0,,Do you like cameras, Hitomi?
+Dialogue: 10,0:15:43.07,0:15:44.96,GJM_Main,,0,0,0,,Do you like cameras, Hitomi?{ep1 preview line}
 Dialogue: 10,0:15:45.31,0:15:47.94,GJM_Main,,0,0,0,,Well, I don't really know anything...
 Dialogue: 10,0:15:47.94,0:15:52.35,GJM_Main,,0,0,0,,Asagi's family runs a photo studio\N and Yamabuki works there.
 Dialogue: 10,0:15:52.35,0:15:55.41,GJM_Main,,0,0,0,,They're both very smart,\N so feel free to ask them anything.
@@ -358,13 +358,13 @@ Dialogue: 10,0:21:35.32,0:21:39.24,GJM_Main,,0,0,0,,{\i1}I never thought someone
 Dialogue: 10,0:21:39.73,0:21:41.94,GJM_Main,,0,0,0,,Could you show me your magic again?
 Dialogue: 10,0:21:43.43,0:21:47.16,GJM_Main,,0,0,0,,{\i1}I never thought someone would \Never be happy to see my magic.
 Dialogue: 10,0:21:48.95,0:21:51.87,GJM_Main,,0,0,0,,{\i1}I... hate magic.
-Dialogue: 10,0:23:52.53,0:23:54.61,GJM_Main,,0,0,0,,There she is! A cute girl!
-Dialogue: 10,0:23:54.61,0:23:56.04,GJM_Main,,0,0,0,,Hm? Did you mean me?
-Dialogue: 10,0:23:56.04,0:23:58.12,GJM_Main,,0,0,0,,No way! No, no, no!
-Dialogue: 10,0:23:58.12,0:24:00.12,GJM_Main,,0,0,0,,After all this, we got no new members?
-Dialogue: 10,0:24:00.12,0:24:02.38,GJM_Main,,0,0,0,,Maybe you didn't understand?
-Dialogue: 10,0:24:02.38,0:24:03.74,GJM_Main,,0,0,0,,Why?
-Dialogue: 10,0:24:03.74,0:24:06.51,GJM_Main,,0,0,0,,It's definitely the power of magic, isn't it?
+Dialogue: 10,0:23:52.53,0:23:54.61,GJM_Main,,0,0,0,,I see one! A cute girl!{ep3, 12:23}
+Dialogue: 10,0:23:54.61,0:23:56.04,GJM_Main,,0,0,0,,Hm? Did you mean me?{ep3, 12:04}
+Dialogue: 10,0:23:56.04,0:23:58.12,GJM_Main,,0,0,0,,No way! No, no, no!{ep3, 12:30}
+Dialogue: 10,0:23:58.12,0:24:00.12,GJM_Main,,0,0,0,,In the end, we still have zero new members.{ep3, 18:37}
+Dialogue: 10,0:24:00.12,0:24:02.38,GJM_Main,,0,0,0,,Could you... not tell?{ep3, 16:26}
+Dialogue: 10,0:24:02.38,0:24:03.74,GJM_Main,,0,0,0,,How did you...{ep3, 16:34}
+Dialogue: 10,0:24:03.74,0:24:06.51,GJM_Main,,0,0,0,,It's definitely the power of magic, isn't it?{ep3, 18:20}
 Comment: 0,0:24:06.51,0:24:08.51,GJM_Main,,0,0,0,,OP
 Dialogue: 3,0:01:16.84,0:01:23.68,IrozukuOP,,0,0,0,,{\blur3\t(0,350,\blur0.5)\fad(200,250)\c&HFFFFFF&\t(821,1071,\c&HB5E3E9&)\t(1071,1238,\c&H7F81AF&)\t(1238,1363,\c&HAA9B88&)\t(1363,2500,\c&HFFFFFF&)}Many nights I felt like I'd lost my sense of self, my heart and soul
 Dialogue: 2,0:01:16.84,0:01:23.68,IrozukuOP,,0,0,0,,{\blur10\bord6\t(0,350,\bord2\blur1)\fad(200,250)\c&HC09A01&\3c&HC09A01&\t(821,1071,\c&H183B7C&\3c&H183B7C&)\t(1071,1238,\c&H0D2149&\3c&H0D2149&)\t(1238,1363,\c&H211E1A&\3c&H211E1A&)\t(1363,2500,\c&HC09A01&\3c&HC09A01&)}Many nights I felt like I'd lost my sense of self, my heart and soul
@@ -453,4 +453,3 @@ Dialogue: 0,0:16:49.53,0:16:52.53,iFanzSigns,,0,0,0,,{\an7\pos(243.334,389)\fs66
 Dialogue: 1,0:24:04.00,0:24:06.92,iFanzSigns,,0,0,0,,{\an6\pos(515.933,208.333)\fnBaramond\fs47\b0\c&H000000&\blur0.4\fad(276,0)}Episode 3
 Dialogue: 0,0:24:04.00,0:24:06.92,iFanzSigns,,0,0,0,,{\an6\pos(515.933,208.333)\fnBaramond\fs47\b0\1a&HAF&\blur8\fad(276,0)}Episode 3
 Dialogue: 0,0:24:04.00,0:24:06.92,iFanzSigns,,0,0,0,,{\an6\pos(515.933,208.333)\fnBaramond\fs47\b0\1a&H50&\blur8\fad(276,0)}Episode 3
-Comment: 0,0:24:12.51,0:24:14.51,GJM_Main,,0,0,0,,

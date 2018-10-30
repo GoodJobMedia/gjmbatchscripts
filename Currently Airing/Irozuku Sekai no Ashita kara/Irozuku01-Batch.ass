@@ -16,9 +16,9 @@ Video File: E:/GJM/Irozuku Sekai no Ashita kara/01/irozuku01_premux_v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 244
-Active Line: 245
-Video Position: 8973
+Scroll Position: 328
+Active Line: 343
+Video Position: 34556
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -368,12 +368,12 @@ Dialogue: 10,0:20:29.98,0:20:30.83,GJM_Main,,0,0,0,,What?
 Dialogue: 10,0:20:31.63,0:20:33.33,GJM_Main,,0,0,0,,I'm off.
 Dialogue: 10,0:21:55.25,0:21:57.64,GJM_Main,,0,0,0,,{\i1}I can see... colors.
 Dialogue: 10,0:22:07.99,0:22:08.59,GJM_Main,,0,0,0,,Who are you?
-Dialogue: 10,0:23:52.55,0:23:54.88,GJM_Main,,0,0,0,,{\i1}What did I come here for?
-Dialogue: 10,0:23:54.88,0:23:59.17,GJM_Main,,0,0,0,,Don't worry, when the time comes, you'll know.
-Dialogue: 10,0:23:59.17,0:24:00.04,GJM_Main,,0,0,0,,Do you like cameras?
-Dialogue: 10,0:24:00.04,0:24:01.26,GJM_Main,,0,0,0,,Hey, it's Yuito's girlfriend!
-Dialogue: 10,0:24:01.26,0:24:04.43,GJM_Main,,0,0,0,,Will you show me your magic?
-Dialogue: 10,0:24:04.43,0:24:06.51,GJM_Main,,0,0,0,,I hate magic.
+Dialogue: 10,0:23:52.55,0:23:54.88,GJM_Main,,0,0,0,,{\i1}What did I even come here for?{ep2, 07:23}
+Dialogue: 10,0:23:54.88,0:23:59.17,GJM_Main,,0,0,0,,Don't worry, when the time comes, you'll know.{ep2, 05:49}
+Dialogue: 10,0:23:59.17,0:24:00.04,GJM_Main,,0,0,0,,Do you like cameras?{ep2, 15:43}
+Dialogue: 10,0:24:00.04,0:24:01.26,GJM_Main,,0,0,0,,It's Yuito's girlfriend!{ep2, 10:30}
+Dialogue: 10,0:24:01.26,0:24:04.43,GJM_Main,,0,0,0,,Will you show us your magic?{ep2, 11:59}
+Dialogue: 10,0:24:04.43,0:24:06.51,GJM_Main,,0,0,0,,I hate magic.{ep2, 14:14}
 Comment: 0,0:24:06.51,0:24:08.51,GJM_Main,,0,0,0,,OP
 Dialogue: 2,0:22:35.83,0:22:42.67,IrozukuOP,,0,0,0,,{\4a&HFF&\blur0.5\fad(120,120)}Many nights I felt like I'd lost my sense of self, my heart and soul
 Dialogue: 2,0:22:43.04,0:22:49.93,IrozukuOP,,0,0,0,,{\4a&HFF&\blur0.5\fad(120,120)}Many nights I felt like there was no love left for me anymore

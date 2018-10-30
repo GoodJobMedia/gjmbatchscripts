@@ -15,10 +15,10 @@ Audio File: E:/GJM/Irozuku Sekai no Ashita kara/03/irozuku03_premux.mkv
 Video File: E:/GJM/Irozuku Sekai no Ashita kara/03/irozuku03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 399
-Active Line: 404
-Video Position: 1825
+Video Zoom Percent: 0.625000
+Scroll Position: 362
+Active Line: 381
+Video Position: 34633
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -254,7 +254,7 @@ Dialogue: 10,0:11:52.59,0:11:54.40,GJM_Main,,0,0,0,,I'll leave the photo shoot t
 Dialogue: 10,0:11:54.40,0:11:55.77,GJM_Main,,0,0,0,,G-Got it!
 Dialogue: 10,0:11:55.77,0:11:57.72,GJM_Main,,0,0,0,,And Kawai can be the host!
 Dialogue: 10,0:11:57.72,0:12:01.20,GJM_Main,,0,0,0,,Hey, wait! Who's gonna be the model, then?
-Dialogue: 10,0:12:04.64,0:12:06.80,GJM_Main,,0,0,0,,Oh, my. Are you thinking of me?
+Dialogue: 10,0:12:04.64,0:12:06.80,GJM_Main,,0,0,0,,Oh, my. Are you thinking of me?{ep2 preview line}
 Dialogue: 10,0:12:06.80,0:12:07.98,GJM_Main,,0,0,0,,No one said that.
 Dialogue: 10,0:12:07.98,0:12:09.34,GJM_Main,,0,0,0,,Chigusa's no good.
 Dialogue: 10,0:12:09.34,0:12:10.76,GJM_Main,,0,0,0,,Why not?
@@ -263,9 +263,9 @@ Dialogue: 10,0:12:11.91,0:12:14.08,GJM_Main,,0,0,0,,Huh? But I am cute.
 Dialogue: 10,0:12:14.08,0:12:14.71,GJM_Main,,0,0,0,,Right?
 Dialogue: 10,0:12:14.71,0:12:16.24,GJM_Main,,0,0,0,,No way!
 Dialogue: 10,0:12:16.24,0:12:19.35,GJM_Main,,0,0,0,,The people would much rather have a female model.
-Dialogue: 10,0:12:21.01,0:12:23.55,GJM_Main,,0,0,0,,I see one! A cute girl!
+Dialogue: 10,0:12:21.01,0:12:23.55,GJM_Main,,0,0,0,,I see one! A cute girl!{ep2 preview line}
 Dialogue: 10,0:12:23.55,0:12:24.57,GJM_Main,,0,0,0,,Huh?
-Dialogue: 10,0:12:30.26,0:12:32.69,GJM_Main,,0,0,0,,No way! No, no, no!
+Dialogue: 10,0:12:30.26,0:12:32.69,GJM_Main,,0,0,0,,No way! No, no, no!{ep2 preview line}
 Dialogue: 10,0:12:32.69,0:12:34.73,GJM_Main,,0,0,0,,Th-There's no way I can be a model.
 Dialogue: 10,0:12:34.73,0:12:37.02,GJM_Main,,0,0,0,,You'll be fine! All you have to do is walk!
 Dialogue: 10,0:12:37.02,0:12:38.73,GJM_Main,,0,0,0,,Even three minutes is fine! I'm begging you!
@@ -316,10 +316,10 @@ Dialogue: 10,0:16:08.33,0:16:10.12,GJM_Main,,0,0,0,,We're really sorry about wha
 Dialogue: 10,0:16:10.96,0:16:13.86,GJM_Main,,0,0,0,,We pressured you into doing it.
 Dialogue: 10,0:16:14.45,0:16:18.12,GJM_Main,,0,0,0,,I should have declined more clearly.
 Dialogue: 10,0:16:18.12,0:16:20.50,GJM_Main,,0,0,0,,I'm also sorry.
-Dialogue: 10,0:16:26.74,0:16:29.20,GJM_Main,,0,0,0,,Could you... not tell?
+Dialogue: 10,0:16:26.74,0:16:29.20,GJM_Main,,0,0,0,,Could you... not tell?{ep2 preview line}
 Dialogue: 10,0:16:29.20,0:16:29.95,GJM_Main,,0,0,0,,Huh?
 Dialogue: 10,0:16:30.53,0:16:31.72,GJM_Main,,0,0,0,,The color.
-Dialogue: 10,0:16:34.26,0:16:35.47,GJM_Main,,0,0,0,,How did you...
+Dialogue: 10,0:16:34.26,0:16:35.47,GJM_Main,,0,0,0,,How did you...{ep2 preview line}
 Dialogue: 10,0:16:35.47,0:16:37.76,GJM_Main,,0,0,0,,I had a hunch after what I saw.
 Dialogue: 10,0:16:38.73,0:16:43.98,GJM_Main,,0,0,0,,The use of colors in your artwork \Nand grabbing the wrong colored stardust.
 Dialogue: 10,0:16:44.36,0:16:47.38,GJM_Main,,0,0,0,,You seemed lost when you were painting.
@@ -345,11 +345,11 @@ Dialogue: 10,0:18:06.94,0:18:09.61,GJM_Main,,0,0,0,,The vice principal really ch
 Dialogue: 10,0:18:09.61,0:18:11.98,GJM_Main,,0,0,0,,Well, obviously.
 Dialogue: 10,0:18:11.98,0:18:15.43,GJM_Main,,0,0,0,,We did something terrible to Hitomi.
 Dialogue: 10,0:18:15.43,0:18:19.82,GJM_Main,,0,0,0,,But how come she was walking on water \Neven though she got the wrong stardust?
-Dialogue: 10,0:18:20.13,0:18:24.08,GJM_Main,,0,0,0,,It's definitely the power of magic, isn't it? \NHer own magic.
+Dialogue: 10,0:18:20.13,0:18:24.08,GJM_Main,,0,0,0,,It's definitely the power of magic, isn't it? \NHer own magic.{ep2 preview line}
 Dialogue: 10,0:18:24.08,0:18:26.71,GJM_Main,,0,0,0,,By the way, did Tsukishiro say anything?
 Dialogue: 10,0:18:27.29,0:18:30.12,GJM_Main,,0,0,0,,All she said was that it was her fault.
 Dialogue: 10,0:18:30.12,0:18:35.31,GJM_Main,,0,0,0,,After what's happened, \NI don't think she'll be joining our club.
-Dialogue: 10,0:18:37.85,0:18:40.26,GJM_Main,,0,0,0,,In the end, we still have zero new members.
+Dialogue: 10,0:18:37.85,0:18:40.26,GJM_Main,,0,0,0,,In the end, we still have zero new members.{ep2 preview line}
 Dialogue: 10,0:18:40.26,0:18:42.97,GJM_Main,,0,0,0,,Um, aren't you guys forgetting about me?
 Dialogue: 10,0:18:57.97,0:18:59.78,GJM_Main,,0,0,0,,Hi, Hitomi!
 Dialogue: 10,0:19:00.65,0:19:01.66,GJM_Main,,0,0,0,,Um—
@@ -406,12 +406,12 @@ Comment: 10,0:22:03.58,0:22:05.30,GJM_Main,,0,0,0,,{###}{can't hear this}
 Dialogue: 10,0:22:05.30,0:22:08.80,GJM_Main,,0,0,0,,I'm never letting you go again!
 Comment: 10,0:22:05.73,0:22:07.49,GJM_Overlap,,0,0,0,,{###}{can't hear this either}
 Dialogue: 10,0:22:07.49,0:22:08.80,GJM_Overlap,,0,0,0,,{\an8}Emotions sure are running high.
-Dialogue: 10,0:23:52.46,0:23:54.10,GJM_Main,,0,0,0,,You're my grandchild, huh?
-Dialogue: 10,0:23:54.10,0:23:55.48,GJM_Main,,0,0,0,,So you're both Tsukishiro?
-Dialogue: 10,0:23:55.48,0:23:56.95,GJM_Main,,0,0,0,,School at night seems cool.
-Dialogue: 10,0:23:56.95,0:24:00.21,GJM_Main,,0,0,0,,I can't really tell because it's the same as usual.
-Dialogue: 10,0:24:00.21,0:24:04.45,GJM_Main,,0,0,0,,Even if it's the same, you'll find something\N new if you see it through a photo.
-Dialogue: 10,0:24:04.45,0:24:06.67,GJM_Main,,0,0,0,,We got one! A ghost photo!
+Dialogue: 10,0:23:52.46,0:23:54.10,GJM_Main,,0,0,0,,And you must be my precious little granddaughter.{ep4, 00:38}
+Dialogue: 10,0:23:54.10,0:23:55.48,GJM_Main,,0,0,0,,—you're both Tsukishiro.{ep4, 13:46}
+Dialogue: 10,0:23:55.48,0:23:56.95,GJM_Main,,0,0,0,,School at night seems cool.{ep4, 11:11}
+Dialogue: 10,0:23:56.95,0:24:00.21,GJM_Main,,0,0,0,,—it's the same as always, \Nso I don't really understand.{ep4, 15:55}
+Dialogue: 10,0:24:00.21,0:24:04.45,GJM_Main,,0,0,0,,Even if the scenery's mundane, \Ntaking a photo might let you find something new.{ep4, 07:06}
+Dialogue: 10,0:24:04.45,0:24:06.67,GJM_Main,,0,0,0,,We got one! A ghost photo!{ep4, 16:39}
 Comment: 0,0:24:00.00,0:24:00.00,GJM_Main,,0,0,0,,OP
 Dialogue: 3,0:00:39.89,0:00:46.73,IrozukuOP,,0,0,0,,{\blur3\t(0,350,\blur0.5)\fad(200,250)\c&HFFFFFF&\t(821,1071,\c&HB5E3E9&)\t(1071,1238,\c&H7F81AF&)\t(1238,1363,\c&HAA9B88&)\t(1363,2500,\c&HFFFFFF&)}Many nights I felt like I'd lost my sense of self, my heart and soul
 Dialogue: 2,0:00:39.89,0:00:46.73,IrozukuOP,,0,0,0,,{\blur10\bord6\t(0,350,\bord2\blur1)\fad(200,250)\c&HC09A01&\3c&HC09A01&\t(821,1071,\c&H183B7C&\3c&H183B7C&)\t(1071,1238,\c&H0D2149&\3c&H0D2149&)\t(1238,1363,\c&H211E1A&\3c&H211E1A&)\t(1363,2500,\c&HC09A01&\3c&HC09A01&)}Many nights I felt like I'd lost my sense of self, my heart and soul
