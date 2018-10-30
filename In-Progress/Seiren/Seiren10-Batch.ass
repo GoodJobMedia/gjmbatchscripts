@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: Premux - Seiren - 10 [BFCA0BDE].mkv
-Video File: Premux - Seiren - 10 [BFCA0BDE].mkv
-Keyframes File: Premux - Seiren - 10 [BFCA0BDE]_keyframes.log
+Audio File: E:/GJM/Seiren/10/Premux - Seiren - 10 [BFCA0BDE].mkv
+Video File: E:/GJM/Seiren/10/Premux - Seiren - 10 [BFCA0BDE].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 338
-Active Line: 350
-Video Position: 26509
+Video Zoom Percent: 0.750000
+Scroll Position: 410
+Active Line: 414
+Video Position: 34061
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -448,7 +447,7 @@ Dialogue: 10,0:21:32.14,0:21:34.94,GJM_Main,,0,0,0,,I don't mind if he goes on a
 Dialogue: 10,0:21:34.94,0:21:39.38,GJM_Main,,0,0,0,,But I never want him getting\N mocked because of me.
 Dialogue: 10,0:21:39.38,0:21:42.81,GJM_Main,,0,0,0,,And I just don't know what \Nto do if that's what happened.
 Dialogue: 10,0:21:43.93,0:21:46.99,GJM_Main,,0,0,0,,If that's how you feel, then fine.
-Dialogue: 10,0:23:40.62,0:23:41.77,GJM_Main,,0,0,0,,Preview.
+Dialogue: 10,0:23:40.62,0:23:41.77,GJM_Main,,0,0,0,,Preview time.
 Dialogue: 10,0:23:42.38,0:23:45.66,GJM_Main,,0,0,0,,Why are you wearing Locust Mask pajamas, Nao?
 Dialogue: 10,0:23:45.66,0:23:49.28,GJM_Main,,0,0,0,,Kamita donated them to us, \Nbut I just couldn't bring myself to reuse them.
 Dialogue: 10,0:23:49.28,0:23:53.03,GJM_Main,,0,0,0,,No can do! You can't misappropriate donations!
@@ -477,26 +476,26 @@ Comment: 0,0:24:11.88,0:24:13.88,GJM_Main,,0,0,0,,ED
 Dialogue: 1,0:22:10.26,0:22:16.81,ED3,,0,0,0,,{\fad(120,140)\be4}I wonder if following the theory of love is the right thing to do...
 Dialogue: 1,0:22:25.61,0:22:32.28,ED3,,0,0,0,,{\fad(120,140)\be4}I undo my ponytail and sigh in the mirror
 Dialogue: 1,0:22:32.28,0:22:39.29,ED3,,0,0,0,,{\fad(120,140)\be4}I wonder how I look in your eyes
-Dialogue: 1,0:22:39.79,0:22:46.55,ED3,,0,0,0,,{\fad(120,140)\be4}I keep waiting for things to get exciting, just like in those girly comics
+Dialogue: 1,0:22:39.79,0:22:46.55,ED3,,0,0,0,,{\fad(120,140)\be4}I can feel exciting things coming, just like in those girly comics
 Dialogue: 1,0:22:46.55,0:22:52.93,ED3,,0,0,0,,{\fad(120,140)\be4}I put on my usual facade, wondering if you can see through me
 Dialogue: 1,0:22:52.93,0:22:56.47,ED3,,0,0,0,,{\fad(120,140)\be4}Even though you were closer than anyone else
 Dialogue: 1,0:22:56.47,0:23:00.02,ED3,,0,0,0,,{\fad(120,140)\be4}Even though we were getting along better than anyone else
 Dialogue: 1,0:23:00.02,0:23:06.94,ED3,,0,0,0,,{\fad(120,140)\be4}For some reason, until yesterday the distance between us was somewhat painful
 Dialogue: 1,0:23:07.19,0:23:14.95,ED3,,0,0,0,,{\fad(120,140)\be4}According to the theory of love, a girl grows up every time her heart skips a beat
 Dialogue: 1,0:23:14.95,0:23:21.33,ED3,,0,0,0,,{\fad(120,140)\be4}I'm not a child anymore, and yet I don't know how to react when you praise me
-Dialogue: 1,0:23:21.33,0:23:29.09,ED3,,0,0,0,,{\fad(120,140)\be4}Don't make me worry, just take my hand and never let it go
+Dialogue: 1,0:23:21.33,0:23:29.09,ED3,,0,0,0,,{\fad(120,140)\be4}"Don't make me worry", you say, as you take my hand and never let it go
 Dialogue: 1,0:23:29.09,0:23:38.56,ED3,,0,0,0,,{\fad(120,140)\be4}Let's fall into eternal love, to the sound of our pounding hearts
 Dialogue: 0,0:22:10.26,0:22:16.81,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}I wonder if following the theory of love is the right thing to do...
 Dialogue: 0,0:22:25.61,0:22:32.28,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}I undo my ponytail and sigh in the mirror
 Dialogue: 0,0:22:32.28,0:22:39.29,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}I wonder how I look in your eyes
-Dialogue: 0,0:22:39.79,0:22:46.55,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}I keep waiting for things to get exciting, just like in those girly comics
+Dialogue: 0,0:22:39.79,0:22:46.55,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}I can feel exciting things coming, just like in those girly comics
 Dialogue: 0,0:22:46.55,0:22:52.93,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}I put on my usual facade, wondering if you can see through me
 Dialogue: 0,0:22:52.93,0:22:56.47,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}Even though you were closer than anyone else
 Dialogue: 0,0:22:56.47,0:23:00.02,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}Even though we were getting along better than anyone else
 Dialogue: 0,0:23:00.02,0:23:06.94,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}For some reason, until yesterday the distance between us was somewhat painful
 Dialogue: 0,0:23:07.19,0:23:14.95,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}According to the theory of love, a girl grows up every time her heart skips a beat
 Dialogue: 0,0:23:14.95,0:23:21.33,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}I'm not a child anymore, and yet I don't know how to react when you praise me
-Dialogue: 0,0:23:21.33,0:23:29.09,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}Don't make me worry, just take my hand and never let it go
+Dialogue: 0,0:23:21.33,0:23:29.09,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}"Don't make me worry", you say, as you take my hand and never let it go
 Dialogue: 0,0:23:29.09,0:23:38.56,ED3,,0,0,0,,{\fad(120,140)\be4\bord8\3c&HFFFFFF&}Let's fall into eternal love, to the sound of our pounding hearts
 Comment: 0,0:24:13.88,0:24:15.88,GJM_Main,,0,0,0,,TS
 Dialogue: 0,0:00:54.74,0:00:54.78,iFSigns,Title,0,0,0,,{\an7\pos(1082.35,-36.35)\fscx48.85\fscy48.85\c&H6519EE&\alpha&HC7&\blur1\p1}m -42.9 76.31 b -31.85 65.48 14.76 20.16 33.49 7.31 33.65 7.2 33.79 7.08 33.93 6.95 37.76 3.35 91.05 -47.71 60.77 -72.32 60.73 -72.34 60.7 -72.37 60.67 -72.39 59.3 -73.35 30.84 -92.36 -4.87 -42.57 -5.61 -41.54 -7.21 -41.81 -7.55 -43.04 -10.5 -53.58 -22.59 -84.7 -56.22 -48.79 -56.26 -48.75 -56.29 -48.71 -56.33 -48.67 -57.5 -47.13 -80.78 -15.94 -61.28 19.65 -61.28 19.65 -47.72 43.03 -45.47 75.33 -45.38 76.62 -43.83 77.21 -42.9 76.31
