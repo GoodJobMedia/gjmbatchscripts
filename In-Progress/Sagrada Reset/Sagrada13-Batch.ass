@@ -32,9 +32,9 @@ Style: Sagrada-OP,Kozuka Mincho Pr6N M-EN,60,&H00FFFFFF,&H000000FF,&H00CBBD4C,&H
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:11.68,0:00:14.24,GJM_Main_1080p,Kei,0,0,0,,What is that thing?{ep 12}
-Dialogue: 10,0:00:14.24,0:00:15.41,GJM_Main_1080p,Haruki,0,0,0,,A monster.{ep 12}
+Dialogue: 10,0:00:14.24,0:00:15.41,GJM_Main_1080p,Haruki,0,0,0,,The monster.{ep 12}
 Dialogue: 10,0:00:16.83,0:00:19.32,GJM_Main_1080p,Kei,0,0,0,,Do you know what it is?{ep 12}
-Dialogue: 10,0:00:19.32,0:00:21.50,GJM_Main_1080p,Haruki,0,0,0,,A monster is a monster.{ep 12}
+Dialogue: 10,0:00:19.32,0:00:21.50,GJM_Main_1080p,Haruki,0,0,0,,The monster is the monster.{ep 12}
 Dialogue: 10,0:00:21.50,0:00:25.00,GJM_Main_1080p,Haruki,0,0,0,,Appears during nighttime and destroys the world.{ep 12}
 Dialogue: 10,0:00:25.86,0:00:27.34,GJM_Main_1080p,Kei,0,0,0,,How do you know that?
 Dialogue: 10,0:00:28.52,0:00:30.51,GJM_Main_1080p,Kei,0,0,0,,{\i1}Haruki woke up.
