@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: Sagrada Reset - 13 Premux [8BD0DEA9].mkv
-Video File: Sagrada Reset - 13 Premux [8BD0DEA9].mkv
-Keyframes File: Sagrada Reset - 13 WorkRaw_keyframes.log
+Audio File: E:/GJM/Sagrada Reset/13/Sagrada Reset - 13 Premux [8BD0DEA9].mkv
+Video File: E:/GJM/Sagrada Reset/13/Sagrada Reset - 13 Premux [8BD0DEA9].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 350
-Active Line: 355
-Video Position: 2047
+Video Zoom Percent: 0.500000
+Scroll Position: 1012
+Active Line: 1016
+Video Position: 6478
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1047,6 +1046,6 @@ Dialogue: 0,0:23:25.30,0:23:26.00,SagradaED2,,0,0,0,,{\3c&H19126C&\be3}But I bel
 Dialogue: 0,0:23:26.00,0:23:27.51,SagradaED2,,0,0,0,,{\be3\fad(0,200)}But I believe you have the key
 Dialogue: 0,0:23:28.30,0:23:33.85,SagradaED2,,0,0,0,,{\be3\fad(140,200)}To let my soul be free
 Comment: 0,0:22:13.28,0:22:15.28,GJM_Main_1080p,,0,0,0,,TS
-Dialogue: 0,0:04:30.16,0:04:32.91,ShikawaSigns,,0,0,0,,{\an4\fnFOT-MatisseMinori Pro DB\fs80\blur0.75\c&H0C0C0C&\pos(539.657,365.000)}September 24th
-Dialogue: 0,0:04:30.16,0:04:32.91,ShikawaSigns,,0,0,0,,{\an6\fnFOT-MatisseMinori Pro DB\fs80\blur0.75\c&H0C0C0C&\pos(1352.571,365)}Sunday
+Dialogue: 0,0:04:30.16,0:04:32.91,ShikawaSigns,,0,0,0,,{\an4\fnFOT-MatisseMinori Pro DB\fs80\blur0.75\c&H0C0C0C&\pos(558.501,365)}September 24th
+Dialogue: 0,0:04:30.16,0:04:32.91,ShikawaSigns,,0,0,0,,{\an6\fnFOT-MatisseMinori Pro DB\fs80\blur0.75\c&H0C0C0C&\pos(1373.371,365)}Sunday
 Dialogue: 0,0:21:54.79,0:21:56.37,ShikawaSigns,,0,0,0,,{\pos(963,620)\fnFOT-MatisseMinori Pro DB\fs90\blur0.5\c&H040304&}Next Episode
