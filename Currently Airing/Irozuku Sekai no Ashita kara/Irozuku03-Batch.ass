@@ -16,9 +16,9 @@ Video File: E:/GJM/Irozuku Sekai no Ashita kara/03/irozuku03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 362
-Active Line: 381
-Video Position: 34633
+Scroll Position: 321
+Active Line: 331
+Video Position: 28193
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -361,7 +361,7 @@ Dialogue: 10,0:19:22.18,0:19:25.08,GJM_Main,,0,0,0,,What happened? Is Hitomi the
 Dialogue: 10,0:19:25.08,0:19:29.69,GJM_Main,,0,0,0,,Well... she ran away as soon as class ended.
 Dialogue: 10,0:19:29.69,0:19:32.24,GJM_Main,,0,0,0,,Maybe she's avoiding us.
 Dialogue: 10,0:19:32.24,0:19:33.95,GJM_Main,,0,0,0,,Can't blame her.
-Dialogue: 10,0:19:33.95,0:19:35.47,GJM_Main,,0,0,0,,She must be lonely.
+Dialogue: 10,0:19:33.95,0:19:35.47,GJM_Main,,0,0,0,,That's so sad.{###}
 Dialogue: 10,0:19:46.97,0:19:51.36,GJM_Main,,0,0,0,,{\i1}I have to face them. I have to talk to them.
 Dialogue: 10,0:19:51.36,0:19:54.75,GJM_Main,,0,0,0,,{\i1}Just like magic, it's important \Nto make a good impression.
 Dialogue: 10,0:20:10.91,0:20:13.65,GJM_Main,,0,0,0,,Chigusa! Put in some more \Neffort and polish it real good!
