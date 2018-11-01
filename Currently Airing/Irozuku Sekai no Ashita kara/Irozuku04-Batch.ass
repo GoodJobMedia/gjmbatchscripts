@@ -16,9 +16,9 @@ Video File: E:/GJM/Irozuku Sekai no Ashita kara/04/irozuku04_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 279
-Active Line: 283
-Video Position: 22442
+Scroll Position: 656
+Active Line: 657
+Video Position: 15652
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,7 +121,7 @@ Dialogue: 10,0:06:22.15,0:06:22.90,GJM_Main,,0,0,0,,Welcome.
 Dialogue: 10,0:06:24.37,0:06:27.75,GJM_Main,,0,0,0,,I'll have the baked cheesecake \Nset with a tangerine juice.
 Dialogue: 10,0:06:27.75,0:06:29.66,GJM_Main,,0,0,0,,I'll also have the same.
 Dialogue: 10,0:06:29.66,0:06:31.28,GJM_Main,,0,0,0,,Me too.
-Dialogue: 10,0:06:31.28,0:06:33.91,GJM_Main,,0,0,0,,I'll have a custard with a herbal tea, please.
+Dialogue: 10,0:06:31.28,0:06:33.91,GJM_Main,,0,0,0,,I'll have a castella with a herbal tea, please.
 Dialogue: 10,0:06:33.91,0:06:35.41,GJM_Main,,0,0,0,,Right away.
 Dialogue: 10,0:06:36.66,0:06:39.67,GJM_Main,,0,0,0,,On today's agenda is deciding what we're\N going to display at the cultural festival.
 Dialogue: 10,0:06:39.67,0:06:41.86,GJM_Main,,0,0,0,,I was talking with Yuito the \Nother day, and we thought that
@@ -178,7 +178,7 @@ Dialogue: 10,0:08:47.75,0:08:51.85,GJM_Main,,0,0,0,,{Kazano}He's our mascot. His
 Dialogue: 10,0:08:47.74,0:08:51.82,GJM_Overlap,,0,0,0,,{Shou}{\an8}The camera you're holding is a basic one.
 Dialogue: 10,0:08:51.82,0:08:57.90,GJM_Overlap,,0,0,0,,{Shou}{\an8}Basically all it does is takes photos.
 Dialogue: 10,0:08:57.90,0:08:58.43,GJM_Overlap,,0,0,0,,{Hitomi}{\an8}I see.
-Dialogue: 10,0:08:51.85,0:08:56.84,GJM_Main,,0,0,0,,{Kohaku} So fluffy! I'm so jealous! I wanna own him!
+Dialogue: 10,0:08:51.85,0:08:56.84,GJM_Main,,0,0,0,,{Kohaku} So fluffy! I'm so jealous! I wanna cuddle him!
 Dialogue: 10,0:08:56.84,0:08:58.43,GJM_Main,,0,0,0,,{Kazano} I know, right?
 Dialogue: 10,0:08:58.43,0:09:03.18,GJM_Main,,0,0,0,,Sometimes we bring him over,\N so please do come and see him.
 Dialogue: 10,0:09:03.57,0:09:06.11,GJM_Main,,0,0,0,,{Shou}Don't worry too much about the complex stuff.
@@ -688,7 +688,7 @@ Dialogue: 0,0:09:25.46,0:09:27.71,iFanzSigns,,0,0,0,,{\pos(-357.772,788.37)\org(
 Dialogue: 0,0:09:25.46,0:09:27.71,iFanzSigns,,0,0,0,,{\pos(-357.772,878.37)\org(883.4,1025.3)\frz-22.35\fry-0.54\frx6.85\fay0.06\fnKozuka Gothic Pr6N R\fs19\c&H3C3D3D&\blur0.7}Third
 Dialogue: 0,0:10:52.00,0:10:55.00,iFanzSigns,,0,0,0,,{\pos(641,101.666)\fscx1290\fscy227\blur0.5\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:10:52.00,0:10:55.00,iFanzSigns,,0,0,0,,{\pos(640,68)\fnBaramond\fs37\b0\c&H000000&\blur0.5}Episode 4
-Dialogue: 1,0:10:52.00,0:10:55.00,iFanzSigns,,0,0,0,,{\pos(640,129)\fnBaramond\fs67\b0\c&H000000&\blur0.5}Grandma, Stop!
+Dialogue: 1,0:10:52.00,0:10:55.00,iFanzSigns,,0,0,0,,{\pos(640,129)\fnBaramond\fs67\b0\c&H000000&\blur0.5}Stop Calling Me Grandma!
 Dialogue: 1,0:11:42.18,0:11:42.22,iFanzSigns,,0,0,0,,{=13}{\pos(639,656)\fnKozuka Gothic Pr6N H\fs23\c&H171803&\blur0.9}Fire Hydrant
 Dialogue: 1,0:11:42.22,0:11:42.26,iFanzSigns,,0,0,0,,{=13}{\pos(639.006,656.189)\fscx100.061\fscy100.061\fnKozuka Gothic Pr6N H\fs23\c&H171803&\blur0.9}Fire Hydrant
 Dialogue: 1,0:11:42.26,0:11:42.30,iFanzSigns,,0,0,0,,{=13}{\pos(639.011,656.378)\fscx100.122\fscy100.122\fnKozuka Gothic Pr6N H\fs23\c&H171803&\blur0.9}Fire Hydrant

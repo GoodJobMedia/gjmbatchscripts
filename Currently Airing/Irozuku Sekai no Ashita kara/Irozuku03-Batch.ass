@@ -16,9 +16,9 @@ Video File: E:/GJM/Irozuku Sekai no Ashita kara/03/irozuku03_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 321
-Active Line: 331
-Video Position: 28193
+Scroll Position: 4513
+Active Line: 4535
+Video Position: 34693
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -4565,5 +4565,5 @@ Dialogue: 2,0:20:07.60,0:20:10.60,iFanzSigns,,0,0,0,,{\pos(372.953,642.553)\frz3
 Dialogue: 1,0:20:07.60,0:20:10.60,iFanzSigns,,0,0,0,,{\pos(372.953,642.553)\frz346.3\fnA Hundred Miles\fs29\c&H6D6D6D&\alpha&HFF&\blur0.6}Be there{\bord2\c&H717174&\3c&H717174&\alpha&H00&} ❤
 Dialogue: 0,0:20:07.60,0:20:10.60,iFanzSigns,,0,0,0,,{\pos(372.953,642.553)\frz346.3\fnA Hundred Miles\fs29\c&H6D6D6D&\1a&HDF&\blur3}Be there ❤
 Dialogue: 0,0:24:04.58,0:24:07.00,iFanzSigns,,0,0,0,,{\pos(640,222.667)\fnBaramond\fs47\b0\c&HE1DDDC&\blur0.5\fad(280,0)}Episode 4
-Dialogue: 0,0:24:04.58,0:24:07.00,iFanzSigns,,0,0,0,,{\pos(640,473.667)\fnBaramond\fs67\b0\c&HE1DDDC&\blur0.5\fad(280,0)}Grandma, Stop!
+Dialogue: 0,0:24:04.58,0:24:07.00,iFanzSigns,,0,0,0,,{\pos(640,473.667)\fnBaramond\fs67\b0\c&HE1DDDC&\blur0.5\fad(280,0)}Stop Calling Me Grandma!
 Dialogue: 0,0:24:12.67,0:24:14.67,GJM_Main,,0,0,0,,
