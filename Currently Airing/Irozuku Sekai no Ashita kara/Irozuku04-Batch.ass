@@ -15,10 +15,10 @@ Audio File: E:/GJM/Irozuku Sekai no Ashita kara/04/irozuku04_premux.mkv
 Video File: E:/GJM/Irozuku Sekai no Ashita kara/04/irozuku04_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 656
-Active Line: 657
-Video Position: 15652
+Video Zoom Percent: 0.875000
+Scroll Position: 225
+Active Line: 231
+Video Position: 19245
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -262,8 +262,8 @@ Dialogue: 10,0:13:06.89,0:13:08.80,GJM_Main,,0,0,0,,How's it going? Think you go
 Dialogue: 10,0:13:09.09,0:13:13.20,GJM_Main,,0,0,0,,That camera's a basic model, \Nand it's easy for night shots to come out blurry,
 Dialogue: 10,0:13:13.20,0:13:14.52,GJM_Main,,0,0,0,,so use this tripod.
 Dialogue: 10,0:13:16.60,0:13:19.72,GJM_Main,,0,0,0,,If you increase the ISO sensitivity too much,\N it might get too noisy.
-Dialogue: 10,0:13:19.72,0:13:22.64,GJM_Main,,0,0,0,,Keep it low to increase the exposure.
-Dialogue: 10,0:13:22.64,0:13:26.23,GJM_Main,,0,0,0,,Oh, you can set the depth{zoom} by using this dial{knob}.
+Dialogue: 10,0:13:19.72,0:13:22.64,GJM_Main,,0,0,0,,Keep it low and increase the exposure time.
+Dialogue: 10,0:13:22.64,0:13:26.23,GJM_Main,,0,0,0,,Oh, you can change the sensitivity using this dial.
 Dialogue: 10,0:13:26.23,0:13:27.03,GJM_Main,,0,0,0,,Okay.
 Dialogue: 10,0:13:28.36,0:13:29.53,GJM_Main,,0,0,0,,Want one?
 Dialogue: 10,0:13:29.53,0:13:31.63,GJM_Main,,0,0,0,,Oh, thank you!
