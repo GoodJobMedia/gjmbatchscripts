@@ -17,8 +17,8 @@ Keyframes File: irozuku05_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 89
-Active Line: 95
+Scroll Position: 204
+Active Line: 310
 Video Position: 8258
 
 [V4+ Styles]
@@ -87,7 +87,7 @@ Dialogue: 10,0:03:30.56,0:03:33.19,GJM_Main,,0,0,0,,Is Asagi's romantic luck rea
 Dialogue: 10,0:03:33.19,0:03:34.96,GJM_Main,,0,0,0,,Um...
 Dialogue: 10,0:03:34.96,0:03:36.57,GJM_Main,,0,0,0,,Do you want the honest truth?
 Dialogue: 10,0:03:37.97,0:03:39.82,GJM_Main,,0,0,0,,Y-Yes, please.
-Dialogue: 10,0:03:39.82,0:03:43.25,GJM_Main,,0,0,0,,If you stay on your current path, \Nyou'll have the terrible luck.
+Dialogue: 10,0:03:39.82,0:03:43.25,GJM_Main,,0,0,0,,If you stay on your current path, \Nyou'll have terrible luck.
 Dialogue: 10,0:03:43.25,0:03:48.58,GJM_Main,,0,0,0,,"A rival shall appear and his \Nfeelings for you shall fade", it says.
 Dialogue: 10,0:03:49.95,0:03:52.32,GJM_Main,,0,0,0,,Well, I wouldn't worry too much!
 Dialogue: 10,0:03:52.32,0:03:54.17,GJM_Main,,0,0,0,,Next! My turn!
@@ -248,7 +248,7 @@ Dialogue: 10,0:12:52.62,0:12:53.63,GJM_Main,,0,0,0,,It's so good!
 Dialogue: 10,0:12:53.63,0:12:54.96,GJM_Main,,0,0,0,,That's a relief.
 Dialogue: 10,0:12:54.96,0:12:57.14,GJM_Main,,0,0,0,,You're so talented!
 Dialogue: 10,0:12:57.14,0:12:59.57,GJM_Main,,0,0,0,,I've always loved baking.
-Dialogue: 10,0:12:59.57,0:13:02.46,GJM_Main,,0,0,0,,Ever since I was a kid, \NI've always been a bit of a shrinking violet.
+Dialogue: 10,0:12:59.57,0:13:02.46,GJM_Main,,0,0,0,,Ever since I was a kid, \NI've always been a bit of a wallflower.
 Dialogue: 10,0:13:02.80,0:13:08.35,GJM_Main,,0,0,0,,I enjoyed being alone, so I'd always just\N play house or look at photos at home.
 Dialogue: 10,0:13:08.35,0:13:09.66,GJM_Main,,0,0,0,,Really?
 Dialogue: 10,0:13:09.66,0:13:12.22,GJM_Main,,0,0,0,,Shou was my only friend.
