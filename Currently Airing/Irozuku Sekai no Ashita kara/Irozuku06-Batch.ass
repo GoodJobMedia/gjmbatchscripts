@@ -32,7 +32,7 @@ Style: iFanzSigns,Daniel,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:02:08.52,0:02:13.70,GJM_Main,,0,0,0,,So these are the things you've said \Nin meetings that you want to do, Kurumi?
-Dialogue: 10,0:02:13.70,0:02:17.78,GJM_Main,,0,0,0,,Yep! I wanna try on a few dresses! \NI have some that are super cute!
+Dialogue: 10,0:02:13.70,0:02:17.78,GJM_Main,,0,0,0,,Yep! I wanna try on a few dresses! \NThey have some super cute ones!
 Dialogue: 10,0:02:16.65,0:02:17.78,GJM_Main,,0,0,0,,{\an8}Thanks for the other day.
 Dialogue: 10,0:02:17.78,0:02:20.05,GJM_Overlap,,0,0,0,,{\an8}But we see some of these places every day...
 Dialogue: 10,0:02:20.05,0:02:22.33,GJM_Overlap,,0,0,0,,{\an8}Well, they are some of our favorite places.
@@ -116,7 +116,7 @@ Dialogue: 10,0:09:27.60,0:09:29.87,GJM_Main,,0,0,0,,How do I get back?
 Dialogue: 10,0:09:31.58,0:09:33.88,GJM_Main,,0,0,0,,Is anyone there?
 Dialogue: 10,0:09:34.89,0:09:37.18,GJM_Main,,0,0,0,,Anyone!
 Dialogue: 10,0:10:42.69,0:10:44.90,GJM_Main,,0,0,0,,Are these also colors?
-Dialogue: 10,0:11:17.02,0:11:18.11,GJM_Main,,0,0,0,,Stop!
+Dialogue: 10,0:11:17.02,0:11:18.11,GJM_Main,,0,0,0,,Oh no!
 Dialogue: 10,0:11:25.70,0:11:27.71,GJM_Main,,0,0,0,,Don't go there!
 Dialogue: 10,0:11:48.38,0:11:50.58,GJM_Main,,0,0,0,,Are you okay, Tsukishiro?
 Dialogue: 10,0:11:55.59,0:11:58.14,GJM_Main,,0,0,0,,I was...
@@ -178,7 +178,7 @@ Dialogue: 10,0:15:33.03,0:15:35.16,GJM_Main,,0,0,0,,What's with the super awkwar
 Dialogue: 10,0:15:35.57,0:15:38.16,GJM_Main,,0,0,0,,That's because Aoi went home
 Dialogue: 10,0:15:38.16,0:15:40.16,GJM_Main,,0,0,0,,and Hitomi seemed like \Nshe was on the verge of tears.
 Dialogue: 10,0:15:40.16,0:15:41.79,GJM_Main,,0,0,0,,I'm very sorry.
-Dialogue: 10,0:15:41.79,0:15:45.29,GJM_Main,,0,0,0,,It's fine! Let's decide which one we're gonna print!
+Dialogue: 10,0:15:41.79,0:15:45.29,GJM_Main,,0,0,0,,It's fine! Let's decide which ones we're gonna print!
 Dialogue: 10,0:15:45.29,0:15:48.20,GJM_Main,,0,0,0,,You are that kind of person, aren't you, Kurumi?
 Dialogue: 10,0:15:48.20,0:15:50.89,GJM_Main,,0,0,0,,Still, I feel like photos like these \Nwill be a source of many great memories
 Dialogue: 10,0:15:50.89,0:15:52.37,GJM_Main,,0,0,0,,when we look back on them a few years from now.
