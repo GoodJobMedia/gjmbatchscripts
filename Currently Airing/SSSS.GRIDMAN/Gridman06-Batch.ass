@@ -16,7 +16,7 @@ Keyframes File: gridman06_premux [71040597]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Active Line: 3
+Active Line: 25
 Video Position: 2299
 
 [V4+ Styles]
@@ -70,7 +70,7 @@ Dialogue: 10,0:02:32.01,0:02:33.53,Gridman_Main,,0,0,0,,Got homework to do.
 Dialogue: 10,0:02:33.53,0:02:35.17,Gridman_Main,,0,0,0,,All of this, in fact.
 Dialogue: 10,0:02:35.17,0:02:36.29,Gridman_Main,,0,0,0,,Huh?
 Dialogue: 10,0:02:36.29,0:02:38.27,Gridman_Main,,0,0,0,,You haven't handed it in?
-Dialogue: 10,0:02:38.27,0:02:41.26,Gridman_Main,,0,0,0,,So much for an early grade...
+Dialogue: 10,0:02:38.27,0:02:41.26,Gridman_Main,,0,0,0,,So much for leaving early...
 Dialogue: 10,0:02:41.26,0:02:43.42,Gridman_Main,,0,0,0,,You'll wait till I'm done, right?
 Dialogue: 10,0:02:44.57,0:02:46.33,Gridman_Main,,0,0,0,,Have fun!
 Dialogue: 10,0:02:46.33,0:02:47.77,Gridman_Main,,0,0,0,,Dammit!
