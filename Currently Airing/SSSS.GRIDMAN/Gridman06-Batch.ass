@@ -10,14 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: gridman06_premux [71040597].mkv
-Video File: gridman06_premux [71040597].mkv
-Keyframes File: gridman06_premux [71040597]_keyframes.log
+Audio File: E:/GJM/SSSS.Gridman/06/gridman06_premux [71040597].mkv
+Video File: E:/GJM/SSSS.Gridman/06/gridman06_premux [71040597].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Active Line: 25
-Video Position: 2299
+Video Zoom Percent: 0.625000
+Scroll Position: 58
+Active Line: 59
+Video Position: 31765
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -104,7 +104,7 @@ Dialogue: 10,0:04:15.97,0:04:18.97,Gridman_Main,,0,0,0,,{\an8}Yeah, and that's w
 Dialogue: 10,0:04:18.97,0:04:21.46,Gridman_Main,,0,0,0,,{\an8}It's just gonna lighten their wallet!
 Dialogue: 10,0:04:21.46,0:04:22.98,Gridman_Main,,0,0,0,,Hey, Mom.
 Dialogue: 10,0:04:23.97,0:04:24.78,Gridman_Main,,0,0,0,,Yeah?
-Dialogue: 10,0:04:25.17,0:04:27.98,Gridman_Main,,0,0,0,,Didn't Max and the others buy this?
+Dialogue: 10,0:04:25.17,0:04:27.98,Gridman_Main,,0,0,0,,Didn't Max{**-san} and the others buy this?
 Dialogue: 10,0:04:27.98,0:04:29.28,Gridman_Main,,0,0,0,,Yeah.
 Dialogue: 10,0:04:29.28,0:04:33.09,Gridman_Main,,0,0,0,,But they asked me to buy it back from them.
 Dialogue: 10,0:04:33.09,0:04:34.50,Gridman_Main,,0,0,0,,What's with that?
@@ -358,7 +358,7 @@ Dialogue: 10,0:18:55.26,0:18:56.81,Gridman_Main,,0,0,0,,Why for me?
 Dialogue: 10,0:18:56.81,0:18:58.32,Gridman_Main,,0,0,0,,To say thanks...
 Dialogue: 10,0:18:58.32,0:19:00.54,Gridman_Main,,0,0,0,,As a repayment...
 Dialogue: 10,0:19:00.54,0:19:05.00,Gridman_Main,,0,0,0,,My predecessor owes a lot to you.
-Dialogue: 10,0:19:05.00,0:19:07.58,Gridman_Main,,0,0,0,,I'm sorry I can't remember it.
+Dialogue: 10,0:19:05.00,0:19:07.58,Gridman_Main,,0,0,0,,I'm sorry. I can't remember anything.
 Dialogue: 10,0:19:07.90,0:19:10.58,Gridman_Main,,0,0,0,,Don't be. I'm glad I met you.
 Dialogue: 10,0:19:17.36,0:19:21.31,Gridman_Main,,0,0,0,,{\i1}Why the heck is a god attending a normal school?
 Dialogue: 10,0:19:26.27,0:19:29.35,Gridman_Main,,0,0,0,,Found you, Hibiki Yuta!
@@ -402,7 +402,7 @@ Dialogue: 10,0:21:44.43,0:21:46.73,Gridman_Main,,0,0,0,,I couldn't locate Gridma
 Dialogue: 10,0:21:47.65,0:21:48.32,Gridman_Main,,0,0,0,,Huh?
 Dialogue: 10,0:21:49.49,0:21:52.20,Gridman_Main,,0,0,0,,I couldn't locate Gridman.
 Dialogue: 10,0:21:56.21,0:21:59.29,Gridman_Main,,0,0,0,,I knew you wouldn't understand.
-Dialogue: 10,0:22:04.84,0:22:09.36,Gridman_Main,,0,0,0,,I certainly am worried about Akane, all right...
+Dialogue: 10,0:22:04.84,0:22:09.36,Gridman_Main,,0,0,0,,I certainly am worried about Akane{**-kun}, all right...
 Comment: 0,0:22:09.36,0:22:11.36,Gridman_Main,,0,0,0,,OP
 Dialogue: 1,0:00:05.06,0:00:05.94,OPJap1,,0,0,0,fx,{\fad(100,80)\blur.55\pos(532,15)\c&H0022030D&\bord6}{\c&H0022030D&}me
 Dialogue: 3,0:00:05.06,0:00:05.94,OPJap1,,0,0,0,fx,{\fad(100,80)\blur.55\pos(532,15)\c&H0022030D&\bord2}{\c&H0022030D&}me
