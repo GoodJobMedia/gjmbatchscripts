@@ -17,8 +17,8 @@ Keyframes File: Index3_EP8_Premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 26
-Active Line: 43
+Scroll Position: 791
+Active Line: 805
 Video Position: 6604
 
 [V4+ Styles]
@@ -841,7 +841,7 @@ Dialogue: 0,0:02:36.76,0:02:36.80,Show TItle,,0,0,0,3,{\pos(1000,868)\frz223.1\f
 Dialogue: 0,0:02:36.80,0:02:36.84,Show TItle,,0,0,0,3,{\pos(1012,894)\frz223.1\fs80\blur10\clip(400,833,1208,891)\q2}KSBD
 Comment: 0,0:23:41.98,0:23:43.98,GJM_Main_1080p,,0,0,0,,ED
 Dialogue: 0,0:21:23.76,0:21:30.23,ED,,0,0,0,,{\an9\blur3\fad(200,200)\fs75}When I least expect it, you're gone
-Dialogue: 0,0:21:30.65,0:21:36.69,Mobile Alt,,0,0,0,,{\an9\blur3\fad(200,200)\fs75}And loneliness hits me hard in the chest
+Dialogue: 0,0:21:30.65,0:21:36.69,ED,,0,0,0,,{\an9\blur3\fad(200,200)\fs75}And loneliness hits me hard in the chest
 Dialogue: 0,0:21:37.35,0:21:43.81,ED,,0,0,0,,{\an9\blur3\fad(200,200)\fs75}In the night filled with signs I look up at the stars
 Dialogue: 0,0:21:44.19,0:21:49.45,ED,,0,0,0,,{\an9\blur3\fad(200,200)\fs75}I bite my lip and pray
 Dialogue: 0,0:21:49.45,0:21:56.45,ED,,0,0,0,,{\an9\blur3\fad(200,200)\fs75}Every time the dawn comes I run to you
