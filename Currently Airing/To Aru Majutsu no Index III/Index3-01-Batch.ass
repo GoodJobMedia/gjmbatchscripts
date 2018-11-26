@@ -17,8 +17,8 @@ Keyframes File: Index_EP1_CR_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 2941
-Active Line: 2949
+Scroll Position: 336
+Active Line: 374
 Video Position: 24158
 
 [V4+ Styles]
@@ -393,21 +393,21 @@ Dialogue: 10,0:23:34.18,0:23:36.06,GJM_Main_1080p,,0,0,0,,Next time: "God's Righ
 Dialogue: 10,0:23:36.06,0:23:38.06,GJM_Main_1080p,,0,0,0,,When science and magic collide,
 Dialogue: 10,0:23:38.06,0:23:40.02,GJM_Main_1080p,,0,0,0,,a saga is born.
 Comment: 0,0:23:40.02,0:23:42.02,GJM_Main_1080p,,0,0,0,,OP
-Dialogue: 0,0:01:49.46,0:01:51.79,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2180,0,1,\fscx5)}I'm carrying a ticking time bomb
+Dialogue: 0,0:01:49.46,0:01:51.79,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2180,0,1,\fscx5)}Carrying a ticking time bomb
 Dialogue: 0,0:01:51.79,0:01:54.34,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2400,0,1,\fscx5)}The Earth keeps on turning, so hurry up!
-Dialogue: 0,0:01:54.34,0:01:56.92,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2430,0,1,\fscx5)}Doesn't it care about it?
-Dialogue: 0,0:01:59.05,0:02:01.43,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2230,0,1,\fscx5)}Suddenly common sense is violated
-Dialogue: 0,0:02:01.43,0:02:04.02,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2460,0,1,\fscx5)}One fate intertwines with another
-Dialogue: 0,0:02:04.02,0:02:06.52,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2330,0,1,\fscx5)}And the rain of resentment drenches them all
-Dialogue: 0,0:02:08.77,0:02:13.48,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(4550,0,1,\fscx5)}But why? Doubt and carelessness have grave consequences
-Dialogue: 0,0:02:13.48,0:02:16.61,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2980,0,1,\fscx5)}A hot pulse signals the incoming cannonball
+Dialogue: 0,0:01:54.34,0:01:56.92,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2430,0,1,\fscx5)}No one can pretend it's not their business anymore
+Dialogue: 0,0:01:59.05,0:02:01.43,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2230,0,1,\fscx5)}Suddenly common sense is out the door
+Dialogue: 0,0:02:01.43,0:02:04.02,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2460,0,1,\fscx5)}Opposing fates fail to reach each other
+Dialogue: 0,0:02:04.02,0:02:06.52,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2330,0,1,\fscx5)}Drenched in the rain of resentment
+Dialogue: 0,0:02:08.77,0:02:13.48,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(4550,0,1,\fscx5)}But why? Fear and doubt keep building up heavy in my heart
+Dialogue: 0,0:02:13.48,0:02:16.61,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2980,0,1,\fscx5)}My racing heart is flooded with ambition
 Dialogue: 0,0:02:17.86,0:02:18.49,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(450,0,1,\fscx5)}Ready!
-Dialogue: 0,0:02:18.49,0:02:22.95,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(4290,0,1,\fscx5)}Everything is drawn to this place
-Dialogue: 0,0:02:23.28,0:02:27.87,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(4440,0,1,\fscx5)}It goes beyond the meaning and intent of our desires
+Dialogue: 0,0:02:18.49,0:02:22.95,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(4290,0,1,\fscx5)}Everyone that's drawn to this place
+Dialogue: 0,0:02:23.28,0:02:27.87,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(4440,0,1,\fscx5)}Has gone beyond the meaning and color of desire
 Dialogue: 0,0:02:27.87,0:02:30.54,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(2520,0,1,\fscx5)}My heart wants to stay strong
 Dialogue: 0,0:02:30.54,0:02:34.09,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(3400,0,1,\fscx5)}I feel it deep inside me
 Dialogue: 0,0:02:34.30,0:02:39.01,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(4420,0,1,\fscx5)}With all my soul, this one thing
-Dialogue: 0,0:02:39.18,0:02:42.93,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(3590,0,1,\fscx5)}I'm ready to hold onto
+Dialogue: 0,0:02:39.18,0:02:42.93,OP,,0,0,0,,{\fad(150,200)\q2\blur7.5\fscx500\t(0,150,\fscx100)\t(3590,0,1,\fscx5)}Dive into a heart
 Comment: 0,0:23:42.02,0:23:44.02,GJM_Main_1080p,,0,0,0,,ED
 Dialogue: 0,0:21:45.90,0:21:52.37,ED,,0,0,0,,{\blur3\fad(200,200)}When I least expect it, you're gone
 Dialogue: 0,0:21:52.79,0:21:58.83,ED,,0,0,0,,{\blur3\fad(200,200)}And loneliness hits me hard in the chest
