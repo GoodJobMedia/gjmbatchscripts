@@ -10,15 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria Friends - 01 (Preair).mkv
-Video File: Manaria Friends - 01 (Preair).mkv
-Keyframes File: Manaria Friends - 01 (Preair)_keyframes.log
+Audio File: E:/GJM/Manaria/01v0/Manaria Friends - 01 (Preair).mkv
+Video File: E:/GJM/Manaria/01v0/Manaria Friends - 01 (Preair).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 95
-Active Line: 108
-Video Position: 16795
+Video Zoom Percent: 0.625000
+Scroll Position: 96
+Active Line: 120
+Video Position: 16804
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -149,5 +148,5 @@ Comment: 0,0:11:35.06,0:11:40.10,Show Title,,0,0,0,,- next ep title -
 Dialogue: 0,0:11:35.06,0:11:40.10,Show Title,,0,0,0,,{\pos(720,290)\c&H1C2F3C&\blur0.4}- Episode 2 -
 Dialogue: 0,0:11:35.06,0:11:40.10,Show Title,,0,0,0,,{\pos(720,520)\fs70\c&H1C2F3C&\blur0.4}The Anguished Dragon Princess
 Comment: 0,0:11:40.10,0:11:44.64,Ep Title,,0,0,0,,- guest drawing -
-Dialogue: 0,0:11:40.10,0:11:44.64,Ep Title,,0,0,0,,{\pos(1194,689)\fs50\bord3.5\c&H000000&\blur3.5}Drawing: Oda Takeshi
-Dialogue: 1,0:11:40.10,0:11:44.64,Ep Title,,0,0,0,,{\pos(1194,689)\fs50\blur0.6}Drawing: Oda Takeshi
+Dialogue: 0,0:11:40.10,0:11:44.64,Ep Title,,0,0,0,,{\fs50\bord3.5\c&H000000&\blur3.5\pos(1163.566,689)}Drawing: Onda Naoyuki
+Dialogue: 1,0:11:40.10,0:11:44.64,Ep Title,,0,0,0,,{\fs50\blur0.6\pos(1163.566,689)}Drawing: Onda Naoyuki
