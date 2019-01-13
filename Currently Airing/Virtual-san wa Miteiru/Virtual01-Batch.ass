@@ -565,7 +565,7 @@ Dialogue: 10,0:20:39.05,0:20:41.02,GJM_Overlap,,0,0,0,,Listen to this, Sister!
 Dialogue: 10,0:20:41.02,0:20:41.75,GJM_Main,,0,0,0,,What is it?
 Dialogue: 10,0:20:45.09,0:20:49.13,GJM_Main,,0,0,0,,{\q2}When I did my laundry, the tissues I left in \None of my pockets got all over my clothes!
 Dialogue: 10,0:20:49.13,0:20:51.73,GJM_Main,,0,0,0,,Sister, what should I do?
-Dialogue: 10,0:20:51.73,0:20:58.47,GJM_Main,,0,0,0,,{\q2}A dryer cycle, or a rinse or spin cycle with fabric softener,\N can make the tissue easier to remove.
+Dialogue: 10,0:20:51.73,0:20:58.47,GJM_Main,,0,0,0,,{\q2}A dryer cycle, or a rinse and spin cycle with fabric softener,\N can make the tissue easier to remove.
 Dialogue: 10,0:20:58.47,0:20:59.85,GJM_Main,,0,0,0,,Oh, really?
 Dialogue: 10,0:20:59.85,0:21:02.77,GJM_Main,,0,0,0,,You could also use a lint roller,
 Dialogue: 10,0:21:02.77,0:21:07.68,GJM_Main,,0,0,0,,or, as a more unconventional method, \Npat the clothes down with fruit netting.
