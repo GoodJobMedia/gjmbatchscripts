@@ -66,7 +66,7 @@ Dialogue: 10,0:00:50.29,0:00:54.06,GJM_Main,,0,0,0,,You won't believe what I fou
 Dialogue: 10,0:00:54.06,0:00:58.25,GJM_Main,,0,0,0,,The one walking strangely is \NHimeHina's red half, Tanaka Hime.
 Dialogue: 10,0:00:58.25,0:01:00.74,GJM_Main,,0,0,0,,A cackling girl who can't stop talking.
 Dialogue: 10,0:01:00.74,0:01:02.52,GJM_Main,,0,0,0,,Super-dee-duper crab running!
-Dialogue: 10,0:01:05.88,0:01:09.77,GJM_Main,,0,0,0,,Chasing after her, in the somewhat \Nprovocative, midriff-exposing outfit,
+Dialogue: 10,0:01:05.88,0:01:09.77,GJM_Main,,0,0,0,,Chasing after her, in the somewhat \Nprovocative, belly button-exposing outfit,
 Dialogue: 10,0:01:09.77,0:01:11.91,GJM_Main,,0,0,0,,is HimeHina's blue half, Suzuki Hina.
 Dialogue: 10,0:01:11.91,0:01:14.62,GJM_Main,,0,0,0,,Hime! You're flashing everyone! Cover up!
 Dialogue: 10,0:01:14.62,0:01:16.04,GJM_Main,,0,0,0,,Or they'll pull us off the air!
@@ -536,14 +536,14 @@ Dialogue: 10,0:19:30.52,0:19:31.45,GJM_Main,,0,0,0,,It's a Keblin!
 Dialogue: 10,0:19:32.65,0:19:34.04,GJM_Main,,0,0,0,,Idiot! He noticed us!
 Dialogue: 10,0:19:34.04,0:19:35.39,GJM_Main,,0,0,0,,Oh, no! What have I done?
 Dialogue: 10,0:19:35.85,0:19:36.82,GJM_Main,,0,0,0,,Crap, this is bad!
-Dialogue: 9,0:19:38.06,0:19:39.29,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}Nin-thingy!
-Dialogue: 10,0:19:38.06,0:19:39.29,GJM_Main,,0,0,0,contrast,Nin-thingy!
+Dialogue: 9,0:19:38.06,0:19:39.29,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}Come forth, cawwot one!
+Dialogue: 10,0:19:38.06,0:19:39.29,GJM_Main,,0,0,0,contrast,Come forth, cawwot one!
 Dialogue: 10,0:19:39.92,0:19:42.36,GJM_Main,,0,0,0,,Hina{**-chan}, that's amazing! How did you do that?
 Dialogue: 10,0:19:42.36,0:19:44.28,GJM_Main,,0,0,0,,Just pretend you know what you're doing!
 Dialogue: 10,0:19:44.28,0:19:45.50,GJM_Main,,0,0,0,,Look, another one!
 Dialogue: 10,0:19:46.09,0:19:47.50,GJM_Main,,0,0,0,,All right.
-Dialogue: 9,0:19:47.50,0:19:48.44,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}Nin! Nin!
-Dialogue: 10,0:19:47.50,0:19:48.44,GJM_Main,,0,0,0,contrast,Nin! Nin!
+Dialogue: 9,0:19:47.50,0:19:48.44,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}Cawwot! Cawwot!
+Dialogue: 10,0:19:47.50,0:19:48.44,GJM_Main,,0,0,0,contrast,Cawwot! Cawwot!
 Dialogue: 9,0:19:48.44,0:19:50.40,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}You suck at this!
 Dialogue: 10,0:19:48.44,0:19:50.40,GJM_Main,,0,0,0,contrast,You suck at this!
 Dialogue: 10,0:19:50.40,0:19:51.47,GJM_Main,,0,0,0,,The Keblin!
