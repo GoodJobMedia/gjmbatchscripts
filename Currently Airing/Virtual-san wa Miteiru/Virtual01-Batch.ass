@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: virtualsan01_premuxv2 [B11E17EB].mkv
-Video File: virtualsan01_premuxv2 [B11E17EB].mkv
-Keyframes File: virtualsan01_premuxv2 [B11E17EB]_keyframes.log
+Audio File: E:/GJM/Virtual-san/01/virtualsan01_premuxv2 [B11E17EB].mkv
+Video File: E:/GJM/Virtual-san/01/virtualsan01_premuxv2 [B11E17EB].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 602
-Active Line: 616
-Video Position: 6923
+Scroll Position: 471
+Active Line: 472
+Video Position: 33127
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -60,7 +59,7 @@ Dialogue: 10,0:00:24.52,0:00:28.76,GJM_Main,,0,0,0,,Oops, I'd better stop here,\
 Dialogue: 10,0:00:30.44,0:00:34.07,GJM_Main,,0,0,0,,Now, the girl you see running past is Mirai Akari.
 Dialogue: 10,0:00:34.55,0:00:38.02,GJM_Main,,0,0,0,,She's a cheerful, sexy lady who \Noften pervs on those new to town.
 Dialogue: 10,0:00:38.02,0:00:41.85,GJM_Main,,0,0,0,,Hooray for puberty!
-Dialogue: 10,0:00:41.85,0:00:43.77,GJM_Main,,0,0,0,,This is Electronic Girl Siro.
+Dialogue: 10,0:00:41.85,0:00:43.77,GJM_Main,,0,0,0,,This is Cyber Girl Siro.
 Dialogue: 10,0:00:43.77,0:00:47.79,GJM_Main,,0,0,0,,She is by no means a crazy, \Npsychopathic, combat AI dolphin,
 Dialogue: 10,0:00:47.79,0:00:50.29,GJM_Main,,0,0,0,,but rather an extremely cute and wholesome idol.
 Dialogue: 10,0:00:50.29,0:00:54.06,GJM_Main,,0,0,0,,You won't believe what I found!
@@ -513,7 +512,7 @@ Dialogue: 10,0:18:15.79,0:18:17.54,GJM_Main,,0,0,0,contrast,Quiet! I went viral 
 Dialogue: 9,0:18:18.38,0:18:20.48,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}How are you supposed to stream\N if you're afraid of bans?
 Dialogue: 10,0:18:18.38,0:18:20.48,GJM_Main,,0,0,0,contrast,How are you supposed to stream\N if you're afraid of bans?
 Dialogue: 10,0:18:23.16,0:18:25.33,GJM_Main,,0,0,0,,Virtual Friends Are Watching.
-Dialogue: 10,0:18:25.33,0:18:27.97,GJM_Main,,0,0,0,,No! Horses don't need to watch!
+Dialogue: 10,0:18:25.33,0:18:27.97,GJM_Main,,0,0,0,,That doesn't mean you, Horse!
 Dialogue: 10,0:18:28.89,0:18:30.94,GJM_Main,,0,0,0,,I won't stop!
 Dialogue: 10,0:18:30.94,0:18:33.04,GJM_Main,,0,0,0,,Virtual Friends Are Watching.
 Dialogue: 10,0:18:34.56,0:18:37.93,GJM_Main,,0,0,0,,Hello, I'm Ootori Kohaku, 17 years old.
@@ -617,8 +616,8 @@ Dialogue: 9,0:22:02.47,0:22:04.37,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&
 Dialogue: 10,0:22:02.47,0:22:04.37,GJM_Main,,0,0,0,contrast,All right, it seems we have a winner.
 Dialogue: 9,0:22:05.44,0:22:07.81,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}The most popular one among us six is...
 Dialogue: 10,0:22:05.44,0:22:07.81,GJM_Main,,0,0,0,contrast,The most popular one among us six is...
-Dialogue: 9,0:22:07.81,0:22:10.04,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}The Electronic Girl, {*}Miss Siro{*Siro-sama}.
-Dialogue: 10,0:22:07.81,0:22:10.04,GJM_Main,,0,0,0,contrast,The Electronic Girl, {*}Miss Siro{*Siro-sama}.
+Dialogue: 9,0:22:07.81,0:22:10.04,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}The Cyber Girl, {*}Miss Siro{*Siro-sama}.
+Dialogue: 10,0:22:07.81,0:22:10.04,GJM_Main,,0,0,0,contrast,The Cyber Girl, {*}Miss Siro{*Siro-sama}.
 Dialogue: 9,0:22:10.04,0:22:11.94,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}Hang on! I smell some brown-nosing here!
 Dialogue: 10,0:22:10.04,0:22:11.94,GJM_Main,,0,0,0,contrast,Hang on! I smell some brown-nosing here!
 Dialogue: 9,0:22:11.94,0:22:13.68,GJM_Main,,0,0,0,c-gen,{\blur8\bord8\c&HFFFFFF&\3c&HFFFFFF&}Not at all!
@@ -766,55 +765,55 @@ Dialogue: 3,0:00:31.94,0:00:31.98,Character Name,,0,0,0,,{=9}{\an4\pos(226.605,7
 Dialogue: 3,0:00:31.98,0:00:32.01,Character Name,,0,0,0,,{=9}{\an4\pos(249.165,787.365)\fscx99.99\fscy99.99\frz5.01\fs130.5\fsp0.75\c&HFFFEFF&\blur0.9}Mirai Akari
 Dialogue: 3,0:00:32.01,0:00:32.04,Character Name,,0,0,0,,{=9}{\an4\pos(266.31,794.76)\fscx99.99\fscy99.99\frz1.43\fs130.5\fsp0.75\c&HFFFEFF&\blur0.9}Mirai Akari
 Dialogue: 3,0:00:32.04,0:00:34.55,Character Name,,0,0,0,,{=9}{\an4\pos(273,798)\fs130.5\fsp0.75\c&HFFFEFF&\blur0.9}Mirai Akari
-Comment: 0,0:00:43.09,0:00:46.09,Character Name,,0,0,0,,Electronic Girl Siro
-Dialogue: 0,0:00:43.22,0:00:43.26,Character Name,,0,0,0,,{=16}{\an4\pos(456.96,1015.68)\frz-49.19\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.26,0:00:43.29,Character Name,,0,0,0,,{=16}{\an4\pos(410.1,894.93)\fscx100.02\fscy100.02\frz-25.83\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.29,0:00:43.32,Character Name,,0,0,0,,{=16}{\an4\pos(335.16,814.065)\frz-5.98\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.32,0:00:43.36,Character Name,,0,0,0,,{=16}{\an4\pos(267.33,774.615)\fscx99.99\fscy99.99\frz8.13\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.36,0:00:43.39,Character Name,,0,0,0,,{=16}{\an4\pos(228.885,761.025)\fscx99.98\fscy99.98\frz15.44\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.39,0:00:43.42,Character Name,,0,0,0,,{=16}{\an4\pos(214.5,757.29)\fscx99.98\fscy99.98\frz18.12\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.42,0:00:43.46,Character Name,,0,0,0,,{=16}{\an4\pos(218.64,758.07)\fscx100.03\fscy100.03\frz17.26\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.46,0:00:43.49,Character Name,,0,0,0,,{=16}{\an4\pos(236.145,762.96)\fscx100.01\fscy100.01\frz14.05\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.49,0:00:43.52,Character Name,,0,0,0,,{=16}{\an4\pos(259.59,771.285)\frz9.6\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.52,0:00:43.56,Character Name,,0,0,0,,{=16}{\an4\pos(282.96,781.65)\fscx100.01\fscy100.01\frz5.02\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.56,0:00:43.59,Character Name,,0,0,0,,{=16}{\an4\pos(300.615,790.965)\frz1.44\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 0,0:00:43.59,0:00:46.09,Character Name,,0,0,0,,{=16}{\an4\pos(307.5,795)\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.22,0:00:43.26,Character Name,,0,0,0,,{=15}{\an4\pos(456.135,1012.425)\frz-49.19\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.26,0:00:43.29,Character Name,,0,0,0,,{=15}{\an4\pos(408.045,892.26)\fscx100.02\fscy100.02\frz-25.83\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.29,0:00:43.32,Character Name,,0,0,0,,{=15}{\an4\pos(332.34,812.265)\frz-5.98\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.32,0:00:43.36,Character Name,,0,0,0,,{=15}{\an4\pos(264.15,773.55)\fscx99.99\fscy99.99\frz8.13\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.36,0:00:43.39,Character Name,,0,0,0,,{=15}{\an4\pos(225.6,760.38)\fscx99.98\fscy99.98\frz15.44\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.39,0:00:43.42,Character Name,,0,0,0,,{=15}{\an4\pos(211.185,756.795)\fscx99.98\fscy99.98\frz18.12\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.42,0:00:43.46,Character Name,,0,0,0,,{=15}{\an4\pos(215.325,757.53)\fscx100.03\fscy100.03\frz17.26\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.46,0:00:43.49,Character Name,,0,0,0,,{=15}{\an4\pos(232.86,762.24)\fscx100.01\fscy100.01\frz14.05\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.49,0:00:43.52,Character Name,,0,0,0,,{=15}{\an4\pos(256.38,770.31)\frz9.6\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.52,0:00:43.56,Character Name,,0,0,0,,{=15}{\an4\pos(279.84,780.42)\fscx100.01\fscy100.01\frz5.02\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.56,0:00:43.59,Character Name,,0,0,0,,{=15}{\an4\pos(297.57,789.54)\frz1.44\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 1,0:00:43.59,0:00:46.09,Character Name,,0,0,0,,{=15}{\an4\pos(304.5,793.5)\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.22,0:00:43.26,Character Name,,0,0,0,,{=14}{\an4\pos(456.135,1012.425)\frz-49.19\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.26,0:00:43.29,Character Name,,0,0,0,,{=14}{\an4\pos(408.045,892.26)\fscx100.02\fscy100.02\frz-25.83\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.29,0:00:43.32,Character Name,,0,0,0,,{=14}{\an4\pos(332.34,812.265)\frz-5.98\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.32,0:00:43.36,Character Name,,0,0,0,,{=14}{\an4\pos(264.15,773.55)\fscx99.99\fscy99.99\frz8.13\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.36,0:00:43.39,Character Name,,0,0,0,,{=14}{\an4\pos(225.6,760.38)\fscx99.98\fscy99.98\frz15.44\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.39,0:00:43.42,Character Name,,0,0,0,,{=14}{\an4\pos(211.185,756.795)\fscx99.98\fscy99.98\frz18.12\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.42,0:00:43.46,Character Name,,0,0,0,,{=14}{\an4\pos(215.325,757.53)\fscx100.03\fscy100.03\frz17.26\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.46,0:00:43.49,Character Name,,0,0,0,,{=14}{\an4\pos(232.86,762.24)\fscx100.01\fscy100.01\frz14.05\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.49,0:00:43.52,Character Name,,0,0,0,,{=14}{\an4\pos(256.38,770.31)\frz9.6\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.52,0:00:43.56,Character Name,,0,0,0,,{=14}{\an4\pos(279.84,780.42)\fscx100.01\fscy100.01\frz5.02\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.56,0:00:43.59,Character Name,,0,0,0,,{=14}{\an4\pos(297.57,789.54)\frz1.44\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 2,0:00:43.59,0:00:46.09,Character Name,,0,0,0,,{=14}{\an4\pos(304.5,793.5)\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.22,0:00:43.26,Character Name,,0,0,0,,{=13}{\an4\pos(456.135,1012.425)\frz-49.19\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.26,0:00:43.29,Character Name,,0,0,0,,{=13}{\an4\pos(408.045,892.26)\fscx100.02\fscy100.02\frz-25.83\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.29,0:00:43.32,Character Name,,0,0,0,,{=13}{\an4\pos(332.34,812.265)\frz-5.98\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.32,0:00:43.36,Character Name,,0,0,0,,{=13}{\an4\pos(264.15,773.55)\fscx99.99\fscy99.99\frz8.13\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.36,0:00:43.39,Character Name,,0,0,0,,{=13}{\an4\pos(225.6,760.38)\fscx99.98\fscy99.98\frz15.44\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.39,0:00:43.42,Character Name,,0,0,0,,{=13}{\an4\pos(211.185,756.795)\fscx99.98\fscy99.98\frz18.12\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.42,0:00:43.46,Character Name,,0,0,0,,{=13}{\an4\pos(215.325,757.53)\fscx100.03\fscy100.03\frz17.26\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.46,0:00:43.49,Character Name,,0,0,0,,{=13}{\an4\pos(232.86,762.24)\fscx100.01\fscy100.01\frz14.05\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.49,0:00:43.52,Character Name,,0,0,0,,{=13}{\an4\pos(256.38,770.31)\frz9.6\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.52,0:00:43.56,Character Name,,0,0,0,,{=13}{\an4\pos(279.84,780.42)\fscx100.01\fscy100.01\frz5.02\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.56,0:00:43.59,Character Name,,0,0,0,,{=13}{\an4\pos(297.57,789.54)\frz1.44\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
-Dialogue: 3,0:00:43.59,0:00:46.09,Character Name,,0,0,0,,{=13}{\an4\pos(304.5,793.5)\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Electronic Girl Siro
+Comment: 0,0:00:43.09,0:00:46.09,Character Name,,0,0,0,,Cyber Girl Siro
+Dialogue: 0,0:00:43.22,0:00:43.26,Character Name,,0,0,0,,{=16}{\an4\pos(456.96,1015.68)\frz-49.19\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.26,0:00:43.29,Character Name,,0,0,0,,{=16}{\an4\pos(410.1,894.93)\fscx100.02\fscy100.02\frz-25.83\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.29,0:00:43.32,Character Name,,0,0,0,,{=16}{\an4\pos(335.16,814.065)\frz-5.98\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.32,0:00:43.36,Character Name,,0,0,0,,{=16}{\an4\pos(267.33,774.615)\fscx99.99\fscy99.99\frz8.13\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.36,0:00:43.39,Character Name,,0,0,0,,{=16}{\an4\pos(228.885,761.025)\fscx99.98\fscy99.98\frz15.44\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.39,0:00:43.42,Character Name,,0,0,0,,{=16}{\an4\pos(214.5,757.29)\fscx99.98\fscy99.98\frz18.12\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.42,0:00:43.46,Character Name,,0,0,0,,{=16}{\an4\pos(218.64,758.07)\fscx100.03\fscy100.03\frz17.26\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.46,0:00:43.49,Character Name,,0,0,0,,{=16}{\an4\pos(236.145,762.96)\fscx100.01\fscy100.01\frz14.05\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.49,0:00:43.52,Character Name,,0,0,0,,{=16}{\an4\pos(259.59,771.285)\frz9.6\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.52,0:00:43.56,Character Name,,0,0,0,,{=16}{\an4\pos(282.96,781.65)\fscx100.01\fscy100.01\frz5.02\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.56,0:00:43.59,Character Name,,0,0,0,,{=16}{\an4\pos(300.615,790.965)\frz1.44\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 0,0:00:43.59,0:00:46.09,Character Name,,0,0,0,,{=16}{\an4\pos(307.5,795)\fs109.5\fsp0.75\bord10.5\c&H955912&\3c&H955912&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.22,0:00:43.26,Character Name,,0,0,0,,{=15}{\an4\pos(456.135,1012.425)\frz-49.19\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.26,0:00:43.29,Character Name,,0,0,0,,{=15}{\an4\pos(408.045,892.26)\fscx100.02\fscy100.02\frz-25.83\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.29,0:00:43.32,Character Name,,0,0,0,,{=15}{\an4\pos(332.34,812.265)\frz-5.98\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.32,0:00:43.36,Character Name,,0,0,0,,{=15}{\an4\pos(264.15,773.55)\fscx99.99\fscy99.99\frz8.13\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.36,0:00:43.39,Character Name,,0,0,0,,{=15}{\an4\pos(225.6,760.38)\fscx99.98\fscy99.98\frz15.44\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.39,0:00:43.42,Character Name,,0,0,0,,{=15}{\an4\pos(211.185,756.795)\fscx99.98\fscy99.98\frz18.12\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.42,0:00:43.46,Character Name,,0,0,0,,{=15}{\an4\pos(215.325,757.53)\fscx100.03\fscy100.03\frz17.26\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.46,0:00:43.49,Character Name,,0,0,0,,{=15}{\an4\pos(232.86,762.24)\fscx100.01\fscy100.01\frz14.05\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.49,0:00:43.52,Character Name,,0,0,0,,{=15}{\an4\pos(256.38,770.31)\frz9.6\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.52,0:00:43.56,Character Name,,0,0,0,,{=15}{\an4\pos(279.84,780.42)\fscx100.01\fscy100.01\frz5.02\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.56,0:00:43.59,Character Name,,0,0,0,,{=15}{\an4\pos(297.57,789.54)\frz1.44\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 1,0:00:43.59,0:00:46.09,Character Name,,0,0,0,,{=15}{\an4\pos(304.5,793.5)\fs109.5\fsp0.75\bord8.25\c&HF5851B&\3c&HF5851B&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.22,0:00:43.26,Character Name,,0,0,0,,{=14}{\an4\pos(456.135,1012.425)\frz-49.19\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.26,0:00:43.29,Character Name,,0,0,0,,{=14}{\an4\pos(408.045,892.26)\fscx100.02\fscy100.02\frz-25.83\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.29,0:00:43.32,Character Name,,0,0,0,,{=14}{\an4\pos(332.34,812.265)\frz-5.98\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.32,0:00:43.36,Character Name,,0,0,0,,{=14}{\an4\pos(264.15,773.55)\fscx99.99\fscy99.99\frz8.13\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.36,0:00:43.39,Character Name,,0,0,0,,{=14}{\an4\pos(225.6,760.38)\fscx99.98\fscy99.98\frz15.44\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.39,0:00:43.42,Character Name,,0,0,0,,{=14}{\an4\pos(211.185,756.795)\fscx99.98\fscy99.98\frz18.12\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.42,0:00:43.46,Character Name,,0,0,0,,{=14}{\an4\pos(215.325,757.53)\fscx100.03\fscy100.03\frz17.26\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.46,0:00:43.49,Character Name,,0,0,0,,{=14}{\an4\pos(232.86,762.24)\fscx100.01\fscy100.01\frz14.05\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.49,0:00:43.52,Character Name,,0,0,0,,{=14}{\an4\pos(256.38,770.31)\frz9.6\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.52,0:00:43.56,Character Name,,0,0,0,,{=14}{\an4\pos(279.84,780.42)\fscx100.01\fscy100.01\frz5.02\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.56,0:00:43.59,Character Name,,0,0,0,,{=14}{\an4\pos(297.57,789.54)\frz1.44\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 2,0:00:43.59,0:00:46.09,Character Name,,0,0,0,,{=14}{\an4\pos(304.5,793.5)\fs109.5\fsp0.75\bord1.5\c&H000000&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.22,0:00:43.26,Character Name,,0,0,0,,{=13}{\an4\pos(456.135,1012.425)\frz-49.19\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.26,0:00:43.29,Character Name,,0,0,0,,{=13}{\an4\pos(408.045,892.26)\fscx100.02\fscy100.02\frz-25.83\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.29,0:00:43.32,Character Name,,0,0,0,,{=13}{\an4\pos(332.34,812.265)\frz-5.98\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.32,0:00:43.36,Character Name,,0,0,0,,{=13}{\an4\pos(264.15,773.55)\fscx99.99\fscy99.99\frz8.13\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.36,0:00:43.39,Character Name,,0,0,0,,{=13}{\an4\pos(225.6,760.38)\fscx99.98\fscy99.98\frz15.44\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.39,0:00:43.42,Character Name,,0,0,0,,{=13}{\an4\pos(211.185,756.795)\fscx99.98\fscy99.98\frz18.12\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.42,0:00:43.46,Character Name,,0,0,0,,{=13}{\an4\pos(215.325,757.53)\fscx100.03\fscy100.03\frz17.26\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.46,0:00:43.49,Character Name,,0,0,0,,{=13}{\an4\pos(232.86,762.24)\fscx100.01\fscy100.01\frz14.05\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.49,0:00:43.52,Character Name,,0,0,0,,{=13}{\an4\pos(256.38,770.31)\frz9.6\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.52,0:00:43.56,Character Name,,0,0,0,,{=13}{\an4\pos(279.84,780.42)\fscx100.01\fscy100.01\frz5.02\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.56,0:00:43.59,Character Name,,0,0,0,,{=13}{\an4\pos(297.57,789.54)\frz1.44\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
+Dialogue: 3,0:00:43.59,0:00:46.09,Character Name,,0,0,0,,{=13}{\an4\pos(304.5,793.5)\fs109.5\fsp0.75\c&HFBFFFF&\blur0.9}Cyber Girl Siro
 Comment: 0,0:00:55.07,0:00:57.30,Character Name,,0,0,0,,Tanaka Hime
 Comment: 0,0:00:55.10,0:00:55.13,Character Name,,0,0,0,,{=8}{\fscx99.53\fscy99.53\frz-51.25\bord10.5\blur0.9\an4\fsp0.75\fs130.5\c&H3F048E&\3c&H3F048E&\pos(519.315,1178.025)}Hime
 Dialogue: 0,0:00:55.20,0:00:55.23,Character Name,,0,0,0,,{=8}{\an4\pos(476.265,1027.47)\fscx99.99\fscy99.99\frz-49.21\fs130.5\fsp0.75\bord10.5\c&H3F048E&\3c&H3F048E&\blur0.9}Hime
