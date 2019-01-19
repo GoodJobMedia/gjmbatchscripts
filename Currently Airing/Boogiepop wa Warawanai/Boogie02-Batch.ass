@@ -18,8 +18,8 @@ Keyframes File: Premux - Boogiepop 02 [35021618]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 249
-Active Line: 254
+Scroll Position: 203
+Active Line: 207
 Video Position: 31751
 
 [V4+ Styles]
@@ -242,7 +242,7 @@ Dialogue: 10,0:18:16.74,0:18:20.22,GJM_Main,Naoko,0,0,0,,I see. I guess you have
 Dialogue: 10,0:18:23.36,0:18:27.18,GJM_Main,Naoko,0,0,0,,But it's okay! I'm friends with someone incredible.
 Dialogue: 10,0:18:27.18,0:18:29.88,GJM_Main,Naoko,0,0,0,,I'm sure she can help you.
 Dialogue: 10,0:18:30.39,0:18:32.53,GJM_Main,Naoko,0,0,0,,As long as you're not a bad guy.
-Dialogue: 10,0:18:33.75,0:18:35.76,GJM_Main,Nagi,0,0,0,,What? You're hiding someone?
+Dialogue: 10,0:18:33.75,0:18:35.76,GJM_Main,Nagi,0,0,0,,What? You're hiding a guy?
 Dialogue: 10,0:18:36.09,0:18:38.01,GJM_Main,Naoko,0,0,0,,Shh! It's a secret!
 Dialogue: 10,0:18:38.01,0:18:41.23,GJM_Main,Nagi,0,0,0,,Relax, nobody else is home.
 Dialogue: 10,0:18:41.23,0:18:44.35,GJM_Main,Nagi,0,0,0,,What would your first-year boytoy\N Tanaka have to say about this?
@@ -256,7 +256,7 @@ Dialogue: 10,0:19:07.97,0:19:11.76,GJM_Main,Nagi,0,0,0,,That part is a bit too i
 Dialogue: 10,0:19:11.76,0:19:14.74,GJM_Main,Naoko,0,0,0,,He was supposed to assume \Na human form to blend into society
 Dialogue: 10,0:19:14.74,0:19:16.76,GJM_Main,Naoko,0,0,0,,and investigate us in secret,
 Dialogue: 10,0:19:16.76,0:19:20.55,GJM_Main,Naoko,0,0,0,,but his calculations were off \Nand he ended up evolving too far.
-Dialogue: 10,0:19:21.11,0:19:24.12,GJM_Main,Naoko,0,0,0,,Then some big organization, \Nmaybe government, found out about his abilities 
+Dialogue: 10,0:19:21.11,0:19:24.12,GJM_Main,Naoko,0,0,0,,Then some big organization, \Nmaybe government, found out about his abilities
 Dialogue: 10,0:19:24.12,0:19:26.40,GJM_Main,Naoko,0,0,0,,and now they want him for their own gain...
 Dialogue: 10,0:19:26.40,0:19:30.85,GJM_Main,Naoko,0,0,0,,They gave him the codename "Echoes",\N and managed to make a clone of him.
 Dialogue: 10,0:19:31.54,0:19:32.56,GJM_Main,Nagi,0,0,0,,Echoes?
