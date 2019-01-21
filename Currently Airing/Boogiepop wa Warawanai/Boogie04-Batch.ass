@@ -17,8 +17,8 @@ Keyframes File: Premux - Boogiepop 04 [ECB25B93]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 2803
-Active Line: 2814
+Scroll Position: 263
+Active Line: 264
 Video Position: 7468
 
 [V4+ Styles]
@@ -298,7 +298,7 @@ Dialogue: 10,0:17:35.81,0:17:40.14,GJM_Main,Cop,0,0,0,,Did you say anything to h
 Dialogue: 10,0:17:40.68,0:17:42.03,GJM_Main,Asukai,0,0,0,,Why do you ask?
 Dialogue: 10,0:17:42.03,0:17:48.29,GJM_Main,Cop,0,0,0,,Well, considering how she died,\N the body had this real peaceful look on its face.
 Dialogue: 10,0:17:48.73,0:17:55.55,GJM_Main,Cop,0,0,0,,Like the thorns that had been stabbing her\N in the heart had finally been pulled out.
-Dialogue: 10,0:17:56.41,0:17:59.79,GJM_Main,Jin,0,0,0,,I see. But I'm afraid I didn't didn't say anything.
+Dialogue: 10,0:17:56.41,0:17:59.79,GJM_Main,Jin,0,0,0,,I see. But I'm afraid I didn't say anything.
 Dialogue: 10,0:18:06.13,0:18:08.81,GJM_Main,Jin,0,0,0,,{\i1}I'm about to get real busy.
 Dialogue: 10,0:18:12.33,0:18:15.32,GJM_Main,Masaki,0,0,0,,Stop! She's got nothing to do with this!
 Dialogue: 10,0:18:15.32,0:18:17.98,GJM_Main,Boy 1,0,0,0,,Who the hell do you think you are?
