@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: Premux - Boogiepop 04 [ECB25B93].mkv
-Video File: Premux - Boogiepop 04 [ECB25B93].mkv
-Keyframes File: Premux - Boogiepop 04 [ECB25B93]_keyframes.log
+Audio File: E:/GJM/Boogiepop/04/Premux - Boogiepop 04 [ECB25B93].mkv
+Video File: E:/GJM/Boogiepop/04/Premux - Boogiepop 04 [ECB25B93].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 263
-Active Line: 264
-Video Position: 7468
+Video Zoom Percent: 1.000000
+Scroll Position: 2935
+Active Line: 2941
+Video Position: 19057
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2891,7 +2890,7 @@ Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(336.8,235.2)\c&H4132
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(336.8,235.2)\c&H413320&\blur3\clip(342,217,347,315)\p1}m -180 -5 l 11 22 11 65 -180 36
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(336.8,235.2)\c&H423320&\blur3\clip(347,217,352,315)\p1}m -180 -5 l 11 22 11 65 -180 36
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(336.8,235.2)\c&H423320&\blur3\clip(352,217,357,315)\p1}m -180 -5 l 11 22 11 65 -180 36
-Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an1\pos(153.927,274.255)\fscx53\frz352\fax0.25\fnAvantGarde LT Medium\fs45\b1\c&H504D43&\be3}M{\c&H514E44&}o{\c&H524F44&}n{\c&H535045&}k{\c&H545146&}e{\c&H555147&}y {\c&H575348&}P{\c&H585449&}a{\c&H585549&}r{\c&H59564A&}k{\c&H5A574B&}i{\c&H5B584B&}n{\c&H5C584C&}g {\c&H5E5A4E&}L{\c&H5F5B4E&}o{\c&H605C4F&}t
+Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an1\fscx53\frz352\fax0.25\fnAvantGarde LT Medium\fs45\b1\c&H504D43&\be3\pos(156.109,274.255)}M{\c&H514E44&}o{\c&H524F44&}n{\c&H535045&}th{\c&H545146&}l{\c&H555147&}y {\c&H575348&}P{\c&H585449&}a{\c&H585549&}r{\c&H59564A&}k{\c&H5A574B&}i{\c&H5B584B&}n{\c&H5C584C&}g {\c&H5E5A4E&}L{\c&H5F5B4E&}o{\c&H605C4F&}t
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(367.111,309.333)\c&H434638&\blur3\clip(151,278,156,356)\p1}m -211 -25 l -15 8 -15 28 -211 -5
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(367.111,309.333)\c&H46493B&\blur3\clip(156,278,161,356)\p1}m -211 -25 l -15 8 -15 28 -211 -5
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(367.111,309.333)\c&H484A3D&\blur3\clip(161,278,166,356)\p1}m -211 -25 l -15 8 -15 28 -211 -5
@@ -2934,7 +2933,7 @@ Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(367.111,309.333)\c&H
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(367.111,309.333)\c&H5E5F53&\blur3\clip(346,278,351,356)\p1}m -211 -25 l -15 8 -15 28 -211 -5
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(367.111,309.333)\c&H5F6054&\blur3\clip(351,278,356,356)\p1}m -211 -25 l -15 8 -15 28 -211 -5
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(367.111,309.333)\c&H5F6054&\blur3\clip(356,278,361,356)\p1}m -211 -25 l -15 8 -15 28 -211 -5
-Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an1\pos(154.939,305.776)\fscx53\frz350.4\fax0.4\fnAvantGarde LT Medium\fs25\b1\c&H252535&\be2}Midsize and Compact Primates Only
+Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an1\fscx53\frz350.4\fax0.4\fnAvantGarde LT Medium\fs30\b1\c&H252535&\be2\pos(185.161,318.221)}Permit holders only
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(368.889,363.556)\c&H1C1C24&\blur3\clip(157,328,162,411)\p1}m -207 -33 l -23 0 -23 40 -207 7
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(368.889,363.556)\c&H1D1D25&\blur3\clip(162,328,167,411)\p1}m -207 -33 l -23 0 -23 40 -207 7
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(368.889,363.556)\c&H1D1D26&\blur3\clip(167,328,172,411)\p1}m -207 -33 l -23 0 -23 40 -207 7
@@ -2975,5 +2974,5 @@ Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(368.889,363.556)\c&H
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(368.889,363.556)\c&H222331&\blur3\clip(342,328,347,411)\p1}m -207 -33 l -23 0 -23 40 -207 7
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(368.889,363.556)\c&H222331&\blur3\clip(347,328,352,411)\p1}m -207 -33 l -23 0 -23 40 -207 7
 Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an7\pos(368.889,363.556)\c&H222331&\blur3\clip(352,328,357,411)\p1}m -207 -33 l -23 0 -23 40 -207 7
-Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an1\pos(156.577,371.911)\fscx33\frz349.2\fax0.6\fnAvantGarde LT Medium\fs45\b1\c&H444139&\be2}Homo Sapiens Please Stay Out
+Dialogue: 0,0:13:11.68,0:13:18.19,Signs-b,,0,0,0,,{\an1\fscx33\frz349.2\fax0.6\fnAvantGarde LT Medium\fs55\b1\c&H444139&\be2\pos(162.577,380.911)}Spaces now available
 Comment: 0,0:00:00.00,0:00:00.02,Default,,0,0,0,,
