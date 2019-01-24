@@ -16,8 +16,8 @@ Video File: neverland02_premuxv3 [8D38E5C0].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 266
-Active Line: 277
+Scroll Position: 275
+Active Line: 279
 Video Position: 26830
 
 [V4+ Styles]
@@ -309,7 +309,7 @@ Dialogue: 10,0:18:35.07,0:18:36.70,GJM_Main,,0,0,0,,Hey, babysitter! How can—
 Dialogue: 10,0:18:36.70,0:18:39.01,GJM_Main,,0,0,0,,We'll escape with everyone, no matter what!
 Dialogue: 10,0:18:39.01,0:18:40.34,GJM_Main,,0,0,0,,I'm not goin' otherwise!
 Dialogue: 10,0:18:40.34,0:18:42.85,GJM_Main,,0,0,0,,I'm not! I'm not!
-Dialogue: 10,0:18:41.37,0:18:42.85,GJM_Main,,0,0,0,,Do something about that idiot!
+Dialogue: 10,0:18:41.37,0:18:42.85,GJM_Overlap,,0,0,0,,{\an8}Do something about that idiot!
 Dialogue: 10,0:18:43.18,0:18:44.21,GJM_Main,,0,0,0,,She's being unreasonable!
 Dialogue: 10,0:18:44.21,0:18:45.86,GJM_Main,,0,0,0,,I know, right?
 Dialogue: 10,0:18:45.86,0:18:47.77,GJM_Main,,0,0,0,,But I'm glad she's so cheerful.
@@ -359,8 +359,8 @@ Dialogue: 10,0:20:58.07,0:21:00.43,GJM_Main,,0,0,0,,She's here to help me take c
 Dialogue: 10,0:21:01.40,0:21:03.76,GJM_Main,,0,0,0,,A-An adult?
 Dialogue: 10,0:21:04.22,0:21:05.66,GJM_Main,,0,0,0,,Another enemy...
 Dialogue: 10,0:21:07.83,0:21:10.39,GJM_Main,,0,0,0,,I'll be living here with you all, starting today.
-Dialogue: 10,0:21:10.39,0:21:11.75,GJM_Main,,0,0,0,,{\fad(0,100)}Pleased to meet you.
-Dialogue: 10,0:21:11.75,0:21:13.87,GJM_Main,,0,0,0,,{\fad(100,0)}It's nice to meet you too.
+Dialogue: 10,0:21:10.39,0:21:11.75,GJM_Main,,0,0,0,,Pleased to meet you.
+Dialogue: 10,0:21:11.75,0:21:13.87,GJM_Main,,0,0,0,,It's nice to meet you too.
 Dialogue: 10,0:21:11.75,0:21:13.87,GJM_Overlap,,0,0,0,,{\an8}Hello!
 Comment: 0,0:00:40.01,0:00:40.06,GJM_Main,,0,0,0,,OP
 Comment: 0,0:00:40.01,0:00:40.05,NeverlandOP,,0,0,0,,{first frame}
