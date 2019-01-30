@@ -17,8 +17,8 @@ Keyframes File: kaguya03fixfix (premux)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 331
-Active Line: 332
+Scroll Position: 3177
+Active Line: 3220
 Video Position: 28620
 
 [V4+ Styles]
@@ -3254,7 +3254,7 @@ Dialogue: 0,0:15:24.57,0:15:26.57,iFanzSigns,,0,0,0,,{\pos(649.333,616)\frz340.4
 Dialogue: 0,0:15:24.07,0:15:26.57,iFanzSigns,,0,0,0,,{\pos(789.334,656)\frz349.9\fnPF Reminder Pro Medium\fs39\c&H0E0C0D&\blur0.8}Light\N hair
 Dialogue: 0,0:15:23.69,0:15:26.57,iFanzSigns,,0,0,0,,{\pos(1042.667,680)\frz7.541\fnPF Reminder Pro Medium\fs39\c&H0E0C0D&\blur0.8}Handsome
 Dialogue: 0,0:15:23.11,0:15:26.57,iFanzSigns,,0,0,0,,{\pos(1222.666,673.333)\frz7.541\fnPF Reminder Pro Medium\fs39\c&H0E0C0D&\blur0.8}Smart
-Dialogue: 4,0:15:35.87,0:15:38.08,iFanzSigns,,0,0,0,,{\pos(881.42,140.186)\fnKozuka Gothic Pr6N H\fs45\c&H050505&\blur0.6\clip(727,21,1006,72)\t(0,192,\clip(727,21,996.86,234.29))}Today's \Nexam \Nresults:
+Dialogue: 4,0:15:35.87,0:15:38.08,iFanzSigns,,0,0,0,,{\pos(881.42,140.186)\fnKozuka Gothic Pr6N H\fs45\c&H050505&\blur0.6\clip(727,21,1006,72)\t(0,192,\clip(727,21,996.86,234.29))}Today's \Ntest \Nresults:
 Dialogue: 3,0:15:35.87,0:15:38.08,iFanzSigns,,0,0,0,,{\pos(881.42,141.786)\fscx171\fscy151\blur0.6\clip(727,21,1006,72)\t(0,192,\clip(727,21,996.86,234.29))\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 2,0:15:35.87,0:15:38.08,iFanzSigns,,0,0,0,,{\pos(881.42,141.786)\fscx178\fscy158\c&H000000&\blur0.6\clip(727,21,1006,72)\t(0,192,\clip(727,21,996.86,234.29))\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:15:35.87,0:15:38.08,iFanzSigns,,0,0,0,,{\pos(881.42,141.786)\fscx190\fscy170\blur0.6\clip(727,21,1006,72)\t(0,192,\clip(727,21,996.86,234.29))\p1}m 0 0 l 100 0 100 100 0 100
