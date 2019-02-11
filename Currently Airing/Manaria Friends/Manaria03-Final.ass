@@ -10,15 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria03 (premux).mkv
-Video File: Manaria03 (premux).mkv
-Keyframes File: Manaria03 (premux)_keyframes.log
+Audio File: E:/GJM/Manaria/03/Manaria03 (premux).mkv
+Video File: E:/GJM/Manaria/03/Manaria03 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 120
-Active Line: 132
-Video Position: 15133
+Video Zoom Percent: 0.500000
+Scroll Position: 15
+Active Line: 25
+Video Position: 2482
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,7 +55,8 @@ Dialogue: 10,0:01:28.73,0:01:30.73,GJM_Overlap,,0,0,0,,{\an8}I'm sorry they're b
 Dialogue: 10,0:01:30.90,0:01:32.98,GJM_Main,,0,0,0,,Would you like some flowers, Princess?
 Dialogue: 10,0:01:33.32,0:01:36.45,GJM_Main,,0,0,0,,Yeah, okay... Everyone's so full of energy.
 Dialogue: 10,0:01:36.45,0:01:37.61,GJM_Main,,0,0,0,,Princess, Princess!
-Dialogue: 10,0:01:37.61,0:01:39.05,GJM_Main,,0,0,0,,Thanks, I'll take one.
+Dialogue: 10,0:01:36.95,0:01:38.87,GJM_Overlap,,0,0,0,,{\an8}Sure, thank you.
+Dialogue: 10,0:01:38.87,0:01:40.66,GJM_Overlap,,0,0,0,,{\an8}I'll take one.
 Dialogue: 10,0:01:42.04,0:01:42.87,GJM_Main,,0,0,0,,Princess.
 Dialogue: 10,0:01:42.87,0:01:43.91,GJM_Main,,0,0,0,,Princess!
 Dialogue: 10,0:01:43.91,0:01:45.08,GJM_Main,,0,0,0,,Princess!
