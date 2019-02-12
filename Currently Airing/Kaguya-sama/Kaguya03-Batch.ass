@@ -17,8 +17,8 @@ Keyframes File: kaguya03fixfix (premux)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 3177
-Active Line: 3220
+Scroll Position: 306
+Active Line: 307
 Video Position: 28620
 
 [V4+ Styles]
@@ -341,7 +341,7 @@ Dialogue: 10,0:16:54.98,0:16:58.91,GJM_Main,Nar,0,0,0,,{\i1}The maiden had a sli
 Dialogue: 10,0:17:12.74,0:17:13.34,GJM_Main,Ka,0,0,0,,{\i1}Let's see...
 Dialogue: 10,0:17:14.10,0:17:17.52,GJM_Main,Ka,0,0,0,,{\i1}This could very well be the last chance\N I get to travel to school by foot.
 Dialogue: 10,0:17:17.52,0:17:20.18,GJM_Main,Ka,0,0,0,,{\i1}I must make the most of this rare opportunity.
-Dialogue: 10,0:17:20.18,0:17:25.14,GJM_Main,Ka,0,0,0,,{\i1\q2}If I'm not mistaken, \Nthe president commutes by bicycle from Sedagaya.
+Dialogue: 10,0:17:20.18,0:17:25.14,GJM_Main,Ka,0,0,0,,{\i1\q2}If I'm not mistaken, \Nthe president commutes by bicycle from Setagaya.
 Dialogue: 10,0:17:25.14,0:17:28.14,GJM_Main,Ka,0,0,0,,{\i1}That means he should be coming via Meiji Street.
 Dialogue: 10,0:17:28.14,0:17:31.50,GJM_Main,Ka,0,0,0,,{\i1}He usually arrives at school\N on the later side of things.
 Dialogue: 10,0:17:31.50,0:17:33.73,GJM_Main,Ka,0,0,0,,{\i1}If I wait by the bridge, I'll surely meet him.
