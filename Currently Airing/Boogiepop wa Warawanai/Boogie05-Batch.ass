@@ -16,9 +16,9 @@ Video File: E:/GJM/Boogiepop/05/Premux - Boogiepop 05 [36C05465].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 1123
-Active Line: 1124
-Video Position: 32103
+Scroll Position: 101
+Active Line: 113
+Video Position: 10822
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -146,7 +146,7 @@ Dialogue: 10,0:07:19.93,0:07:22.40,GJM_Main,Masaki,0,0,0,,Well, just look how lo
 Dialogue: 10,0:07:22.40,0:07:24.71,GJM_Main,Aya,0,0,0,,You don't want to wait?
 Dialogue: 10,0:07:24.71,0:07:26.34,GJM_Main,Masaki,0,0,0,,Wouldn't we get tired waiting for so long?
 Dialogue: 10,0:07:26.85,0:07:31.34,GJM_Main,Aya,0,0,0,,Then I'll stay in line so you \Ncan take a rest somewhere.
-Dialogue: 10,0:07:31.34,0:07:34.09,GJM_Main,Masaki,0,0,0,,No, no! If you're waiting, I'll wait with you.
+Dialogue: 10,0:07:31.34,0:07:34.09,GJM_Main,Masaki,0,0,0,,No, no! In that case, let me wait in line instead!
 Dialogue: 10,0:07:34.09,0:07:37.86,GJM_Main,Aya,0,0,0,,It's all right. I'm used to doing nothing.
 Dialogue: 10,0:07:37.86,0:07:41.85,GJM_Main,Masaki,0,0,0,,But, I mean, I'm bringing \Nyou here to say thank you...
 Dialogue: 10,0:07:41.85,0:07:44.17,GJM_Main,Masaki,0,0,0,,I know! Wait here for a bit.
