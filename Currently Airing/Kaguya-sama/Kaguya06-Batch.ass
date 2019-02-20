@@ -15,10 +15,10 @@ Audio File: E:/GJM/Kaguya/06/kaguya06 (premux).mkv
 Video File: E:/GJM/Kaguya/06/kaguya06 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 2961
-Active Line: 2983
-Video Position: 3290
+Video Zoom Percent: 0.750000
+Scroll Position: 1572
+Active Line: 1574
+Video Position: 14746
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1519,7 +1519,7 @@ Dialogue: 0,0:08:24.62,0:08:24.66,AdriksSigns,,0,0,0,,{\pos(601.89,370)\fscx96.1
 Dialogue: 0,0:08:24.66,0:08:24.70,AdriksSigns,,0,0,0,,{\pos(602.68,369.53)\fscx96.27\fscy96.27\frz-8\fnCF Rise of Nations\fs60\c&HC48FFE&\blur1\fade(255,0,255,-410,-410,-306,130)}Poke
 Dialogue: 0,0:08:24.70,0:08:24.75,AdriksSigns,,0,0,0,,{\pos(604.25,370.91)\fscx94.9\fscy94.9\frz-8\fnCF Rise of Nations\fs60\c&HC48FFE&\blur1\fade(255,0,255,-450,-450,-346,90)}Poke
 Dialogue: 0,0:08:24.75,0:08:24.79,AdriksSigns,,0,0,0,,{\pos(606.07,372.54)\fscx93.48\fscy93.48\frz-8\fnCF Rise of Nations\fs60\c&HC48FFE&\blur1\fade(255,0,255,-500,-500,-396,40)}Poke
-Dialogue: 1,0:08:58.53,0:09:01.53,AdriksSigns,,0,0,0,,{\an9\pos(865.67,142.62)\frz-13\fax0.01\fnLato\fs18\b1\blur0.8}Shuchiiin Academy\N Drama Club
+Dialogue: 1,0:08:58.53,0:09:01.53,AdriksSigns,,0,0,0,,{\an9\pos(865.67,142.62)\frz-13\fax0.01\fnLato\fs18\b1\blur0.8}Shuchiin Academy\N Drama Club
 Dialogue: 0,0:08:58.53,0:09:01.53,AdriksSigns,,0,0,0,,{\pos(644.293,133)\fscx85\frz-12.7\fnBloody\fs22.8\yshad2.5\4c&H3833C3&\blur0.8}T{\c&HFEFEFE&}h{\c&HFDFEFE&}e {\c&HFCFCFD&}W{\c&HFBFBFC&}o{\c&HFAFBFB&}m{\c&HF9FAFB&}e{\c&HF9F9FA&}n {\c&HF7F8F9&}o{\c&HF6F7F8&}f {\c&HF5F6F7&}L{\c&HF4F5F7&}o{\c&HF3F4F6&}v{\c&HF2F3F5&}e {\c&HF1F2F4&}a{\c&HF0F1F4&}n{\c&HEFF1F3&}d {\c&HEDEFF2&}H{\c&HEDEEF1&}a{\c&HECEEF1&}t{\c&HEBEDF0&}e
 Dialogue: 0,0:08:58.53,0:09:01.53,AdriksSigns,,0,0,0,,{\pos(533.67,263.76)\frz-12.2\fax0.02\fnLato\fs10\b1\c&HEBEDF0&\blur0.7\t(\c&HFFFFFF&)}Part One
 Dialogue: 0,0:08:58.53,0:09:01.53,AdriksSigns,,0,0,0,,{\pos(533.67,263.76)\frz-12.2\fax0.02\fnLato\fs10\b1\c&HEBEDF0&\blur0.7\t(\c&HFFFFFF&)}Part One
@@ -1606,11 +1606,11 @@ Dialogue: 0,0:10:13.94,0:10:14.02,AdriksSigns,,0,0,0,,{\an7\pos(816,670.4)\c&HF1
 Dialogue: 0,0:10:13.94,0:10:14.02,AdriksSigns,,0,0,0,,{\an7\pos(816,670.4)\c&HF2F2F2&\blur2.5\clip(847,628,849,697)\p1}m -28 -32 l 20 -32 20 -13 -28 -14 -27 -10 28 -8 25 16 -27 17
 Dialogue: 0,0:10:13.94,0:10:14.02,AdriksSigns,,0,0,0,,{\an7\pos(816,670.4)\c&HF2F2F2&\blur2.5\clip(849,628,851,697)\p1}m -28 -32 l 20 -32 20 -13 -28 -14 -27 -10 28 -8 25 16 -27 17
 Dialogue: 0,0:10:14.02,0:10:14.56,AdriksSigns,,0,0,0,,{\an7\pos(0,4)\c&HF3F3F3&\blur4\p1}m 561 56 l 1299 57 1299 721 561 720
-Dialogue: 0,0:10:13.85,0:10:13.94,AdriksSigns,,0,0,0,,{\an7\pos(582.4,62.4)\fnFOT-RodinMaria Pro B\fs90\b1\c&H645B3C&\blur0.8\clip(1135,-1.6,1279,719)\q2}You're walking down \Na dark street. Some\none grabs your shoul\Nder from behind.
-Dialogue: 0,0:10:13.85,0:10:13.94,AdriksSigns,,0,0,0,,{\an7\pos(582.4,62.4)\fnFOT-RodinMaria Pro B\fs90\b1\c&HEAEAEA&\blur0.8\clip(1077.6,-1.6,1135,720)\q2}You're walkin{\c&HE2E3DF&\1a&HB4&}g down \Na dark stre{\c&HEAEAEA&}et. {\c&HBDBEBA&}Some\None grabs {\c&HEAEAEA&}you{\c&HBDBEBA&}r shoul\Nder from {\c&HEAEAEA&}behin{\c&HBDBEBA&}d.
-Dialogue: 0,0:10:13.94,0:10:14.02,AdriksSigns,,0,0,0,,{\an7\pos(582.4,62.4)\fnFOT-RodinMaria Pro B\fs90\b1\c&H645B3C&\blur0.8\clip(788,-1.6,1279,719)\q2}You're walking down \Na dark street. Some\none grabs your shoul\Nder from behind.
-Dialogue: 0,0:10:13.94,0:10:14.02,AdriksSigns,,0,0,0,,{\an7\pos(582.4,62.4)\fnFOT-RodinMaria Pro B\fs90\b1\c&HEAEAEA&\blur0.8\clip(730,-21.6,788,719)\q2}You're walkin{\c&HE2E3DF&\1a&HC8&}g down \Na dark stre{\c&HEAEAEA&}et. {\c&HBDBEBA&}Some\None grabs {\c&HEAEAEA&}you{\c&HBDBEBA&}r shoul\Nder from {\c&HEAEAEA&}behin{\c&HBDBEBA&}d.
-Dialogue: 0,0:10:14.02,0:10:14.56,AdriksSigns,,0,0,0,,{\an7\pos(582.4,62.4)\fnFOT-RodinMaria Pro B\fs90\b1\c&H645B3C&\blur0.8\q2}You're walking down \Na dark street. Some\none grabs your shoul\Nder from behind.
+Dialogue: 0,0:10:13.85,0:10:13.94,AdriksSigns,,0,0,0,,{\an7\pos(582.4,62.4)\fnFOT-RodinMaria Pro B\fs90\b1\c&H645B3C&\blur0.8\clip(1135,-1.6,1279,719)\q2}You're walking down \Na dark street. Some\None taps your shoul\Nder from behind.
+Dialogue: 0,0:10:13.85,0:10:13.94,AdriksSigns,,0,0,0,,{\an7\pos(582.4,62.4)\fnFOT-RodinMaria Pro B\fs90\b1\c&HEAEAEA&\blur0.8\clip(1077.6,-1.6,1135,720)\q2}You're walkin{\c&HE2E3DF&\1a&HB4&}g down \Na dark stre{\c&HEAEAEA&}et. {\c&HBDBEBA&}Some\None taps {\c&HEAEAEA&}you{\c&HBDBEBA&}r shoul\Nder from {\c&HEAEAEA&}behin{\c&HBDBEBA&}d.
+Dialogue: 0,0:10:13.94,0:10:14.02,AdriksSigns,,0,0,0,,{\an7\pos(582.4,62.4)\fnFOT-RodinMaria Pro B\fs90\b1\c&H645B3C&\blur0.8\clip(788,-1.6,1279,719)\q2}You're walking down \Na dark street. Some\None taps your shoul\Nder from behind.
+Dialogue: 0,0:10:13.94,0:10:14.02,AdriksSigns,,0,0,0,,{\an7\pos(582.4,62.4)\fnFOT-RodinMaria Pro B\fs90\b1\c&HEAEAEA&\blur0.8\clip(730,-21.6,788,719)\q2}You're walkin{\c&HE2E3DF&\1a&HC8&}g down \Na dark stre{\c&HEAEAEA&}et. {\c&HBDBEBA&}Some\None taps {\c&HEAEAEA&}you{\c&HBDBEBA&}r shoul\Nder from {\c&HEAEAEA&}behin{\c&HBDBEBA&}d.
+Dialogue: 0,0:10:14.02,0:10:14.56,AdriksSigns,,0,0,0,,{\an7\pos(582.4,62.4)\fnFOT-RodinMaria Pro B\fs90\b1\c&H645B3C&\blur0.8\q2}You're walking down \Na dark street. Some\None taps your shoul\Nder from behind.
 Dialogue: 0,0:10:42.59,0:10:45.34,AdriksSigns,,0,0,0,,{\pos(763,220)\fnFOT-RodinMaria Pro B\fs45\b1\c&H75694D&\alpha&HFF&\blur0.75}It shows that this is the {\fnFOT-RodinHappy Pro UB\bord7\3c&H75694D&\alpha&H00&}person you like!
 Dialogue: 0,0:10:42.59,0:10:45.34,AdriksSigns,,0,0,0,,{\pos(763,220)\fnFOT-RodinMaria Pro B\fs45\b1\c&H75694D&\alpha&HFF&\blur0.75}It shows that this is the {\fnFOT-RodinHappy Pro UB\bord3\c&HF4F3EE&\3c&HF4F3EE&\alpha&H00&}person you like!
 Dialogue: 0,0:10:42.59,0:10:42.68,AdriksSigns,,0,0,0,,{\pos(763,220)\fnFOT-RodinMaria Pro B\fs45\b1\c&H75694D&\1a&HFF&\blur0.75}It shows that this is {\1a&HC8&}t{\1a&H00&}he {\fnFOT-RodinHappy Pro UB\c&H5254F5&}person you like!
