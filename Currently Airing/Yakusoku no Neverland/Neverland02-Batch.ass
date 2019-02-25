@@ -195,7 +195,7 @@ Dialogue: 10,0:11:12.44,0:11:14.02,GJM_Main,,0,0,0,,You look pale.
 Dialogue: 10,0:11:16.98,0:11:21.53,GJM_Main,,0,0,0,,Which reminds me, you weren't \Nquite your cheerful self this morning.
 Dialogue: 10,0:11:21.98,0:11:23.53,GJM_Main,,0,0,0,,That's not...
 Dialogue: 10,0:11:36.68,0:11:38.01,GJM_Main,,0,0,0,,It's nothin' really.
-Dialogue: 10,0:11:38.52,0:11:43.53,GJM_Main,,0,0,0,,I just got a little sad thinkin' that \NI’ll be leavin' the House soon too.
+Dialogue: 10,0:11:38.52,0:11:43.53,GJM_Main,,0,0,0,,I just got a little sad thinkin' that \NI'll be leavin' the House soon too.
 Dialogue: 10,0:11:45.27,0:11:46.81,GJM_Main,,0,0,0,,Do you like it here at the House?
 Dialogue: 10,0:11:47.23,0:11:49.58,GJM_Main,,0,0,0,,I love both the House an' you, Mom!
 Dialogue: 10,0:11:51.94,0:11:54.81,GJM_Main,,0,0,0,,I wonder what Conny's doing right now.
@@ -296,9 +296,9 @@ Dialogue: 10,0:17:56.03,0:17:57.94,GJM_Main,,0,0,0,,I don't want our escape to f
 Dialogue: 10,0:17:57.94,0:18:00.40,GJM_Main,,0,0,0,,but there's no way we can \Nleave 'em all behind, either.
 Dialogue: 10,0:18:01.87,0:18:03.93,GJM_Main,,0,0,0,,I want Conny to be the last.
 Dialogue: 10,0:18:04.33,0:18:07.68,GJM_Main,,0,0,0,,I don't wanna see anyone else \Nend up like that ever again.
-Comment: 10,0:18:08.73,0:18:12.81,GJM_Main,,0,0,0,,If there isn’t a place for us humans out there, then let's make one ourselves.
+Comment: 10,0:18:08.73,0:18:12.81,GJM_Main,,0,0,0,,If there isn't a place for us humans out there, then let's make one ourselves.
 Comment: 10,0:18:13.27,0:18:14.82,GJM_Main,,0,0,0,,Let's change the world.
-Dialogue: 10,0:18:08.73,0:18:13.07,GJM_Main,,0,0,0,,{\fad(0,228)\pos(640,680)}If there isn’t a place for us humans\N out there, then let's make one ourselves.
+Dialogue: 10,0:18:08.73,0:18:13.07,GJM_Main,,0,0,0,,{\fad(0,228)\pos(640,680)}If there isn't a place for us humans\N out there, then let's make one ourselves.
 Dialogue: 10,0:18:12.86,0:18:14.82,GJM_Main,,0,0,0,,{\fad(232,0)\pos(640,680)}Let's change the world.
 Dialogue: 10,0:18:16.06,0:18:18.36,GJM_Main,,0,0,0,,I understand now, thanks to you, Ray.
 Dialogue: 10,0:18:18.36,0:18:20.81,GJM_Main,,0,0,0,,That's the kinda prison break we've gotta pull off.
