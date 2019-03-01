@@ -16,9 +16,9 @@ Video File: E:/GJM/Irozuku Sekai no Ashita kara/04/irozuku04_premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 474
-Active Line: 481
-Video Position: 32588
+Scroll Position: 167
+Active Line: 172
+Video Position: 14451
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,14 +115,14 @@ Dialogue: 10,0:06:01.40,0:06:03.50,GJM_Main,,0,0,0,,She's a mage in her second y
 Dialogue: 10,0:06:03.78,0:06:05.50,GJM_Main,,0,0,0,,You're related to Hitomi, right?
 Dialogue: 10,0:06:05.50,0:06:08.98,GJM_Main,,0,0,0,,Yeah. I tagged along to take a look at the club.
 Dialogue: 10,0:06:08.98,0:06:11.83,GJM_Main,,0,0,0,,Do you usually have your club activities here?
-Dialogue: 10,0:06:11.83,0:06:15.02,GJM_Main,,0,0,0,,Of course not. This place is run by Chigusa's Family.
+Dialogue: 10,0:06:11.83,0:06:15.02,GJM_Main,,0,0,0,,Of course not. This place is run by Chigusa's family.
 Dialogue: 10,0:06:15.02,0:06:20.95,GJM_Main,,0,0,0,,Since Aoi and Chigusa work here,\N sometimes we just hold our meetings here.
 Dialogue: 10,0:06:20.95,0:06:22.15,GJM_Main,,0,0,0,,Without paying, of course.
 Dialogue: 10,0:06:22.15,0:06:22.90,GJM_Main,,0,0,0,,Welcome.
 Dialogue: 10,0:06:24.37,0:06:27.75,GJM_Main,,0,0,0,,I'll have the baked cheesecake \Nset with a tangerine juice.
 Dialogue: 10,0:06:27.75,0:06:29.66,GJM_Main,,0,0,0,,I'll also have the same.
 Dialogue: 10,0:06:29.66,0:06:31.28,GJM_Main,,0,0,0,,Me too.
-Dialogue: 10,0:06:31.28,0:06:33.91,GJM_Main,,0,0,0,,I'll have a castella with a herbal tea, please.
+Dialogue: 10,0:06:31.28,0:06:33.91,GJM_Main,,0,0,0,,I'll have a castella with an herbal tea, please.
 Dialogue: 10,0:06:33.91,0:06:35.41,GJM_Main,,0,0,0,,Right away.
 Dialogue: 10,0:06:36.66,0:06:39.67,GJM_Main,,0,0,0,,On today's agenda is deciding what we're\N going to display at the cultural festival.
 Dialogue: 10,0:06:39.67,0:06:41.86,GJM_Main,,0,0,0,,I was talking with Yuito the \Nother day, and we thought that
@@ -179,8 +179,8 @@ Dialogue: 10,0:08:47.75,0:08:51.85,GJM_Main,,0,0,0,,{Kazano}He's our mascot. His
 Dialogue: 10,0:08:47.74,0:08:51.82,GJM_Overlap,,0,0,0,,{Shou}{\an8}The camera you're holding is a basic one.
 Dialogue: 10,0:08:51.82,0:08:57.90,GJM_Overlap,,0,0,0,,{Shou}{\an8}Basically all it does is takes photos.
 Dialogue: 10,0:08:57.90,0:08:58.43,GJM_Overlap,,0,0,0,,{Hitomi}{\an8}I see.
-Dialogue: 10,0:08:51.85,0:08:56.84,GJM_Main,,0,0,0,,{Kohaku} So fluffy! I'm so jealous! I wanna cuddle him!
-Dialogue: 10,0:08:56.84,0:08:58.43,GJM_Main,,0,0,0,,{Kazano} I know, right?
+Dialogue: 10,0:08:51.85,0:08:56.84,GJM_Main,,0,0,0,,{Kohaku}He's so adorable! I wanna cuddle him!
+Dialogue: 10,0:08:56.84,0:08:58.43,GJM_Main,,0,0,0,,{Kazano}I know, right?
 Dialogue: 10,0:08:58.43,0:09:03.18,GJM_Main,,0,0,0,,Sometimes we bring him over,\N so please do come and see him.
 Dialogue: 10,0:09:03.57,0:09:06.11,GJM_Main,,0,0,0,,{Shou}Don't worry too much about the complex stuff.
 Dialogue: 10,0:09:06.11,0:09:08.69,GJM_Main,,0,0,0,,It's important to actually start taking photos.
@@ -204,7 +204,7 @@ Dialogue: 10,0:09:55.80,0:09:57.32,GJM_Main,,0,0,0,,That's not true!
 Dialogue: 10,0:09:57.70,0:10:00.57,GJM_Main,,0,0,0,,The locomotive this morning was all your doing.
 Dialogue: 10,0:10:00.57,0:10:01.45,GJM_Main,,0,0,0,,Huh?
 Dialogue: 10,0:10:04.90,0:10:06.87,GJM_Main,,0,0,0,,It was in the album.
-Dialogue: 10,0:10:07.54,0:10:09.88,GJM_Main,,0,0,0,,That locomotive... it was this photo, right?
+Dialogue: 10,0:10:07.54,0:10:09.88,GJM_Main,,0,0,0,,That locomotive... it was this picture, right?
 Dialogue: 10,0:10:11.09,0:10:13.88,GJM_Main,,0,0,0,,I think you have some hidden powers.
 Dialogue: 10,0:10:14.38,0:10:18.72,GJM_Main,,0,0,0,,But it seems like your magic has lost its way.
 Dialogue: 10,0:10:20.97,0:10:27.08,GJM_Main,,0,0,0,,Ahem... By the way, I... um...
