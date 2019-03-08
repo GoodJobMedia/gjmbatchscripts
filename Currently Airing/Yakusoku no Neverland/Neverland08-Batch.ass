@@ -92,13 +92,13 @@ Dialogue: 10,0:06:01.39,0:06:04.27,GJM_Main,,0,0,0,,I never stood a chance at al
 Dialogue: 10,0:06:15.06,0:06:16.65,GJM_Main,,0,0,0,,{\fad(0,100)}Let's eat.
 Dialogue: 10,0:06:16.65,0:06:18.06,GJM_Main,,0,0,0,,{\fad(100,0)}Let's eat.
 Dialogue: 10,0:09:20.58,0:09:24.04,GJM_Main,,0,0,0,,You'd better escape, you damned brats.
-Dialogue: 10,0:09:26.65,0:09:28.29,GJM_Main,,0,0,0,,You’re good at tag, aren't you?
+Dialogue: 10,0:09:26.65,0:09:28.29,GJM_Main,,0,0,0,,You're good at tag, aren't you?
 Dialogue: 10,0:09:29.10,0:09:30.29,GJM_Main,,0,0,0,,Escape,
 Dialogue: 10,0:09:30.81,0:09:31.87,GJM_Main,,0,0,0,,run,
 Dialogue: 10,0:09:33.24,0:09:34.42,GJM_Main,,0,0,0,,survive,
 Dialogue: 10,0:09:35.43,0:09:38.93,GJM_Main,,0,0,0,,and destroy this godforsaken world!
 Dialogue: 10,0:09:58.86,0:10:01.55,GJM_Main,,0,0,0,,Thanks for the food!
-Dialogue: 10,0:10:14.78,0:10:17.52,GJM_Main,,0,0,0,,Let's go swap out the chemicals.{##~}
+Dialogue: 10,0:10:14.78,0:10:17.52,GJM_Main,,0,0,0,,We should get moving and\N swap the chemicals back over.
 Dialogue: 10,0:10:27.33,0:10:28.48,GJM_Main,,0,0,0,,Let's go over the plan.
 Dialogue: 10,0:10:28.82,0:10:31.23,GJM_Main,,0,0,0,,Emma and Norman will climb the wall\N and check out the surrounding area.
 Dialogue: 10,0:10:31.69,0:10:32.73,GJM_Main,,0,0,0,,Don and Gilda,
@@ -192,7 +192,7 @@ Dialogue: 10,0:16:43.96,0:16:45.77,GJM_Main,,0,0,0,,But don't misunderstand.
 Dialogue: 10,0:16:46.17,0:16:48.69,GJM_Main,,0,0,0,,I care very much about you all.
 Dialogue: 10,0:16:48.69,0:16:51.23,GJM_Main,,0,0,0,,I love you from the bottom of my heart.
 Dialogue: 10,0:16:51.23,0:16:53.51,GJM_Main,,0,0,0,,I love you like I would my own children.
-Dialogue: 10,0:16:54.72,0:16:58.03,GJM_Main,,0,0,0,,And that’s why I'm here. I want you to give up.
+Dialogue: 10,0:16:54.72,0:16:58.03,GJM_Main,,0,0,0,,And that's why I'm here. I want you to give up.
 Dialogue: 10,0:16:58.70,0:17:00.08,GJM_Main,,0,0,0,,Give up?
 Dialogue: 10,0:17:00.08,0:17:01.04,GJM_Main,,0,0,0,,Give up what?
 Dialogue: 10,0:17:05.04,0:17:06.80,GJM_Main,,0,0,0,,Resisting.
