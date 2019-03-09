@@ -17,8 +17,7 @@ Keyframes File: neverland08_premux  [532828E9]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 164
-Active Line: 176
+Active Line: 23
 Video Position: 25512
 
 [V4+ Styles]
@@ -54,7 +53,7 @@ Dialogue: 10,0:02:51.67,0:02:54.03,GJM_Main,,0,0,0,,I have no choice. This is do
 Dialogue: 10,0:02:59.45,0:03:02.74,GJM_Main,,0,0,0,,I'll never let her have her way!
 Dialogue: 10,0:03:05.79,0:03:06.99,GJM_Main,,0,0,0,,Mom!
 Dialogue: 10,0:03:06.99,0:03:08.43,GJM_Main,,0,0,0,,Krone!
-Dialogue: 10,0:03:08.43,0:03:10.64,GJM_Main,,0,0,0,,Dinner's ready!
+Dialogue: 10,0:03:08.43,0:03:10.64,GJM_Main,,0,0,0,,Food's ready!
 Dialogue: 10,0:03:11.58,0:03:13.31,GJM_Main,,0,0,0,,Huh? Where's Krone?
 Dialogue: 10,0:03:13.31,0:03:14.82,GJM_Main,,0,0,0,,Isn't she with you?
 Dialogue: 10,0:03:14.82,0:03:15.93,GJM_Main,,0,0,0,,Is she in her room?
