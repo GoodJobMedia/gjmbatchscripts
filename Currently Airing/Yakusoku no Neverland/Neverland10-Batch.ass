@@ -11,15 +11,9 @@ PlayResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: neverland10_premux  [9CDDD49E].mkv
-Video File: neverland10_premux  [9CDDD49E].mkv
-Keyframes File: neverland10_premux  [9CDDD49E]_keyframes.log
-Video AR Mode: 4
-Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 232
-Active Line: 248
-Video Position: 25422
+Scroll Position: 36
+Active Line: 39
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -70,7 +64,7 @@ Dialogue: 10,0:03:17.53,0:03:18.67,GJM_Main,,0,0,0,,Then why?
 Dialogue: 10,0:03:18.67,0:03:20.37,GJM_Main,,0,0,0,,Was that all...
 Dialogue: 10,0:03:20.37,0:03:22.68,GJM_Main,,0,0,0,,...a lie, yeah. Sorry.
 Dialogue: 10,0:03:24.84,0:03:29.73,GJM_Main,,0,0,0,,In order to keep everyone alive, \NI couldn't afford to make a single mistake.
-Dialogue: 10,0:03:29.73,0:03:31.90,GJM_Main,,0,0,0,,If I'd ran, it would have thrown\N a spanner in the works.
+Dialogue: 10,0:03:29.73,0:03:31.90,GJM_Main,,0,0,0,,Running away would have \Nthrown a spanner in the works.
 Dialogue: 10,0:03:31.90,0:03:34.52,GJM_Main,,0,0,0,,Even the slightest change to our plans would be too much to risk.
 Dialogue: 10,0:03:34.52,0:03:36.82,GJM_Main,,0,0,0,,I want to eliminate all chances of failure.
 Dialogue: 10,0:03:37.58,0:03:39.37,GJM_Main,,0,0,0,,Don't try to talk me out of this.
