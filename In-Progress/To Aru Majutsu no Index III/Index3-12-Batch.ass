@@ -16,9 +16,9 @@ Video File: E:/GJM/Index III/12/Index3_EP12_Premux_v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 829
-Active Line: 846
-Video Position: 4309
+Scroll Position: 246
+Active Line: 262
+Video Position: 28604
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,10 +42,10 @@ Dialogue: 10,0:00:22.75,0:00:26.44,GJM_Main_1080p,,0,0,0,,Destroy as much as nee
 Dialogue: 10,0:00:30.02,0:00:33.13,GJM_Main_1080p,,0,0,0,,The Knight unit is coming after even Necessarius.
 Dialogue: 10,0:00:33.50,0:00:37.80,GJM_Main_1080p,,0,0,0,,I need to regroup with the Sisters\N in the other fortress.
 Dialogue: 10,0:00:39.94,0:00:41.02,GJM_Main_1080p,,0,0,0,,Oh shoot!
-Dialogue: 10,0:00:45.35,0:00:50.61,GJM_Main_1080p,,0,0,0,,Witches 3 to 20 and 30 to 35, ready to fire.
+Dialogue: 10,0:00:45.35,0:00:50.61,GJM_Main_1080p,,0,0,0,,Witches 3 to 20 and 30 to 35, ready for takeoff.
 Dialogue: 10,0:00:51.16,0:00:55.42,GJM_Main_1080p,,0,0,0,,All designated witches are to accelerate\N in sequence and stop the Knight unit's attack.
 Dialogue: 10,0:01:01.80,0:01:03.68,GJM_Main_1080p,,0,0,0,,What are we going to do, Smartvery?
-Dialogue: 10,0:01:03.68,0:01:08.28,GJM_Main_1080p,,0,0,0,,We don't know if our attacks\N will have any effect on the Knights.
+Dialogue: 10,0:01:03.68,0:01:08.28,GJM_Main_1080p,,0,0,0,,We don't know if our attacks\N will have any effect on those Knights.
 Dialogue: 10,0:01:08.28,0:01:12.66,GJM_Main_1080p,,0,0,0,,{\q2}I guess we'll just have to tough it out until \Nthe Coven Compass makes it out of the country.
 Dialogue: 10,0:01:12.66,0:01:14.67,GJM_Main_1080p,,0,0,0,,So we're just a decoy?
 Dialogue: 10,0:01:14.67,0:01:19.30,GJM_Main_1080p,,0,0,0,,Knights sure love chasing\N witches' skirts, no matter what era.
@@ -82,7 +82,7 @@ Dialogue: 10,0:04:43.34,0:04:46.14,GJM_Main_1080p,,0,0,0,,"If they don't listen,
 Dialogue: 10,0:04:46.14,0:04:48.76,GJM_Main_1080p,,0,0,0,,"If you decide to kill, then do so without mercy."
 Dialogue: 10,0:04:48.76,0:04:50.10,GJM_Main_1080p,,0,0,0,,What?
 Dialogue: 10,0:04:50.70,0:04:52.86,GJM_Main_1080p,,0,0,0,,Well then, what will it be?
-Dialogue: 10,0:04:54.42,0:05:01.70,GJM_Main_1080p,,0,0,0,,{\q2}They used a Roman Catholic destruction glyph\N based on the lore of the House of Loreto.
+Dialogue: 10,0:04:54.42,0:05:01.70,GJM_Main_1080p,,0,0,0,,{\q2}They used a Roman Catholic destruction spell\N based on the lore of the House of Loreto.
 Dialogue: 10,0:05:01.70,0:05:02.82,GJM_Main_1080p,,0,0,0,,Is that so.
 Dialogue: 10,0:05:02.82,0:05:08.46,GJM_Main_1080p,,0,0,0,,The original House of Loreto \Nwas famously visited by Louis IX of France.
 Dialogue: 10,0:05:08.46,0:05:11.96,GJM_Main_1080p,,0,0,0,,He analyzed its properties as a mystic artifact,
@@ -100,8 +100,8 @@ Dialogue: 10,0:05:50.24,0:05:54.16,GJM_Main_1080p,,0,0,0,,Our nation's military 
 Dialogue: 10,0:05:54.68,0:05:57.62,GJM_Main_1080p,,0,0,0,,To Hell with the Church of England, Academy City,
 Dialogue: 10,0:05:57.62,0:06:00.50,GJM_Main_1080p,,0,0,0,,the Roman Catholics, \Nthe Russian Church, and their whole war.
 Dialogue: 10,0:06:01.10,0:06:05.58,GJM_Main_1080p,,0,0,0,,Regardless of whether\N the Magic or Science faction wins,
-Dialogue: 10,0:06:05.58,0:06:10.74,GJM_Main_1080p,,0,0,0,,{\q2}Britain will only go down in history as a party that\N just happened to get mixed up in the whole scuffle.
-Dialogue: 10,0:06:10.74,0:06:19.90,GJM_Main_1080p,,0,0,0,,We need to empower Britain as a separate,\N independent power to avoid such a cruel fate.
+Dialogue: 10,0:06:05.58,0:06:10.74,GJM_Main_1080p,,0,0,0,,{\q2}Britain, having dabbled in both magic and science,\N will get the short end of the stick.
+Dialogue: 10,0:06:10.74,0:06:19.90,GJM_Main_1080p,,0,0,0,,To only way to avoid that is to make Britain\N an independent third side in this conflict.
 Dialogue: 10,0:06:20.62,0:06:23.88,GJM_Main_1080p,,0,0,0,,Mother's tactics are far too spineless.
 Dialogue: 10,0:06:23.88,0:06:29.34,GJM_Main_1080p,,0,0,0,,We need to win this war without external help
 Dialogue: 10,0:06:29.34,0:06:31.66,GJM_Main_1080p,,0,0,0,,to ensure a bright future for our nation.
@@ -153,9 +153,9 @@ Dialogue: 10,0:09:39.62,0:09:44.60,GJM_Main_1080p,,0,0,0,,{\q2}Were you trying t
 Dialogue: 10,0:09:44.60,0:09:48.84,GJM_Main_1080p,,0,0,0,,I truly did wish for you to spend\N some time in a more ladylike manner.
 Dialogue: 10,0:09:48.84,0:09:52.11,GJM_Main_1080p,,0,0,0,,However, it looks like it's too late for that.
 Dialogue: 10,0:10:01.08,0:10:03.46,GJM_Main_1080p,,0,0,0,,Why are you so surprised?
-Dialogue: 10,0:10:03.46,0:10:07.26,GJM_Main_1080p,,0,0,0,,The United Kingdom is comprised\N of Curtana and its four countries.
-Dialogue: 10,0:10:07.26,0:10:11.04,GJM_Main_1080p,,0,0,0,,That alone binds the nation \Nunder the teachings of the cross.
-Dialogue: 10,0:10:11.38,0:10:16.47,GJM_Main_1080p,,0,0,0,,Within its domain, the monarch is an archangel,\N and we knights are angels!
+Dialogue: 10,0:10:03.46,0:10:07.26,GJM_Main_1080p,,0,0,0,,{\q2}This United Kingdom, \Nmade up of Curtana and the four countries,
+Dialogue: 10,0:10:07.26,0:10:11.04,GJM_Main_1080p,,0,0,0,,is bound by the rules of our \Nparticular form of Christianity.
+Dialogue: 10,0:10:11.38,0:10:16.47,GJM_Main_1080p,,0,0,0,,Within its domain, the monarch is a seraph,\N and we knights are angels!
 Dialogue: 10,0:10:22.96,0:10:30.15,GJM_Main_1080p,,0,0,0,,As long as we remain within this country,\N even a Saint's power is no match for mine.
 Dialogue: 10,0:10:31.38,0:10:36.26,GJM_Main_1080p,,0,0,0,,{\i1}If there are still any Christians\N left at the Canterbury Cathedral,
 Dialogue: 10,0:10:36.26,0:10:40.60,GJM_Main_1080p,,0,0,0,,{\i1}I have to ask them to at least save\N the servants that helped me escape.
@@ -175,7 +175,7 @@ Dialogue: 10,0:11:28.30,0:11:31.44,GJM_Main_1080p,,0,0,0,,You don't have a singl
 Dialogue: 10,0:11:31.44,0:11:33.04,GJM_Main_1080p,,0,0,0,,You're all on your own.
 Dialogue: 10,0:11:35.94,0:11:37.46,GJM_Main_1080p,,0,0,0,,I've taken care of the Saint.
 Dialogue: 10,0:11:38.16,0:11:39.80,GJM_Main_1080p,,0,0,0,,Nothing else stands in our way.
-Dialogue: 10,0:11:42.44,0:11:44.76,GJM_Main_1080p,,0,0,0,,Let's give you another job, then.
+Dialogue: 10,0:11:42.44,0:11:44.76,GJM_Main_1080p,,0,0,0,,Then could you also take care of this?
 Dialogue: 10,0:11:46.68,0:11:49.76,GJM_Main_1080p,,0,0,0,,A sword wouldn't make a very clean cut.
 Dialogue: 10,0:11:49.76,0:11:53.56,GJM_Main_1080p,,0,0,0,,We should use an axe made to execute royalty.
 Dialogue: 10,0:11:59.30,0:12:01.64,GJM_Main_1080p,,0,0,0,,I don't mind if you want to cry for help.
@@ -253,7 +253,7 @@ Dialogue: 10,0:16:49.84,0:16:53.32,GJM_Main_1080p,,0,0,0,,This sorta happens to 
 Dialogue: 10,0:16:53.32,0:16:54.64,GJM_Main_1080p,,0,0,0,,Drop the chit-chat!
 Dialogue: 10,0:16:54.64,0:16:56.78,GJM_Main_1080p,,0,0,0,,If you break them in such a crude manne—
 Dialogue: 10,0:16:59.04,0:17:00.84,GJM_Main_1080p,,0,0,0,,Now what do we do?!
-Dialogue: 10,0:17:00.84,0:17:03.08,GJM_Main_1080p,,0,0,0,,We're going to get creamed on the first level!
+Dialogue: 10,0:17:00.84,0:17:03.08,GJM_Main_1080p,,0,0,0,,We're getting creamed \Nonly ten minutes into the game!
 Dialogue: 10,0:17:03.08,0:17:06.00,GJM_Main_1080p,,0,0,0,,It's too soon to give up!
 Dialogue: 10,0:17:06.00,0:17:06.46,GJM_Main_1080p,,0,0,0,,Huh?
 Dialogue: 10,0:17:14.36,0:17:16.10,GJM_Main_1080p,,0,0,0,,Hey, you can't be serious.
@@ -286,7 +286,7 @@ Dialogue: 10,0:19:03.33,0:19:04.33,GJM_Main_1080p,,0,0,0,,Movement speed.
 Dialogue: 10,0:19:07.68,0:19:08.83,GJM_Main_1080p,,0,0,0,,Weapon mass.
 Dialogue: 10,0:19:14.44,0:19:15.42,GJM_Main_1080p,,0,0,0,,Cutting edge.
 Dialogue: 10,0:19:17.13,0:19:18.13,GJM_Main_1080p,,0,0,0,,Attack range.
-Dialogue: 10,0:19:20.40,0:19:22.22,GJM_Main_1080p,,0,0,0,,I've seen through you completely.
+Dialogue: 10,0:19:20.40,0:19:22.22,GJM_Main_1080p,,0,0,0,,I've seen the extent of your ability.
 Dialogue: 10,0:19:22.22,0:19:25.35,GJM_Main_1080p,,0,0,0,,You can't surpass my blade in your current state.
 Dialogue: 10,0:19:25.94,0:19:27.68,GJM_Main_1080p,,0,0,0,,I'll give you a choice.
 Dialogue: 10,0:19:27.68,0:19:33.62,GJM_Main_1080p,,0,0,0,,{\q2}Cast aside your sword and leave Britain, \Nor fertilize Britain's soil together with your sword.
@@ -295,7 +295,7 @@ Dialogue: 10,0:19:35.80,0:19:38.69,GJM_Main_1080p,,0,0,0,,Before I answer, allow
 Dialogue: 10,0:19:39.12,0:19:44.18,GJM_Main_1080p,,0,0,0,,{\q2}Do you truly think you can save this nation\N by supporting the second princess
 Dialogue: 10,0:19:44.18,0:19:47.12,GJM_Main_1080p,,0,0,0,,and beheading the third?
 Dialogue: 10,0:19:47.80,0:19:52.62,GJM_Main_1080p,,0,0,0,,I cannot say that this course is ideal.\NHowever, history is already in motion.
-Dialogue: 10,0:19:53.00,0:19:56.30,GJM_Main_1080p,,0,0,0,,As such, my only choice is to choose a side.
+Dialogue: 10,0:19:53.00,0:19:56.30,GJM_Main_1080p,,0,0,0,,As such, my only choice is which side to take.
 Dialogue: 10,0:19:56.30,0:20:00.63,GJM_Main_1080p,,0,0,0,,And I have chosen the side which\N will bring the most glory to our nation!
 Dialogue: 10,0:20:01.46,0:20:02.59,GJM_Main_1080p,,0,0,0,,Very well.
 Dialogue: 10,0:20:06.58,0:20:09.98,GJM_Main_1080p,,0,0,0,,Flight or death—have you decided?
