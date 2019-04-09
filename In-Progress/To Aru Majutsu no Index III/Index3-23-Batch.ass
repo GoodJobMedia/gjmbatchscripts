@@ -202,8 +202,8 @@ Dialogue: 10,0:15:29.10,0:15:30.53,GJM_Main_1080p,,0,0,0,,Hold me up!
 Dialogue: 10,0:15:57.74,0:15:59.22,GJM_Main_1080p,,0,0,0,,{\i1}I'm satisfied with my choice.
 Dialogue: 10,0:16:00.06,0:16:05.94,GJM_Main_1080p,,0,0,0,,{\i1\q2}Removing archangel Gabriel from the picture\N will have a huge effect on the war.
 Dialogue: 10,0:16:06.88,0:16:12.15,GJM_Main_1080p,,0,0,0,,{\i1}You were relying too much on that power, Fiamma.
-Dialogue: 10,0:16:12.82,0:16:19.66,GJM_Main_1080p,,0,0,0,,{\i1\q2}That made the people forget that they can \Njoin forces and stand against a powerful foe.{this seems like a sudden context switch...}
-Dialogue: 10,0:16:20.16,0:16:28.09,GJM_Main_1080p,,0,0,0,,{\i1\q2}They've lost sight of the option to entrust\N the battle to someone who shares their goals.
+Dialogue: 10,0:16:12.82,0:16:19.66,GJM_Main_1080p,,0,0,0,,{\i1\q2}You forgot that the people can join forces \Nto stand against a powerful foe.
+Dialogue: 10,0:16:20.16,0:16:28.09,GJM_Main_1080p,,0,0,0,,{\i1\q2}You've lost sight of the option to entrust\N the battle to someone who shares your goals.
 Dialogue: 10,0:16:28.09,0:16:31.17,GJM_Main_1080p,,0,0,0,,{\i1}And so had I.
 Dialogue: 10,0:16:32.22,0:16:35.88,GJM_Main_1080p,,0,0,0,,{\i1}I'll die, taking the archangel with me.
 Dialogue: 10,0:16:36.54,0:16:38.10,GJM_Main_1080p,,0,0,0,,{\i1}And I'm satisfied with that.
