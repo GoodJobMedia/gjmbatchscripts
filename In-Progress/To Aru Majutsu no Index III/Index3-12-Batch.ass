@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Index3_EP12_Premux.mkv
-Video File: Index3_EP12_Premux.mkv
-Keyframes File: Index3_EP12_Premux_keyframes.log
+Audio File: E:/GJM/Index III/12/Index3_EP12_Premux_v2.mkv
+Video File: E:/GJM/Index III/12/Index3_EP12_Premux_v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 37
-Active Line: 53
-Video Position: 33806
+Video Zoom Percent: 0.500000
+Scroll Position: 829
+Active Line: 846
+Video Position: 4309
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -880,8 +879,8 @@ Dialogue: 0,0:23:02.85,0:23:07.44,ED,,0,0,0,,{\an9\blur3\fad(200,200)\fs75}I don
 Dialogue: 0,0:23:07.69,0:23:15.07,ED,,0,0,0,,{\an9\blur3\fad(200,200)\fs75}I want to start a revolution that changes who the two of us are
 Dialogue: 0,0:23:15.99,0:23:19.58,ED,,0,0,0,,{\an9\blur3\fad(200,200)\fs75}And this is the night before it starts
 Comment: 0,0:23:44.02,0:23:46.02,GJM_Main_1080p,,0,0,0,,TS
-Dialogue: 0,0:02:59.11,0:03:03.07,Sign,,0,0,0,,{\blur0.3\fad(300,280)\xbord3\ybord4\fnAbelBecker\fscx126\fscy125\3c&H050100&\c&H050100&\pos(1725.999,984.267)}Mercenary
-Dialogue: 1,0:02:59.11,0:03:03.07,Sign,,0,0,0,,{\blur0.3\fad(300,280)\bord0\fnAbelBecker\fscx126\fscy125\4a&HFF&\pos(1725.999,984.267)}Mercenary
+Dialogue: 0,0:02:59.11,0:03:03.07,Sign,,0,0,0,,{\blur0.3\fad(300,280)\xbord3\ybord4\fnAbelBecker\fscx126\fscy125\3c&H050100&\c&H050100&\pos(1651.999,984.267)}The Mercenary
+Dialogue: 1,0:02:59.11,0:03:03.07,Sign,,0,0,0,,{\blur0.3\fad(300,280)\bord0\fnAbelBecker\fscx126\fscy125\4a&HFF&\pos(1651.999,984.267)}The Mercenary
 Comment: 0,0:13:03.05,0:13:07.01,Show TItle,,0,0,0,,- eyecatch 1 -
 Comment: 0,0:13:03.05,0:13:07.01,Show TItle,,0,0,0,,{\blur2\bord1\fad(292,0)\fscy12\fscx180\an1\shad0\p1\c&HFFFFFF&\3c&HFFFFFF&\pos(1445.9,1007.5)}m 0 0 l 100 0 100 100 0 100
 Comment: 0,0:13:03.05,0:13:07.01,Show TItle,,0,0,0,,{\blur2\bord1\fad(292,0)\fscy12\fscx180\an1\shad0\p1\c&HFFFFFF&\3c&HFFFFFF&\pos(1445.9,1007.5)\1a&HFF&\3a&HFF&}m 0 0 l 100 0 100 100 0 100
@@ -1287,4 +1286,3 @@ Dialogue: 0,0:23:25.00,0:23:27.00,Sign,,0,0,0,,{\clip(1251,712,1256,854)\pos(939
 Dialogue: 0,0:23:25.00,0:23:27.00,Sign,,0,0,0,,{\clip(1256,712,1261,854)\pos(939.771,697.6)\fnA-OTF MidashiMinMA31\blur1\fscx294\fscy292\c&HB57C1D&}Next Time
 Dialogue: 0,0:23:25.00,0:23:27.00,Sign,,0,0,0,,{\clip(1261,712,1266,854)\pos(939.771,697.6)\fnA-OTF MidashiMinMA31\blur1\fscx294\fscy292\c&HB67C1D&}Next Time
 Dialogue: 0,0:23:25.00,0:23:27.00,Sign,,0,0,0,,{\clip(1266,712,1271,854)\pos(939.771,697.6)\fnA-OTF MidashiMinMA31\blur1\fscx294\fscy292\c&HB67D1D&}Next Time
-Comment: 0,0:23:46.02,0:23:48.02,GJM_Main_1080p,,0,0,0,,
