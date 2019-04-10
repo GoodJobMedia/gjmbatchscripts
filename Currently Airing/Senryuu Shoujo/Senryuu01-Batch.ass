@@ -50,9 +50,9 @@ Dialogue: 10,0:02:21.22,0:02:23.70,GJM_Main_1080p,,0,0,0,,Nanako Yukishiro, do y
 Dialogue: 10,0:02:25.00,0:02:26.69,GJM_Main_1080p,,0,0,0,,Oh, right. Sorry.
 Dialogue: 10,0:02:26.69,0:02:28.78,GJM_Main_1080p,,0,0,0,,I forgot you didn't like to talk.
 Dialogue: 10,0:02:28.78,0:02:31.92,GJM_Main_1080p,,0,0,0,,Just write your answer down \Nand show me when you're done.
-Comment: 10,0:02:41.82,0:02:46.22,GJM_Main_1080p,,0,0,0,senryu,To tell you the truth,\NI didn't get any of\Nthe last five problems.
+Comment: 10,0:02:41.82,0:02:46.22,GJM_Main_1080p,,0,0,0,senryu,To tell you the truth,\NI did not get any of\Nthe last five problems.
 Dialogue: 10,0:02:41.82,0:02:43.35,GJM_Main_1080p,,0,0,0,senryu,To tell you the truth,
-Dialogue: 10,0:02:43.35,0:02:44.93,GJM_Main_1080p,,0,0,0,senryu,I didn't get any of
+Dialogue: 10,0:02:43.35,0:02:44.93,GJM_Main_1080p,,0,0,0,senryu,I did not get any of
 Dialogue: 10,0:02:44.93,0:02:46.22,GJM_Main_1080p,,0,0,0,senryu,the last five problems.
 Dialogue: 10,0:02:46.22,0:02:47.85,GJM_Main_1080p,,0,0,0,,Then tell me that five problems ago!
 Dialogue: 10,0:02:53.11,0:02:56.78,GJM_Main_1080p,,0,0,0,,Hey, Nanako, why do you only\N communicate in writing?
@@ -688,7 +688,7 @@ Dialogue: 1,0:02:41.01,0:02:46.22,Senryuu: Nanako,,0,0,0,,{\an5\pos(1600.5,472)\
 Dialogue: 2,0:02:41.01,0:02:46.22,Senryuu: Nanako,,0,0,0,,{\an5\pos(1600.5,472)\fscx519\fscy330\c&H000000&\blur1\fad(417,0)\iclip(1343,309,1858,635)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 3,0:02:41.01,0:02:46.22,Senryuu: Nanako,,0,0,0,,{\an5\pos(1600.5,472)\fscx517\fscy328\c&HF4F3F4&\blur1\fad(417,0)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 4,0:02:41.51,0:02:46.22,Senryuu: Nanako,,0,0,0,,{\pos(1367,381)\fax0.1\fs80\c&H534956&\blur0.6\fad(292,0)}To tell you the truth,
-Dialogue: 4,0:02:42.97,0:02:46.22,Senryuu: Nanako,,0,0,0,,{\pos(1391.5,474.5)\fax0.1\fs80\c&H534956&\blur0.6\fad(292,0)}I didn't get any of
+Dialogue: 4,0:02:42.97,0:02:46.22,Senryuu: Nanako,,0,0,0,,{\pos(1391.5,474.5)\fax0.1\fs80\c&H534956&\blur0.6\fad(292,0)}I did not get any of
 Dialogue: 4,0:02:44.68,0:02:46.22,Senryuu: Nanako,,0,0,0,,{\pos(1416,568)\fax0.1\fs80\c&H534956&\blur0.6\fad(292,0)}the last five problems.
 Dialogue: 0,0:02:56.78,0:03:02.07,Senryuu: Nanako,,0,0,0,,{\an5\pos(254.5,134.5)\fscx477\fscy225\c&H000000&\blur1\fad(0,500)\iclip(m 19 25 l 490 25 490 244 19 244)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 1,0:02:56.78,0:03:02.07,Senryuu: Nanako,,0,0,0,,{\an5\pos(254.5,134.5)\fscx475\fscy223\c&HC6FAFF&\blur1\fad(0,500)\clip(11,18,498,38)\iclip(m 29 35 l 480 35 480 234 29 234)\p1}m 0 0 l 100 0 100 100 0 100
