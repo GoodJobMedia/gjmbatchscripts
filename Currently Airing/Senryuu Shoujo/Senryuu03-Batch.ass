@@ -17,8 +17,8 @@ Keyframes File: senryu03_premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 178
-Active Line: 195
+Scroll Position: 2870
+Active Line: 2885
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2927,7 +2927,7 @@ Dialogue: 0,0:02:09.52,0:02:09.56,Angry Calligraphy,,0,0,0,,{=75}{\pos(319.3,189
 Dialogue: 0,0:02:09.56,0:02:09.60,Angry Calligraphy,,0,0,0,,{=75}{\pos(329.36,189.15)\fscx81.22\fscy81.22\frz16.28\fs90\bord3\c&H87E5FE&\3c&H87E5FE&\blur5.69}Man among men
 Dialogue: 0,0:02:09.60,0:02:09.65,Angry Calligraphy,,0,0,0,,{=75}{\pos(337.01,188.74)\fscx80.77\fscy80.77\frz16.28\fs90\bord3\c&H87E5FE&\3c&H87E5FE&\blur5.65}Man among men
 Dialogue: 0,0:02:09.65,0:02:09.69,Angry Calligraphy,,0,0,0,,{=75}{\pos(341.94,188.49)\fscx80.48\fscy80.48\frz16.28\fs90\bord3\c&H87E5FE&\3c&H87E5FE&\blur5.63}Man among men
-Dialogue: 0,0:02:09.69,0:02:16.32,Angry Calligraphy,,0,0,0,,{=75}{\pos(343.71,188.39)\fscx80.37\fscy80.37\frz16.28\fs90\bord3\c&H87E5FE&\3c&H87E5FE&\blur5.63}Man among men
+Dialogue: 0,0:02:09.69,0:02:16.32,Angry Calligraphy,,0,0,0,,{\pos(343.71,188.39)\fscx80.37\fscy80.37\frz16.28\fs90\bord3\c&H87E5FE&\3c&H87E5FE&\blur5.63\t(5904,6630,1,\c&HFFFFFF&\3c&HFFFFFF&)}Man among men
 Dialogue: 1,0:02:08.98,0:02:09.02,Angry Calligraphy,,0,0,0,,{=74}{\pos(9,207)\frz16.28\fs90\c&H1A2135&\blur0.8}Man among men
 Dialogue: 1,0:02:09.02,0:02:09.06,Angry Calligraphy,,0,0,0,,{=74}{\pos(44.58,205)\fscx97.94\fscy97.94\frz16.28\fs90\c&H1A2135&\blur0.78}Man among men
 Dialogue: 1,0:02:09.06,0:02:09.10,Angry Calligraphy,,0,0,0,,{=74}{\pos(78.24,203.12)\fscx95.97\fscy95.97\frz16.28\fs90\c&H1A2135&\blur0.77}Man among men
@@ -2945,7 +2945,7 @@ Dialogue: 1,0:02:09.52,0:02:09.56,Angry Calligraphy,,0,0,0,,{=74}{\pos(319.3,189
 Dialogue: 1,0:02:09.56,0:02:09.60,Angry Calligraphy,,0,0,0,,{=74}{\pos(329.36,189.15)\fscx81.22\fscy81.22\frz16.28\fs90\c&H1A2135&\blur0.65}Man among men
 Dialogue: 1,0:02:09.60,0:02:09.65,Angry Calligraphy,,0,0,0,,{=74}{\pos(337.01,188.74)\fscx80.77\fscy80.77\frz16.28\fs90\c&H1A2135&\blur0.65}Man among men
 Dialogue: 1,0:02:09.65,0:02:09.69,Angry Calligraphy,,0,0,0,,{=74}{\pos(341.94,188.49)\fscx80.48\fscy80.48\frz16.28\fs90\c&H1A2135&\blur0.64}Man among men
-Dialogue: 1,0:02:09.69,0:02:16.32,Angry Calligraphy,,0,0,0,,{=74}{\pos(343.71,188.39)\fscx80.37\fscy80.37\frz16.28\fs90\c&H1A2135&\blur0.64}Man among men
+Dialogue: 1,0:02:09.69,0:02:16.32,Angry Calligraphy,,0,0,0,,{\pos(343.71,188.39)\fscx80.37\fscy80.37\frz16.28\fs90\c&H1A2135&\blur0.64\t(5904,6630,1,\c&HFFFFFF&\3c&HFFFFFF&)}Man among men
 Dialogue: 0,0:02:19.82,0:02:19.86,Episode Title,,0,0,0,,{=83}{\pos(1065.95,342.37)\fscy80\frz12.97\bord2.5\c&HAC4D9A&\3c&HAC4D9A&\alpha&HF3&\blur0.8}you
 Dialogue: 0,0:02:19.86,0:02:19.91,Episode Title,,0,0,0,,{=83}{\pos(1066.55,341.77)\fscy80\frz12.97\bord2.5\c&HAC4D9A&\3c&HAC4D9A&\alpha&HE8&\blur0.8}you
 Dialogue: 0,0:02:19.91,0:02:19.95,Episode Title,,0,0,0,,{=83}{\pos(1067.15,341.17)\fscy80\frz12.97\bord2.5\c&HAC4D9A&\3c&HAC4D9A&\alpha&HD9&\blur0.8}you
