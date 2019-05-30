@@ -16,9 +16,9 @@ Video File: E:/GJM/Index III/11/Index3_EP11_Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 274
-Active Line: 281
-Video Position: 29941
+Scroll Position: 184
+Active Line: 195
+Video Position: 21021
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -229,7 +229,7 @@ Dialogue: 10,0:14:25.09,0:14:29.62,GJM_Main_1080p,,0,0,0,,We are Necessarius,\N 
 Dialogue: 10,0:14:29.62,0:14:31.85,GJM_Main_1080p,,0,0,0,,You'll be coming with us to the Tower of London.
 Dialogue: 10,0:14:32.48,0:14:34.96,GJM_Main_1080p,,0,0,0,,Would you like to hear your charges?
 Dialogue: 10,0:14:34.96,0:14:36.72,GJM_Main_1080p,,0,0,0,,No, that's fine.
-Dialogue: 10,0:14:36.72,0:14:40.44,GJM_Main_1080p,,0,0,0,,I don't intend to get caught before\N the thing in this case is activated!
+Dialogue: 10,0:14:36.72,0:14:40.44,GJM_Main_1080p,,0,0,0,,I don't intend to get caught\N before this case is activated!
 Dialogue: 10,0:14:43.66,0:14:44.38,GJM_Main_1080p,,0,0,0,,Itsuwa!
 Dialogue: 10,0:14:44.38,0:14:45.61,GJM_Main_1080p,,0,0,0,,Got it!
 Dialogue: 10,0:14:55.40,0:15:00.28,GJM_Main_1080p,,0,0,0,,{\q2}I can sense that your spear belongs to Thor,\N the god of thunder, from its magical symbol.

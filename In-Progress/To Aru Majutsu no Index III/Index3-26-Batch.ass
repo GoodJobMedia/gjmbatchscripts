@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Index3_EP26_Premux.mkv
-Video File: Index3_EP26_Premux.mkv
-Keyframes File: Index3_EP26_Premux_keyframes.log
+Audio File: E:/GJM/Index III/26/Index3_EP26_Premux.mkv
+Video File: E:/GJM/Index III/26/Index3_EP26_Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 167
-Active Line: 168
-Video Position: 21903
+Video Zoom Percent: 0.375000
+Scroll Position: 221
+Active Line: 227
+Video Position: 27789
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -262,7 +261,7 @@ Dialogue: 10,0:18:30.70,0:18:35.14,GJM_Main_1080p,,0,0,0,,This isn't a negotiati
 Dialogue: 10,0:18:36.10,0:18:39.59,GJM_Main_1080p,,0,0,0,,It's a triumphant return, you shithead.
 Dialogue: 10,0:19:10.12,0:19:12.42,GJM_Main_1080p,,0,0,0,,Wh-What?! You?!{do you ever walk out of a coffin you conveniently had lying in your flying castle and just lose your arm}
 Dialogue: 10,0:19:13.74,0:19:15.76,GJM_Main_1080p,,0,0,0,,Aleister Crowley?!
-Dialogue: 10,0:19:17.12,0:19:21.22,GJM_Main_1080p,,0,0,0,,So people do recognize me even outside my vessel.
+Dialogue: 10,0:19:17.12,0:19:21.22,GJM_Main_1080p,,0,0,0,,It appears people {\i1}do{\i0} \Nrecognize me once I leave my tube.
 Dialogue: 10,0:19:22.90,0:19:23.68,GJM_Main_1080p,,0,0,0,,Why?!
 Dialogue: 10,0:19:24.14,0:19:26.64,GJM_Main_1080p,,0,0,0,,Even if you can't tell how valuable it is,
 Dialogue: 10,0:19:26.64,0:19:30.19,GJM_Main_1080p,,0,0,0,,you were too obsessed with that right hand.

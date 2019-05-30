@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Index3_EP20_Premux.mkv
-Video File: Index3_EP20_Premux.mkv
-Keyframes File: Index3_EP20_Premux_keyframes.log
+Audio File: E:/GJM/Index III/20/Index3_EP20_Premux.mkv
+Video File: E:/GJM/Index III/20/Index3_EP20_Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 104
-Active Line: 112
-Video Position: 22117
+Scroll Position: 98
+Active Line: 99
+Video Position: 18389
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -136,7 +135,7 @@ Dialogue: 10,0:12:14.02,0:12:15.66,GJM_Main_1080p,,0,0,0,,Shit! Move!
 Dialogue: 10,0:12:18.28,0:12:20.30,GJM_Main_1080p,,0,0,0,,It's pretty cold today.
 Dialogue: 10,0:12:20.30,0:12:22.68,GJM_Main_1080p,,0,0,0,,Perfect weather for a barbecue.{hammy what}
 Dialogue: 10,0:12:33.94,0:12:35.77,GJM_Main_1080p,,0,0,0,,You haven't won yet.
-Dialogue: 10,0:12:44.86,0:12:47.40,GJM_Main_1080p,,0,0,0,,Let me open up some new holes for you.{lit. I'm going to turn you into a beehive (cause they're full of holes, geddit :^)}
+Dialogue: 10,0:12:44.86,0:12:47.40,GJM_Main_1080p,,0,0,0,,I'm gonna pump you full of lead.
 Dialogue: 10,0:12:47.99,0:12:49.56,GJM_Main_1080p,,0,0,0,,Damn it!{when did he become a character again}
 Dialogue: 10,0:14:05.48,0:14:07.66,GJM_Main_1080p,,0,0,0,,Aren't you supposed to be a hero?!
 Dialogue: 10,0:14:07.66,0:14:15.00,GJM_Main_1080p,,0,0,0,,If you can do stuff nobody else can,\N then do something for this kid!
