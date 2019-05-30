@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Index3_EP06_BD_premux.mkv
-Video File: Index3_EP06_BD_premux.mkv
-Keyframes File: Index3_EP06_BD_premux_keyframes.log
+Audio File: E:/GJM/Index III/06/Index3_EP6_Premux.mkv
+Video File: E:/GJM/Index III/06/Index3_EP6_Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 312
-Active Line: 318
-Video Position: 33970
+Video Zoom Percent: 0.375000
+Scroll Position: 198
+Active Line: 217
+Video Position: 21776
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -237,20 +236,20 @@ Dialogue: 10,0:13:30.58,0:13:31.45,GJM_Main_1080p,,0,0,0,,Fine then.
 Dialogue: 10,0:13:31.88,0:13:33.52,GJM_Main_1080p,,0,0,0,,Say goodbye to the world then.
 Dialogue: 10,0:13:37.56,0:13:41.34,GJM_Main_1080p,,0,0,0,,Oh, you showed up earlier than I expected.
 Dialogue: 10,0:13:41.66,0:13:46.72,GJM_Main_1080p,,0,0,0,,For crying out loud, stop making a fuss\N with your stupid games, you small fry!
-Dialogue: 10,0:13:56.12,0:13:59.06,GJM_Main_1080p,,0,0,0,,Those don't suit you at all, you nut job.
+Dialogue: 10,0:13:56.12,0:13:59.06,GJM_Main_1080p,,0,0,0,,You think you're a fairy tale princess or something?
 Dialogue: 10,0:13:59.06,0:14:01.73,GJM_Main_1080p,,0,0,0,,Don't worry, I know how they look.
 Dialogue: 10,0:14:01.73,0:14:05.22,GJM_Main_1080p,,0,0,0,,Let's add a little more fun to this party.
 Dialogue: 10,0:14:05.22,0:14:09.28,GJM_Main_1080p,,0,0,0,,I'll teach you how a proper villain should act.
 Dialogue: 10,0:14:15.42,0:14:20.13,GJM_Main_1080p,,0,0,0,,So, you know, this world is entirely \Nmade up of elementary particles.
 Dialogue: 10,0:14:20.76,0:14:24.80,GJM_Main_1080p,,0,0,0,,But that doesn't apply to my Dark Matter.
 Dialogue: 10,0:14:25.26,0:14:30.76,GJM_Main_1080p,,0,0,0,,It's made up of a material \Nthat doesn't exist in this world.
-Dialogue: 10,0:14:31.02,0:14:36.92,GJM_Main_1080p,,0,0,0,,Theories say it must exist, yet it's still undiscovered.
+Dialogue: 10,0:14:31.02,0:14:36.92,GJM_Main_1080p,,0,0,0,,{\q2}It's not a matter of it being undiscovered,\N or existing in theory. It actually doesn't exist.
 Dialogue: 10,0:14:36.92,0:14:39.90,GJM_Main_1080p,,0,0,0,,That's because it really {\i1}doesn't{\i0} exist.
 Dialogue: 10,0:14:44.64,0:14:49.00,GJM_Main_1080p,,0,0,0,,Nonexistent material is governed \Nby nonexistent natural laws.
 Dialogue: 10,0:14:50.36,0:14:55.29,GJM_Main_1080p,,0,0,0,,For example, it can change \Nsunlight into a deadly beam.
 Dialogue: 10,0:14:59.36,0:15:01.08,GJM_Main_1080p,,0,0,0,,Finished reverse-engineering.
 Dialogue: 10,0:15:06.88,0:15:08.22,GJM_Main_1080p,,0,0,0,,Accelerator,
-Dialogue: 10,0:15:08.22,0:15:11.26,GJM_Main_1080p,,0,0,0,,you say that you can reflect anything,
+Dialogue: 10,0:15:08.22,0:15:11.26,GJM_Main_1080p,,0,0,0,,I've heard that you reflect everything,
 Dialogue: 10,0:15:11.26,0:15:13.46,GJM_Main_1080p,,0,0,0,,but that's not completely correct.
 Dialogue: 10,0:15:13.46,0:15:17.06,GJM_Main_1080p,,0,0,0,,Unconsciously, you compose filters\N of harmful and harmless things.
 Dialogue: 10,0:15:17.32,0:15:20.02,GJM_Main_1080p,,0,0,0,,Then you reflect just what you don't want near you.

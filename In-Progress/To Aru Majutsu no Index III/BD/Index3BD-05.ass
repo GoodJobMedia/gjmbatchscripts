@@ -11,13 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Index3_EP05_BD_premux.mkv
-Video File: Index3_EP05_BD_premux.mkv
+Audio File: E:/GJM/Index III/05/Index3_EP5_Premux.mkv
+Video File: E:/GJM/Index III/05/Index3_EP5_Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Active Line: 15
-Video Position: 3599
+Video Zoom Percent: 0.625000
+Scroll Position: 88
+Active Line: 97
+Video Position: 13126
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -128,7 +129,7 @@ Dialogue: 10,0:08:06.62,0:08:07.67,GJM_Main_1080p,,0,0,0,,Yamate!
 Dialogue: 10,0:08:53.22,0:08:54.18,GJM_Main_1080p,,0,0,0,,Shit!
 Dialogue: 10,0:08:54.72,0:08:55.51,GJM_Main_1080p,,0,0,0,,Scatter!
 Dialogue: 10,0:09:05.03,0:09:07.43,GJM_Main_1080p,,0,0,0,,We should pick up the mercenaries and withdraw!
-Dialogue: 10,0:09:07.43,0:09:09.96,GJM_Main_1080p,,0,0,0,,We brought in 5,000 and it still wasn't enough!
+Dialogue: 10,0:09:07.43,0:09:09.96,GJM_Main_1080p,,0,0,0,,5,000 already wasn't enough!
 Dialogue: 10,0:09:24.40,0:09:27.29,GJM_Main_1080p,,0,0,0,,So they couldn't quite stop all of them.
 Dialogue: 10,0:09:33.02,0:09:36.64,GJM_Main_1080p,,0,0,0,,Venus is at an optimal angle for my obsidian knife.
 Dialogue: 10,0:10:07.32,0:10:08.29,GJM_Main_1080p,,0,0,0,,Accelerator!
