@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Index3_EP16_Premux.mkv
-Video File: Index3_EP16_Premux.mkv
-Keyframes File: Index3_EP16_Premux_keyframes.log
+Audio File: E:/GJM/Index III/16/Index3_EP16_Premux.mkv
+Video File: E:/GJM/Index III/16/Index3_EP16_Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 342
-Active Line: 351
-Video Position: 34001
+Video Zoom Percent: 0.250000
+Scroll Position: 330
+Active Line: 346
+Video Position: 33776
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -381,7 +380,7 @@ Dialogue: 10,0:21:40.00,0:21:41.88,GJM_Main_1080p,,0,0,0,,Did it never cross you
 Dialogue: 10,0:21:41.88,0:21:48.11,GJM_Main_1080p,,0,0,0,,{\q2}That there would be others that snuck into the\N dark side of Academy City the same way you did?
 Dialogue: 10,0:21:48.11,0:21:51.03,GJM_Main_1080p,,0,0,0,,Tecpatl! And Tochtli!
 Dialogue: 10,0:23:25.75,0:23:28.72,GJM_Main_1080p,,0,0,0,,It appeared in the form of Fuse Kazakiri.
-Dialogue: 10,0:23:28.72,0:23:30.84,GJM_Main_1080p,,0,0,0,,The years passed from the time\N of Osiris to that of Horus.
+Dialogue: 10,0:23:28.72,0:23:30.84,GJM_Main_1080p,,0,0,0,,Time passed from the Aeon\N of Osiris to that of Horus
 Dialogue: 10,0:23:30.84,0:23:32.59,GJM_Main_1080p,,0,0,0,,Tell me what it is you want.
 Dialogue: 10,0:23:32.59,0:23:34.64,GJM_Main_1080p,,0,0,0,,That will become your law.
 Dialogue: 10,0:23:34.64,0:23:35.72,GJM_Main_1080p,,0,0,0,,Next time: "DRAGON".

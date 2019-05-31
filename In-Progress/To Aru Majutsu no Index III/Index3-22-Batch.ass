@@ -11,15 +11,14 @@ PlayResY: 1080
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Index3_EP22_Premux.mkv
-Video File: Index3_EP22_Premux.mkv
-Keyframes File: Index3_EP22_Premux_keyframes.log
+Audio File: E:/GJM/Index III/22/Index3_EP22_Premux.mkv
+Video File: E:/GJM/Index III/22/Index3_EP22_Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 250
-Active Line: 258
-Video Position: 30143
+Video Zoom Percent: 0.500000
+Scroll Position: 138
+Active Line: 148
+Video Position: 15870
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -185,7 +184,7 @@ Dialogue: 10,0:10:39.84,0:10:41.91,GJM_Main_1080p,,0,0,0,,{\i1}It's Index's remo
 Dialogue: 10,0:10:43.14,0:10:48.37,GJM_Main_1080p,,0,0,0,,{\i1}Is he somehow using it to control Misha Kreutzev?
 Dialogue: 10,0:10:56.94,0:10:58.13,GJM_Main_1080p,,0,0,0,,Gabriel.
 Dialogue: 10,0:10:58.86,0:11:01.88,GJM_Main_1080p,,0,0,0,,The one who announced\N the conception of the Son of God.
-Dialogue: 10,0:11:01.88,0:11:06.02,GJM_Main_1080p,,0,0,0,,The Archangel who delivered the\N divine punishment to the city of vice.
+Dialogue: 10,0:11:01.88,0:11:06.02,GJM_Main_1080p,,0,0,0,,The Archangel who delivered the\N divine punishment to the cities of vice.
 Dialogue: 10,0:11:06.40,0:11:10.81,GJM_Main_1080p,,0,0,0,,I see now why Fiamma is so confident.
 Dialogue: 10,0:11:11.40,0:11:18.28,GJM_Main_1080p,,0,0,0,,But has he forgotten what my domain\N was at God's Right Seat?
 Dialogue: 10,0:11:26.32,0:11:28.95,GJM_Main_1080p,,0,0,0,,Ah, what sublime power!

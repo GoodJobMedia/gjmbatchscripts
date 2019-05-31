@@ -16,9 +16,9 @@ Video File: E:/GJM/Index III/17/Index3_EP17_Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 207
-Active Line: 211
-Video Position: 21295
+Scroll Position: 327
+Active Line: 329
+Video Position: 21223
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -244,8 +244,7 @@ Dialogue: 10,0:14:35.56,0:14:42.02,GJM_Main_1080p,,0,0,0,,{\q2\pos(960,1020)}Ple
 Dialogue: 10,0:14:35.56,0:14:42.02,GJM_Main_1080p,,0,0,0,,{\q2\pos(960,1020)}Please do something about these {\blur20\bord0}yafhuil{\r}\N autonomous wings if you want to {\blur20\bord0}hozuyliq{\r} me.
 Dialogue: 10,0:14:35.56,0:14:42.02,GJM_Main_1080p,,0,0,0,,{\q2\pos(960,1020)}Please do something about these {\blur30\bord0}yhlafui{\r}\N autonomous wings if you want to {\blur30\bord0}uhozqyli{\r} me.
 Dialogue: 10,0:14:42.32,0:14:44.78,GJM_Main_1080p,,0,0,0,,{\fnDispose101\fsp3}I'm {\fnRockbait}go{\fnDispose101}n{\fnRockbait}na {\fnDispose101}f{\fnRockbait}uc{\fnRockbait\fsp-2}ki{\fnDispose101\fsp2}ng {\fnDispose101\fsp2}kil{\fnRockbait}l y{\fnDispose101\fsp2}ou!{somehow I think I hear "kill" inside this}{he says ころすぞクソ野郎が}{anyone got some cool font for this :eyes:}
-Dialogue: 10,0:14:45.14,0:14:48.16,GJM_Main_1080p,,0,0,0,,Do as your will dictates.
-Dialogue: 10,0:14:48.16,0:14:51.62,GJM_Main_1080p,,0,0,0,,Adhere to your Law.
+Dialogue: 10,0:14:45.14,0:14:51.62,GJM_Main_1080p,,0,0,0,,Do what thou wilt shall be the whole of the Law.
 Dialogue: 10,0:15:05.52,0:15:07.64,GJM_Main_1080p,,0,0,0,,Was that all?{wow he got baptised in the gut}
 Dialogue: 10,0:15:07.64,0:15:12.44,GJM_Main_1080p,,0,0,0,,All I had to do was mention\N Last Order to provoke you.
 Dialogue: 10,0:15:16.58,0:15:24.69,GJM_Main_1080p,,0,0,0,,You said that you're manifesting\N using AIM Diffusion Fields.

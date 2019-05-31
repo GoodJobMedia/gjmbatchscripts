@@ -15,10 +15,10 @@ Audio File: E:/GJM/Index III/26/Index3_EP26_Premux.mkv
 Video File: E:/GJM/Index III/26/Index3_EP26_Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.375000
-Scroll Position: 221
-Active Line: 227
-Video Position: 27789
+Video Zoom Percent: 0.500000
+Scroll Position: 242
+Active Line: 247
+Video Position: 29840
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -200,8 +200,8 @@ Dialogue: 10,0:14:58.16,0:14:59.67,GJM_Main_1080p,,0,0,0,,Dear me,
 Dialogue: 10,0:15:00.06,0:15:02.67,GJM_Main_1080p,,0,0,0,,you sure caused us a lot of problems.
 Dialogue: 10,0:15:04.04,0:15:05.13,GJM_Main_1080p,,0,0,0,,Who are you?
 Dialogue: 10,0:15:05.52,0:15:07.30,GJM_Main_1080p,,0,0,0,,A colleague.
-Dialogue: 10,0:15:07.30,0:15:11.26,GJM_Main_1080p,,0,0,0,,Perhaps even our chains \Nof command overlap somewhere.
-Dialogue: 10,0:15:11.66,0:15:13.52,GJM_Main_1080p,,0,0,0,,What would they like to say?
+Dialogue: 10,0:15:07.30,0:15:11.26,GJM_Main_1080p,,0,0,0,,Perhaps even part of the same chain of command.
+Dialogue: 10,0:15:11.66,0:15:13.52,GJM_Main_1080p,,0,0,0,,Do you have a catchphrase?
 Dialogue: 10,0:15:13.52,0:15:15.43,GJM_Main_1080p,,0,0,0,,"It’s always like this with you."
 Dialogue: 10,0:15:16.06,0:15:20.74,GJM_Main_1080p,,0,0,0,,{\q2}I'm relieved I was able to secure our \Ntop-priority objective, Takitsubo Rikou.
 Dialogue: 10,0:15:21.52,0:15:23.06,GJM_Main_1080p,,0,0,0,,Takitsubo is your top priority?!
@@ -210,8 +210,8 @@ Dialogue: 10,0:15:25.68,0:15:28.03,GJM_Main_1080p,,0,0,0,,When you were fighting
 Dialogue: 10,0:15:28.58,0:15:33.78,GJM_Main_1080p,,0,0,0,,{\q2}Takitsubo Rikou exerted influence on \Nthe personal reality of Mugino Shizuri.
 Dialogue: 10,0:15:34.26,0:15:35.70,GJM_Main_1080p,,0,0,0,,What?!
 Dialogue: 10,0:15:35.70,0:15:38.91,GJM_Main_1080p,,0,0,0,,It was already recorded in the Parameter List.
-Dialogue: 10,0:15:39.48,0:15:44.28,GJM_Main_1080p,,0,0,0,,She's only the eighth known case of this rare ability.
-Dialogue: 10,0:15:44.28,0:15:46.04,GJM_Main_1080p,,0,0,0,,If it continues developing,
+Dialogue: 10,0:15:39.48,0:15:44.28,GJM_Main_1080p,,0,0,0,,{\q2}She has a rare disposition that could allow her \Nto become Academy City's eighth Level 5.
+Dialogue: 10,0:15:44.28,0:15:46.04,GJM_Main_1080p,,0,0,0,,If she continues developing,
 Dialogue: 10,0:15:46.42,0:15:51.55,GJM_Main_1080p,,0,0,0,,{\q2}she may become able to provide all \Nthe functions of Academy City by herself,
 Dialogue: 10,0:15:51.84,0:15:55.48,GJM_Main_1080p,,0,0,0,,becoming an Academy Entity of sorts.
 Dialogue: 10,0:15:55.48,0:15:56.89,GJM_Main_1080p,,0,0,0,,Wait a minute!
@@ -281,8 +281,8 @@ Dialogue: 10,0:20:12.56,0:20:18.58,GJM_Main_1080p,,0,0,0,,{\q2}Back then, in tha
 Dialogue: 10,0:20:25.08,0:20:27.48,GJM_Main_1080p,,0,0,0,,A futile effort.
 Dialogue: 10,0:20:29.06,0:20:32.00,GJM_Main_1080p,,0,0,0,,He wasn't concerned with \Nwhether it was futile or not!
 Dialogue: 10,0:20:33.46,0:20:36.42,GJM_Main_1080p,,0,0,0,,He just couldn't let the world be trampled over!
-Dialogue: 10,0:20:44.54,0:20:53.22,GJM_Main_1080p,,0,0,0,,{\q2}Thinking you could explain that right hand\N and Kamijou using mere Christianity,
-Dialogue: 10,0:20:53.22,0:20:57.94,GJM_Main_1080p,,0,0,0,,that in itself was your downfall.
+Dialogue: 10,0:20:44.54,0:20:53.22,GJM_Main_1080p,,0,0,0,,{\q2}Trying to comprehend that right hand and the true power\N of Imagine Breaker using something as meager as Christianity
+Dialogue: 10,0:20:53.22,0:20:57.94,GJM_Main_1080p,,0,0,0,,is what lead to your downfall.
 Dialogue: 10,0:20:58.38,0:20:59.69,GJM_Main_1080p,,0,0,0,,We've detected something!
 Dialogue: 10,0:21:00.38,0:21:05.76,GJM_Main_1080p,,0,0,0,,{\q2}This wavelength is that of\N the golden sorcerer, Aleister Crowley!
 Dialogue: 10,0:21:05.76,0:21:08.16,GJM_Main_1080p,,0,0,0,,It looks like he did show up there.
