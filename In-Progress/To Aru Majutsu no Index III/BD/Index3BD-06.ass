@@ -16,8 +16,8 @@ Video File: E:/GJM/Index III/06/Index3_EP6_Premux.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.375000
-Scroll Position: 198
-Active Line: 217
+Scroll Position: 186
+Active Line: 209
 Video Position: 21776
 
 [V4+ Styles]
@@ -243,8 +243,7 @@ Dialogue: 10,0:14:05.22,0:14:09.28,GJM_Main_1080p,,0,0,0,,I'll teach you how a p
 Dialogue: 10,0:14:15.42,0:14:20.13,GJM_Main_1080p,,0,0,0,,So, you know, this world is entirely \Nmade up of elementary particles.
 Dialogue: 10,0:14:20.76,0:14:24.80,GJM_Main_1080p,,0,0,0,,But that doesn't apply to my Dark Matter.
 Dialogue: 10,0:14:25.26,0:14:30.76,GJM_Main_1080p,,0,0,0,,It's made up of a material \Nthat doesn't exist in this world.
-Dialogue: 10,0:14:31.02,0:14:36.92,GJM_Main_1080p,,0,0,0,,{\q2}It's not a matter of it being undiscovered,\N or existing in theory. It actually doesn't exist.
-Dialogue: 10,0:14:36.92,0:14:39.90,GJM_Main_1080p,,0,0,0,,That's because it really {\i1}doesn't{\i0} exist.
+Dialogue: 10,0:14:31.02,0:14:39.90,GJM_Main_1080p,,0,0,0,,{\q2}It's not a matter of it being undiscovered,\N or existing in theory. It actually doesn't exist.
 Dialogue: 10,0:14:44.64,0:14:49.00,GJM_Main_1080p,,0,0,0,,Nonexistent material is governed \Nby nonexistent natural laws.
 Dialogue: 10,0:14:50.36,0:14:55.29,GJM_Main_1080p,,0,0,0,,For example, it can change \Nsunlight into a deadly beam.
 Dialogue: 10,0:14:59.36,0:15:01.08,GJM_Main_1080p,,0,0,0,,Finished reverse-engineering.
