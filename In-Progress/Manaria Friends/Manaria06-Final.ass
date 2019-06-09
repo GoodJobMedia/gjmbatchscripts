@@ -36,7 +36,7 @@ Dialogue: 10,0:00:20.04,0:00:21.12,GJM_Main,,0,0,0,,We aren't
 Dialogue: 10,0:00:21.12,0:00:21.91,GJM_Main,,0,0,0,,gonna lose!{louse :LUL:}
 Dialogue: 10,0:00:27.00,0:00:29.09,GJM_Main,,0,0,0,,Then let's get to it!
 Dialogue: 10,0:00:38.14,0:00:40.27,GJM_Main,,0,0,0,,Grea...{butt}
-Dialogue: 10,0:00:40.56,0:00:42.77,GJM_Main,,0,0,0,,Are we really going?
+Dialogue: 10,0:00:40.56,0:00:42.77,GJM_Main,,0,0,0,,Are we really going{ to do this}?
 Dialogue: 10,0:00:43.27,0:00:46.23,GJM_Main,,0,0,0,,Like, really?
 Dialogue: 10,0:01:04.79,0:01:07.38,GJM_Main,,0,0,0,,{\an8}Wow, what a view!
 Dialogue: 10,0:01:09.09,0:01:10.38,GJM_Main,,0,0,0,,It really is beautiful.
@@ -58,18 +58,18 @@ Comment: 10,0:02:15.03,0:02:17.78,GJM_Main,,0,0,0,,Huff, puff, huff.{I don't fuc
 Dialogue: 10,0:02:17.78,0:02:20.11,GJM_Main,,0,0,0,,Stop, I can't walk like this!{not after she's done with you you won't be able to}{wow you're even looder than me wtf}
 Dialogue: 10,0:02:20.11,0:02:22.12,GJM_Main,,0,0,0,,Let's head back already!
 Dialogue: 10,0:02:23.66,0:02:26.08,GJM_Main,,0,0,0,,Are you sure you want to go back?
-Dialogue: 10,0:02:34.50,0:02:36.17,GJM_Main,,0,0,0,,Hey, what are you doing down there?{I've never heard anyone say "where are you touching me" in english}{ANNE where did that hand just go? w - Sei}{I like this}{Yeah you do.}
+Dialogue: 10,0:02:34.50,0:02:36.17,GJM_Main,,0,0,0,,Hey, what are you doing down there?{I've never heard anyone say "where are you touching me" in english}{ANNE where did that hand just go? w - Sei}{I like this}{Yeah you do.}{sei pls}
 Dialogue: 10,0:02:36.17,0:02:38.30,GJM_Main,,0,0,0,,I didn't do anything!
 Dialogue: 10,0:02:40.13,0:02:43.10,GJM_Main,,0,0,0,,Oh, Anne! This was your idea, you know!
 Dialogue: 10,0:02:46.64,0:02:49.19,GJM_Main,,0,0,0,,Then let's spend the night together too.
 Dialogue: 10,0:02:49.19,0:02:50.44,GJM_Main,,0,0,0,,Okay, Anne.
 Dialogue: 10,0:02:50.44,0:02:52.56,GJM_Main,,0,0,0,,I heard the night sky is really pretty here.
 Dialogue: 10,0:02:52.56,0:02:54.19,GJM_Main,,0,0,0,,Let's check it out together.
-Dialogue: 10,0:02:54.19,0:02:55.40,GJM_Main,,0,0,0,,Yes, Anne.
+Dialogue: 10,0:02:54.19,0:02:55.40,GJM_Main,,0,0,0,,Okay, Anne.
 Dialogue: 10,0:02:55.40,0:02:56.86,GJM_Main,,0,0,0,,Let's set off some fireworks, too!
-Dialogue: 10,0:02:56.86,0:02:58.40,GJM_Main,,0,0,0,,Yes, Anne.
+Dialogue: 10,0:02:56.86,0:02:58.40,GJM_Main,,0,0,0,,Okay, Anne.
 Dialogue: 10,0:02:58.40,0:03:00.32,GJM_Main,,0,0,0,,And then we'll have a sleepover!
-Dialogue: 10,0:03:00.32,0:03:01.16,GJM_Main,,0,0,0,,Yes, An—
+Dialogue: 10,0:03:00.32,0:03:01.16,GJM_Main,,0,0,0,,Okay, An—
 Dialogue: 10,0:03:01.57,0:03:02.45,GJM_Main,,0,0,0,,What?!
 Dialogue: 10,0:03:03.91,0:03:06.20,GJM_Main,,0,0,0,,I brought our matching pajamas and everything!
 Dialogue: 10,0:03:06.99,0:03:08.33,GJM_Main,,0,0,0,,No, I can't!
@@ -83,7 +83,7 @@ Dialogue: 10,0:03:57.59,0:03:59.80,GJM_Main,,0,0,0,,No one will bother us here.{
 Dialogue: 10,0:04:11.81,0:04:13.81,GJM_Main,,0,0,0,,Shall we get started?{loooooooooooooooooooood}
 Dialogue: 10,0:04:19.44,0:04:20.94,GJM_Main,,0,0,0,,What are you doing?{same}
 Dialogue: 10,0:04:20.94,0:04:22.40,GJM_Main,,0,0,0,,I'm making a sandcastle.
-Dialogue: 10,0:04:22.40,0:04:24.32,GJM_Main,,0,0,0,,Wanna help me?
+Dialogue: 10,0:04:22.40,0:04:24.32,GJM_Main,,0,0,0,,Wanna help?
 Dialogue: 10,0:04:29.91,0:04:31.58,GJM_Main,,0,0,0,,Hurry up and take off your jacket.{gaaaaaay}
 Dialogue: 10,0:04:31.58,0:04:32.71,GJM_Main,,0,0,0,,Why?
 Dialogue: 10,0:04:33.08,0:04:34.75,GJM_Main,,0,0,0,,Come on, hurry up.
@@ -134,7 +134,7 @@ Dialogue: 10,0:10:32.40,0:10:34.69,GJM_Main,,0,0,0,,Thanks, Grea.{oh my god this
 Dialogue: 10,0:11:41.51,0:11:44.93,GJM_Main,,0,0,0,,You're telling me you hold \Nthese fireworks in your hands?
 Dialogue: 10,0:11:45.55,0:11:47.77,GJM_Main,,0,0,0,,Apparently they're from the East.
 Dialogue: 10,0:11:47.77,0:11:50.77,GJM_Main,,0,0,0,,Ms. Mira ordered them for us.
-Dialogue: 10,0:11:51.19,0:11:53.52,GJM_Main,,0,0,0,,Are you sure they're safe?
+Dialogue: 10,0:11:51.19,0:11:53.52,GJM_Main,,0,0,0,,Are these really safe{ to use}?
 Dialogue: 10,0:11:53.52,0:11:55.48,GJM_Main,,0,0,0,,I'm sure they're fine.
 Dialogue: 10,0:11:55.81,0:12:00.19,GJM_Main,,0,0,0,,You always say that before\N you do something dangerous.
 Dialogue: 10,0:12:01.65,0:12:04.24,GJM_Main,,0,0,0,,We're shooting off fireworks\N even though we can see the stars?{what}
@@ -142,7 +142,7 @@ Dialogue: 10,0:12:04.70,0:12:06.78,GJM_Main,,0,0,0,,You don't do that where you'
 Dialogue: 10,0:12:07.33,0:12:08.45,GJM_Main,,0,0,0,,Not really.
 Dialogue: 10,0:12:08.95,0:12:13.67,GJM_Main,,0,0,0,,{\q2}I've heard fireworks have also been a part\N of auspicious occasions since olden times.
 Dialogue: 10,0:12:13.67,0:12:15.46,GJM_Main,,0,0,0,,I can't wait!
-Dialogue: 10,0:12:15.46,0:12:20.09,GJM_Main,,0,0,0,,{\q2}If we're gonna set them off,\N it'd be way more fun to have a fight with 'em!
+Dialogue: 10,0:12:15.46,0:12:20.09,GJM_Main,,0,0,0,,{\q2}It'd be way more fun to have a fight with 'em,\N rather than just setting them off.
 Dialogue: 10,0:12:23.22,0:12:25.43,GJM_Main,,0,0,0,,Shall we light them up?
 Dialogue: 10,0:12:32.02,0:12:33.14,GJM_Main,,0,0,0,,They're so pretty!
 Dialogue: 10,0:12:32.02,0:12:33.77,GJM_Overlap,,0,0,0,,{\an8}Wow!
