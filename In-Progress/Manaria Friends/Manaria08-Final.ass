@@ -42,16 +42,16 @@ Dialogue: 10,0:00:49.52,0:00:52.78,GJM_Main,,0,0,0,,Now then, I need to go and g
 Dialogue: 10,0:00:52.78,0:00:54.24,GJM_Main,,0,0,0,,Break a leg!
 Dialogue: 10,0:01:04.33,0:01:05.29,GJM_Main,,0,0,0,,Grea...{just when I thought it wouldn't get any gayer}
 Dialogue: 10,0:01:43.87,0:01:44.91,GJM_Main,,0,0,0,,Where's the president?
-Dialogue: 10,0:01:44.91,0:01:47.42,GJM_Main,,0,0,0,,I heard she has her hands full overseeing the play.
+Dialogue: 10,0:01:44.91,0:01:47.42,GJM_Main,,0,0,0,,I looks like she has her hands full overseeing the play.
 Dialogue: 10,0:01:47.42,0:01:49.92,GJM_Main,,0,0,0,,Oh, the one that the princess is going to be in?
-Dialogue: 10,0:01:50.84,0:01:54.92,GJM_Main,,0,0,0,,Once more from the top,\N as if this were the real thing
+Dialogue: 10,0:01:50.84,0:01:54.92,GJM_Main,,0,0,0,,Once more from the top,\N as if this were the real thing!
 Dialogue: 10,0:01:54.92,0:01:57.63,GJM_Main,,0,0,0,,Start the music from the beginning, please.
-Dialogue: 10,0:01:59.55,0:02:01.68,GJM_Main,,0,0,0,,This one is yours, Lou.
+Dialogue: 10,0:01:59.55,0:02:01.68,GJM_Main,,0,0,0,,This one is for you, Lou{ dear}.
 Dialogue: 10,0:02:01.68,0:02:03.81,GJM_Main,,0,0,0,,I made it so you'll really shine up there!
 Dialogue: 10,0:02:05.81,0:02:07.52,GJM_Main,,0,0,0,,Thank you.
 Dialogue: 10,0:02:12.02,0:02:14.61,GJM_Main,,0,0,0,,{\i1}I'm still so nervous.
-Dialogue: 10,0:02:18.11,0:02:19.61,GJM_Main,,0,0,0,,Just like a painting...
-Dialogue: 10,0:02:22.78,0:02:23.62,GJM_Main,,0,0,0,,What?
+Dialogue: 10,0:02:18.11,0:02:19.61,GJM_Main,,0,0,0,,It's just like a painting...
+Dialogue: 10,0:02:22.78,0:02:23.62,GJM_Main,,0,0,0,,What is?
 Dialogue: 10,0:02:23.62,0:02:26.25,GJM_Main,,0,0,0,,Oh, it just hit me how great you look in that.{clearly I am not well versed in giving girls compliments}
 Dialogue: 10,0:02:27.33,0:02:29.46,GJM_Main,,0,0,0,,You don't think it looks strange?
 Dialogue: 10,0:02:29.46,0:02:30.63,GJM_Main,,0,0,0,,Not at all.
@@ -78,7 +78,7 @@ Dialogue: 10,0:03:30.57,0:03:31.19,GJM_Main,,0,0,0,,All right!
 Dialogue: 10,0:03:31.19,0:03:32.52,GJM_Main,,0,0,0,,Okay, let's go with that.
 Dialogue: 10,0:03:32.52,0:03:34.06,GJM_Main,,0,0,0,,Yes, we'll have it ready right away.
 Dialogue: 10,0:03:35.15,0:03:36.07,GJM_Main,,0,0,0,,Don't forget, now.
-Dialogue: 10,0:03:36.07,0:03:37.73,GJM_Main,,0,0,0,,All right, let's take it from the opening scene.
+Dialogue: 10,0:03:36.07,0:03:37.73,GJM_Main,,0,0,0,,All right, let's take it from the opening scene.{does this line make sense? let's take it?}
 Dialogue: 10,0:03:37.73,0:03:41.15,GJM_Main,,0,0,0,,Lighting, make sure you coordinate\N your cues with the music.
 Dialogue: 10,0:03:57.96,0:03:59.80,GJM_Main,,0,0,0,,Do you want to go over it one more time?
 Dialogue: 10,0:04:00.83,0:04:05.14,GJM_Main,,0,0,0,,{\q2}I already did before I went to bed last night,\N and again before I left this morning.
@@ -102,7 +102,7 @@ Dialogue: 10,0:05:27.34,0:05:28.55,GJM_Main,,0,0,0,,Don't move.
 Dialogue: 10,0:05:30.85,0:05:32.89,GJM_Main,,0,0,0,,Relax your arms and legs...
 Dialogue: 10,0:05:33.35,0:05:35.23,GJM_Main,,0,0,0,,Relax...
 Dialogue: 10,0:05:38.19,0:05:39.44,GJM_Main,,0,0,0,,Open your eyes.
-Dialogue: 10,0:05:41.69,0:05:43.44,GJM_Main,,0,0,0,,I implore you, look at me.
+Dialogue: 10,0:05:41.69,0:05:43.44,GJM_Main,,0,0,0,,I implore you, look my way.
 Dialogue: 10,0:05:45.61,0:05:47.95,GJM_Main,,0,0,0,,You have nothing to fear.
 Dialogue: 10,0:05:49.49,0:05:50.95,GJM_Main,,0,0,0,,{\i1}Aren't those her lines?
 Dialogue: 10,0:05:51.58,0:05:57.83,GJM_Main,,0,0,0,,{\q2}The voices that fill your frightened heart\N come not from the countrypeople you abhor.
@@ -115,14 +115,14 @@ Dialogue: 10,0:06:24.98,0:06:25.99,GJM_Main,,0,0,0,,Anne...
 Dialogue: 10,0:06:29.32,0:06:30.49,GJM_Main,,0,0,0,,Prince...
 Dialogue: 10,0:06:30.95,0:06:32.87,GJM_Main,,0,0,0,,You have nothing to fear.
 Dialogue: 10,0:06:33.83,0:06:35.95,GJM_Main,,0,0,0,,You are like a songbird at dawn.
-Dialogue: 10,0:06:38.04,0:06:40.50,GJM_Main,,0,0,0,,He who brought me salvation.
+Dialogue: 10,0:06:38.04,0:06:40.50,GJM_Main,,0,0,0,,He who has brought me salvation.
 Dialogue: 10,0:06:41.13,0:06:41.88,GJM_Main,,0,0,0,,Princess.
 Dialogue: 10,0:06:43.84,0:06:44.80,GJM_Main,,0,0,0,,Thank you.
 Dialogue: 10,0:06:46.88,0:06:48.59,GJM_Main,,0,0,0,,We're about to start.
 Dialogue: 10,0:06:48.59,0:06:50.47,GJM_Main,,0,0,0,,Please get ready.
 Dialogue: 10,0:06:51.34,0:06:52.26,GJM_Main,,0,0,0,,Grea!
 Dialogue: 10,0:06:56.22,0:06:59.52,GJM_Main,,0,0,0,,You have nothing to fear, Princess.
-Dialogue: 10,0:07:00.23,0:07:01.60,GJM_Main,,0,0,0,,Not as long as we are together.
+Dialogue: 10,0:07:00.23,0:07:01.60,GJM_Main,,0,0,0,,Not as long as we stay together.
 Dialogue: 10,0:07:08.44,0:07:11.16,GJM_Main,,0,0,0,,I shall remain by your side, my Prince.
 Dialogue: 10,0:07:24.75,0:07:25.59,GJM_Main,,0,0,0,,Whoa.
 Dialogue: 10,0:07:26.25,0:07:27.88,GJM_Main,,0,0,0,,It's a full house.
