@@ -37,7 +37,7 @@ Dialogue: 10,0:00:12.36,0:00:13.99,GJM_Main,,0,0,0,,Thank you.{same}
 Dialogue: 10,0:00:38.26,0:00:39.43,GJM_Main,,0,0,0,,Anne!
 Dialogue: 10,0:00:41.98,0:00:45.44,GJM_Main,,0,0,0,,Thanks for keeping me company\N through library duty.
 Dialogue: 10,0:01:07.75,0:01:09.59,GJM_Main,,0,0,0,,Let's see here...
-Dialogue: 10,0:01:10.09,0:01:14.26,GJM_Main,,0,0,0,,{\q2}"Before making the first move on your target, \Nit's important to gather information."
+Dialogue: 10,0:01:10.09,0:01:14.26,GJM_Main,,0,0,0,,{\q2}"It's important to gather information before \Nmaking the first move on your target."
 Dialogue: 10,0:01:14.26,0:01:18.09,GJM_Main,,0,0,0,,"There are times when being somewhat forceful can work to your advantage."
 Dialogue: 10,0:01:19.01,0:01:20.85,GJM_Main,,0,0,0,,Forceful, huh?
 Dialogue: 10,0:01:25.98,0:01:28.44,GJM_Main,,0,0,0,,What exactly are you reading?
@@ -48,7 +48,7 @@ Dialogue: 10,0:01:39.91,0:01:43.24,GJM_Main,,0,0,0,,Oh, I wonder if it will work
 Dialogue: 10,0:02:37.63,0:02:39.30,GJM_Main,,0,0,0,,Oh, I'm sorry.
 Dialogue: 10,0:02:40.22,0:02:43.81,GJM_Main,,0,0,0,,Will that cute little tail of yours \Ngrow back if it gets cut off, I wonder?
 Dialogue: 10,0:02:44.56,0:02:49.64,GJM_Main,,0,0,0,,N-No! I'm not a lizard...
-Dialogue: 10,0:02:51.06,0:02:52.11,GJM_Main,,0,0,0,,Is that so?
+Dialogue: 10,0:02:51.06,0:02:52.11,GJM_Main,,0,0,0,,Oh, okay.
 Dialogue: 10,0:02:54.98,0:02:56.03,GJM_Main,,0,0,0,,Anne...
 Dialogue: 10,0:03:14.38,0:03:15.09,GJM_Main,,0,0,0,,Huh?
 Dialogue: 10,0:03:24.85,0:03:27.39,GJM_Main,,0,0,0,,Looks like everyone's gone.
@@ -81,7 +81,7 @@ Dialogue: 10,0:04:33.58,0:04:34.67,GJM_Main,,0,0,0,,Ninety-three!
 Dialogue: 10,0:04:34.67,0:04:36.14,GJM_Main,,0,0,0,,Ninety-eight, ninety-nine, one hundred!
 Dialogue: 10,0:04:36.63,0:04:37.96,GJM_Main,,0,0,0,,Ready or not, here I come!
 Dialogue: 10,0:04:45.55,0:04:48.18,GJM_Main,,0,0,0,,Here I come!
-Dialogue: 10,0:04:52.31,0:04:56.60,GJM_Main,,0,0,0,,Why, that Grea, gleefully skipping off to hide.
+Dialogue: 10,0:04:52.31,0:04:56.60,GJM_Main,,0,0,0,,Why that Grea, gleefully skipping off to hide.
 Dialogue: 10,0:04:56.60,0:04:59.60,GJM_Main,,0,0,0,,After going "you're it then, Anne" all cool-like!
 Dialogue: 10,0:04:59.60,0:05:02.69,GJM_Main,,0,0,0,,I'll find you in no time!
 Dialogue: 10,0:05:04.15,0:05:09.12,GJM_Main,,0,0,0,,Grea would probably hide in a dimly-lit place.
@@ -143,12 +143,12 @@ Dialogue: 10,0:12:24.34,0:12:27.26,GJM_Main,,0,0,0,,{\i1}It doesn't smell weird.
 Dialogue: 10,0:12:28.06,0:12:29.56,GJM_Main,,0,0,0,,Aren't you going to drink it, Grea?
 Dialogue: 10,0:12:29.89,0:12:33.64,GJM_Main,,0,0,0,,Y-Yes, of course. It has such a nice fragrance.
 Dialogue: 10,0:12:35.52,0:12:38.52,GJM_Main,,0,0,0,,{\i1}Maybe I'm just overthinking things.
-Dialogue: 10,0:12:39.11,0:12:41.28,GJM_Main,,0,0,0,,I'll have some too.
+Dialogue: 10,0:12:39.11,0:12:41.28,GJM_Main,,0,0,0,,I think I'll have some too.
 Dialogue: 10,0:12:49.29,0:12:53.41,GJM_Main,,0,0,0,,Have you finished the book \Nyou borrowed from the library?
 Dialogue: 10,0:12:55.25,0:12:57.54,GJM_Main,,0,0,0,,Not yet.
-Dialogue: 10,0:12:58.29,0:13:01.96,GJM_Main,,0,0,0,,What did you borrow again?
+Dialogue: 10,0:12:58.29,0:13:01.96,GJM_Main,,0,0,0,,What {else }did you borrow again?
 Dialogue: 10,0:13:03.09,0:13:04.84,GJM_Main,,0,0,0,,Let's see...
-Dialogue: 10,0:13:04.84,0:13:09.97,GJM_Main,,0,0,0,,It's a book that will help me\N get to know you a lot better, Grea.
+Dialogue: 10,0:13:04.84,0:13:09.97,GJM_Main,,0,0,0,,A book that will help me\N get to know you a lot better, Grea.
 Dialogue: 10,0:13:13.27,0:13:14.64,GJM_Main,,0,0,0,,What's wrong?
 Dialogue: 10,0:13:14.64,0:13:17.19,GJM_Main,,0,0,0,,Your tea's going to get cold.
 Dialogue: 10,0:13:18.86,0:13:20.36,GJM_Main,,0,0,0,,No!
