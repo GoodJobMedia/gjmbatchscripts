@@ -55,7 +55,7 @@ Dialogue: 10,0:02:28.41,0:02:29.83,GJM_Main,,0,0,0,,I finally found you!
 Dialogue: 10,0:02:29.83,0:02:31.54,GJM_Main,,0,0,0,,M-Morning.
 Dialogue: 10,0:02:36.26,0:02:37.30,GJM_Main,,0,0,0,,Thanks.
 Dialogue: 10,0:02:37.92,0:02:40.80,GJM_Main,,0,0,0,,Um, Princess Anne...
-Dialogue: 10,0:02:40.80,0:02:44.72,GJM_Main,,0,0,0,,Come on, you're a Dragon Princess yourself.
+Dialogue: 10,0:02:40.80,0:02:44.72,GJM_Main,,0,0,0,,Come on, you're the Dragon Princess yourself.
 Dialogue: 10,0:02:44.72,0:02:46.14,GJM_Main,,0,0,0,,Just call me Anne.
 Dialogue: 10,0:02:46.14,0:02:47.43,GJM_Main,,0,0,0,,Anne!
 Dialogue: 10,0:02:54.07,0:02:54.94,GJM_Main,,0,0,0,,Anne...
@@ -122,11 +122,11 @@ Dialogue: 10,0:09:08.56,0:09:10.11,GJM_Main,,0,0,0,,Uh...
 Dialogue: 10,0:09:10.86,0:09:12.28,GJM_Main,,0,0,0,,Are you all done now?
 Dialogue: 10,0:09:12.28,0:09:13.53,GJM_Main,,0,0,0,,Y-Yeah.
 Dialogue: 10,0:09:13.53,0:09:16.16,GJM_Main,,0,0,0,,It got encased in ice when I sealed it.
-Dialogue: 10,0:09:17.16,0:09:19.41,GJM_Main,,0,0,0,,The Master of the Library was really mad.
-Dialogue: 10,0:09:19.41,0:09:21.91,GJM_Main,,0,0,0,,It was going berserk.
+Dialogue: 10,0:09:17.16,0:09:19.41,GJM_Main,,0,0,0,,I mean, the Master of the Library was really mad.
+Dialogue: 10,0:09:19.41,0:09:21.91,GJM_Main,,0,0,0,,It was going berserk.{remove this and merge with above?}
 Dialogue: 10,0:09:21.91,0:09:23.25,GJM_Main,,0,0,0,,And, well...
-Dialogue: 10,0:09:24.96,0:09:28.42,GJM_Main,,0,0,0,,I stayed behind to help everyone clean up after me.
-Dialogue: 10,0:09:32.96,0:09:35.93,GJM_Main,,0,0,0,,But I left first...
+Dialogue: 10,0:09:24.96,0:09:28.42,GJM_Main,,0,0,0,,I was helping everyone clean up after me...
+Dialogue: 10,0:09:32.96,0:09:35.93,GJM_Main,,0,0,0,,But I then left first...{I think here she's more upset about being told there's nothing else for her to do}
 Dialogue: 10,0:09:44.85,0:09:45.68,GJM_Main,,0,0,0,,You did well.
 Dialogue: 10,0:09:53.82,0:09:57.61,GJM_Main,,0,0,0,,Were you waiting for me this whole time?
 Dialogue: 10,0:10:01.20,0:10:01.83,GJM_Main,,0,0,0,,Yeah.
