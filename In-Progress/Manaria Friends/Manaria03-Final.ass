@@ -33,10 +33,10 @@ Dialogue: 10,0:00:20.12,0:00:21.16,GJM_Main,,0,0,0,,Anne?
 Dialogue: 10,0:00:22.21,0:00:23.12,GJM_Main,,0,0,0,,What's up?
 Dialogue: 10,0:00:23.12,0:00:25.25,GJM_Main,,0,0,0,,Oh, you cut your hair!
 Dialogue: 10,0:00:25.25,0:00:27.06,GJM_Main,,0,0,0,,Huh? Yeah...
-Dialogue: 10,0:00:28.59,0:00:31.38,GJM_Main,,0,0,0,,Hey, Grea, let's go into town. We'll go shopping!
+Dialogue: 10,0:00:28.59,0:00:31.38,GJM_Main,,0,0,0,,Hey, Grea, let's go into town. We'll go shopping!{Let's go shopping in town?}
 Dialogue: 10,0:00:32.01,0:00:32.72,GJM_Main,,0,0,0,,Sound good?
 Dialogue: 10,0:00:33.17,0:00:34.76,GJM_Main,,0,0,0,,But I don't have any clothes that—
-Dialogue: 10,0:00:34.76,0:00:37.51,GJM_Main,,0,0,0,,Your sizes changed after you molted, right?
+Dialogue: 10,0:00:34.76,0:00:37.51,GJM_Main,,0,0,0,,Your sizes changed after you molted, right?{really think we should include the chest bit here}
 Dialogue: 10,0:00:37.85,0:00:38.93,GJM_Main,,0,0,0,,Here, try this on!
 Dialogue: 10,0:00:48.40,0:00:49.27,GJM_Main,,0,0,0,,Okay.
 Dialogue: 10,0:01:06.46,0:01:08.92,GJM_Main,,0,0,0,,This is a disguise, isn't it?
@@ -80,15 +80,15 @@ Dialogue: 10,0:03:22.72,0:03:24.68,GJM_Main,,0,0,0,,Is it really a boutique?
 Dialogue: 10,0:03:25.93,0:03:27.77,GJM_Main,,0,0,0,,Maybe it's a studio.
 Dialogue: 10,0:03:28.64,0:03:30.89,GJM_Main,,0,0,0,,It sure looks like one, but...
 Dialogue: 10,0:03:32.56,0:03:34.65,GJM_Main,,0,0,0,,What kind of clothes are these?
-Dialogue: 10,0:03:35.06,0:03:37.23,GJM_Main,,0,0,0,,The top looks like gym clothing.
-Dialogue: 10,0:03:37.23,0:03:39.53,GJM_Main,,0,0,0,,But isn't the bottom a swimsuit?
+Dialogue: 10,0:03:35.06,0:03:37.23,GJM_Main,,0,0,0,,The top looks like a gym uniform.
+Dialogue: 10,0:03:37.23,0:03:39.53,GJM_Main,,0,0,0,,But isn't the bottom from a swimsuit?
 Dialogue: 10,0:03:39.53,0:03:41.70,GJM_Main,,0,0,0,,Welcome!
 Dialogue: 10,0:03:41.70,0:03:44.73,GJM_Main,,0,0,0,,These are combat garments,\N a specialty of the Eastern countries—
 Dialogue: 10,0:03:44.73,0:03:45.66,GJM_Main,,0,0,0,,Oh, Anne?
 Dialogue: 10,0:03:45.66,0:03:47.70,GJM_Main,,0,0,0,,M-Ms. Mira?!
 Dialogue: 10,0:03:47.70,0:03:48.87,GJM_Main,,0,0,0,,"Welcome"?
-Dialogue: 10,0:03:49.43,0:03:51.66,GJM_Main,,0,0,0,,Does that mean this is your store?
-Dialogue: 10,0:03:51.66,0:03:53.25,GJM_Main,,0,0,0,,Well, uh, yes.
+Dialogue: 10,0:03:49.43,0:03:51.66,GJM_Main,,0,0,0,,This is {\i1}your{\i0} store?
+Dialogue: 10,0:03:51.66,0:03:53.25,GJM_Main,,0,0,0,,Well, um, yes.
 Dialogue: 10,0:03:53.25,0:03:57.67,GJM_Main,,0,0,0,,I'm a seamstress, so I figured I'd try \Nto make some profit off my hobby, I suppose?
 Dialogue: 10,0:03:57.67,0:04:00.72,GJM_Main,,0,0,0,,Does the academy let you take on side jobs?
 Dialogue: 10,0:04:06.43,0:04:09.81,GJM_Main,,0,0,0,,F-Fine! Go ahead and take whatever you want!
@@ -106,14 +106,14 @@ Dialogue: 10,0:04:28.16,0:04:30.62,GJM_Main,,0,0,0,,You're really starting to en
 Dialogue: 10,0:04:31.62,0:04:33.62,GJM_Main,,0,0,0,,Would you like to try something on too, Grea?
 Dialogue: 10,0:04:33.62,0:04:35.96,GJM_Main,,0,0,0,,Oh, I'm fine—
 Dialogue: 10,0:04:35.96,0:04:39.05,GJM_Main,,0,0,0,,Please bring us the cutest outfit you have, Ms. Mira!
-Dialogue: 10,0:04:41.09,0:04:42.38,GJM_Main,,0,0,0,,Oh, she ran away.
+Dialogue: 10,0:04:41.09,0:04:42.38,GJM_Main,,0,0,0,,Oh, she's running away.
 Dialogue: 10,0:04:42.38,0:04:45.89,GJM_Main,,0,0,0,,Oh dear, Grea.
 Dialogue: 10,0:04:53.02,0:04:55.52,GJM_Main,,0,0,0,,Huh? W-Wait!
 Dialogue: 10,0:05:00.61,0:05:03.03,GJM_Main,,0,0,0,,How do I even put this on?
 Dialogue: 10,0:05:16.50,0:05:18.79,GJM_Main,,0,0,0,,Those are pajamas!
-Dialogue: 10,0:05:18.79,0:05:20.71,GJM_Main,,0,0,0,,You could get a matching pair\N and have a sleepover—
+Dialogue: 10,0:05:18.79,0:05:20.71,GJM_Main,,0,0,0,,You could get a matching set\N and have a sleepover—
 Dialogue: 10,0:05:20.71,0:05:22.51,GJM_Main,,0,0,0,,I'm sure you'd have a blast!
-Dialogue: 10,0:05:23.34,0:05:24.59,GJM_Main,,0,0,0,,A matching pair?!
+Dialogue: 10,0:05:23.34,0:05:24.59,GJM_Main,,0,0,0,,A matching set?!
 Dialogue: 10,0:05:35.69,0:05:37.52,GJM_Main,,0,0,0,,All done, Grea?
 Dialogue: 10,0:05:40.31,0:05:41.52,GJM_Main,,0,0,0,,Grea?
 Dialogue: 10,0:05:57.16,0:05:59.13,GJM_Main,,0,0,0,,We'll take this one too!
@@ -160,8 +160,8 @@ Dialogue: 10,0:09:49.81,0:09:50.06,GJM_Main,,0,0,0,,What?!
 Dialogue: 10,0:09:57.57,0:10:00.37,GJM_Main,,0,0,0,,Why won't she let me stay over?
 Dialogue: 10,0:10:01.49,0:10:03.99,GJM_Main,,0,0,0,,I wonder why...
 Dialogue: 10,0:10:06.41,0:10:10.29,GJM_Main,,0,0,0,,Why, Grea?!
-Dialogue: 10,0:10:20.09,0:10:21.68,GJM_Main,,0,0,0,,Ever since I was little...
-Dialogue: 10,0:10:23.35,0:10:28.19,GJM_Main,,0,0,0,,I've been doing this for so long\N that I just can't break the habit.
+Dialogue: 10,0:10:20.09,0:10:21.68,GJM_Main,,0,0,0,,I've always slept like this{ since I was little}.
+Dialogue: 10,0:10:23.35,0:10:28.19,GJM_Main,,0,0,0,,I've been doing it for so long\N that I just can't break the habit.
 Dialogue: 10,0:10:31.15,0:10:37.61,GJM_Main,,0,0,0,,But sleeping like this is so embarrassing.\N I can't let Anne see me like this.
 Dialogue: 10,0:11:37.92,0:11:39.84,GJM_Main,,0,0,0,,See you, Ms. Mira.
 Dialogue: 10,0:11:39.84,0:11:42.09,GJM_Main,,0,0,0,,Yeah, good work today.
