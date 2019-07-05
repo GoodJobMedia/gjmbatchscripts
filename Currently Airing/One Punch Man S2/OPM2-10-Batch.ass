@@ -18,7 +18,7 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 940
-Active Line: 951
+Active Line: 953
 Video Position: 4996
 
 [V4+ Styles]
@@ -987,8 +987,8 @@ Dialogue: 0,0:23:29.84,0:23:35.68,OPM2_ED,,0,0,0,,{\fad(150,150)\be3}I swear tha
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main_1080p,,0,0,0,,TS
 Dialogue: 0,0:03:26.85,0:03:31.52,Titles,,0,0,0,,{\pos(1392,770)\fs96\c&H000000&\1a&HFF&\blur0.4\fad(482,0)\t(0,482,\1a&H00&)}The Encircling{\fsp-20} {\frx180\fax0.35\fsp16}N{\frx0\fax0\fsp0}et of Justice
 Dialogue: 1,0:03:26.85,0:03:31.52,Titles,,0,0,0,,{\pos(1392,770)\fs96\bord0\4a&HFF&\blur0.4\fad(482,0)}The Encircling{\fsp-20} {\frx180\fax0.35\fsp16}N{\frx0\fax0\fsp0}et of Justice
-Dialogue: 0,0:23:44.98,0:23:49.99,Titles,,0,0,0,,{\pos(977.6,791.2)\fs150\bord6\c&H000000&\blur0.5}The Varieties of Pride
-Dialogue: 1,0:23:44.98,0:23:49.99,Titles,,0,0,0,,{\pos(977.6,791.2)\fs150\bord0\4a&HFF&\blur0.5}The Varieties of Pride
+Dialogue: 0,0:23:44.98,0:23:49.99,Titles,,0,0,0,,{\pos(977.6,791.2)\fs150\bord6\c&H000000&\blur0.5\frx180\fax0.35\fsp28}N{\frx0\fax0\fsp0}otions of Self Worth
+Dialogue: 1,0:23:44.98,0:23:49.99,Titles,,0,0,0,,{\pos(977.6,791.2)\fs150\bord0\4a&HFF&\blur0.5\frx180\fax0.35\fsp28}N{\frx0\fax0\fsp0}otions of Self Worth
 Dialogue: 0,0:06:08.22,0:06:10.39,Hero names,,0,0,0,,{\an4\pos(114.4,302.4)\fs80\shad3\blur0.4}Class S, Rank 11
 Dialogue: 0,0:06:08.22,0:06:10.39,Hero names,,0,0,0,,{\an4\pos(401.734,740.4)\fs80\shad3\blur0.6}Superalloy Blackluster
 Dialogue: 0,0:17:51.88,0:17:54.01,Hero names,,0,0,0,,{\an4\pos(408,677.714)\fs60\shad4\blur0.8}Class A,
