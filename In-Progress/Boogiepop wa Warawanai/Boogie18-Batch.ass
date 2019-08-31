@@ -308,7 +308,7 @@ Dialogue: 10,0:21:01.41,0:21:02.64,GJM_Main,Ken,0,0,0,,True.
 Dialogue: 10,0:21:25.40,0:21:26.89,GJM_Main,Kenji,0,0,0,,Boogiepop.
 Dialogue: 10,0:21:45.33,0:21:47.41,GJM_Main,Boogie,0,0,0,,How did you know it was me?
 Dialogue: 10,0:21:50.37,0:21:53.29,GJM_Main,Kenji,0,0,0,,{\q2}Of course I knew.\N How could I mistake the face of a friend?
-Dialogue: 10,0:22:03.82,0:22:07.02,GJM_Main,Boogie,0,0,0,,The threat has passed, Takeda{**-kun}.
+Dialogue: 10,0:22:03.82,0:22:07.02,GJM_Main,Boogie,0,0,0,,The threat has passed, {*}Mr. Takeda{*Takeda-kun}.
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,TS
 Dialogue: 0,0:19:21.59,0:19:21.68,Signs-b,DONE,0,0,0,,{\an1\pos(451.27,60.2)\org(692.4,697.5)\frz359.3\fry-0.14\frx-1.28\fnHelveticaNeueLight\fs25\b1\c&HEDEAE6&\blur0.8}Touka Miyashita
 Dialogue: 0,0:19:21.68,0:19:21.76,Signs-b,DONE,0,0,0,,{\an1\pos(450.97,42.72)\org(692.4,697.5)\fscx100.18\fscy100.18\frz359.3\fry-0.14\frx-1.28\fnHelveticaNeueLight\fs25\b1\c&HEDEAE6&\blur0.8}Touka Miyashita
