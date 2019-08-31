@@ -83,7 +83,7 @@ Dialogue: 10,0:05:40.42,0:05:42.19,GJM_Main,,0,0,0,,{\i1}This doesn't match my i
 Dialogue: 10,0:05:44.20,0:05:46.28,GJM_Main,,0,0,0,,This is an emergency. Please listen to me.
 Dialogue: 10,0:05:47.94,0:05:49.20,GJM_Main,,0,0,0,,Where is this girl?
 Dialogue: 10,0:06:12.60,0:06:14.56,GJM_Main,,0,0,0,,Her life...
-Dialogue: 10,0:06:18.80,0:06:23.57,GJM_Main,,0,0,0,,{\q2}Antiskill. We've caught a criminal \Nthat snuck into the hospital.
+Dialogue: 10,0:06:18.80,0:06:23.57,GJM_Main,,0,0,0,,{\q2}Anti-Skill. We've caught a criminal \Nthat snuck into the hospital.
 Dialogue: 10,0:06:24.19,0:06:26.14,GJM_Main,,0,0,0,,We appreciate your cooperation.
 Dialogue: 10,0:06:27.62,0:06:32.03,GJM_Main,,0,0,0,,{\i1\q2}Hmph, he's feigning indifference\N to avoid any trouble.
 Dialogue: 10,0:06:42.88,0:06:44.20,GJM_Main,,0,0,0,,Huh?
@@ -123,11 +123,11 @@ Dialogue: 10,0:08:32.28,0:08:36.74,GJM_Main,,0,0,0,,There's something I wanna as
 Dialogue: 10,0:08:37.40,0:08:40.14,GJM_Main,,0,0,0,,The girl in our custody is a criminal.
 Dialogue: 10,0:08:40.14,0:08:42.58,GJM_Main,,0,0,0,,This is no business of a civilian such as yourself.
 Dialogue: 10,0:08:43.16,0:08:45.33,GJM_Main,,0,0,0,,Hurry on back to your bed in the hospital.
-Dialogue: 10,0:08:45.33,0:08:49.34,GJM_Main,,0,0,0,,You guys aren't Antiskill, are you?
+Dialogue: 10,0:08:45.33,0:08:49.34,GJM_Main,,0,0,0,,You guys aren't Anti-Skill, are you?
 Dialogue: 10,0:08:49.90,0:08:53.72,GJM_Main,,0,0,0,,{\q2}What are you talking about?\N We keep the peace in this city—
 Dialogue: 10,0:08:53.72,0:08:57.58,GJM_Main,,0,0,0,,Those guys are so damn serious it's laughable.
 Dialogue: 10,0:08:57.58,0:09:01.35,GJM_Main,,0,0,0,,{\q2}They would never suddenly aim\N their guns at an unarmed civilian.
-Dialogue: 10,0:09:03.72,0:09:06.84,GJM_Main,,0,0,0,,Hmph. Antiskill?
+Dialogue: 10,0:09:03.72,0:09:06.84,GJM_Main,,0,0,0,,Hmph. Anti-Skill?
 Dialogue: 10,0:09:06.84,0:09:08.61,GJM_Main,,0,0,0,,Those guys are the fakes.
 Dialogue: 10,0:09:09.04,0:09:11.32,GJM_Main,,0,0,0,,We, DA, are the real justice!
 Dialogue: 10,0:09:11.32,0:09:16.04,GJM_Main,,0,0,0,,We are Academy City's hunting dogs of justice,
@@ -301,7 +301,7 @@ Dialogue: 10,0:21:26.00,0:21:27.68,GJM_Main,,0,0,0,,You touched in the head?
 Dialogue: 10,0:21:27.68,0:21:31.02,GJM_Main,,0,0,0,,How rude. I'm right as rain.
 Dialogue: 10,0:21:31.02,0:21:33.16,GJM_Main,,0,0,0,,Tell me where they are.
 Dialogue: 10,0:21:33.16,0:21:33.89,GJM_Main,,0,0,0,,Huh?
-Dialogue: 10,0:21:34.46,0:21:37.26,GJM_Main,,0,0,0,,Those phony Antiskill guys' hideout.
+Dialogue: 10,0:21:34.46,0:21:37.26,GJM_Main,,0,0,0,,Those phony Anti-Skill guys' hideout.
 Dialogue: 10,0:21:37.26,0:21:41.86,GJM_Main,,0,0,0,,{\q2}Whatever it is they're after,\N all I have to do is go there and smash it.
 Dialogue: 10,0:21:42.30,0:21:47.12,GJM_Main,,0,0,0,,{\q2}A-All I know is the warehouse\N where they kept me locked up.
 Dialogue: 10,0:21:47.12,0:21:50.10,GJM_Main,,0,0,0,,I think it's just one of several hideouts they have.

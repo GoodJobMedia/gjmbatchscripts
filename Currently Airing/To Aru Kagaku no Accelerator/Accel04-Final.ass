@@ -117,7 +117,7 @@ Dialogue: 10,0:07:47.20,0:07:49.70,GJM_Main,,0,0,0,,I should catch up to them in
 Dialogue: 10,0:07:51.06,0:07:52.07,GJM_Main,,0,0,0,,You can't.
 Dialogue: 10,0:07:53.32,0:07:54.82,GJM_Main,,0,0,0,,We'll pursue them once we're better prepared.
 Dialogue: 10,0:07:56.04,0:07:59.20,GJM_Main,,0,0,0,,I don't want anyone else to be miserable.
-Dialogue: 10,0:08:00.12,0:08:03.46,GJM_Main,,0,0,0,,This was made by an Antiskill vehicle, all right.
+Dialogue: 10,0:08:00.12,0:08:03.46,GJM_Main,,0,0,0,,This was made by an Anti-Skill vehicle, all right.
 Dialogue: 10,0:08:03.90,0:08:07.09,GJM_Main,,0,0,0,,{\q2}But all of this type of vehicle \Nwere supposed to have been scrapped.
 Dialogue: 10,0:08:07.48,0:08:10.60,GJM_Main,,0,0,0,,So if it was used...
 Dialogue: 10,0:08:10.60,0:08:12.02,GJM_Main,,0,0,0,,Then that means...
@@ -244,7 +244,7 @@ Dialogue: 10,0:15:59.34,0:16:00.18,GJM_Main,,0,0,0,,Tch.
 Dialogue: 10,0:16:00.18,0:16:02.56,GJM_Main,,0,0,0,,I learned a few things about DA.
 Dialogue: 10,0:16:03.24,0:16:06.00,GJM_Main,,0,0,0,,DA is an abbreviation for "Disciplinary Action";
 Dialogue: 10,0:16:06.00,0:16:08.38,GJM_Main,,0,0,0,,that's to say, punitive measures.
-Dialogue: 10,0:16:08.38,0:16:11.02,GJM_Main,,0,0,0,,They're kind of like a union within Antiskill.
+Dialogue: 10,0:16:08.38,0:16:11.02,GJM_Main,,0,0,0,,They're kind of like a union within Anti-Skill.
 Dialogue: 10,0:16:11.02,0:16:15.24,GJM_Main,,0,0,0,,{\q2}At least, that's what they claim to be,\N but in actuality, they're a secret association.
 Dialogue: 10,0:16:15.24,0:16:17.22,GJM_Main,,0,0,0,,And a fairly nasty one, at that.
 Dialogue: 10,0:16:17.22,0:16:21.00,GJM_Main,,0,0,0,,{\q2}I know well enough that they're scum\N and an insult to real villainy.
@@ -253,7 +253,7 @@ Dialogue: 10,0:16:27.32,0:16:32.58,GJM_Main,,0,0,0,,{\q2}It was started by membe
 Dialogue: 10,0:16:32.58,0:16:34.47,GJM_Main,,0,0,0,,so maybe that's to be expected.
 Dialogue: 10,0:16:35.02,0:16:39.00,GJM_Main,,0,0,0,,The problem is, they have a lot of sympathizers.
 Dialogue: 10,0:16:39.00,0:16:40.22,GJM_Main,,0,0,0,,They do?
-Dialogue: 10,0:16:41.16,0:16:45.28,GJM_Main,,0,0,0,,{\q2}DA has grown with the help of members\N and former members of Antiskill
+Dialogue: 10,0:16:41.16,0:16:45.28,GJM_Main,,0,0,0,,{\q2}DA has grown with the help of members\N and former members of Anti-Skill
 Dialogue: 10,0:16:45.28,0:16:47.34,GJM_Main,,0,0,0,,who espouse the same ideals,
 Dialogue: 10,0:16:47.34,0:16:51.90,GJM_Main,,0,0,0,,{\q2}and who provide them with lots \Nof information, funding, and tech.
 Dialogue: 10,0:16:51.90,0:16:55.92,GJM_Main,,0,0,0,,{\q2}When evil spreads,\N it begets an even more powerful evil.
@@ -265,7 +265,7 @@ Dialogue: 10,0:17:09.16,0:17:13.66,GJM_Main,,0,0,0,,{\q2}That being said, one of
 Dialogue: 10,0:17:13.66,0:17:17.74,GJM_Main,,0,0,0,,{\q2}must have thought that DA's extreme\N actions were becoming a nuisance,
 Dialogue: 10,0:17:17.74,0:17:21.04,GJM_Main,,0,0,0,,{\q2}and apparently started taking\N action to have them purged.
 Dialogue: 10,0:17:21.98,0:17:26.56,GJM_Main,,0,0,0,,{\q2}As a result, there's whole lot of \Ndanger looming around DA right now.
-Dialogue: 10,0:17:27.38,0:17:31.40,GJM_Main,,0,0,0,,{\q2}Which is exactly why Antiskill,\N which had been obstructed by this bigwig up to now,
+Dialogue: 10,0:17:27.38,0:17:31.40,GJM_Main,,0,0,0,,{\q2}Which is exactly why Anti-Skill,\N which had been obstructed by this bigwig up to now,
 Dialogue: 10,0:17:31.40,0:17:34.32,GJM_Main,,0,0,0,,may start taking some action against them.
 Dialogue: 10,0:17:35.22,0:17:39.82,GJM_Main,,0,0,0,,{\q2}Be extra careful if you're planning\N to get involved in this case.
 Dialogue: 10,0:17:39.82,0:17:43.16,GJM_Main,,0,0,0,,None of that matters to me.
@@ -309,14 +309,14 @@ Dialogue: 10,0:19:56.70,0:19:59.96,GJM_Main,,0,0,0,,{\i1}DA is a den of terroris
 Dialogue: 10,0:19:59.96,0:20:02.48,GJM_Main,,0,0,0,,{\i1}Why did none of this ever come up before,
 Dialogue: 10,0:20:02.48,0:20:05.32,GJM_Main,,0,0,0,,{\i1\q2}but now, all this information\N is suddenly showing up?
 Dialogue: 10,0:20:05.32,0:20:07.26,GJM_Main,,0,0,0,,{\i1}And from what I'm seeing,
-Dialogue: 10,0:20:07.26,0:20:12.22,GJM_Main,,0,0,0,,{\i1\q2}the equipment DA has is slightly higher-specced\N than Antiskill's state-of-the-art gear.
+Dialogue: 10,0:20:07.26,0:20:12.22,GJM_Main,,0,0,0,,{\i1\q2}the equipment DA has is slightly higher-specced\N than Anti-Skill's state-of-the-art gear.
 Dialogue: 10,0:20:12.22,0:20:15.48,GJM_Main,,0,0,0,,{\i1\q2}We'd best treat them as a\N rather dangerous organization.
 Dialogue: 10,0:20:17.06,0:20:18.84,GJM_Main,,0,0,0,,{\i1}This is that officer who went missing
 Dialogue: 10,0:20:18.84,0:20:22.70,GJM_Main,,0,0,0,,{\i1\q2}after his extreme subjugation \Nof a student left them half-paralyzed.
 Dialogue: 10,0:20:22.70,0:20:23.91,GJM_Main,,0,0,0,,{\i1}What's he doing in this lineup?
-Dialogue: 10,0:20:24.86,0:20:29.88,GJM_Main,,0,0,0,,{\i1\q2}This one illegally diverted \NAntiskill weapons and was dismissed.
+Dialogue: 10,0:20:24.86,0:20:29.88,GJM_Main,,0,0,0,,{\i1\q2}This one illegally diverted \NAnti-Skill weapons and was dismissed.
 Dialogue: 10,0:20:29.88,0:20:34.29,GJM_Main,,0,0,0,,{\i1\q2}He sent them to a hostile organization\N hoping they'd wipe out terrorists, or something.
-Dialogue: 10,0:20:35.80,0:20:39.30,GJM_Main,,0,0,0,,{\i1\q2}It's almost as though the dark underbelly\N of Antiskill is all assembled here...
+Dialogue: 10,0:20:35.80,0:20:39.30,GJM_Main,,0,0,0,,{\i1\q2}It's almost as though the dark underbelly\N of Anti-Skill is all assembled here...
 Dialogue: 10,0:20:44.86,0:20:47.18,GJM_Main,,0,0,0,,Explosion at a warehouse in the 3rd District!
 Dialogue: 10,0:20:51.12,0:20:53.66,GJM_Main,,0,0,0,,So are we done earning our spending money?
 Dialogue: 10,0:20:53.66,0:20:55.65,GJM_Main,,0,0,0,,Did you get a complete headcount?
