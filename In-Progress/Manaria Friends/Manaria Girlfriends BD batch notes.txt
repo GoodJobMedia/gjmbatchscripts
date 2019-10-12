@@ -1,0 +1,112 @@
+episode 1:
+Dialogue: 10,0:02:07.06,0:02:08.44,GJM_Overlap,,0,0,0,,{\an8}A wonderful morning to you.
+    What's the issue here?
+
+Dialogue: 10,0:05:10.37,0:05:11.95,GJM_Main,,0,0,0,,What happened to him?
+Dialogue: 10,0:05:19.71,0:05:22.26,GJM_Main,,0,0,0,,I'm sorry for stepping on it...
+Him? or It? {it's "it" every instance but the first line}
+    I think "it" is something she stepped on to make him mad, not him himself?
+
+Dialogue: 10,0:06:55.68,0:06:57.27,GJM_Main,,0,0,0,,I'm a disappointment.
+What a disappointment I am.
+{"I'm this, I'm that, I'm the other" was feeling a little repetitive}
+    Mostly for effect but @lann
+
+==============================================
+episode 2
+
+Dialogue: 10,0:00:34.09,0:00:37.43,GJM_Main,,0,0,0,,I've never seen any medical\N treatment records for dragons.
+an8 this so it's not covering Anne's face?
+
+Dialogue: 10,0:09:43.77,0:09:47.77,GJM_Main,,0,0,0,,Sorry you had to do so much for me.
+Sorry you went through so much trouble for me.
+
+==============================================
+episode 3
+
+Dialogue: 10,0:00:28.59,0:00:31.38,GJM_Main,,0,0,0,,Hey, Grea, let's go into town. We'll go shopping!{Let's go shopping in town?}
+let's visit the town and go shopping?
+
+Dialogue: 10,0:00:34.76,0:00:37.51,GJM_Main,,0,0,0,,Your sizes changed after you molted, right?{really think we should include the chest bit here}
+You need a different size in the bust and stuff since you molted, right?
+
+Dialogue: 10,0:10:20.09,0:10:21.68,GJM_Main,,0,0,0,,I've always slept like this{ since I was little}.
+Dialogue: 10,0:10:23.35,0:10:28.19,GJM_Main,,0,0,0,,I've been doing it for so long\N that I just can't break the habit.
+Dialogue: 10,0:10:31.15,0:10:37.61,GJM_Main,,0,0,0,,But sleeping like this is so embarrassing.\N I can't let Anne see me like this.
+italicize.
+also, I prefer "since I was little" too.
+
+Dialogue: 10,0:11:49.18,0:11:52.31,GJM_Main,,0,0,0,,No, it's almost exam period, after all.
+    ???
+
+Dialogue: 10,0:12:00.86,0:12:03.11,GJM_Main,,0,0,0,,Thanks though, I'll see you two tomorrow.
+Thank you anyway. I'll see you two tomorrow.
+
+Dialogue: 10,0:12:03.11,0:12:05.24,GJM_Main,,0,0,0,,All right, bye!
+All right. Bye then!
+
+
+==============================================
+episode 4
+
+Dialogue: 10,0:01:02.00,0:01:04.58,GJM_Main,,0,0,0,,We have exams coming up.
+But we have exams coming up.
+We have exams coming up, though.
+
+Dialogue: 10,0:03:13.88,0:03:14.79,GJM_Main,,0,0,0,,You sure?
+Dialogue: 10,0:03:15.09,0:03:17.88,GJM_Main,,0,0,0,,I'm sure you have enough on your plate already.{idk about this double "sure"}
+Anne's line could be changed to "What? Really?" or similar.
+
+==============================================
+episode 5
+
+==============================================
+episode 6
+
+Dialogue: 10,0:00:11.28,0:00:14.28,GJM_Main,,0,0,0,,Don't think we'll go easy on you \Njust because you're younger.
+"because you're underclassmen" would work too
+
+Dialogue: 10,0:00:38.14,0:00:40.27,GJM_Main,,0,0,0,,Grea...{butt}
+Hey, Grea... {the Japanese has a "nee" at the beginning}
+    Was hopefully intentional but this works too
+
+Dialogue: 10,0:01:13.55,0:01:18.05,GJM_Main,,0,0,0,,It's kind of romantic being alone up here.
+being all by ourselves up here.
+being alone with you up here.
+
+Dialogue: 10,0:02:03.31,0:02:07.06,GJM_Main,,0,0,0,,I'm really happy to be alone with you, you know.
+Dialogue: 10,0:02:07.44,0:02:09.98,GJM_Main,,0,0,0,,I really am, but...
+It's not that I don't enjoy being along with you.
+I'm really happy, but...
+    Put this in but not the trailing sentence is bothering me now...
+
+==============================================
+episode 7
+
+Dialogue: 10,0:04:56.60,0:04:59.60,GJM_Main,,0,0,0,,After going "you're it then, Anne" all cool-like!
+Dialogue: 10,0:04:59.60,0:05:02.69,GJM_Main,,0,0,0,,I'll find you in no time!
+{second line seems like it comes in a little too soon}
+
+Dialogue: 10,0:07:18.29,0:07:21.29,GJM_Main,,0,0,0,,Come on, Grea?
+? -> ! or "Come on! Grea?"
+
+==============================================
+episode 8
+
+Dialogue: 10,0:00:49.52,0:00:52.78,GJM_Main,,0,0,0,,Now then, I need to go and give \Nthe other girls their costumes.
+I need to go see to the other girls' costumes
+
+Dialogue: 10,0:03:17.63,0:03:18.42,GJM_Main,,0,0,0,,Thanks.
+I'm make this "Sorry to worry you.", which is a better match for how shy she is.
+
+Dialogue: 10,0:03:31.19,0:03:32.52,GJM_Main,,0,0,0,,Okay, let's go with that.
+Dialogue: 10,0:03:32.52,0:03:34.06,GJM_Main,,0,0,0,,Yes, we'll have it ready right away.
+[these two lines should be swapped]
+
+==============================================
+episode 9
+
+==============================================
+episode 10
+
+==============================================

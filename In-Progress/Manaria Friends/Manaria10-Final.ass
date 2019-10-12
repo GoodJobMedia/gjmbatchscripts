@@ -56,7 +56,7 @@ Dialogue: 10,0:01:02.25,0:01:02.95,GJM_Main,,0,0,0,,Sure.
 Dialogue: 10,0:01:03.91,0:01:05.08,GJM_Main,,0,0,0,,See you.
 Dialogue: 10,0:01:12.26,0:01:13.38,GJM_Main,,0,0,0,,What could this be?
 Dialogue: 10,0:01:17.68,0:01:22.68,GJM_Main,,0,0,0,,{\an8}I'll be leaving the keys to the dormitory \Nwith you over the break.
-Dialogue: 10,0:01:23.14,0:01:30.52,GJM_Main,,0,0,0,,{\q2}We're leaving tonight, so if anything happens,\N please see the staff at the contact tower.
+Dialogue: 10,0:01:23.14,0:01:30.52,GJM_Main,,0,0,0,,{\q2}We're leaving tonight, so if anything happens,\N please see the staff at the communications tower.
 Dialogue: 10,0:01:30.52,0:01:33.78,GJM_Main,,0,0,0,,Okay. I know it's been a while since \Nyou've been able to go home, Hanna.
 Dialogue: 10,0:01:33.78,0:01:35.40,GJM_Main,,0,0,0,,Have a good time.
 Dialogue: 10,0:01:35.40,0:01:36.07,GJM_Main,,0,0,0,,I will!
@@ -138,10 +138,10 @@ Dialogue: 10,0:08:10.46,0:08:14.09,GJM_Main,,0,0,0,,You don't think so, Grea?
 Dialogue: 10,0:08:25.19,0:08:26.06,GJM_Main,,0,0,0,,No, I do.
 Dialogue: 10,0:08:29.40,0:08:30.40,GJM_Main,,0,0,0,,It sounds wonderful.
 Dialogue: 10,0:08:38.62,0:08:41.16,GJM_Main,,0,0,0,,I promise I'll write.
-Dialogue: 10,0:08:41.16,0:08:41.79,GJM_Main,,0,0,0,,Yeah.
+Dialogue: 10,0:08:41.16,0:08:41.79,GJM_Main,,0,0,0,,Yes.
 Dialogue: 10,0:08:45.04,0:08:47.50,GJM_Main,,0,0,0,,Are you sure you haven't forgotten anything, Anne?
 Dialogue: 10,0:08:48.66,0:08:50.84,GJM_Main,,0,0,0,,If you find anything I missed, just leave it there.
-Dialogue: 10,0:08:50.84,0:08:52.97,GJM_Main,,0,0,0,,Yeah, okay.
+Dialogue: 10,0:08:50.84,0:08:52.97,GJM_Main,,0,0,0,,Yes, okay.
 Dialogue: 10,0:08:52.97,0:08:55.18,GJM_Main,,0,0,0,,It's gotten so late already.
 Dialogue: 10,0:08:55.18,0:08:56.80,GJM_Main,,0,0,0,,Sorry for making you clean.
 Dialogue: 10,0:08:56.80,0:08:57.80,GJM_Main,,0,0,0,,It's fine.

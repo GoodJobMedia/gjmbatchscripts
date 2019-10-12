@@ -33,7 +33,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:50.94,0:00:53.53,GJM_Main,,0,0,0,,You really do play beautifully, Grea.
 Dialogue: 10,0:00:54.53,0:00:56.45,GJM_Main,,0,0,0,,It's nothing special.
 Dialogue: 10,0:00:57.03,0:00:59.58,GJM_Main,,0,0,0,,I'd love to practice more.
-Dialogue: 10,0:00:59.58,0:01:01.49,GJM_Main,,0,0,0,,Why don't we come again tomorrow then?
+Dialogue: 10,0:00:59.58,0:01:01.49,GJM_Main,,0,0,0,,Why don't we come again tomorrow, then?
 Dialogue: 10,0:01:02.00,0:01:04.58,GJM_Main,,0,0,0,,We have exams coming up.
 Dialogue: 10,0:01:06.50,0:01:11.00,GJM_Main,,0,0,0,,I want to focus on my studies,\Nso I probably won't be coming for a while.
 Dialogue: 10,0:01:13.88,0:01:14.63,GJM_Main,,0,0,0,,Okay...
@@ -71,7 +71,7 @@ Dialogue: 10,0:06:21.61,0:06:22.48,GJM_Main,,0,0,0,,Who's that?
 Dialogue: 10,0:07:23.88,0:07:25.96,GJM_Main,,0,0,0,,Don't you want to check your answers, Anne?
 Dialogue: 10,0:07:37.43,0:07:39.27,GJM_Main,,0,0,0,,{\i1}All correct again!
 Dialogue: 10,0:07:53.86,0:07:54.74,GJM_Main,,0,0,0,,Anne...
-Dialogue: 10,0:09:05.98,0:09:08.81,GJM_Main,,0,0,0,,How did your exam go, Anne?
+Dialogue: 10,0:09:05.98,0:09:08.81,GJM_Main,,0,0,0,,How did your exams go, Anne?
 Dialogue: 10,0:09:15.74,0:09:17.03,GJM_Main,,0,0,0,,I was so lonely!
 Dialogue: 10,0:09:23.50,0:09:24.21,GJM_Main,,0,0,0,,I know.
 Dialogue: 10,0:09:27.75,0:09:31.13,GJM_Main,,0,0,0,,Why don't we try playing a duet?
@@ -84,7 +84,7 @@ Dialogue: 10,0:12:38.15,0:12:40.40,GJM_Main,,0,0,0,,Let's soldier on for just a 
 Dialogue: 10,0:12:48.78,0:12:50.91,GJM_Main,,0,0,0,,I got full marks!
 Dialogue: 10,0:13:30.53,0:13:33.91,GJM_Main,,0,0,0,,I hope I'll be able to chat with Grea tomorrow.
 Dialogue: 10,0:13:34.66,0:13:35.96,GJM_Main,,0,0,0,,Good night.
-Dialogue: 10,0:13:54.35,0:13:58.85,GJM_Main,,0,0,0,,Manaria Friends, Episode 5:\NThe Academy Surrenders.
+Dialogue: 10,0:13:54.35,0:13:58.85,GJM_Main,,0,0,0,,Manaria Friends, Episode 5:\NThe Academy Falls.
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,TS
 Comment: 0,0:01:17.84,0:01:23.22,Show Title,,0,0,0,,- show title -
 Dialogue: 0,0:01:17.76,0:01:23.14,Show Title,,0,0,0,,{\fad(834,0)\blur0.4\fs100\c&H010001&\pos(720,550)}Manaria Friends

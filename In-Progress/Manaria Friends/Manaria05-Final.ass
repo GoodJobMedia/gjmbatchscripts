@@ -56,7 +56,7 @@ Dialogue: 10,0:00:43.69,0:00:47.36,GJM_Main,,0,0,0,,It looks like the monsters a
 Dialogue: 10,0:00:47.36,0:00:49.44,GJM_Main,,0,0,0,,We need to stay calm.
 Dialogue: 10,0:00:49.77,0:00:51.69,GJM_Main,,0,0,0,,Our control tower is down!
 Dialogue: 10,0:00:51.69,0:00:53.36,GJM_Main,,0,0,0,,They barely even put up a fight! 
-Dialogue: 10,0:00:53.82,0:00:56.74,GJM_Main,,0,0,0,,They targeted the areas with the largets number of students,
+Dialogue: 10,0:00:53.82,0:00:56.74,GJM_Main,,0,0,0,,They targeted the areas with the largest number of students,
 Dialogue: 10,0:00:56.74,0:00:59.66,GJM_Main,,0,0,0,,so our first line of defense wasn't particularly effective.
 Dialogue: 10,0:01:00.79,0:01:02.66,GJM_Main,,0,0,0,,Make sure you record all of this.
 Dialogue: 10,0:01:02.66,0:01:03.41,GJM_Main,,0,0,0,,Okay!
@@ -80,7 +80,7 @@ Dialogue: 10,0:02:20.87,0:02:21.74,GJM_Main,,0,0,0,,Okay.
 Dialogue: 10,0:02:21.74,0:02:23.49,GJM_Main,,0,0,0,,Thank you so much!
 Dialogue: 10,0:02:34.09,0:02:35.17,GJM_Main,,0,0,0,,Grea...
 Dialogue: 10,0:02:39.05,0:02:41.55,GJM_Main,,0,0,0,,Don't forget why you're here.
-Dialogue: 10,0:02:41.55,0:02:42.55,GJM_Main,,0,0,0,,But Grea's...
+Dialogue: 10,0:02:41.55,0:02:42.55,GJM_Main,,0,0,0,,But Grea's—
 Dialogue: 10,0:02:42.55,0:02:44.43,GJM_Main,,0,0,0,,I'm sorry, Anne.
 Dialogue: 10,0:02:45.14,0:02:46.52,GJM_Main,,0,0,0,,Why?
 Dialogue: 10,0:02:46.52,0:02:48.10,GJM_Main,,0,0,0,,Why am I being left out?
@@ -251,8 +251,8 @@ Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,TS
 Comment: 0,0:01:24.23,0:01:30.19,Show Title,,0,0,0,,- show title -
 Dialogue: 0,0:01:24.23,0:01:30.19,Show Title,,0,0,0,,{\pos(720,550)\fs100\c&H010001&\blur0.4\fad(834,0)}Manaria Friends
 Comment: 0,0:01:30.23,0:01:34.78,Ep Title,,0,0,0,,- ep title -
-Dialogue: 0,0:01:30.23,0:01:34.78,Ep Title,,0,0,0,,{\pos(1243,675)\fs45\bord3\3c&HFFFFFF&\blur3\fad(500,500)}The Academy Surrenders
-Dialogue: 1,0:01:30.23,0:01:34.78,Ep Title,,0,0,0,,{\pos(1243,675)\fs45\c&H000001&\blur0.4\fad(500,500)}The Academy Surrenders
+Dialogue: 0,0:01:30.23,0:01:34.78,Ep Title,,0,0,0,,{\pos(1243,675)\fs45\bord3\3c&HFFFFFF&\blur3\fad(500,500)}The Academy Falls
+Dialogue: 1,0:01:30.23,0:01:34.78,Ep Title,,0,0,0,,{\pos(1243,675)\fs45\c&H000001&\blur0.4\fad(500,500)}The Academy Falls
 Comment: 0,0:13:38.83,0:13:43.84,Show Title,,0,0,0,,- next ep title -
 Dialogue: 0,0:13:38.83,0:13:43.84,Show Title,,0,0,0,,{\pos(720,290)\c&H1C2F3C&\blur0.4}- Episode 6 -
 Dialogue: 0,0:13:38.83,0:13:43.84,Show Title,,0,0,0,,{\pos(720,520)\fs70\c&H1C2F3C&\blur0.4}Floating at Sea
