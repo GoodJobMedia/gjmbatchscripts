@@ -35,7 +35,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:01.05,0:00:02.10,GJM_Main,,0,0,0,,"I want to make books."
 Dialogue: 10,0:00:02.61,0:00:06.11,GJM_Main,,0,0,0,,{\q2}As a result of this single-minded goal,\N Myne succeeded in creating clay tablets.
 Dialogue: 10,0:00:06.68,0:00:09.69,GJM_Main,,0,0,0,,In the end, however, it was not to be.
-Dialogue: 10,0:00:10.97,0:00:13.12,GJM_Main,,0,0,0,,And so, the season changed\N from winter to spring.
+Dialogue: 10,0:00:10.97,0:00:13.12,GJM_Main,,0,0,0,,And so, seasons passed, and summer arrived.
 Dialogue: 10,0:00:25.72,0:00:28.30,GJM_Main,,0,0,0,,The time had come for Tuuli's baptism.
 Dialogue: 10,0:02:14.27,0:02:17.20,GJM_Main,,0,0,0,,My, Tuuli, you look so cute!
 Dialogue: 10,0:02:19.35,0:02:21.12,GJM_Main,,0,0,0,,Congratulations, Tuuli!
