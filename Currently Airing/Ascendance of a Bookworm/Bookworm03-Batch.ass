@@ -11,15 +11,14 @@ PlayResY: 810
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: Bookworm_03 (Premux).mkv
-Video File: Bookworm_03 (Premux).mkv
-Keyframes File: Bookworm_03 (Premux)_keyframes.log
+Audio File: E:/GJM/Bookworm/03/Bookworm_03 (Premux).mkv
+Video File: E:/GJM/Bookworm/03/Bookworm_03 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 289
-Active Line: 302
-Video Position: 33850
+Scroll Position: 322
+Active Line: 335
+Video Position: 1833
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -348,9 +347,9 @@ Dialogue: 0,0:01:12.25,0:01:16.30,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\
 Dialogue: 0,0:01:16.30,0:01:20.64,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}They make me feel as if
 Dialogue: 0,0:01:20.64,0:01:25.10,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}I can do anything, y'know?
 Dialogue: 0,0:01:26.27,0:01:30.15,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}In this wonderful world
-Dialogue: 0,0:01:30.15,0:01:33.23,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Where knowledge shines bright like the sun
-Dialogue: 0,0:01:33.23,0:01:36.78,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Nothing is set in stone
-Dialogue: 0,0:01:36.78,0:01:39.87,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Who knows what the future holds?
+Dialogue: 0,0:01:30.15,0:01:33.23,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Nothing is set in stone
+Dialogue: 0,0:01:33.23,0:01:36.78,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}The as-yet untold future
+Dialogue: 0,0:01:36.78,0:01:39.87,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Shines brighter than the sun
 Dialogue: 0,0:01:39.87,0:01:43.66,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}I want to take hold of my future
 Dialogue: 0,0:01:43.66,0:01:46.62,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}With my own two hands
 Dialogue: 0,0:01:46.62,0:01:51.72,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}And write pages filled with hope
@@ -415,10 +414,10 @@ Dialogue: 1,0:01:22.64,0:01:23.39,BookwormOP,,0,0,0,,{\blur3\bord3.5\3c&H7D1EAA&
 Dialogue: 1,0:01:23.39,0:01:24.43,BookwormOP,,0,0,0,,{\blur3\bord3.5\3c&H1A5377&}I can do anything, y'know?
 Dialogue: 1,0:01:24.43,0:01:25.10,BookwormOP,,0,0,0,,{\fad(0,150)\blur3\bord3.5\3c&H4142E3&}I can do anything, y'know?
 Dialogue: 1,0:01:26.27,0:01:30.15,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&HCA83E0&}In this wonderful world
-Dialogue: 1,0:01:30.15,0:01:33.23,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&HCA83E0&}Where knowledge shines bright like the sun
-Dialogue: 1,0:01:33.23,0:01:34.74,BookwormOP,,0,0,0,,{\fad(120,0)\blur3\bord3.5\3c&HD366A9&}Nothing is set in stone
-Dialogue: 1,0:01:34.74,0:01:36.78,BookwormOP,,0,0,0,,{\fad(0,150)\blur3\bord3.5\3c&H2E3F00&}Nothing is set in stone
-Dialogue: 1,0:01:36.78,0:01:39.87,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H075BA2&}Who knows what the future holds?
+Dialogue: 1,0:01:30.15,0:01:33.23,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&HCA83E0&}Nothing is set in stone
+Dialogue: 1,0:01:33.23,0:01:34.74,BookwormOP,,0,0,0,,{\fad(120,0)\blur3\bord3.5\3c&HD366A9&}The as-yet untold future
+Dialogue: 1,0:01:34.74,0:01:36.78,BookwormOP,,0,0,0,,{\fad(0,150)\blur3\bord3.5\3c&H2E3F00&}The as-yet untold future
+Dialogue: 1,0:01:36.78,0:01:39.87,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H075BA2&}Shines brighter than the sun
 Dialogue: 1,0:01:39.87,0:01:43.66,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H919191&}I want to take hold of my future
 Dialogue: 1,0:01:43.66,0:01:46.62,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H727902&\t(2320,2960,1,\3c&HF78AB9&)}With my own two hands
 Dialogue: 1,0:01:46.62,0:01:49.08,BookwormOP,,0,0,0,,{\fad(120,0)\blur3\bord3.5\3c&HF78AB9&}And write pages filled with hope

@@ -16,9 +16,9 @@ Video File: E:/GJM/Bookworm/01/Bookworm_01 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 276
-Active Line: 296
-Video Position: 33729
+Scroll Position: 282
+Active Line: 299
+Video Position: 5128
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -342,9 +342,9 @@ Dialogue: 0,0:03:06.24,0:03:10.29,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\
 Dialogue: 0,0:03:10.29,0:03:14.63,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}They make me feel as if
 Dialogue: 0,0:03:14.63,0:03:19.09,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}I can do anything, y'know?
 Dialogue: 0,0:03:20.26,0:03:24.14,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}In this wonderful world
-Dialogue: 0,0:03:24.14,0:03:27.22,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Where knowledge shines bright like the sun
-Dialogue: 0,0:03:27.22,0:03:30.77,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Nothing is set in stone
-Dialogue: 0,0:03:30.77,0:03:33.86,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Who knows what the future holds?
+Dialogue: 0,0:03:24.14,0:03:27.22,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Nothing is set in stone
+Dialogue: 0,0:03:27.22,0:03:30.77,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}The as-yet untold future
+Dialogue: 0,0:03:30.77,0:03:33.86,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Shines brighter than the sun
 Dialogue: 0,0:03:33.86,0:03:37.65,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}I want to take hold of my future
 Dialogue: 0,0:03:37.65,0:03:40.61,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}With my own two hands
 Dialogue: 0,0:03:40.61,0:03:45.71,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}And write pages filled with hope
@@ -409,10 +409,10 @@ Dialogue: 1,0:03:16.63,0:03:17.38,BookwormOP,,0,0,0,,{\blur3\bord3.5\3c&H7D1EAA&
 Dialogue: 1,0:03:17.38,0:03:18.42,BookwormOP,,0,0,0,,{\blur3\bord3.5\3c&H1A5377&}I can do anything, y'know?
 Dialogue: 1,0:03:18.42,0:03:19.09,BookwormOP,,0,0,0,,{\fad(0,150)\blur3\bord3.5\3c&H4142E3&}I can do anything, y'know?
 Dialogue: 1,0:03:20.26,0:03:24.14,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&HCA83E0&}In this wonderful world
-Dialogue: 1,0:03:24.14,0:03:27.22,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&HCA83E0&}Where knowledge shines bright like the sun
-Dialogue: 1,0:03:27.22,0:03:28.73,BookwormOP,,0,0,0,,{\fad(120,0)\blur3\bord3.5\3c&HD366A9&}Nothing is set in stone
-Dialogue: 1,0:03:28.73,0:03:30.77,BookwormOP,,0,0,0,,{\fad(0,150)\blur3\bord3.5\3c&H2E3F00&}Nothing is set in stone
-Dialogue: 1,0:03:30.77,0:03:33.86,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H075BA2&}Who knows what the future holds?
+Dialogue: 1,0:03:24.14,0:03:27.22,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&HCA83E0&}Nothing is set in stone
+Dialogue: 1,0:03:27.22,0:03:28.73,BookwormOP,,0,0,0,,{\fad(120,0)\blur3\bord3.5\3c&HD366A9&}The as-yet untold future
+Dialogue: 1,0:03:28.73,0:03:30.77,BookwormOP,,0,0,0,,{\fad(0,150)\blur3\bord3.5\3c&H2E3F00&}The as-yet untold future
+Dialogue: 1,0:03:30.77,0:03:33.86,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H075BA2&}Shines brighter than the sun
 Dialogue: 1,0:03:33.86,0:03:37.65,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H919191&}I want to take hold of my future
 Dialogue: 1,0:03:37.65,0:03:40.61,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H727902&\t(2320,2960,1,\3c&HF78AB9&)}With my own two hands
 Dialogue: 1,0:03:40.61,0:03:43.07,BookwormOP,,0,0,0,,{\fad(120,0)\blur3\bord3.5\3c&HF78AB9&}And write pages filled with hope
