@@ -16,9 +16,9 @@ Video File: E:/GJM/Accelerator/08/Accel_EP8_premux_with_cr_audio (1).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 416
-Active Line: 428
-Video Position: 32485
+Scroll Position: 410
+Active Line: 418
+Video Position: 31640
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -449,7 +449,7 @@ Dialogue: 0,0:21:49.37,0:21:51.91,AccelED,,0,50,0,,{\fad(150,150)\an9\blur0\c&HF
 Dialogue: 0,0:21:51.91,0:21:53.70,AccelED,,0,50,0,,{\fad(150,150)\an9\blur0\c&HFFFFFF&\1a&H00&\fs60\bord4\3c&H000000&}Shackling my mind
 Dialogue: 0,0:21:54.50,0:21:57.21,AccelED,,0,50,0,,{\fad(150,150)\an9\blur0\c&HFFFFFF&\1a&H00&\fs60\bord4\3c&H000000&}But the shackles laugh at me, I find
 Dialogue: 0,0:21:57.21,0:21:58.92,AccelED,,0,50,0,,{\fad(150,150)\an9\blur0\c&HFFFFFF&\1a&H00&\fs60\bord4\3c&H000000&}Swallowing the pain
-Dialogue: 0,0:21:59.63,0:22:03.09,AccelED,,0,50,0,,{\fad(150,150)\an9\blur0\c&HFFFFFF&\1a&H00&\fs60\bord4\3c&H000000&}Savoring the rotten taste because I know that
+Dialogue: 0,0:21:59.63,0:22:03.09,AccelED,,0,50,0,,{\fad(150,150)\an9\blur0\c&HFFFFFF&\1a&H00&\fs60\bord4\3c&H000000&}Savoring the awful bitter taste because I know that
 Dialogue: 0,0:22:03.09,0:22:05.68,AccelED,,0,50,0,,{\fad(150,150)\an9\blur0\c&HFFFFFF&\1a&H00&\fs60\bord4\3c&H000000&}{Taishite}Worse flavors lie in my future
 Dialogue: 0,0:22:05.68,0:22:07.34,AccelED,,0,50,0,,{\fad(150,150)\an9\blur0\c&HFFFFFF&\1a&H00&\fs60\bord4\3c&H000000&}Someone, take this cup
 Dialogue: 0,0:22:07.34,0:22:09.68,AccelED,,0,50,0,,{\fad(150,150)\an9\blur0\c&HFFFFFF&\1a&H00&\fs60\bord4\3c&H000000&}I'll keep repressing my feelings

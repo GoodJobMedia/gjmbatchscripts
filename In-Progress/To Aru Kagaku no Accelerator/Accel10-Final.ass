@@ -16,9 +16,9 @@ Video File: E:/GJM/Accelerator/10/Accel_EP10_with_CR_audio.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 633
-Active Line: 600
-Video Position: 32123
+Scroll Position: 639
+Active Line: 651
+Video Position: 32427
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -636,7 +636,7 @@ Dialogue: 2,0:22:22.19,0:22:24.90,AccelED,,0,0,0,,{\fad(150,150)\blur0.5\pos(960
 Dialogue: 2,0:22:24.90,0:22:26.52,AccelED,,0,0,0,,{\fad(150,150)\blur0.5\pos(960,1018)\c&HC5B9AC&}S{*\c&HD4CAC1&}h{*\c&HE2DCD6&}a{*\c&HF0EEEA&}c{\c&HFFFFFF&}k{*\c&HECE8E3&}l{*\c&HD8D0C8&}i{\c&HC5B9AC&}n{*\c&HCFC5BA&}g {*\c&HE2DCD6&}m{*\c&HECE8E3&}y {\c&HFFFFFF&}m{*\c&HECE8E3&}i{*\c&HD8D0C8&}n{\c&HC5B9AC&}d
 Dialogue: 2,0:22:27.32,0:22:30.03,AccelED,,0,0,0,,{\fad(150,150)\blur0.5\pos(960,1018)\c&HC5B9AC&}B{*\c&HCBC1B5&}u{*\c&HD2C9BE&}t {*\c&HDFD8D1&}t{*\c&HE5E0DA&}h{*\c&HECE8E3&}e {*\c&HF9F7F6&}s{\c&HFFFFFF&}h{*\c&HF8F6F5&}a{*\c&HF0EEEA&}c{*\c&HE9E5E0&}k{*\c&HE2DCD6&}l{*\c&HDBD3CB&}e{*\c&HD4CAC1&}s {\c&HC5B9AC&}l{*\c&HCBC1B5&}a{*\c&HD2C9BE&}u{*\c&HD8D0C8&}g{*\c&HDFD8D1&}h {*\c&HECE8E3&}a{*\c&HF2EFED&}t {\c&HFFFFFF&}m{*\c&HF9F7F6&}e{*\c&HF2EFED&}, {*\c&HE5E0DA&}I {*\c&HD8D0C8&}f{*\c&HD2C9BE&}i{*\c&HCBC1B5&}n{\c&HC5B9AC&}d
 Dialogue: 2,0:22:30.03,0:22:31.74,AccelED,,0,0,0,,{\fad(150,150)\blur0.5\pos(960,1018)\c&HC5B9AC&}S{*\c&HD4CAC1&}w{*\c&HE2DCD6&}a{*\c&HF0EEEA&}l{\c&HFFFFFF&}l{*\c&HF0EEEA&}o{*\c&HE2DCD6&}w{*\c&HD4CAC1&}i{\c&HC5B9AC&}n{*\c&HD1C7BD&}g {*\c&HE8E3DE&}t{*\c&HF3F1EE&}h{\c&HFFFFFF&}e {*\c&HE8E3DE&}p{*\c&HDCD5CD&}a{*\c&HD1C7BD&}i{\c&HC5B9AC&}n
-Dialogue: 2,0:22:32.45,0:22:35.91,AccelED,,0,0,0,,{\fad(150,150)\blur0.5\pos(960,1018)\c&HC5B9AC&}S{*\c&HCABFB4&}a{*\c&HD0C6BB&}v{*\c&HD5CCC3&}o{*\c&HDAD2CA&}r{*\c&HDFD9D2&}i{*\c&HE5DFD9&}n{*\c&HEAE6E1&}g {*\c&HF4F2F0&}t{*\c&HFAF9F7&}h{\c&HFFFFFF&}e {*\c&HF4F2F0&}r{*\c&HEFECE8&}o{*\c&HEAE6E1&}t{*\c&HE5DFD9&}t{*\c&HDFD9D2&}e{*\c&HDAD2CA&}n {*\c&HD0C6BB&}t{*\c&HCABFB4&}a{\c&HC5B9AC&}s{*\c&HCBC0B4&}t{*\c&HD1C7BD&}e {*\c&HDCD5CD&}b{*\c&HE2DCD6&}e{*\c&HE8E3DE&}c{*\c&HEEEAE6&}a{*\c&HF3F1EE&}u{*\c&HF9F8F7&}s{\c&HFFFFFF&}e {*\c&HF5F3F1&}I {*\c&HECE8E3&}k{*\c&HE7E2DC&}n{*\c&HE2DCD6&}o{*\c&HDDD6CF&}w {*\c&HD4CAC1&}t{*\c&HCFC5BA&}h{*\c&HCABFB3&}a{\c&HC5B9AC&}t
+Dialogue: 2,0:22:32.45,0:22:35.91,AccelED,,0,0,0,,{\fad(150,150)\blur0.5\pos(960,1018)\c&HC5B9AC&}S{*\c&HCABFB4&}a{*\c&HD0C6BB&}v{*\c&HD5CCC3&}o{*\c&HDAD2CA&}r{*\c&HDFD9D2&}i{*\c&HE5DFD9&}n{*\c&HEAE6E1&}g {*\c&HF4F2F0&}t{*\c&HFAF9F7&}h{\c&HFFFFFF&}e {*\c&HF8F7F5&}a{*\c&HF5F3F0&}w{*\c&HF1EFEB&}f{*\c&HEEEAE7&}u{*\c&HEBE6E2&}l {*\c&HE4DED8&}b{*\c&HE0DAD3&}i{*\c&HDDD6CE&}t{*\c&HD9D2C9&}t{*\c&HD6CEC4&}e{*\c&HD3C9C0&}r {*\c&HCCC1B6&}t{*\c&HC8BDB1&}a{\c&HC5B9AC&}s{*\c&HCBC0B4&}t{*\c&HD1C7BD&}e {*\c&HDCD5CD&}b{*\c&HE2DCD6&}e{*\c&HE8E3DE&}c{*\c&HEEEAE6&}a{*\c&HF3F1EE&}u{*\c&HF9F8F7&}s{\c&HFFFFFF&}e {*\c&HF5F3F1&}I {*\c&HECE8E3&}k{*\c&HE7E2DC&}n{*\c&HE2DCD6&}o{*\c&HDDD6CF&}w {*\c&HD4CAC1&}t{*\c&HCFC5BA&}h{*\c&HCABFB3&}a{\c&HC5B9AC&}t
 Dialogue: 2,0:22:35.91,0:22:38.50,AccelED,,0,0,0,,{\fad(150,150)\blur0.5\pos(960,1018)\c&HC5B9AC&}W{*\c&HCDC3B8&}o{*\c&HD6CDC4&}r{*\c&HDED7D0&}s{*\c&HE6E1DB&}e {*\c&HF7F5F3&}f{\c&HFFFFFF&}l{*\c&HF7F5F3&}a{*\c&HEEEBE7&}v{*\c&HE6E1DB&}o{*\c&HDED7D0&}r{*\c&HD6CDC4&}s {\c&HC5B9AC&}l{*\c&HCCC2B6&}i{*\c&HD4CAC1&}e {*\c&HE2DCD6&}i{*\c&HE9E5E0&}n {*\c&HF8F6F5&}m{\c&HFFFFFF&}y {*\c&HEEEBE7&}f{*\c&HE6E1DB&}u{*\c&HDED7D0&}t{*\c&HD6CDC4&}u{*\c&HCDC3B8&}r{\c&HC5B9AC&}e
 Dialogue: 2,0:22:38.50,0:22:40.16,AccelED,,0,0,0,,{\fad(150,150)\blur0.5\pos(960,1018)\c&HC5B9AC&}S{*\c&HD1C7BD&}o{*\c&HDCD5CD&}m{*\c&HE8E3DE&}e{*\c&HF3F1EE&}o{\c&HFFFFFF&}n{*\c&HF3F1EE&}e{*\c&HE8E3DE&}, {*\c&HD1C7BD&}t{\c&HC5B9AC&}a{*\c&HCFC5BA&}k{*\c&HD8D0C8&}e {*\c&HECE8E3&}t{*\c&HF5F3F1&}h{\c&HFFFFFF&}i{*\c&HF3F1EE&}s {*\c&HDCD5CD&}c{*\c&HD1C7BD&}u{\c&HC5B9AC&}p
 Dialogue: 2,0:22:40.16,0:22:42.50,AccelED,,0,0,0,,{\fad(150,150)\blur0.5\pos(960,1018)\c&HC5B9AC&}I{*\c&HCCC2B6&}'{*\c&HD4CAC1&}l{*\c&HDBD3CB&}l {*\c&HE9E5E0&}k{*\c&HF0EEEA&}e{*\c&HF8F6F5&}e{\c&HFFFFFF&}p {*\c&HF0EEEA&}r{*\c&HE9E5E0&}e{*\c&HE2DCD6&}p{*\c&HDBD3CB&}r{*\c&HD4CAC1&}e{*\c&HCCC2B6&}s{\c&HC5B9AC&}s{*\c&HCBC1B5&}i{*\c&HD2C9BE&}n{*\c&HD8D0C8&}g {*\c&HE5E0DA&}m{*\c&HECE8E3&}y {*\c&HF9F7F6&}f{\c&HFFFFFF&}e{*\c&HF5F3F1&}e{*\c&HECE8E3&}l{*\c&HE2DCD6&}i{*\c&HD8D0C8&}n{*\c&HCFC5BA&}g{\c&HC5B9AC&}s
@@ -659,7 +659,7 @@ Dialogue: 1,0:22:22.19,0:22:24.90,AccelED,,0,0,0,,{\fad(150,150)\bord3.25\c&H000
 Dialogue: 1,0:22:24.90,0:22:26.52,AccelED,,0,0,0,,{\fad(150,150)\bord3.25\c&H000000&\3c&H000000&\blur0.5\pos(960,1018)}Shackling my mind
 Dialogue: 1,0:22:27.32,0:22:30.03,AccelED,,0,0,0,,{\fad(150,150)\bord3.25\c&H000000&\3c&H000000&\blur0.5\pos(960,1018)}But the shackles laugh at me, I find
 Dialogue: 1,0:22:30.03,0:22:31.74,AccelED,,0,0,0,,{\fad(150,150)\bord3.25\c&H000000&\3c&H000000&\blur0.5\pos(960,1018)}Swallowing the pain
-Dialogue: 1,0:22:32.45,0:22:35.91,AccelED,,0,0,0,,{\fad(150,150)\bord3.25\c&H000000&\3c&H000000&\blur0.5\pos(960,1018)}Savoring the rotten taste because I know that
+Dialogue: 1,0:22:32.45,0:22:35.91,AccelED,,0,0,0,,{\fad(150,150)\bord3.25\c&H000000&\3c&H000000&\blur0.5\pos(960,1018)}Savoring the awful bitter taste because I know that
 Dialogue: 1,0:22:35.91,0:22:38.50,AccelED,,0,0,0,,{\fad(150,150)\bord3.25\c&H000000&\3c&H000000&\blur0.5\pos(960,1018)}{Taishite}Worse flavors lie in my future
 Dialogue: 1,0:22:38.50,0:22:40.16,AccelED,,0,0,0,,{\fad(150,150)\bord3.25\c&H000000&\3c&H000000&\blur0.5\pos(960,1018)}Someone, take this cup
 Dialogue: 1,0:22:40.16,0:22:42.50,AccelED,,0,0,0,,{\fad(150,150)\bord3.25\c&H000000&\3c&H000000&\blur0.5\pos(960,1018)}I'll keep repressing my feelings
@@ -682,7 +682,7 @@ Dialogue: 0,0:22:22.19,0:22:24.90,AccelED,,0,0,0,,{\fad(150,150)\blur10\c&H00000
 Dialogue: 0,0:22:24.90,0:22:26.52,AccelED,,0,0,0,,{\fad(150,150)\blur10\c&H000000&\pos(960,1018)}Shackling my mind
 Dialogue: 0,0:22:27.32,0:22:30.03,AccelED,,0,0,0,,{\fad(150,150)\blur10\c&H000000&\pos(960,1018)}But the shackles laugh at me, I find
 Dialogue: 0,0:22:30.03,0:22:31.74,AccelED,,0,0,0,,{\fad(150,150)\blur10\c&H000000&\pos(960,1018)}Swallowing the pain
-Dialogue: 0,0:22:32.45,0:22:35.91,AccelED,,0,0,0,,{\fad(150,150)\blur10\c&H000000&\pos(960,1018)}Savoring the rotten taste because I know that
+Dialogue: 0,0:22:32.45,0:22:35.91,AccelED,,0,0,0,,{\fad(150,150)\blur10\c&H000000&\pos(960,1018)}Savoring the awful bitter taste because I know that
 Dialogue: 0,0:22:35.91,0:22:38.50,AccelED,,0,0,0,,{\fad(150,150)\blur10\c&H000000&\pos(960,1018)}{Taishite}Worse flavors lie in my future
 Dialogue: 0,0:22:38.50,0:22:40.16,AccelED,,0,0,0,,{\fad(150,150)\blur10\c&H000000&\pos(960,1018)}Someone, take this cup
 Dialogue: 0,0:22:40.16,0:22:42.50,AccelED,,0,0,0,,{\fad(150,150)\blur10\c&H000000&\pos(960,1018)}I'll keep repressing my feelings
