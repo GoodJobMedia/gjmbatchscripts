@@ -11,15 +11,14 @@ PlayResY: 810
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: bookworm09 (Premux).mkv
-Video File: bookworm09 (Premux).mkv
-Keyframes File: bookworm09 (Premux)_keyframes.log
+Audio File: E:/GJM/Bookworm/09/bookworm09 (Premux).mkv
+Video File: E:/GJM/Bookworm/09/bookworm09 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 276
-Active Line: 282
-Video Position: 25397
+Video Zoom Percent: 0.500000
+Scroll Position: 270
+Active Line: 295
+Video Position: 26204
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -178,7 +177,7 @@ Dialogue: 10,0:10:05.24,0:10:07.60,GJM_Main,,0,0,0,,Myne! You have to give him a
 Dialogue: 10,0:10:07.60,0:10:09.12,GJM_Main,,0,0,0,,Say, "I refuse."
 Dialogue: 10,0:10:09.12,0:10:11.75,GJM_Main,,0,0,0,,I-I refuse.
 Dialogue: 10,0:10:11.97,0:10:17.51,GJM_Main,,0,0,0,,{\q2}I get it. You can't give me a real answer\N with someone like that over your shoulder.
-Dialogue: 10,0:10:21.72,0:10:27.77,GJM_Main,,0,0,0,,{\i1\q2}Once we'd made plans for me to meet the \Nguildmaster's daughter, we returned to the store.
+Dialogue: 10,0:10:21.72,0:10:27.77,GJM_Main,,0,0,0,,{\i1\q2}Once we'd made plans for me to meet the \Nguildmaster's granddaughter, we returned to the store.
 Dialogue: 10,0:10:28.29,0:10:30.02,GJM_Main,,0,0,0,,Welcome back.
 Dialogue: 10,0:10:30.23,0:10:35.42,GJM_Main,,0,0,0,,{\q2}That old geezer jumped at the ornament immediately \Nso we were able to get this much out of him.
 Dialogue: 10,0:10:36.25,0:10:38.11,GJM_Main,,0,0,0,,So, um, what does that mean?
@@ -327,7 +326,7 @@ Dialogue: 10,0:18:03.55,0:18:05.99,GJM_Main,,0,0,0,,{\q2}She seemed even more\N 
 Dialogue: 10,0:18:06.52,0:18:08.45,GJM_Main,,0,0,0,,She reminded me of Myne.
 Dialogue: 10,0:18:08.45,0:18:09.81,GJM_Main,,0,0,0,,What? How so?
 Dialogue: 10,0:18:10.14,0:18:12.90,GJM_Main,,0,0,0,,When she started talking about money,
-Dialogue: 10,0:18:12.90,0:18:16.39,GJM_Main,,0,0,0,,{\q2}she made the same expression\N you do when you talk bout books.
+Dialogue: 10,0:18:12.90,0:18:16.39,GJM_Main,,0,0,0,,{\q2}she made the same expression\N you do when you talk about books.
 Dialogue: 10,0:18:16.89,0:18:20.45,GJM_Main,,0,0,0,,{\q2}Not just that. She looks cute on the outside,\N but deep down she's a weirdo, just like you.
 Dialogue: 10,0:18:20.79,0:18:21.45,GJM_Main,,0,0,0,,What?!
 Dialogue: 10,0:18:25.64,0:18:27.39,GJM_Main,,0,0,0,,{\i1}And so, one month later...
