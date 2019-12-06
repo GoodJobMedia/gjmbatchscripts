@@ -31,9 +31,9 @@ Style: Title,Aver,79,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:01.58,0:00:06.35,GJM_Main,,0,0,0,,{\i1\q2}Myne and Lutz's bond deepens\N as he accepts her for who she really is.
-Dialogue: 10,0:00:07.85,0:00:12.57,GJM_Main,,0,0,0,,{\i1\q2}Their paper was finished, and as a result,\N they were accepted as Benno's apprentices.
-Dialogue: 10,0:00:13.83,0:00:17.59,GJM_Main,,0,0,0,,{\i1}However, another fateful encounter awaits them...
+Dialogue: 10,0:00:01.58,0:00:06.35,GJM_Main,,0,0,0,,{\q2}Myne and Lutz's bond deepens\N as he accepts her for who she really is.
+Dialogue: 10,0:00:07.85,0:00:12.57,GJM_Main,,0,0,0,,{\q2}Their paper was finished, and as a result,\N they were accepted as Benno's apprentices.
+Dialogue: 10,0:00:13.83,0:00:17.59,GJM_Main,,0,0,0,,However, another fateful encounter awaits them...
 Dialogue: 10,0:01:59.52,0:02:01.22,GJM_Main,,0,0,0,,Whoa.
 Dialogue: 10,0:02:01.22,0:02:03.10,GJM_Main,,0,0,0,,I've never seen this much money before.
 Dialogue: 10,0:02:03.36,0:02:04.11,GJM_Main,,0,0,0,,Umm...
