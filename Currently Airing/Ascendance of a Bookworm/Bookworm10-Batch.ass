@@ -17,8 +17,8 @@ Keyframes File: Bookworm_10 (Premux)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 612
-Active Line: 631
+Scroll Position: 320
+Active Line: 327
 Video Position: 5627
 
 [V4+ Styles]
@@ -359,7 +359,7 @@ Dialogue: 10,0:20:13.27,0:20:14.99,GJM_Main,,0,0,0,,Here, your payment.
 Dialogue: 10,0:20:16.04,0:20:18.57,GJM_Main,,0,0,0,,Mr. Benno, do you think this would sell?
 Dialogue: 10,0:20:18.57,0:20:21.37,GJM_Main,,0,0,0,,I made these last year for my winter handiwork.
 Dialogue: 10,0:20:22.15,0:20:25.46,GJM_Main,,0,0,0,,Gosh, those were yours too?
-Dialogue: 10,0:20:25.46,0:20:31.41,GJM_Main,,0,0,0,,{\q2}Every single mystery I've come across in the last \Nhalf-year has lead straight back to you, Myne.
+Dialogue: 10,0:20:25.46,0:20:31.41,GJM_Main,,0,0,0,,{\q2}Every single mystery I've come across in the last \Nhalf-year has led straight back to you, Myne.
 Dialogue: 10,0:20:31.63,0:20:33.47,GJM_Main,,0,0,0,,Uh...
 Dialogue: 10,0:20:33.47,0:20:34.67,GJM_Main,,0,0,0,,Sorry.
 Dialogue: 10,0:20:34.88,0:20:38.38,GJM_Main,,0,0,0,,{\q2}Do you have anything tucked away in that mind\N of yours that'll make more money than baskets?
