@@ -16,9 +16,9 @@ Video File: E:/GJM/Bookworm/04/Bookworm_04 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 397
-Active Line: 413
-Video Position: 2276
+Scroll Position: 183
+Active Line: 191
+Video Position: 18764
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -129,7 +129,7 @@ Dialogue: 10,0:06:54.07,0:06:56.52,GJM_Main,,0,0,0,,She'll be joining our readin
 Dialogue: 10,0:06:57.10,0:06:59.43,GJM_Main,,0,0,0,,Take good care of her, you hear?
 Dialogue: 10,0:06:59.43,0:07:00.20,GJM_Main,,0,0,0,,Yes sir!
 Dialogue: 10,0:07:00.20,0:07:02.23,GJM_Main,,0,0,0,,Okay, let's get started.
-Dialogue: 10,0:07:03.74,0:07:06.62,GJM_Main,,0,0,0,,There's a total 35 of basic letters.
+Dialogue: 10,0:07:03.74,0:07:06.62,GJM_Main,,0,0,0,,There's a total of 35 basic letters.
 Dialogue: 10,0:07:06.62,0:07:08.78,GJM_Main,,0,0,0,,Let's start out with practicing how to write them.
 Dialogue: 10,0:07:21.38,0:07:24.73,GJM_Main,,0,0,0,,You're really picking this up quickly, Myne.
 Dialogue: 10,0:07:24.73,0:07:28.46,GJM_Main,,0,0,0,,{\q2}It's because I prefer this sorta\N thing over physical activity.
@@ -203,7 +203,7 @@ Dialogue: 10,0:11:16.66,0:11:19.65,GJM_Main,,0,0,0,,Let me tell you a bedtime st
 Dialogue: 10,0:11:20.82,0:11:25.83,GJM_Main,,0,0,0,,{\q2}Once upon a time, in a distant land, \Nthere lived a group of star children.
 Dialogue: 10,0:11:26.65,0:11:28.40,GJM_Main,,0,0,0,,And the star children all lived...
 Dialogue: 10,0:11:28.40,0:11:35.46,GJM_Main,,0,0,0,,{\i1}Mom would tell this story \Nright after I became Myne as well.
-Dialogue: 10,0:11:35.46,0:11:39.97,GJM_Main,,0,0,0,,They really loved coming down to the earth.
+Dialogue: 10,0:11:35.46,0:11:39.97,GJM_Main,,0,0,0,,They really loved coming down to the land.
 Dialogue: 10,0:11:39.97,0:11:43.47,GJM_Main,,0,0,0,,You see, all kinds of different \Npeople lived down there.
 Dialogue: 10,0:11:44.76,0:11:48.83,GJM_Main,,0,0,0,,{\i1\q2}I got strong enough to go to \Nthe forest around the end of spring.
 Dialogue: 10,0:11:48.83,0:11:53.02,GJM_Main,,0,0,0,,{\i1\q2}It was around three months\N after I started going to the gate.
@@ -222,7 +222,7 @@ Dialogue: 10,0:12:45.98,0:12:48.08,GJM_Main,,0,0,0,,What are you doing, Myne?!
 Dialogue: 10,0:12:51.47,0:12:54.29,GJM_Main,,0,0,0,,Did you forget the promise you made your Dad?
 Dialogue: 10,0:12:54.67,0:12:57.38,GJM_Main,,0,0,0,,Just go to forest and back for today.
 Dialogue: 10,0:12:57.38,0:13:01.74,GJM_Main,,0,0,0,,{\q2}The goal is for you to walk to the forest, rest,\N and then return together with the others.
-Dialogue: 10,0:13:01.74,0:13:02.67,GJM_Main,,0,0,0,,Got it!
+Dialogue: 10,0:13:01.74,0:13:02.67,GJM_Main,,0,0,0,,Got it?
 Dialogue: 10,0:13:02.94,0:13:09.18,GJM_Main,,0,0,0,,{\q2}Yes, the goal today is to walk to the forest,\N rest, and then return together with the others.
 Dialogue: 10,0:13:09.18,0:13:12.47,GJM_Main,,0,0,0,,I {\i1}do{\i0} remember but, um...
 Dialogue: 10,0:13:12.47,0:13:17.10,GJM_Main,,0,0,0,,{\q2}Considering you brought that shovel,\N it's clear you never meant to keep that promise.
