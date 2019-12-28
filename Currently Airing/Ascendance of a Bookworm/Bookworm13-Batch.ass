@@ -17,8 +17,8 @@ Keyframes File: Bookworm_13 (Premux)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 625
-Active Line: 638
+Scroll Position: 227
+Active Line: 228
 Video Position: 20050
 
 [V4+ Styles]
@@ -260,7 +260,7 @@ Dialogue: 10,0:14:27.42,0:14:31.21,GJM_Main,,0,0,0,,{\q2}Usually it's filled wit
 Dialogue: 10,0:14:31.21,0:14:34.93,GJM_Main,,0,0,0,,{\q2}but if it's lacking, it'll end up causing\N problems with the year's harvest.
 Dialogue: 10,0:14:34.93,0:14:38.60,GJM_Main,,0,0,0,,What? Even the harvest is dependent on magic?!
 Dialogue: 10,0:14:38.84,0:14:39.83,GJM_Main,,0,0,0,,Yeah.
-Dialogue: 10,0:14:39.83,0:14:44.53,GJM_Main,,0,0,0,,{\q2}That's why, with the lack of nobles,\N the temple is need of people with the Devouring like you.
+Dialogue: 10,0:14:39.83,0:14:44.53,GJM_Main,,0,0,0,,{\q2}That's why, with the lack of nobles,\N the temple is in need of people with the Devouring like you.
 Dialogue: 10,0:14:45.43,0:14:46.44,GJM_Main,,0,0,0,,Um...
 Dialogue: 10,0:14:46.73,0:14:50.14,GJM_Main,,0,0,0,,{\q2}Is there some sort of connection\N between magic and the Devouring?
 Dialogue: 10,0:14:50.14,0:14:50.92,GJM_Main,,0,0,0,,Wha—
