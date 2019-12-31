@@ -10,15 +10,13 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria06 (premux).mkv
-Video File: Manaria06 (premux).mkv
-Keyframes File: Manaria06 (premux)_keyframes.log
+Audio File: D:/Anime/Subbing/Manaria Friends/Episode 06/Manaria06 (premux).mkv
+Video File: D:/Anime/Subbing/Manaria Friends/Episode 06/Manaria06 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 16
-Active Line: 24
-Video Position: 3238
+Video Zoom Percent: 1.000000
+Active Line: 10
+Video Position: 1764
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -35,12 +33,12 @@ Dialogue: 10,0:00:17.83,0:00:20.04,GJM_Main,,0,0,0,,We're playing to win.
 Dialogue: 10,0:00:20.04,0:00:21.12,GJM_Main,,0,0,0,,We aren't
 Dialogue: 10,0:00:21.12,0:00:21.91,GJM_Main,,0,0,0,,gonna lose!{louse :LUL:}
 Dialogue: 10,0:00:27.00,0:00:29.09,GJM_Main,,0,0,0,,Then let's get to it!
-Dialogue: 10,0:00:38.14,0:00:40.27,GJM_Main,,0,0,0,,Grea...{butt}
+Dialogue: 10,0:00:38.14,0:00:40.27,GJM_Main,,0,0,0,,Hey, Grea...{butt}
 Dialogue: 10,0:00:40.56,0:00:42.77,GJM_Main,,0,0,0,,Do we really have to do this?
 Dialogue: 10,0:00:43.27,0:00:46.23,GJM_Main,,0,0,0,,Like, really?
 Dialogue: 10,0:01:04.79,0:01:07.38,GJM_Main,,0,0,0,,{\an8}Wow, what a view!
 Dialogue: 10,0:01:09.09,0:01:10.38,GJM_Main,,0,0,0,,It really is beautiful.
-Dialogue: 10,0:01:13.55,0:01:18.05,GJM_Main,,0,0,0,,It's kind of romantic being alone up here.
+Dialogue: 10,0:01:13.55,0:01:18.05,GJM_Main,,0,0,0,,It's kind of romantic being alone with you up here.
 Dialogue: 10,0:01:18.05,0:01:20.64,GJM_Main,,0,0,0,,Wh-What are you talking about?
 Dialogue: 10,0:01:21.14,0:01:25.06,GJM_Main,,0,0,0,,{\q2}Anyway, we've seen this magnificent view,\N so let's head back.
 Dialogue: 10,0:01:25.35,0:01:26.35,GJM_Main,,0,0,0,,Not so fast.
@@ -134,7 +132,7 @@ Dialogue: 10,0:10:32.40,0:10:34.69,GJM_Main,,0,0,0,,Thanks, Grea.{oh my god this
 Dialogue: 10,0:11:41.51,0:11:44.93,GJM_Main,,0,0,0,,You're telling me you hold \Nthese fireworks in your hands?
 Dialogue: 10,0:11:45.55,0:11:47.77,GJM_Main,,0,0,0,,Apparently they're from the East.
 Dialogue: 10,0:11:47.77,0:11:50.77,GJM_Main,,0,0,0,,Ms. Mira ordered them for us.
-Dialogue: 10,0:11:51.19,0:11:53.52,GJM_Main,,0,0,0,,Are these really safe{ to use}?
+Dialogue: 10,0:11:51.19,0:11:53.52,GJM_Main,,0,0,0,,Are these really safe?
 Dialogue: 10,0:11:53.52,0:11:55.48,GJM_Main,,0,0,0,,I'm sure they're fine.
 Dialogue: 10,0:11:55.81,0:12:00.19,GJM_Main,,0,0,0,,You always say that before\N you do something dangerous.
 Dialogue: 10,0:12:01.65,0:12:04.24,GJM_Main,,0,0,0,,We're shooting off fireworks\N even though we can see the stars?{what}

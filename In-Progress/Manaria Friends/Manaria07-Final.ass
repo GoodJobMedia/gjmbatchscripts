@@ -10,15 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria07 (premux).mkv
-Video File: Manaria07 (premux).mkv
-Keyframes File: Manaria07 (premux)_keyframes.log
+Audio File: D:/Anime/Subbing/Manaria Friends/Episode 07/Manaria07p (premux).mkv
+Video File: D:/Anime/Subbing/Manaria Friends/Episode 07/Manaria07p (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 113
-Active Line: 123
-Video Position: 19625
+Video Zoom Percent: 1.000000
+Scroll Position: 69
+Active Line: 74
+Video Position: 10578
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -82,8 +81,8 @@ Dialogue: 10,0:04:34.67,0:04:36.14,GJM_Main,,0,0,0,,Ninety-eight, ninety-nine, o
 Dialogue: 10,0:04:36.63,0:04:37.96,GJM_Main,,0,0,0,,Ready or not, here I come!
 Dialogue: 10,0:04:45.55,0:04:48.18,GJM_Main,,0,0,0,,Here I come!
 Dialogue: 10,0:04:52.31,0:04:56.60,GJM_Main,,0,0,0,,Why that Grea, gleefully skipping off to hide.
-Dialogue: 10,0:04:56.60,0:04:59.60,GJM_Main,,0,0,0,,After going "you're it then, Anne" all cool-like!
-Dialogue: 10,0:04:59.60,0:05:02.69,GJM_Main,,0,0,0,,I'll find you in no time!
+Dialogue: 10,0:04:56.60,0:05:00.43,GJM_Main,,0,0,0,,After going "you're it then, Anne" all cool-like!
+Dialogue: 10,0:05:00.43,0:05:02.69,GJM_Main,,0,0,0,,I'll find you in no time!
 Dialogue: 10,0:05:04.15,0:05:09.12,GJM_Main,,0,0,0,,Grea would probably hide in a dimly-lit place.
 Dialogue: 10,0:05:09.83,0:05:11.12,GJM_Main,,0,0,0,,A place like here!
 Dialogue: 10,0:05:12.45,0:05:13.33,GJM_Main,,0,0,0,,Or not.
@@ -104,7 +103,7 @@ Dialogue: 10,0:06:15.02,0:06:18.02,GJM_Main,,0,0,0,,I can't wait to have my way 
 Dialogue: 10,0:06:54.68,0:06:55.77,GJM_Main,,0,0,0,,Grea?
 Dialogue: 10,0:07:13.41,0:07:14.83,GJM_Main,,0,0,0,,Grea?
 Dialogue: 10,0:07:15.62,0:07:17.20,GJM_Main,,0,0,0,,Where are you?
-Dialogue: 10,0:07:18.29,0:07:21.29,GJM_Main,,0,0,0,,Come on, Grea?
+Dialogue: 10,0:07:18.29,0:07:21.29,GJM_Main,,0,0,0,,Come on! Grea?
 Dialogue: 10,0:07:22.17,0:07:24.54,GJM_Main,,0,0,0,,Grea?
 Dialogue: 10,0:07:25.25,0:07:27.00,GJM_Main,,0,0,0,,Grea!
 Dialogue: 10,0:07:28.21,0:07:30.42,GJM_Main,,0,0,0,,Can you hear me, Grea?
@@ -146,7 +145,7 @@ Dialogue: 10,0:12:35.52,0:12:38.52,GJM_Main,,0,0,0,,{\i1}Maybe I'm just overthin
 Dialogue: 10,0:12:39.11,0:12:41.28,GJM_Main,,0,0,0,,I think I'll have some too.
 Dialogue: 10,0:12:49.29,0:12:53.41,GJM_Main,,0,0,0,,Have you finished the book \Nyou borrowed from the library?
 Dialogue: 10,0:12:55.25,0:12:57.54,GJM_Main,,0,0,0,,Not yet.
-Dialogue: 10,0:12:58.29,0:13:01.96,GJM_Main,,0,0,0,,What {else }did you borrow again?
+Dialogue: 10,0:12:58.29,0:13:01.96,GJM_Main,,0,0,0,,What did you borrow again?
 Dialogue: 10,0:13:03.09,0:13:04.84,GJM_Main,,0,0,0,,Let's see...
 Dialogue: 10,0:13:04.84,0:13:09.97,GJM_Main,,0,0,0,,A book that will help me\N get to know you a lot better, Grea.
 Dialogue: 10,0:13:13.27,0:13:14.64,GJM_Main,,0,0,0,,What's wrong?

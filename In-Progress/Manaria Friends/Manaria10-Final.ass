@@ -10,15 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria10 (premux).mkv
-Video File: Manaria10 (premux).mkv
-Keyframes File: Manaria10 (premux)_keyframes.log
+Audio File: D:/Anime/Subbing/Manaria Friends/Episode 10/Manaria10 (premux).mkv
+Video File: D:/Anime/Subbing/Manaria Friends/Episode 10/Manaria10 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.725000
-Scroll Position: 116
-Active Line: 123
-Video Position: 14017
+Video Zoom Percent: 1.000000
+Scroll Position: 117
+Active Line: 133
+Video Position: 15127
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -165,7 +164,7 @@ Dialogue: 10,0:10:16.05,0:10:17.93,GJM_Main,,0,0,0,,Really? That's good to hear.
 Dialogue: 10,0:10:17.93,0:10:21.60,GJM_Main,,0,0,0,,Also, your application has been approved.
 Dialogue: 10,0:10:23.60,0:10:24.60,GJM_Main,,0,0,0,,Thanks.
 Dialogue: 10,0:10:25.14,0:10:30.35,GJM_Main,,0,0,0,,{\q2}When the princess returns to the academy,\N please come to the student council office together.
-Dialogue: 10,0:10:30.90,0:10:33.93,GJM_Main,,0,0,0,,{\q2}We'll give you a rundown on the\N important aspects of room-sharing.{cohabitational living *eyebrows* - Sei}{Who'd have thought wikipedia could make me blush.}{does this need to be hyphenated}
+Dialogue: 10,0:10:30.90,0:10:33.93,GJM_Main,,0,0,0,,{\q2}We'll give you a rundown on the\N important aspects of roomsharing.{cohabitational living *eyebrows* - Sei}{Who'd have thought wikipedia could make me blush.}{does this need to be hyphenated}
 Dialogue: 10,0:10:34.36,0:10:35.23,GJM_Main,,0,0,0,,All right.
 Dialogue: 10,0:10:35.23,0:10:38.61,GJM_Main,,0,0,0,,Well then, have a nice day, Grea.
 Dialogue: 10,0:10:38.61,0:10:39.78,GJM_Main,,0,0,0,,Excuse us.

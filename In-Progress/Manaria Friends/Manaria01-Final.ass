@@ -10,14 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria01-redo (premux).mkv
-Video File: Manaria01-redo (premux).mkv
-Keyframes File: Manaria01-redo (premux)_keyframes.log
+Audio File: D:/Anime/Subbing/Manaria Friends/Episode 01/Manaria01 (premux).mkv
+Video File: D:/Anime/Subbing/Manaria Friends/Episode 01/Manaria01 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 6
-Video Position: 2464
+Video Zoom Percent: 0.875000
+Scroll Position: 69
+Active Line: 80
+Video Position: 9967
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -86,9 +86,9 @@ Dialogue: 10,0:04:37.50,0:04:40.13,GJM_Main,,0,0,0,,Thank you so much, Anne.
 Dialogue: 10,0:04:40.42,0:04:43.05,GJM_Main,,0,0,0,,There's trouble in the library! Come quick!
 Dialogue: 10,0:04:43.05,0:04:44.30,GJM_Main,,0,0,0,,Huh? Wai—
 Dialogue: 10,0:04:46.39,0:04:47.80,GJM_Main,,0,0,0,,Sorry, Grea!
-Dialogue: 10,0:04:47.80,0:04:50.81,GJM_Main,,0,0,0,,{\fad(0,2000)\t(1040,2990,1,\fscx70\fscy70)}I'll just be a minute!
+Dialogue: 10,0:04:47.80,0:04:50.81,GJM_Main,,0,0,0,,{\fad(0,2000)}I'll just be a minute!
 Dialogue: 10,0:04:51.72,0:04:53.31,GJM_Main,,0,0,0,,O-Okay.
-Dialogue: 10,0:05:10.37,0:05:11.95,GJM_Main,,0,0,0,,What happened to him?
+Dialogue: 10,0:05:10.37,0:05:11.95,GJM_Main,,0,0,0,,What happened to it?
 Dialogue: 10,0:05:11.95,0:05:14.62,GJM_Main,,0,0,0,,I'm sorry! I'm sorry!
 Dialogue: 10,0:05:15.87,0:05:17.50,GJM_Main,,0,0,0,,You okay, Hanna?
 Dialogue: 10,0:05:18.00,0:05:19.25,GJM_Main,,0,0,0,,Princess?
@@ -99,7 +99,7 @@ Dialogue: 10,0:05:32.97,0:05:34.27,GJM_Overlap,,0,0,0,,{\an8}We're saved!
 Dialogue: 10,0:05:35.98,0:05:38.19,GJM_Main,,0,0,0,,Is it fine if I seal it?
 Dialogue: 10,0:05:38.19,0:05:39.73,GJM_Main,,0,0,0,,Y-Yeah.
 Dialogue: 10,0:05:40.44,0:05:41.52,GJM_Main,,0,0,0,,Okay.
-Dialogue: 10,0:06:03.42,0:06:04.55,GJM_Main,,0,0,0,,Ice Bind!{does anyone know german}
+Dialogue: 10,0:06:03.42,0:06:04.55,GJM_Main,,0,0,0,,Ice Bind!
 Dialogue: 10,0:06:15.85,0:06:17.10,GJM_Main,,0,0,0,,Sorry.
 Dialogue: 10,0:06:18.69,0:06:19.85,GJM_Main,,0,0,0,,Don't be.
 Dialogue: 10,0:06:27.15,0:06:28.03,GJM_Main,,0,0,0,,Achoo!
@@ -109,7 +109,7 @@ Dialogue: 10,0:06:37.12,0:06:38.46,GJM_Main,,0,0,0,,But Hanna, you—
 Dialogue: 10,0:06:41.79,0:06:44.92,GJM_Main,,0,0,0,,I wasn't even strong enough to help you.
 Dialogue: 10,0:06:46.01,0:06:47.92,GJM_Main,,0,0,0,,I'm a failure of a president.
 Dialogue: 10,0:06:53.60,0:06:54.97,GJM_Main,,0,0,0,,I'm so weak.
-Dialogue: 10,0:06:55.68,0:06:57.27,GJM_Main,,0,0,0,,I'm a disappointment.
+Dialogue: 10,0:06:55.68,0:06:57.27,GJM_Main,,0,0,0,,I'm such a disappointment.
 Dialogue: 10,0:06:57.77,0:06:59.02,GJM_Main,,0,0,0,,I'm not cut out for this.
 Dialogue: 10,0:07:01.52,0:07:02.52,GJM_Main,,0,0,0,,Thank you.
 Dialogue: 10,0:07:07.78,0:07:12.03,GJM_Main,,0,0,0,,Um, I can help out if there's anything else you need.
@@ -123,10 +123,10 @@ Dialogue: 10,0:09:10.86,0:09:12.28,GJM_Main,,0,0,0,,Are you all done now?
 Dialogue: 10,0:09:12.28,0:09:13.53,GJM_Main,,0,0,0,,Y-Yeah.
 Dialogue: 10,0:09:13.53,0:09:16.16,GJM_Main,,0,0,0,,It got encased in ice when I sealed it.
 Dialogue: 10,0:09:17.16,0:09:19.41,GJM_Main,,0,0,0,,I mean, the Master of the Library was really mad.
-Dialogue: 10,0:09:19.41,0:09:21.91,GJM_Main,,0,0,0,,It was going berserk.{remove this and merge with above?}
+Dialogue: 10,0:09:19.41,0:09:21.91,GJM_Main,,0,0,0,,It was going berserk.
 Dialogue: 10,0:09:21.91,0:09:23.25,GJM_Main,,0,0,0,,And, well...
 Dialogue: 10,0:09:24.96,0:09:28.42,GJM_Main,,0,0,0,,I was helping everyone clean up after me...
-Dialogue: 10,0:09:32.96,0:09:35.93,GJM_Main,,0,0,0,,But I then left first...{I think here she's more upset about being told there's nothing else for her to do}
+Dialogue: 10,0:09:32.96,0:09:35.93,GJM_Main,,0,0,0,,But I still left first...
 Dialogue: 10,0:09:44.85,0:09:45.68,GJM_Main,,0,0,0,,You did well.
 Dialogue: 10,0:09:53.82,0:09:57.61,GJM_Main,,0,0,0,,Were you waiting for me this whole time?
 Dialogue: 10,0:10:01.20,0:10:01.83,GJM_Main,,0,0,0,,Yeah.

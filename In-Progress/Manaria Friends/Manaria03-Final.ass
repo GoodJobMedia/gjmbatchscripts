@@ -10,14 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: E:/GJM/Manaria/03/Manaria03 (premux).mkv
-Video File: E:/GJM/Manaria/03/Manaria03 (premux).mkv
+Audio File: D:/Anime/Subbing/Manaria Friends/Episode 03/Manaria03 (premux).mkv
+Video File: D:/Anime/Subbing/Manaria Friends/Episode 03/Manaria03 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 15
-Active Line: 25
-Video Position: 2482
+Video Zoom Percent: 1.000000
+Scroll Position: 128
+Active Line: 143
+Video Position: 17284
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -33,10 +33,10 @@ Dialogue: 10,0:00:20.12,0:00:21.16,GJM_Main,,0,0,0,,Anne?
 Dialogue: 10,0:00:22.21,0:00:23.12,GJM_Main,,0,0,0,,What's up?
 Dialogue: 10,0:00:23.12,0:00:25.25,GJM_Main,,0,0,0,,Oh, you cut your hair!
 Dialogue: 10,0:00:25.25,0:00:27.06,GJM_Main,,0,0,0,,Huh? Yeah...
-Dialogue: 10,0:00:28.59,0:00:31.38,GJM_Main,,0,0,0,,Hey, Grea, let's go into town. We'll go shopping!{Let's go shopping in town?}
+Dialogue: 10,0:00:28.59,0:00:31.38,GJM_Main,,0,0,0,,Hey, Grea, let's go shopping in town!
 Dialogue: 10,0:00:32.01,0:00:32.72,GJM_Main,,0,0,0,,Sound good?
 Dialogue: 10,0:00:33.17,0:00:34.76,GJM_Main,,0,0,0,,But I don't have any clothes that—
-Dialogue: 10,0:00:34.76,0:00:37.51,GJM_Main,,0,0,0,,Your sizes changed after you molted, right?{really think we should include the chest bit here}
+Dialogue: 10,0:00:34.76,0:00:37.51,GJM_Main,,0,0,0,,Your bust size and stuff changed since you molted, right?
 Dialogue: 10,0:00:37.85,0:00:38.93,GJM_Main,,0,0,0,,Here, try this on!
 Dialogue: 10,0:00:48.40,0:00:49.27,GJM_Main,,0,0,0,,Okay.
 Dialogue: 10,0:01:06.46,0:01:08.92,GJM_Main,,0,0,0,,This is a disguise, isn't it?
@@ -160,19 +160,19 @@ Dialogue: 10,0:09:49.81,0:09:50.06,GJM_Main,,0,0,0,,What?!
 Dialogue: 10,0:09:57.57,0:10:00.37,GJM_Main,,0,0,0,,Why won't she let me stay over?
 Dialogue: 10,0:10:01.49,0:10:03.99,GJM_Main,,0,0,0,,I wonder why...
 Dialogue: 10,0:10:06.41,0:10:10.29,GJM_Main,,0,0,0,,Why, Grea?!
-Dialogue: 10,0:10:20.09,0:10:21.68,GJM_Main,,0,0,0,,I've always slept like this{ since I was little}.
+Dialogue: 10,0:10:20.09,0:10:21.68,GJM_Main,,0,0,0,,I've always slept like this.
 Dialogue: 10,0:10:23.35,0:10:28.19,GJM_Main,,0,0,0,,I've been doing it for so long\N that I just can't break the habit.
 Dialogue: 10,0:10:31.15,0:10:37.61,GJM_Main,,0,0,0,,But sleeping like this is so embarrassing.\N I can't let Anne see me like this.
 Dialogue: 10,0:11:37.92,0:11:39.84,GJM_Main,,0,0,0,,See you, Ms. Mira.
 Dialogue: 10,0:11:39.84,0:11:42.09,GJM_Main,,0,0,0,,Yeah, good work today.
 Dialogue: 10,0:11:42.09,0:11:43.97,GJM_Main,,0,0,0,,Take care on your way home.
 Dialogue: 10,0:11:45.80,0:11:49.18,GJM_Main,,0,0,0,,You're not leaving yet, Ms. Mira?
-Dialogue: 10,0:11:49.18,0:11:52.31,GJM_Main,,0,0,0,,No, it's almost exam period, after all.
+Dialogue: 10,0:11:49.18,0:11:52.31,GJM_Main,,0,0,0,,No, it's almost exam period after all.
 Dialogue: 10,0:11:52.31,0:11:54.31,GJM_Main,,0,0,0,,And I have my classes to prepare for.
 Dialogue: 10,0:11:54.31,0:11:56.48,GJM_Main,,0,0,0,,Oh, that must be rough.
 Dialogue: 10,0:11:56.48,0:11:58.44,GJM_Main,,0,0,0,,Can we help with anything?
 Dialogue: 10,0:11:58.44,0:12:00.86,GJM_Main,,0,0,0,,Don't worry about me.
-Dialogue: 10,0:12:00.86,0:12:03.11,GJM_Main,,0,0,0,,Thanks though, I'll see you two tomorrow.
+Dialogue: 10,0:12:00.86,0:12:03.11,GJM_Main,,0,0,0,,Thank you anyway. I'll see you two tomorrow.
 Dialogue: 10,0:12:03.11,0:12:05.24,GJM_Main,,0,0,0,,All right, bye!
 Dialogue: 10,0:12:05.24,0:12:06.33,GJM_Main,,0,0,0,,Excuse us.
 Dialogue: 10,0:12:20.34,0:12:21.92,GJM_Main,,0,0,0,,Now, then...

@@ -10,15 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria02 (premux).mkv
-Video File: Manaria02 (premux).mkv
-Keyframes File: Manaria02 (premux)_keyframes.log
+Audio File: D:/Anime/Subbing/Manaria Friends/Episode 02/Manaria02 (premux).mkv
+Video File: D:/Anime/Subbing/Manaria Friends/Episode 02/Manaria02 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.875000
-Scroll Position: 93
-Active Line: 97
-Video Position: 17861
+Video Zoom Percent: 1.000000
+Scroll Position: 69
+Active Line: 81
+Video Position: 13694
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -31,8 +30,8 @@ Style: Ep Title,Alegreya,30,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:22.50,0:00:24.92,GJM_Main,,0,0,0,,Hang in there, Grea.
-Dialogue: 10,0:00:24.92,0:00:27.54,GJM_Main,,0,0,0,,All {of }the{se} tests are producing abnormal readings.
-Dialogue: 10,0:00:28.29,0:00:30.67,GJM_Main,,0,0,0,,These won't tell us what the problem is.{We won't be able to figure out what the problem is with this.}
+Dialogue: 10,0:00:24.92,0:00:27.54,GJM_Main,,0,0,0,,All of my tests are producing abnormal readings.
+Dialogue: 10,0:00:28.29,0:00:30.67,GJM_Main,,0,0,0,,They won't tell us what the problem is.
 Dialogue: 10,0:00:31.26,0:00:33.84,GJM_Main,,0,0,0,,Do we have any other ways to diagnose her?
 Dialogue: 10,0:00:34.09,0:00:37.43,GJM_Main,,0,0,0,,I've never seen any medical\N treatment records for dragons.
 Dialogue: 10,0:00:41.85,0:00:44.35,GJM_Main,,0,0,0,,Hold her tail down, Hanna!
@@ -52,7 +51,7 @@ Dialogue: 10,0:01:55.97,0:01:57.72,GJM_Main,,0,0,0,,Oh, this might be useful.
 Dialogue: 10,0:01:57.72,0:02:01.93,GJM_Main,,0,0,0,,I brought shum booksh that looked usheful!
 Dialogue: 10,0:02:02.47,0:02:05.10,GJM_Main,,0,0,0,,A medical journal for goblins?
 Dialogue: 10,0:02:05.52,0:02:09.02,GJM_Main,,0,0,0,,And this one is a book\N about the biology of reptilians.
-Dialogue: 10,0:02:11.06,0:02:14.32,GJM_Main,,0,0,0,,Where did you find this book, Lou dear?
+Dialogue: 10,0:02:11.06,0:02:14.32,GJM_Main,,0,0,0,,Where did you find this book, dear?
 Dialogue: 10,0:02:15.19,0:02:19.61,GJM_Main,,0,0,0,,This is a forbidden text \Nthat students aren't allowed to read!
 Dialogue: 10,0:02:19.61,0:02:26.50,GJM_Main,,0,0,0,,When I said Grea was in trouble,\N the person at the counter let me borrow it!
 Dialogue: 10,0:02:20.24,0:02:21.20,GJM_Overlap,,0,0,0,,{\an8}Forbidden text?
@@ -106,12 +105,12 @@ Dialogue: 10,0:08:45.17,0:08:47.59,GJM_Overlap,,0,0,0,,Wait, where are we?
 Dialogue: 10,0:08:49.50,0:08:50.59,GJM_Main,,0,0,0,,Geez!
 Dialogue: 10,0:08:50.71,0:08:53.67,GJM_Main,,0,0,0,,A-Anne? Could you let me get dressed?
 Dialogue: 10,0:09:11.44,0:09:12.49,GJM_Main,,0,0,0,,You were molting?
-Dialogue: 10,0:09:13.03,0:09:16.86,GJM_Main,,0,0,0,,Yes, it sometimes happens when I grow bigger.
+Dialogue: 10,0:09:13.03,0:09:16.86,GJM_Main,,0,0,0,,Yes, it sometimes happens when I grow.
 Dialogue: 10,0:09:16.86,0:09:19.12,GJM_Main,,0,0,0,,Your hair {\i1}did{\i0} get longer.
-Dialogue: 10,0:09:31.13,0:09:34.88,GJM_Main,,0,0,0,,Oh? Did your chest get bigger too?
+Dialogue: 10,0:09:31.13,0:09:34.88,GJM_Main,,0,0,0,,Oh? Did your chest grow too?
 Dialogue: 10,0:09:34.88,0:09:37.59,GJM_Main,,0,0,0,,No! Maybe...
 Dialogue: 10,0:09:40.43,0:09:43.27,GJM_Main,,0,0,0,,You would've been fine \Nif we'd just left you alone, huh.
-Dialogue: 10,0:09:43.77,0:09:47.77,GJM_Main,,0,0,0,,Sorry you had to do so much for me.
+Dialogue: 10,0:09:43.77,0:09:47.77,GJM_Main,,0,0,0,,Sorry you went through so much trouble for me.
 Dialogue: 10,0:09:47.94,0:09:49.36,GJM_Main,,0,0,0,,Don't worry about it.
 Dialogue: 10,0:09:49.81,0:09:52.61,GJM_Main,,0,0,0,,I didn't really end up doing anything anyway.
 Dialogue: 10,0:09:54.90,0:09:59.53,GJM_Main,,0,0,0,,If I'd known you were just molting, I would've just hung around while you were all hot and bothered.

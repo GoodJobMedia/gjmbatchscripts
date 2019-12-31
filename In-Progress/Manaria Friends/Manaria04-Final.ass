@@ -10,15 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria04 (premux).mkv
-Video File: Manaria04 (premux).mkv
-Keyframes File: Manaria04 (premux)_keyframes.log
+Audio File: D:/Anime/Subbing/Manaria Friends/Episode 04/Manaria04 (premux).mkv
+Video File: D:/Anime/Subbing/Manaria Friends/Episode 04/Manaria04 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 34
-Active Line: 53
-Video Position: 19533
+Scroll Position: 21
+Active Line: 33
+Video Position: 4678
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -34,17 +33,17 @@ Dialogue: 10,0:00:50.94,0:00:53.53,GJM_Main,,0,0,0,,You really do play beautiful
 Dialogue: 10,0:00:54.53,0:00:56.45,GJM_Main,,0,0,0,,It's nothing special.
 Dialogue: 10,0:00:57.03,0:00:59.58,GJM_Main,,0,0,0,,I'd love to practice more.
 Dialogue: 10,0:00:59.58,0:01:01.49,GJM_Main,,0,0,0,,Why don't we come again tomorrow, then?
-Dialogue: 10,0:01:02.00,0:01:04.58,GJM_Main,,0,0,0,,We have exams coming up.
+Dialogue: 10,0:01:02.00,0:01:04.58,GJM_Main,,0,0,0,,We have exams coming up, though.
 Dialogue: 10,0:01:06.50,0:01:11.00,GJM_Main,,0,0,0,,I want to focus on my studies,\Nso I probably won't be coming for a while.
 Dialogue: 10,0:01:13.88,0:01:14.63,GJM_Main,,0,0,0,,Okay...
-Dialogue: 10,0:01:26.19,0:01:32.19,GJM_Main,,0,0,0,,{\q2}Since exam period is coming up,\N I'll be staying back later to answer any questions!
+Dialogue: 10,0:01:26.19,0:01:32.19,GJM_Main,,0,0,0,,{\q2\an8}Since exam period is coming up,\N I'll be staying back later to answer any questions!
 Dialogue: 10,0:01:32.19,0:01:34.11,GJM_Main,,0,0,0,,Can you help me with this part, Miss?
 Dialogue: 10,0:01:34.11,0:01:35.82,GJM_Main,,0,0,0,,Can you teach me too, please?
 Dialogue: 10,0:01:34.82,0:01:37.36,GJM_Overlap,,0,0,0,,{\an8}You'll find that right here in your textbook...
 Dialogue: 10,0:01:37.36,0:01:41.45,GJM_Overlap,,0,0,0,,{\an8}Oh, that's strange.\N I could've sworn it was here somewhere...
 Dialogue: 10,0:01:41.45,0:01:42.45,GJM_Overlap,,0,0,0,,{\an8}Uh...
 Dialogue: 10,0:01:43.87,0:01:45.08,GJM_Main,,0,0,0,,Where are you headed?
-Dialogue: 10,0:01:45.08,0:01:47.96,GJM_Main,,0,0,0,,Everyone looks pretty busy with exam preparation,{preparing for exams, exam prep, getting ready for exams}
+Dialogue: 10,0:01:45.08,0:01:47.96,GJM_Main,,0,0,0,,Everyone looks pretty busy with preparing for exams,
 Dialogue: 10,0:01:48.63,0:01:51.46,GJM_Main,,0,0,0,,so I was thinking I might borrowing\N the next volume of this series.
 Dialogue: 10,0:02:02.81,0:02:03.68,GJM_Main,,0,0,0,,Hanna?
 Dialogue: 10,0:02:08.10,0:02:16.11,GJM_Main,,0,0,0,,{\q2}...and that's how the ancient trees native to\N Manaria can be used to make any kind of elixir,
@@ -63,7 +62,7 @@ Dialogue: 10,0:03:09.41,0:03:10.58,GJM_Main,,0,0,0,,Anne?
 Dialogue: 10,0:03:10.58,0:03:12.00,GJM_Main,,0,0,0,,Do you need a hand?
 Dialogue: 10,0:03:12.00,0:03:13.88,GJM_Main,,0,0,0,,Don't worry, I'm fine.
 Dialogue: 10,0:03:13.88,0:03:14.79,GJM_Main,,0,0,0,,You sure?
-Dialogue: 10,0:03:15.09,0:03:17.88,GJM_Main,,0,0,0,,I'm sure you have enough on your plate already.{idk about this double "sure"}
+Dialogue: 10,0:03:15.09,0:03:17.88,GJM_Main,,0,0,0,,You must have enough on your plate already.
 Dialogue: 10,0:03:17.88,0:03:19.51,GJM_Main,,0,0,0,,See you later, Anne.
 Dialogue: 10,0:03:20.34,0:03:21.09,GJM_Main,,0,0,0,,Oh...
 Dialogue: 10,0:03:21.68,0:03:22.68,GJM_Main,,0,0,0,,Sure...
