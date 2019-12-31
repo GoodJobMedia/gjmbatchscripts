@@ -41,7 +41,7 @@ Dialogue: 10,0:00:16.78,0:00:21.82,GJM_Main,,0,0,0,,{\q2}Myne spoke to the high 
 Dialogue: 10,0:02:03.27,0:02:05.27,GJM_Main,,0,0,0,,What did you do this time, Myne?
 Dialogue: 10,0:02:05.67,0:02:07.30,GJM_Main,,0,0,0,,Well... uh...
 Dialogue: 10,0:02:07.30,0:02:10.57,GJM_Main,,0,0,0,,I was looking for somewhere\N I could get water... and got lost.
-Dialogue: 10,0:02:10.57,0:02:11.52,GJM_Main,,0,0,0,,Then I fainted.
+Dialogue: 10,0:02:10.57,0:02:11.52,GJM_Main,,0,0,0,,Then I collapsed.
 Dialogue: 10,0:02:12.35,0:02:14.03,GJM_Main,,0,0,0,,That's not the whole story, is it?
 Dialogue: 10,0:02:15.00,0:02:16.99,GJM_Main,,0,0,0,,I found a library
 Dialogue: 10,0:02:16.99,0:02:18.53,GJM_Main,,0,0,0,,and got a little excited.
@@ -52,7 +52,7 @@ Dialogue: 10,0:02:29.97,0:02:31.48,GJM_Main,,0,0,0,,Yeah, I've heard enough.
 Dialogue: 10,0:02:31.48,0:02:33.04,GJM_Main,,0,0,0,,I understand everything now.
 Dialogue: 10,0:02:33.04,0:02:35.12,GJM_Main,,0,0,0,,{\q2}There's something important \Nyou've left out, isn't there?
 Dialogue: 10,0:02:35.12,0:02:35.67,GJM_Main,,0,0,0,,Huh?
-Dialogue: 10,0:02:35.95,0:02:40.18,GJM_Main,,0,0,0,,This young lady fainted after asking the high bishop
+Dialogue: 10,0:02:35.95,0:02:40.18,GJM_Main,,0,0,0,,This young lady collapsed after asking the high bishop
 Dialogue: 10,0:02:40.18,0:02:42.85,GJM_Main,,0,0,0,,{\q2}about becoming an apprentice\N shrine maiden so she could read books.
 Dialogue: 10,0:02:42.85,0:02:43.43,GJM_Main,,0,0,0,,Well—
 Dialogue: 10,0:02:43.72,0:02:45.18,GJM_Main,,0,0,0,,The hell are you doing, you moron?!
@@ -185,7 +185,7 @@ Dialogue: 10,0:09:49.86,0:09:54.69,GJM_Main,,0,0,0,,{\q2}because there is nobody
 Dialogue: 10,0:09:56.57,0:09:58.63,GJM_Main,,0,0,0,,You don't have to be an orphan\N to become an apprentice.
 Dialogue: 10,0:09:59.21,0:10:00.95,GJM_Main,,0,0,0,,I want you to understand that.
 Dialogue: 10,0:10:01.86,0:10:09.08,GJM_Main,,0,0,0,,{\q2}Even so, my body's weak, so I wouldn't be able\N to live at the temple or do much manual work.
-Dialogue: 10,0:10:09.36,0:10:15.34,GJM_Main,,0,0,0,,{\q2}So you didn't faint last time because you were sick,\N but because you have a weak constitution?
+Dialogue: 10,0:10:09.36,0:10:15.34,GJM_Main,,0,0,0,,{\q2}So you didn't collapse last time because you were sick,\N but because you have a weak constitution?
 Dialogue: 10,0:10:15.60,0:10:16.49,GJM_Main,,0,0,0,,Yes.
 Dialogue: 10,0:10:17.23,0:10:18.88,GJM_Main,,0,0,0,,I have a sickness called the Devouring.
 Dialogue: 10,0:10:19.56,0:10:20.89,GJM_Main,,0,0,0,,Did you say the Devouring?
@@ -216,7 +216,7 @@ Dialogue: 10,0:11:53.76,0:11:55.77,GJM_Main,,0,0,0,,N-No, wait!
 Dialogue: 10,0:11:58.44,0:12:00.49,GJM_Main,,0,0,0,,It's been a while, Myne.
 Dialogue: 10,0:12:00.79,0:12:02.36,GJM_Main,,0,0,0,,Th-That it has...
 Dialogue: 10,0:12:02.36,0:12:05.34,GJM_Main,,0,0,0,,Now, time to spill the beans.
-Dialogue: 10,0:12:05.34,0:12:08.24,GJM_Main,,0,0,0,,{\q2}Tell me everything that happened \Nafter you fainted during the baptism.
+Dialogue: 10,0:12:05.34,0:12:08.24,GJM_Main,,0,0,0,,{\q2}Tell me everything that happened \Nafter you collapsed during the baptism.
 Dialogue: 10,0:12:08.84,0:12:13.66,GJM_Main,,0,0,0,,{\q2}Once I understand what sort of mess you've gotten \Nyourself into, we can come up with a battle plan.
 Dialogue: 10,0:12:17.21,0:12:21.55,GJM_Main,,0,0,0,,{\q2}I figured I'd just become an apprentice\N shrine maiden so I could get into the library,
 Dialogue: 10,0:12:21.55,0:12:24.01,GJM_Main,,0,0,0,,{\q2}and went to ask the high bishop\N about it immediately.
