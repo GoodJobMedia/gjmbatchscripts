@@ -640,8 +640,8 @@ Dialogue: 1,0:23:06.65,0:23:07.99,BookwormED,,0,0,0,,{\fad(180,120)\bord1\3c&H46
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,TS
 Dialogue: 1,0:01:58.01,0:02:03.01,Title,,0,0,0,,{\an5\pos(720,223.461)\fs67.5\c&H201E9B&\blur0.8}Chapter 13
 Dialogue: 0,0:01:58.01,0:02:03.01,Title,,0,0,0,,{\an5\pos(721.182,223.643)\fs67.5\c&H010006&\blur1.35}Chapter 13
-Dialogue: 1,0:01:58.01,0:02:03.01,Title,,0,0,0,,{\an5\pos(720,491.215)\fscx70\fscy70\fs70\c&H201E9B&\blur0.8}The Option to Become an Apprentice Shrine Maiden
-Dialogue: 0,0:01:58.01,0:02:03.01,Title,,0,0,0,,{\an5\pos(722.202,492.541)\fscx70\fscy70\fs70\c&H000000&\blur1.8}The Option to Become an Apprentice Shrine Maiden
+Dialogue: 1,0:01:58.01,0:02:03.01,Title,,0,0,0,,{\an5\pos(720,491.215)\fscx70\fscy70\fs70\c&H201E9B&\blur0.8}The Choice to Become an Apprentice Shrine Maiden
+Dialogue: 0,0:01:58.01,0:02:03.01,Title,,0,0,0,,{\an5\pos(722.202,492.541)\fscx70\fscy70\fs70\c&H000000&\blur1.8}The Choice to Become an Apprentice Shrine Maiden
 Dialogue: 0,0:11:15.02,0:11:18.99,Title,,0,0,0,,{\an5\pos(1184.154,63.073)\fscy104\fs56.25\bord7.88\3c&HFFFFFF&\1a&HFF&\blur4.5\fad(0,809)}Ascendance of
 Dialogue: 0,0:11:15.02,0:11:18.99,Title,,0,0,0,,{\an5\pos(1184.154,111.287)\fscy104\fs56.25\bord7.88\3c&HFFFFFF&\1a&HFF&\blur4.5\fad(0,809)}a Bookworm
 Dialogue: 1,0:11:15.02,0:11:18.99,Title,,0,0,0,,{\an5\pos(1184.154,63.073)\fscy104\fs56.25\c&H25149F&\blur0.68\fad(0,809)}Ascendance of
