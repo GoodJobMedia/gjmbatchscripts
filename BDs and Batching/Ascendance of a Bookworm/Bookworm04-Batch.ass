@@ -379,7 +379,7 @@ Dialogue: 0,0:01:12.30,0:01:16.64,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\
 Dialogue: 0,0:01:16.64,0:01:21.10,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}I can do anything, y'know?
 Dialogue: 0,0:01:22.27,0:01:26.15,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}In this wonderful world
 Dialogue: 0,0:01:26.15,0:01:29.23,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Nothing is set in stone
-Dialogue: 0,0:01:29.23,0:01:32.78,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}The as-yet untold future
+Dialogue: 0,0:01:29.23,0:01:32.78,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Our as-yet untold future
 Dialogue: 0,0:01:32.78,0:01:35.87,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}Shines brighter than the sun
 Dialogue: 0,0:01:35.87,0:01:39.66,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}I want to take hold of my future
 Dialogue: 0,0:01:39.66,0:01:42.62,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}With my own two hands
@@ -446,8 +446,8 @@ Dialogue: 1,0:01:19.39,0:01:20.43,BookwormOP,,0,0,0,,{\blur3\bord3.5\3c&H1A5377&
 Dialogue: 1,0:01:20.43,0:01:21.10,BookwormOP,,0,0,0,,{\fad(0,150)\blur3\bord3.5\3c&H4142E3&}I can do anything, y'know?
 Dialogue: 1,0:01:22.27,0:01:26.15,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&HCA83E0&}In this wonderful world
 Dialogue: 1,0:01:26.15,0:01:29.23,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&HCA83E0&}Nothing is set in stone
-Dialogue: 1,0:01:29.23,0:01:30.74,BookwormOP,,0,0,0,,{\fad(120,0)\blur3\bord3.5\3c&HD366A9&}The as-yet untold future
-Dialogue: 1,0:01:30.74,0:01:32.78,BookwormOP,,0,0,0,,{\fad(0,150)\blur3\bord3.5\3c&H2E3F00&}The as-yet untold future
+Dialogue: 1,0:01:29.23,0:01:30.74,BookwormOP,,0,0,0,,{\fad(120,0)\blur3\bord3.5\3c&HD366A9&}Our as-yet untold future
+Dialogue: 1,0:01:30.74,0:01:32.78,BookwormOP,,0,0,0,,{\fad(0,150)\blur3\bord3.5\3c&H2E3F00&}Our as-yet untold future
 Dialogue: 1,0:01:32.78,0:01:35.87,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H075BA2&}Shines brighter than the sun
 Dialogue: 1,0:01:35.87,0:01:39.66,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H919191&}I want to take hold of my future
 Dialogue: 1,0:01:39.66,0:01:42.62,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord3.5\3c&H727902&\t(2320,2960,1,\3c&HF78AB9&)}With my own two hands
@@ -576,8 +576,8 @@ Dialogue: 0,0:00:46.07,0:00:46.11,Title,,0,0,0,,{\an5\pos(721.5,180)\fscy97\fs78
 Dialogue: 1,0:00:46.07,0:00:46.11,Title,,0,0,0,,{\an5\pos(721.5,180)\fscy97\fs78.75\c&H2D13A4&\blur0.9\iclip(m 297 219 l 315 193 358 135 425 64 1205 108 1172 353 327 693)}Ascendance of a Bookworm
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,ED
 Comment: 0,0:21:34.06,0:21:34.10,BookwormED,,0,0,0,,ED START
-Dialogue: 0,0:21:35.27,0:21:39.98,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D5100&\be6}tell me, oh my angel
-Dialogue: 0,0:21:39.98,0:21:48.95,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D5100&\be6}oh my lovely, let me dream again
+Dialogue: 0,0:21:35.27,0:21:39.98,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D5100&\be6}Tell me, oh my angel
+Dialogue: 0,0:21:39.98,0:21:48.95,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D5100&\be6}Oh my darling, let me dream again
 Dialogue: 0,0:21:49.45,0:21:51.87,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D5100&\be6}I gently brush my hair
 Dialogue: 0,0:21:53.25,0:21:55.87,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D5100&\be6}And put a hairpin through it
 Dialogue: 0,0:21:55.87,0:21:57.67,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D5100&\be6}In the sea of green
@@ -598,8 +598,8 @@ Dialogue: 0,0:22:50.43,0:22:52.22,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D
 Dialogue: 0,0:22:54.18,0:22:57.27,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D5100&\be6}But then my heart melted
 Dialogue: 0,0:22:57.27,0:23:01.82,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D5100&\be6}And now I have experienced
 Dialogue: 0,0:23:02.69,0:23:04.03,BookwormED,,0,0,0,,{\fad(180,120)\bord4\3c&H5D5100&\be6}The real world
-Dialogue: 1,0:21:35.27,0:21:39.98,BookwormED,,0,0,0,,{\fad(180,120)\bord1\3c&H460300&\be6}tell me, oh my angel
-Dialogue: 1,0:21:39.98,0:21:48.95,BookwormED,,0,0,0,,{\fad(180,120)\bord1\3c&H460300&\be6}oh my lovely, let me dream again
+Dialogue: 1,0:21:35.27,0:21:39.98,BookwormED,,0,0,0,,{\fad(180,120)\bord1\3c&H460300&\be6}Tell me, oh my angel
+Dialogue: 1,0:21:39.98,0:21:48.95,BookwormED,,0,0,0,,{\fad(180,120)\bord1\3c&H460300&\be6}Oh my darling, let me dream again
 Dialogue: 1,0:21:49.45,0:21:51.87,BookwormED,,0,0,0,,{\fad(180,120)\bord1\3c&H460300&\be6}I gently brush my hair
 Dialogue: 1,0:21:53.25,0:21:55.87,BookwormED,,0,0,0,,{\fad(180,120)\bord1\3c&H460300&\be6}And put a hairpin through it
 Dialogue: 1,0:21:55.87,0:21:57.67,BookwormED,,0,0,0,,{\fad(180,120)\bord1\3c&H460300&\be6}In the sea of green
