@@ -238,7 +238,7 @@ Dialogue: 10,0:15:41.67,0:15:44.00,GJM_Main,,0,0,0,,I'm getting the hang of thes
 Dialogue: 10,0:15:52.89,0:15:54.20,GJM_Main,,0,0,0,,Mr. Otto.
 Dialogue: 10,0:15:55.18,0:15:57.14,GJM_Main,,0,0,0,,I think there's a mistake here.
 Dialogue: 10,0:15:57.81,0:15:59.31,GJM_Main,,0,0,0,,Oh, and this one's wrong, too.
-Dialogue: 10,0:16:00.02,0:16:03.05,GJM_Main,,0,0,0,,You can do math, Myne?
+Dialogue: 10,0:16:00.02,0:16:03.05,GJM_Main,,0,0,0,,You're able to do calculations, Myne?
 Dialogue: 10,0:16:03.05,0:16:04.85,GJM_Main,,0,0,0,,Despite not knowing how to read?
 Dialogue: 10,0:16:04.85,0:16:09.57,GJM_Main,,0,0,0,,{\q2}I don't know all of the alphabet,\N but Mom taught me the numbers at the market.
 Dialogue: 10,0:16:10.10,0:16:13.37,GJM_Main,,0,0,0,,{ep1}Mom, what's that? What does that board say?
@@ -259,7 +259,7 @@ Dialogue: 10,0:17:09.03,0:17:12.76,GJM_Main,,0,0,0,,Then I guess we've got a dea
 Dialogue: 10,0:17:19.43,0:17:23.53,GJM_Main,,0,0,0,,{\q2}Can I ask you to take care\N of these calculations, Myne?
 Dialogue: 10,0:17:24.50,0:17:26.02,GJM_Main,,0,0,0,,Oh, here's your calculator.
 Dialogue: 10,0:17:26.30,0:17:29.07,GJM_Main,,0,0,0,,{\q2}I don't know how to use one of these,\N but I'll be fine without it.
-Dialogue: 10,0:17:29.07,0:17:32.04,GJM_Main,,0,0,0,,Huh? But how will you do the math?
+Dialogue: 10,0:17:29.07,0:17:32.04,GJM_Main,,0,0,0,,Huh? But how will you do the calculations?
 Dialogue: 10,0:17:32.04,0:17:34.28,GJM_Main,,0,0,0,,I'll be fine as long as I have my stone slate.
 Dialogue: 10,0:17:41.72,0:17:43.41,GJM_Main,,0,0,0,,Color me impressed.
 Dialogue: 10,0:17:43.67,0:17:47.12,GJM_Main,,0,0,0,,{\q2}You managed to get all these\N done without a calculator.
