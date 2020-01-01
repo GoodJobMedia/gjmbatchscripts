@@ -14,10 +14,10 @@ Audio File: D:/Anime/Subbing/Manaria Friends/Episode 05/Manaria05 (premux).mkv
 Video File: D:/Anime/Subbing/Manaria Friends/Episode 05/Manaria05 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 1.000000
-Scroll Position: 189
-Active Line: 206
-Video Position: 18611
+Video Zoom Percent: 0.750000
+Scroll Position: 186
+Active Line: 188
+Video Position: 17415
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -217,7 +217,7 @@ Dialogue: 10,0:11:53.85,0:11:55.15,GJM_Main,,0,0,0,,Yeah!
 Dialogue: 10,0:11:55.15,0:11:58.48,GJM_Main,,0,0,0,,The teachers will summon dummy monsters.
 Dialogue: 10,0:11:58.48,0:12:01.95,GJM_Main,,0,0,0,,We'll be pumping them out, so stay on your guard!
 Dialogue: 10,0:12:01.95,0:12:06.33,GJM_Main,,0,0,0,,I haven't gotten a chance to go\N all out for a while! I can't wait!
-Dialogue: 10,0:12:06.33,0:12:09.08,GJM_Main,,0,0,0,,Oh, don't you worry even if a strong enemy attacks us.
+Dialogue: 10,0:12:06.33,0:12:09.08,GJM_Main,,0,0,0,,Don't you worry. Even if a strong enemy attacks us,
 Dialogue: 10,0:12:09.08,0:12:11.79,GJM_Main,,0,0,0,,I'll take care of anything in one hit!
 Dialogue: 10,0:12:11.79,0:12:15.08,GJM_Main,,0,0,0,,Um, Princess, about that.
 Dialogue: 10,0:12:15.08,0:12:15.79,GJM_Main,,0,0,0,,Huh?
