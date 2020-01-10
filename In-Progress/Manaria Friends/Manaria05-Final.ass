@@ -15,7 +15,7 @@ Video File: D:/Anime/Subbing/Manaria Friends/Episode 05/Manaria05 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 186
+Scroll Position: 180
 Active Line: 188
 Video Position: 17415
 
@@ -126,7 +126,7 @@ Dialogue: 10,0:04:10.56,0:04:12.81,GJM_Main,,0,0,0,,This means half of the acade
 Dialogue: 10,0:04:12.81,0:04:13.52,GJM_Overlap,,0,0,0,,{\an8}Understood.
 Dialogue: 10,0:04:17.02,0:04:19.90,GJM_Main,,0,0,0,,The barricade at the grand staircase\N seems to be standing fast.
 Dialogue: 10,0:04:20.32,0:04:23.91,GJM_Main,,0,0,0,,The main building is also holding up for now.
-Dialogue: 10,0:04:24.36,0:04:27.07,GJM_Main,,0,0,0,,I wonder how many more people we can bring here to escape.
+Dialogue: 10,0:04:24.36,0:04:27.07,GJM_Main,,0,0,0,,I wonder how many people we can \Nbring here and lead to safety.
 Dialogue: 10,0:04:27.07,0:04:28.83,GJM_Main,,0,0,0,,I'm going to the eastern tower.
 Dialogue: 10,0:04:28.83,0:04:30.91,GJM_Main,,0,0,0,,Can you send some forces to the library as well?
 Dialogue: 10,0:04:34.33,0:04:36.38,GJM_Main,,0,0,0,,Everyone's fighting while I'm just sitting here.
@@ -217,8 +217,7 @@ Dialogue: 10,0:11:53.85,0:11:55.15,GJM_Main,,0,0,0,,Yeah!
 Dialogue: 10,0:11:55.15,0:11:58.48,GJM_Main,,0,0,0,,The teachers will summon dummy monsters.
 Dialogue: 10,0:11:58.48,0:12:01.95,GJM_Main,,0,0,0,,We'll be pumping them out, so stay on your guard!
 Dialogue: 10,0:12:01.95,0:12:06.33,GJM_Main,,0,0,0,,I haven't gotten a chance to go\N all out for a while! I can't wait!
-Dialogue: 10,0:12:06.33,0:12:09.08,GJM_Main,,0,0,0,,Don't you worry. Even if a strong enemy attacks us,
-Dialogue: 10,0:12:09.08,0:12:11.79,GJM_Main,,0,0,0,,I'll take care of anything in one hit!
+Dialogue: 10,0:12:06.33,0:12:11.79,GJM_Main,,0,0,0,,Don't you worry. I'll take out anything that comes our way.
 Dialogue: 10,0:12:11.79,0:12:15.08,GJM_Main,,0,0,0,,Um, Princess, about that.
 Dialogue: 10,0:12:15.08,0:12:15.79,GJM_Main,,0,0,0,,Huh?
 Dialogue: 10,0:12:16.84,0:12:20.38,GJM_Main,,0,0,0,,We'd like for you to sit this one out, Princess.

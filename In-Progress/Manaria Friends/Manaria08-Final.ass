@@ -15,9 +15,9 @@ Video File: D:/Anime/Subbing/Manaria Friends/Episode 08/Manaria08 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 1.000000
-Scroll Position: 30
-Active Line: 44
-Video Position: 5096
+Scroll Position: 9
+Active Line: 19
+Video Position: 3424
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -49,8 +49,8 @@ Dialogue: 10,0:01:59.55,0:02:01.68,GJM_Main,,0,0,0,,This one is for you, Lou.
 Dialogue: 10,0:02:01.68,0:02:03.81,GJM_Main,,0,0,0,,I made it so you'll really shine up there!
 Dialogue: 10,0:02:05.81,0:02:07.52,GJM_Main,,0,0,0,,Thank you.
 Dialogue: 10,0:02:12.02,0:02:14.61,GJM_Main,,0,0,0,,{\i1}I'm still so nervous.
-Dialogue: 10,0:02:18.11,0:02:19.61,GJM_Main,,0,0,0,,Just like a painting...
-Dialogue: 10,0:02:22.78,0:02:23.62,GJM_Main,,0,0,0,,What is?
+Dialogue: 10,0:02:18.11,0:02:19.61,GJM_Main,,0,0,0,,Like a scene from a painting...
+Dialogue: 10,0:02:22.78,0:02:23.62,GJM_Main,,0,0,0,,What is it?
 Dialogue: 10,0:02:23.62,0:02:26.25,GJM_Main,,0,0,0,,Oh, it just hit me how great you look in that.{clearly I am not well versed in giving girls compliments}
 Dialogue: 10,0:02:27.33,0:02:29.46,GJM_Main,,0,0,0,,You don't think it looks strange?
 Dialogue: 10,0:02:29.46,0:02:30.63,GJM_Main,,0,0,0,,Not at all.
