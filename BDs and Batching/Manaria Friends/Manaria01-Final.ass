@@ -10,14 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria01-redo (premux).mkv
-Video File: Manaria01-redo (premux).mkv
-Keyframes File: Manaria01-redo (premux)_keyframes.log
+Audio File: D:/Anime/Subbing/Manaria Friends/Episode 01/Manaria01 (premux).mkv
+Video File: D:/Anime/Subbing/Manaria Friends/Episode 01/Manaria01 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Active Line: 6
-Video Position: 2464
+Video Zoom Percent: 0.875000
+Scroll Position: 82
+Active Line: 96
+Video Position: 13546
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -36,7 +36,7 @@ Dialogue: 10,0:01:37.86,0:01:40.37,GJM_Overlap,,0,0,0,,{\an8}Was first period po
 Dialogue: 10,0:01:40.37,0:01:41.53,GJM_Main,,0,0,0,,That looks good!
 Dialogue: 10,0:01:40.37,0:01:42.74,GJM_Overlap,,0,0,0,,{\an8}Wasn't it healing magic?
 Dialogue: 10,0:01:42.74,0:01:44.37,GJM_Overlap,,0,0,0,,{\an8}With Ms. Miranda?
-Dialogue: 10,0:01:44.37,0:01:47.33,GJM_Overlap,,0,0,0,,{\an8}Have you filled out the room-sharing form?
+Dialogue: 10,0:01:44.37,0:01:47.33,GJM_Overlap,,0,0,0,,{\an8}Have you filled out your roommate application?
 Dialogue: 10,0:01:47.33,0:01:48.96,GJM_Overlap,,0,0,0,,{\an8}I'm still thinking about it.
 Dialogue: 10,0:01:56.97,0:01:59.39,GJM_Main,,0,0,0,,Princess! Good morning!
 Dialogue: 10,0:01:59.39,0:02:00.22,GJM_Main,,0,0,0,,Good morning.
@@ -55,7 +55,7 @@ Dialogue: 10,0:02:28.41,0:02:29.83,GJM_Main,,0,0,0,,I finally found you!
 Dialogue: 10,0:02:29.83,0:02:31.54,GJM_Main,,0,0,0,,M-Morning.
 Dialogue: 10,0:02:36.26,0:02:37.30,GJM_Main,,0,0,0,,Thanks.
 Dialogue: 10,0:02:37.92,0:02:40.80,GJM_Main,,0,0,0,,Um, Princess Anne...
-Dialogue: 10,0:02:40.80,0:02:44.72,GJM_Main,,0,0,0,,Come on, you're a Dragon Princess yourself.
+Dialogue: 10,0:02:40.80,0:02:44.72,GJM_Main,,0,0,0,,Come on, you're the Dragon Princess yourself.
 Dialogue: 10,0:02:44.72,0:02:46.14,GJM_Main,,0,0,0,,Just call me Anne.
 Dialogue: 10,0:02:46.14,0:02:47.43,GJM_Main,,0,0,0,,Anne!
 Dialogue: 10,0:02:54.07,0:02:54.94,GJM_Main,,0,0,0,,Anne...
@@ -86,9 +86,9 @@ Dialogue: 10,0:04:37.50,0:04:40.13,GJM_Main,,0,0,0,,Thank you so much, Anne.
 Dialogue: 10,0:04:40.42,0:04:43.05,GJM_Main,,0,0,0,,There's trouble in the library! Come quick!
 Dialogue: 10,0:04:43.05,0:04:44.30,GJM_Main,,0,0,0,,Huh? Wai—
 Dialogue: 10,0:04:46.39,0:04:47.80,GJM_Main,,0,0,0,,Sorry, Grea!
-Dialogue: 10,0:04:47.80,0:04:50.81,GJM_Main,,0,0,0,,{\fad(0,2000)\t(1040,2990,1,\fscx70\fscy70)}I'll just be a minute!
+Dialogue: 10,0:04:47.80,0:04:50.81,GJM_Main,,0,0,0,,{\fad(0,2000)}I'll just be a minute!
 Dialogue: 10,0:04:51.72,0:04:53.31,GJM_Main,,0,0,0,,O-Okay.
-Dialogue: 10,0:05:10.37,0:05:11.95,GJM_Main,,0,0,0,,What happened to him?
+Dialogue: 10,0:05:10.37,0:05:11.95,GJM_Main,,0,0,0,,What happened to it?
 Dialogue: 10,0:05:11.95,0:05:14.62,GJM_Main,,0,0,0,,I'm sorry! I'm sorry!
 Dialogue: 10,0:05:15.87,0:05:17.50,GJM_Main,,0,0,0,,You okay, Hanna?
 Dialogue: 10,0:05:18.00,0:05:19.25,GJM_Main,,0,0,0,,Princess?
@@ -109,7 +109,7 @@ Dialogue: 10,0:06:37.12,0:06:38.46,GJM_Main,,0,0,0,,But Hanna, you—
 Dialogue: 10,0:06:41.79,0:06:44.92,GJM_Main,,0,0,0,,I wasn't even strong enough to help you.
 Dialogue: 10,0:06:46.01,0:06:47.92,GJM_Main,,0,0,0,,I'm a failure of a president.
 Dialogue: 10,0:06:53.60,0:06:54.97,GJM_Main,,0,0,0,,I'm so weak.
-Dialogue: 10,0:06:55.68,0:06:57.27,GJM_Main,,0,0,0,,I'm a disappointment.
+Dialogue: 10,0:06:55.68,0:06:57.27,GJM_Main,,0,0,0,,I'm such a disappointment.
 Dialogue: 10,0:06:57.77,0:06:59.02,GJM_Main,,0,0,0,,I'm not cut out for this.
 Dialogue: 10,0:07:01.52,0:07:02.52,GJM_Main,,0,0,0,,Thank you.
 Dialogue: 10,0:07:07.78,0:07:12.03,GJM_Main,,0,0,0,,Um, I can help out if there's anything else you need.
@@ -122,11 +122,11 @@ Dialogue: 10,0:09:08.56,0:09:10.11,GJM_Main,,0,0,0,,Uh...
 Dialogue: 10,0:09:10.86,0:09:12.28,GJM_Main,,0,0,0,,Are you all done now?
 Dialogue: 10,0:09:12.28,0:09:13.53,GJM_Main,,0,0,0,,Y-Yeah.
 Dialogue: 10,0:09:13.53,0:09:16.16,GJM_Main,,0,0,0,,It got encased in ice when I sealed it.
-Dialogue: 10,0:09:17.16,0:09:19.41,GJM_Main,,0,0,0,,The Master of the Library was really mad.
+Dialogue: 10,0:09:17.16,0:09:19.41,GJM_Main,,0,0,0,,I mean, the Master of the Library was really mad.
 Dialogue: 10,0:09:19.41,0:09:21.91,GJM_Main,,0,0,0,,It was going berserk.
 Dialogue: 10,0:09:21.91,0:09:23.25,GJM_Main,,0,0,0,,And, well...
-Dialogue: 10,0:09:24.96,0:09:28.42,GJM_Main,,0,0,0,,I stayed behind to help everyone clean up after me.
-Dialogue: 10,0:09:32.96,0:09:35.93,GJM_Main,,0,0,0,,But I left first...
+Dialogue: 10,0:09:24.96,0:09:28.42,GJM_Main,,0,0,0,,I stayed back to help everyone clean up...
+Dialogue: 10,0:09:32.96,0:09:35.93,GJM_Main,,0,0,0,,But they didn't need me anymore...
 Dialogue: 10,0:09:44.85,0:09:45.68,GJM_Main,,0,0,0,,You did well.
 Dialogue: 10,0:09:53.82,0:09:57.61,GJM_Main,,0,0,0,,Were you waiting for me this whole time?
 Dialogue: 10,0:10:01.20,0:10:01.83,GJM_Main,,0,0,0,,Yeah.
@@ -135,7 +135,7 @@ Dialogue: 10,0:10:18.51,0:10:19.76,GJM_Main,,0,0,0,,What's wrong?
 Dialogue: 10,0:10:19.76,0:10:21.85,GJM_Main,,0,0,0,,Oh, uh...
 Dialogue: 10,0:10:21.85,0:10:23.76,GJM_Main,,0,0,0,,Are you hungry, Anne?
 Dialogue: 10,0:10:23.76,0:10:27.27,GJM_Main,,0,0,0,,Oh, now that you mention it,\N I haven't eaten since this morning.
-Dialogue: 10,0:10:27.73,0:10:29.94,GJM_Main,,0,0,0,,Should we get something to eat?
+Dialogue: 10,0:10:27.73,0:10:29.94,GJM_Main,,0,0,0,,Shall we get something to eat?
 Dialogue: 10,0:10:38.20,0:10:38.82,GJM_Main,,0,0,0,,Yeah!
 Dialogue: 10,0:10:40.32,0:10:43.20,GJM_Main,,0,0,0,,Do you prefer sweet or spicy food, Grea?
 Dialogue: 10,0:10:43.20,0:10:45.41,GJM_Main,,0,0,0,,Um... Sweet.

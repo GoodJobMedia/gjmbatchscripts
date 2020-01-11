@@ -10,14 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria09 (premux).mkv
-Video File: Manaria09 (premux).mkv
+Audio File: D:/Anime/Subbing/Manaria Friends/Episode 09/Manaria09 (premux).mkv
+Video File: D:/Anime/Subbing/Manaria Friends/Episode 09/Manaria09 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 68
-Active Line: 75
-Video Position: 19017
+Video Zoom Percent: 1.000000
+Scroll Position: 45
+Active Line: 59
+Video Position: 17415
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -41,7 +41,7 @@ Dialogue: 10,0:01:24.02,0:01:25.18,GJM_Main,,0,0,0,,What's wrong?
 Dialogue: 10,0:01:26.10,0:01:27.60,GJM_Main,,0,0,0,,Don't give me that...
 Dialogue: 10,0:01:27.60,0:01:28.81,GJM_Main,,0,0,0,,I'm sorry?
 Dialogue: 10,0:01:33.90,0:01:38.66,GJM_Main,,0,0,0,,You never let {\i1}me{\i0} into your room,\N even though I've asked you so many times!
-Dialogue: 10,0:01:38.66,0:01:40.07,GJM_Main,,0,0,0,,What is she talking about?
+Dialogue: 10,0:01:38.66,0:01:40.07,GJM_Main,,0,0,0,,What are you talking about?
 Dialogue: 10,0:01:40.07,0:01:41.53,GJM_Main,,0,0,0,,I'm not talking to you, Hanna!
 Dialogue: 10,0:01:42.79,0:01:44.29,GJM_Main,,0,0,0,,Don't be rude, Anne.
 Dialogue: 10,0:01:44.29,0:01:45.41,GJM_Main,,0,0,0,,You didn't have to snap at her.
@@ -63,9 +63,9 @@ Dialogue: 10,0:03:13.67,0:03:16.84,GJM_Main,,0,0,0,,Okay everyone, open up your 
 Dialogue: 10,0:03:16.84,0:03:21.68,GJM_Main,,0,0,0,,Today we'll be talking about how \Nhealing magic can help clear your mind.
 Dialogue: 10,0:03:22.14,0:03:28.73,GJM_Main,,0,0,0,,{\q2}Holy magic is well known for its effects on the body.\N Take exorcism and strengthening spells, for example.
 Dialogue: 10,0:03:28.73,0:03:30.60,GJM_Main,,0,0,0,,Now turn to the next page.
-Dialogue: 10,0:03:32.35,0:03:36.94,GJM_Main,,0,0,0,,In fact, we've known since ancient times\N from experiments in holy magic
+Dialogue: 10,0:03:32.35,0:03:36.94,GJM_Main,,0,0,0,,In fact, experiments in holy magic \Nfrom ancient times have demonstrated
 Dialogue: 10,0:03:36.94,0:03:41.57,GJM_Main,,0,0,0,,that it can have tremendous \Neffects on the mind as well.
-Dialogue: 10,0:03:42.03,0:03:48.12,GJM_Main,,0,0,0,,{\q2}Not only can it be used to heal your body,\N it can also to help you overcome negative emotions.
+Dialogue: 10,0:03:42.03,0:03:48.12,GJM_Main,,0,0,0,,{\q2}So not only can it be used to heal your body,\N it can also to help you overcome negative emotions.
 Dialogue: 10,0:03:48.12,0:03:50.12,GJM_Main,,0,0,0,,In practice, spirits need to be—
 Dialogue: 10,0:03:49.16,0:03:50.12,GJM_Overlap,,0,0,0,,Anne...
 Dialogue: 10,0:03:52.87,0:03:56.88,GJM_Main,,0,0,0,,Er, spirits need to be convinced\N to lend their power—
@@ -85,7 +85,7 @@ Dialogue: 10,0:09:38.79,0:09:42.39,GJM_Main,,0,0,0,,my hands went all numb.
 Dialogue: 10,0:10:17.59,0:10:20.26,GJM_Main,,0,0,0,,Shall we go and have tea?
 Dialogue: 10,0:10:27.27,0:10:27.94,GJM_Main,,0,0,0,,Yeah!
 Dialogue: 10,0:11:38.46,0:11:44.97,GJM_Main,,0,0,0,,{\q2}Once, two opposing, chaotic powers \Nengulfed the world in the flames of battle.
-Dialogue: 10,0:11:45.55,0:11:47.72,GJM_Main,,0,0,0,,This land once again became a battlefield.
+Dialogue: 10,0:11:45.55,0:11:47.72,GJM_Main,,0,0,0,,This land became a battlefield.{I have a feeling また doesn't have to mean "again" and can have some other meaning in this context because it seems kind of weird here}
 Dialogue: 10,0:11:48.14,0:11:53.73,GJM_Main,,0,0,0,,The people that fell to pain \Nand sorrow raised a prayer to God.
 Dialogue: 10,0:11:54.52,0:11:58.51,GJM_Main,,0,0,0,,It was then that Seraph Manaria \Nwas sent from the heavens
 Dialogue: 10,0:11:58.51,0:12:01.61,GJM_Main,,0,0,0,,to quell the flames of battle that ravaged the lands.
@@ -96,21 +96,21 @@ Dialogue: 10,0:12:16.38,0:12:23.30,GJM_Main,,0,0,0,,{\q2}but even the most trivi
 Dialogue: 10,0:12:23.30,0:12:26.89,GJM_Main,,0,0,0,,Two chaotic powers are about \Nto rise from our very academy.
 Dialogue: 10,0:12:27.35,0:12:29.43,GJM_Main,,0,0,0,,By "two chaotic powers," do you mean...
 Dialogue: 10,0:12:29.43,0:12:31.68,GJM_Main,,0,0,0,,...the Princess and Grea?
-Dialogue: 10,0:12:32.18,0:12:36.31,GJM_Main,,0,0,0,,If these powers face off, an endless battle will ensue.
-Dialogue: 10,0:12:36.31,0:12:39.19,GJM_Main,,0,0,0,,{\q2}Not only will it affect the academy,\N the entire world will be plunged into chaos!
+Dialogue: 10,0:12:32.18,0:12:36.31,GJM_Main,,0,0,0,,If these powers collide, an endless battle will ensue.
+Dialogue: 10,0:12:36.31,0:12:39.19,GJM_Main,,0,0,0,,{\q2}Not only will it affect the academy,\N the entire world will be plunged into chaos!{I wanna write this better but I don't wanna use a semicolon, send help}
 Dialogue: 10,0:12:39.53,0:12:43.57,GJM_Main,,0,0,0,,All will be led down a path of grief and sorrow!
 Dialogue: 10,0:12:43.90,0:12:47.83,GJM_Main,,0,0,0,,Are you saying this could spark war\N between the two kingdoms?
 Dialogue: 10,0:12:48.28,0:12:51.91,GJM_Main,,0,0,0,,To turn a blind eye to this problem \Nwould be to disgrace our ancestors,
 Dialogue: 10,0:12:51.91,0:12:56.17,GJM_Main,,0,0,0,,who prayed for and protected the peace of this land.
 Dialogue: 10,0:12:56.17,0:13:00.82,GJM_Main,,0,0,0,,{\q2}So those of us who love Manaria and came \Nhere to gather the fruit of her knowledge
 Dialogue: 10,0:13:00.82,0:13:03.47,GJM_Main,,0,0,0,,must stand together to protect her peace!
-Dialogue: 10,0:13:04.47,0:13:06.02,GJM_Main,,0,0,0,,Let us take this vow!
+Dialogue: 10,0:13:04.47,0:13:06.02,GJM_Main,,0,0,0,,Allow me to take this vow!
 Dialogue: 10,0:13:06.43,0:13:13.14,GJM_Main,,0,0,0,,{\q2}As student council president, I will stand firm against\N these powers' chaos to avoid this terrible fate!
 Dialogue: 10,0:13:13.14,0:13:16.40,GJM_Main,,0,0,0,,I pray you'll give me your blessing.
 Dialogue: 10,0:13:13.77,0:13:14.81,GJM_Overlap,,0,0,0,,President...
 Dialogue: 10,0:13:14.81,0:13:16.40,GJM_Overlap,,0,0,0,,Hanna!
 Dialogue: 10,0:13:16.40,0:13:18.90,GJM_Main,,0,0,0,,She's so dazzling!
-Dialogue: 10,0:13:18.90,0:13:24.19,GJM_Main,,0,0,0,,I will now head out to fight \Nand protect the peace of our academy!
+Dialogue: 10,0:13:18.90,0:13:24.19,GJM_Main,,0,0,0,,I will now head out to battle, \Nto protect the peace of our academy!
 Dialogue: 10,0:13:24.19,0:13:26.32,GJM_Main,,0,0,0,,President!
 Dialogue: 10,0:13:26.61,0:13:28.99,GJM_Main,,0,0,0,,I'll fight with you too!
 Dialogue: 10,0:13:27.28,0:13:29.53,GJM_Overlap,,0,0,0,,I'll come with you as well!
@@ -127,8 +127,8 @@ Dialogue: 10,0:13:57.90,0:14:00.56,GJM_Overlap,,0,0,0,,{\an8}By the way, where d
 Dialogue: 10,0:13:59.77,0:14:03.36,GJM_Main,,0,0,0,,Have they made up?
 Dialogue: 10,0:14:00.56,0:14:03.57,GJM_Overlap,,0,0,0,,{\an8}There's a store in town I'm really fond of.
 Dialogue: 10,0:14:03.57,0:14:05.53,GJM_Overlap,,0,0,0,,{\an8}We should go together some time!
-Dialogue: 10,0:14:05.99,0:14:06.99,GJM_Overlap,,0,0,0,,{\an8}Yeah, that sounds great.
-Dialogue: 10,0:14:06.99,0:14:10.82,GJM_Main,,0,0,0,,How can you two worry so many people like that?
+Dialogue: 10,0:14:05.99,0:14:06.99,GJM_Overlap,,0,0,0,,{\an8}Yes, that sounds great.
+Dialogue: 10,0:14:06.99,0:14:10.82,GJM_Main,,0,0,0,,How can you two worry everyone like that?
 Dialogue: 10,0:14:10.82,0:14:13.87,GJM_Main,,0,0,0,,My determination was all for naught!
 Dialogue: 10,0:14:30.34,0:14:34.89,GJM_Main,,0,0,0,,Manaria Friends, Episode 10:\NTheir Promise.
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,TS

@@ -10,15 +10,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Angel Beats
-Audio File: Manaria10 (premux).mkv
-Video File: Manaria10 (premux).mkv
-Keyframes File: Manaria10 (premux)_keyframes.log
+Audio File: D:/Anime/Subbing/Manaria Friends/Episode 10/Manaria10 (premux).mkv
+Video File: D:/Anime/Subbing/Manaria Friends/Episode 10/Manaria10 (premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.725000
-Scroll Position: 116
-Active Line: 123
-Video Position: 14017
+Video Zoom Percent: 1.000000
+Scroll Position: 117
+Active Line: 133
+Video Position: 15127
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -32,7 +31,7 @@ Style: InsertEN,Kancelaria StO,52,&H00FFFFFF,&H000000FF,&H00160C55,&HA0000000,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:04.27,0:00:06.36,GJM_Main,,0,0,0,,What are you doing for your vacation assignment?
+Dialogue: 10,0:00:04.27,0:00:06.36,GJM_Main,,0,0,0,,Have you chosen a topic for your vacation assignment?
 Dialogue: 10,0:00:06.36,0:00:08.07,GJM_Main,,0,0,0,,I still haven't decided.
 Dialogue: 10,0:00:08.36,0:00:10.44,GJM_Main,,0,0,0,,Hey, wanna hang out in town before heading home?
 Dialogue: 10,0:00:10.44,0:00:11.57,GJM_Main,,0,0,0,,Sounds good!
@@ -56,8 +55,8 @@ Dialogue: 10,0:01:02.25,0:01:02.95,GJM_Main,,0,0,0,,Sure.
 Dialogue: 10,0:01:03.91,0:01:05.08,GJM_Main,,0,0,0,,See you.
 Dialogue: 10,0:01:12.26,0:01:13.38,GJM_Main,,0,0,0,,What could this be?
 Dialogue: 10,0:01:17.68,0:01:22.68,GJM_Main,,0,0,0,,{\an8}I'll be leaving the keys to the dormitory \Nwith you over the break.
-Dialogue: 10,0:01:23.14,0:01:30.52,GJM_Main,,0,0,0,,{\q2}We're leaving tonight, so if anything happens,\N please see the staff at the contact tower.
-Dialogue: 10,0:01:30.52,0:01:33.78,GJM_Main,,0,0,0,,I will. I know it's been a while since \Nyou've been able to go home, Hanna.
+Dialogue: 10,0:01:23.14,0:01:30.52,GJM_Main,,0,0,0,,{\q2}We're leaving tonight, so if anything happens,\N please see the staff at the communications tower.
+Dialogue: 10,0:01:30.52,0:01:33.78,GJM_Main,,0,0,0,,Okay. I know it's been a while since \Nyou've been able to go home, Hanna.
 Dialogue: 10,0:01:33.78,0:01:35.40,GJM_Main,,0,0,0,,Have a good time.
 Dialogue: 10,0:01:35.40,0:01:36.07,GJM_Main,,0,0,0,,I will!
 Dialogue: 10,0:01:41.33,0:01:43.41,GJM_Main,,0,0,0,,So Anne is leaving today as well?
@@ -134,14 +133,14 @@ Dialogue: 10,0:07:53.49,0:07:54.37,GJM_Main,,0,0,0,,So...
 Dialogue: 10,0:07:56.62,0:07:57.33,GJM_Main,,0,0,0,,That's why.{was gonna go with "so, let's do it" but that was too gay for me}
 Dialogue: 10,0:07:59.00,0:08:01.04,GJM_Main,,0,0,0,,Don't you agree?
 Dialogue: 10,0:08:03.50,0:08:04.29,GJM_Main,,0,0,0,,Anne...
-Dialogue: 10,0:08:10.46,0:08:14.09,GJM_Main,,0,0,0,,Do you feel differently, Grea?
-Dialogue: 10,0:08:25.19,0:08:26.06,GJM_Main,,0,0,0,,Not at all.
+Dialogue: 10,0:08:10.46,0:08:14.09,GJM_Main,,0,0,0,,You don't think so, Grea?
+Dialogue: 10,0:08:25.19,0:08:26.06,GJM_Main,,0,0,0,,No, I do.
 Dialogue: 10,0:08:29.40,0:08:30.40,GJM_Main,,0,0,0,,It sounds wonderful.
-Dialogue: 10,0:08:38.62,0:08:41.16,GJM_Main,,0,0,0,,I promise to write.
-Dialogue: 10,0:08:41.16,0:08:41.79,GJM_Main,,0,0,0,,Good.
-Dialogue: 10,0:08:45.04,0:08:47.50,GJM_Main,,0,0,0,,Are you sure you've got everything, Anne?
+Dialogue: 10,0:08:38.62,0:08:41.16,GJM_Main,,0,0,0,,I promise I'll write.
+Dialogue: 10,0:08:41.16,0:08:41.79,GJM_Main,,0,0,0,,Yes.
+Dialogue: 10,0:08:45.04,0:08:47.50,GJM_Main,,0,0,0,,Are you sure you haven't forgotten anything, Anne?
 Dialogue: 10,0:08:48.66,0:08:50.84,GJM_Main,,0,0,0,,If you find anything I missed, just leave it there.
-Dialogue: 10,0:08:50.84,0:08:52.97,GJM_Main,,0,0,0,,Yeah, okay.
+Dialogue: 10,0:08:50.84,0:08:52.97,GJM_Main,,0,0,0,,Yes, okay.
 Dialogue: 10,0:08:52.97,0:08:55.18,GJM_Main,,0,0,0,,It's gotten so late already.
 Dialogue: 10,0:08:55.18,0:08:56.80,GJM_Main,,0,0,0,,Sorry for making you clean.
 Dialogue: 10,0:08:56.80,0:08:57.80,GJM_Main,,0,0,0,,It's fine.
@@ -160,12 +159,12 @@ Dialogue: 10,0:10:01.53,0:10:03.24,GJM_Main,,0,0,0,,Good morning, Grea.
 Dialogue: 10,0:10:05.08,0:10:05.96,GJM_Main,,0,0,0,,Good morning.
 Dialogue: 10,0:10:06.50,0:10:09.63,GJM_Main,,0,0,0,,We had a tea party last week with the new students.
 Dialogue: 10,0:10:09.63,0:10:13.96,GJM_Main,,0,0,0,,They all loved the tea you recommended!
-Dialogue: 10,0:10:13.96,0:10:16.05,GJM_Main,,0,0,0,,Please do keep giving me your advice.
+Dialogue: 10,0:10:13.96,0:10:16.05,GJM_Main,,0,0,0,,Please do keep sharing your advice.
 Dialogue: 10,0:10:16.05,0:10:17.93,GJM_Main,,0,0,0,,Really? That's good to hear.
 Dialogue: 10,0:10:17.93,0:10:21.60,GJM_Main,,0,0,0,,Also, your application has been approved.
 Dialogue: 10,0:10:23.60,0:10:24.60,GJM_Main,,0,0,0,,Thanks.
 Dialogue: 10,0:10:25.14,0:10:30.35,GJM_Main,,0,0,0,,{\q2}When the princess returns to the academy,\N please come to the student council office together.
-Dialogue: 10,0:10:30.90,0:10:33.93,GJM_Main,,0,0,0,,{\q2}We'll give you a rundown on the\N important aspects of room-sharing.{cohabitational living *eyebrows* - Sei}{Who'd have thought wikipedia could make me blush.}
+Dialogue: 10,0:10:30.90,0:10:33.93,GJM_Main,,0,0,0,,{\q2}We'll give you a rundown on the\N important aspects of roomsharing.{cohabitational living *eyebrows* - Sei}{Who'd have thought wikipedia could make me blush.}{does this need to be hyphenated}
 Dialogue: 10,0:10:34.36,0:10:35.23,GJM_Main,,0,0,0,,All right.
 Dialogue: 10,0:10:35.23,0:10:38.61,GJM_Main,,0,0,0,,Well then, have a nice day, Grea.
 Dialogue: 10,0:10:38.61,0:10:39.78,GJM_Main,,0,0,0,,Excuse us.
@@ -179,18 +178,18 @@ Dialogue: 10,0:12:14.38,0:12:15.88,GJM_Main,,0,0,0,,Again?!
 Dialogue: 10,0:12:15.88,0:12:19.17,GJM_Main,,0,0,0,,It was dark by the time he finished \Nhaving "a word" with me yesterday!
 Dialogue: 10,0:12:20.01,0:12:22.63,GJM_Main,,0,0,0,,I'm already two weeks behind schedule.
 Dialogue: 10,0:12:22.63,0:12:25.43,GJM_Main,,0,0,0,,I'll never be able to go back at this rate!
-Dialogue: 10,0:12:25.76,0:12:28.10,GJM_Main,,0,0,0,,They keep coming up with more \Nformalities for me to sit through.
+Dialogue: 10,0:12:25.76,0:12:28.10,GJM_Main,,0,0,0,,They keep coming up with more \Nceremonies for me to sit through.
 Dialogue: 10,0:12:28.10,0:12:29.81,GJM_Main,,0,0,0,,I'm leaving!
 Dialogue: 10,0:12:31.10,0:12:33.81,GJM_Main,,0,0,0,,Princess, the king calls for you.
 Dialogue: 10,0:12:34.27,0:12:35.48,GJM_Main,,0,0,0,,I can't take it anymore.
 Dialogue: 10,0:12:35.90,0:12:37.48,GJM_Main,,0,0,0,,Cover for me!
 Dialogue: 10,0:12:38.98,0:12:43.70,GJM_Main,,0,0,0,,The princess is still changing.\N Would you kindly wait a moment?{what a bro} {meid(br)o}{Petition to ban Sei from commenting on scripts.}
 Dialogue: 10,0:12:43.70,0:12:44.66,GJM_Main,,0,0,0,,Thanks!
-Dialogue: 10,0:12:54.12,0:12:58.46,GJM_Main,,0,0,0,,My life and learnings as a student \Nare way more important right now.{read: "my girlfriend"}
+Dialogue: 10,0:12:54.12,0:12:58.46,GJM_Main,,0,0,0,,My studies and student life \Nare way more important right now.{read: "my girlfriend"}
 Dialogue: 10,0:12:58.46,0:13:01.21,GJM_Main,,0,0,0,,I'm going where my heart takes me, Your Highness.
 Dialogue: 10,0:13:32.12,0:13:35.00,GJM_Main,,0,0,0,,It took you quite a while to escape this time.{this guy is the realest bro as well}{BrOwen}{as above re: petition}
 Dialogue: 10,0:13:48.47,0:13:51.06,GJM_Main,,0,0,0,,It smells like Grea!{oh my god}{nothing beats the scent of your girlfriend's cast-off skin flakes amirite}
-Dialogue: 10,0:13:56.44,0:13:59.73,GJM_Main,,0,0,0,,Have I left her hanging too long again?
+Dialogue: 10,0:13:56.44,0:13:59.73,GJM_Main,,0,0,0,,I hope I haven't left her hanging too long again.
 Dialogue: 10,0:14:00.81,0:14:03.03,GJM_Main,,0,0,0,,I'll be back soon, Grea!
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,TS
 Comment: 0,0:11:24.24,0:11:29.91,Show Title,,0,0,0,,- show title -
