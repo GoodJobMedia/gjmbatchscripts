@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Railgun_T_EP01_Premux (1).mkv
-Video File: Railgun_T_EP01_Premux (1).mkv
-Keyframes File: Railgun_T_EP01_Premux_keyframes.log
+Audio File: E:/GJM/Railgun T/01/Railgun_T_EP01_Premux (1).mkv
+Video File: E:/GJM/Railgun T/01/Railgun_T_EP01_Premux (1).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 4751
-Active Line: 4768
-Video Position: 2099
+Scroll Position: 71
+Active Line: 79
+Video Position: 6499
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -87,7 +86,7 @@ Dialogue: 10,0:03:08.71,0:03:10.37,GJM_Main,,0,0,0,,Uiharu?
 Dialogue: 10,0:03:10.37,0:03:17.59,GJM_Main,,0,0,0,,{\q2}Uh, so many people will be visiting\N the city during the festival...
 Dialogue: 10,0:03:17.59,0:03:21.13,GJM_Main,,0,0,0,,{\q2}As a member of Judgment,\N I can't let my guard down.
 Dialogue: 10,0:03:21.13,0:03:22.47,GJM_Main,,0,0,0,,And...
-Dialogue: 10,0:03:22.47,0:03:27.18,GJM_Main,,0,0,0,,{\q2}What if I screw up again\N and things go pear shaped...
+Dialogue: 10,0:03:22.47,0:03:27.18,GJM_Main,,0,0,0,,{\q2}What if I screw up and\N make a mess of things again...
 Dialogue: 10,0:03:27.18,0:03:31.06,GJM_Main,,0,0,0,,Uiharu!
 Dialogue: 10,0:03:31.85,0:03:33.56,GJM_Main,,0,0,0,,Oh, polka dots!
 Dialogue: 10,0:03:35.23,0:03:37.11,GJM_Main,,0,0,0,,The basics are important.
@@ -110,10 +109,10 @@ Dialogue: 10,0:04:23.45,0:04:25.11,GJM_Main,,0,0,0,,For the Starlight Games?
 Dialogue: 10,0:04:25.11,0:04:26.70,GJM_Main,,0,0,0,,They asked you?
 Dialogue: 10,0:04:26.70,0:04:27.45,GJM_Main,,0,0,0,,Yeah...
 Dialogue: 10,0:04:27.74,0:04:31.04,GJM_Main,,0,0,0,,A teacher caught me when I was leaving just now.
-Dialogue: 10,0:04:31.04,0:04:36.25,GJM_Main,,0,0,0,,{\q2}You have experience from\N the demonstration in Russia.
+Dialogue: 10,0:04:31.04,0:04:36.25,GJM_Main,,0,0,0,,{\q2}You have experience with public appearances\N from that exhibition in Russia.
 Dialogue: 10,0:04:36.25,0:04:41.01,GJM_Main,,0,0,0,,{\q2}Many believe you are the best \Nstudent to represent Tokiwadai.
 Dialogue: 10,0:04:41.01,0:04:42.72,GJM_Main,,0,0,0,,I see.
-Dialogue: 10,0:04:43.01,0:04:45.68,GJM_Main,,0,0,0,,The final word is yours.
+Dialogue: 10,0:04:43.01,0:04:45.68,GJM_Main,,0,0,0,,The choice is yours.
 Dialogue: 10,0:04:46.22,0:04:46.80,GJM_Main,,0,0,0,,So she said.
 Dialogue: 10,0:04:47.30,0:04:49.56,GJM_Main,,0,0,0,,That's amazing!
 Dialogue: 10,0:04:49.56,0:04:54.69,GJM_Main,,0,0,0,,{\q2}That opening ceremony will be\N broadcast all around the world!
@@ -122,11 +121,11 @@ Dialogue: 10,0:04:57.56,0:05:00.02,GJM_Main,,0,0,0,,That's but natural for her.
 Dialogue: 10,0:05:00.02,0:05:03.32,GJM_Main,,0,0,0,,I'm really not interested...
 Dialogue: 10,0:05:03.32,0:05:07.57,GJM_Main,,0,0,0,,Your parents would be happy about it though.
 Dialogue: 10,0:05:08.83,0:05:10.70,GJM_Main,,0,0,0,,Would they?
-Dialogue: 10,0:05:10.70,0:05:16.71,GJM_Main,,0,0,0,,It makes me jealous that I can't keep you to myself.
+Dialogue: 10,0:05:10.70,0:05:16.71,GJM_Main,,0,0,0,,{\q2}It's such a pity that I can't \Nkeep you to myself forever.
 Dialogue: 10,0:05:16.71,0:05:17.96,GJM_Main,,0,0,0,,What was that?
 Dialogue: 10,0:05:17.96,0:05:19.96,GJM_Main,,0,0,0,,We'll all cheer for you.
 Dialogue: 10,0:05:19.96,0:05:23.21,GJM_Main,,0,0,0,,You can attend the opening ceremony, Shirai?
-Dialogue: 10,0:05:23.21,0:05:26.88,GJM_Main,,0,0,0,,Yes, I'm scheduled to be discharged before that.
+Dialogue: 10,0:05:23.21,0:05:26.88,GJM_Main,,0,0,0,,Yes, I'm scheduled to be discharged before then.
 Dialogue: 10,0:05:26.88,0:05:29.80,GJM_Main,,0,0,0,,Alas, I can't take part in the races, though.
 Dialogue: 10,0:05:29.80,0:05:34.10,GJM_Main,,0,0,0,,It's a shame our elite training will go to waste.
 Dialogue: 10,0:05:34.10,0:05:36.31,GJM_Main,,0,0,0,,Elite training, huh?
@@ -134,8 +133,8 @@ Dialogue: 10,0:05:35.27,0:05:36.31,GJM_Overlap,,0,0,0,,Hey!
 Dialogue: 10,0:05:36.31,0:05:40.02,GJM_Main,,0,0,0,,{\q2}Darling! Tighter! \NI need to feel your skin against mine!
 Dialogue: 10,0:05:36.98,0:05:38.56,GJM_Overlap,,0,0,0,,{\an8}{overlap}Kuroko!
 Dialogue: 10,0:05:38.56,0:05:41.27,GJM_Overlap,,0,0,0,,{\an8}{overlap}Get off me already!
-Dialogue: 10,0:05:42.73,0:05:44.44,GJM_Main,,0,0,0,,Don't worry about it.
-Dialogue: 10,0:05:44.44,0:05:48.20,GJM_Main,,0,0,0,,I have made the necessary arrangements.
+Dialogue: 10,0:05:42.73,0:05:44.44,GJM_Main,,0,0,0,,Well, it's not your fault.
+Dialogue: 10,0:05:44.44,0:05:48.20,GJM_Main,,0,0,0,,{\q}Worry not! I have made\N the necessary arrangements.
 Dialogue: 10,0:05:48.20,0:05:51.20,GJM_Main,,0,0,0,,Just leave it to me.
 Dialogue: 10,0:05:51.91,0:05:55.41,GJM_Main,,0,0,0,,Let's go together then!
 Dialogue: 10,0:05:55.41,0:05:57.46,GJM_Main,,0,0,0,,Thank you for the kind invitation,
@@ -220,7 +219,7 @@ Dialogue: 10,0:09:48.23,0:09:51.86,GJM_Main,,0,0,0,,Hate might not quite cover i
 Dialogue: 10,0:09:54.57,0:09:55.32,GJM_Main,,0,0,0,,What?
 Dialogue: 10,0:09:56.28,0:09:59.66,GJM_Main,,0,0,0,,Pledge of fair play at the opening ceremony?
 Dialogue: 10,0:09:59.66,0:10:00.57,GJM_Main,,0,0,0,,That's right.
-Dialogue: 10,0:10:00.91,0:10:04.95,GJM_Main,,0,0,0,,{\q2}We're supposed to be underground.\N No fucking point putting me in the spotlight.
+Dialogue: 10,0:10:00.91,0:10:04.95,GJM_Main,,0,0,0,,{\q2}We're supposed to be underground.\N Why the fuck would you put me in the spotlight?
 Dialogue: 10,0:10:04.95,0:10:05.91,GJM_Main,,0,0,0,,What's that?
 Dialogue: 10,0:10:05.91,0:10:07.41,GJM_Main,,0,0,0,,Oh, come on!
 Dialogue: 10,0:10:07.41,0:10:11.67,GJM_Main,,0,0,0,,{\q2}You could be an idol of the city!\N The hunter in the dark!
@@ -254,9 +253,10 @@ Dialogue: 10,0:10:54.92,0:10:56.30,GJM_Main,,0,0,0,,Seriously?
 Dialogue: 10,0:10:56.30,0:10:58.59,GJM_Main,,0,0,0,,Of course he refused,
 Dialogue: 10,0:10:58.59,0:11:01.26,GJM_Main,,0,0,0,,but the agent wouldn't let it go.
 Dialogue: 10,0:11:01.26,0:11:03.64,GJM_Main,,0,0,0,,So he got pissed.
-Dialogue: 10,0:11:03.64,0:11:05.60,GJM_Main,,0,0,0,,Cut me some slack.
+Dialogue: 10,0:11:03.64,0:11:05.60,GJM_Main,,0,0,0,,Cut the crap.
 Dialogue: 10,0:11:05.60,0:11:11.81,GJM_Main,,0,0,0,,{\q2}That trash is for brats who still believe\N in shit like hoping and working hard.
 Dialogue: 10,0:11:11.81,0:11:16.65,GJM_Main,,0,0,0,,{\q2}Then he said, "you've got the looks\N those kids would love".
+Dialogue: 10,0:11:13.86,0:11:15.32,GJM_Overlap,,0,0,0,,{\an8}Come now, kids!
 Dialogue: 10,0:11:17.86,0:11:20.24,GJM_Main,,0,0,0,,Did you just laugh?
 Dialogue: 10,0:11:28.91,0:11:32.37,GJM_Main,,0,0,0,,You're looking good, Accelerator.
 Dialogue: 10,0:11:33.92,0:11:35.17,GJM_Main,,0,0,0,,It's been a while.
@@ -359,7 +359,7 @@ Dialogue: 10,0:16:49.69,0:16:51.74,GJM_Main,,0,0,0,,And that's... okay?
 Dialogue: 10,0:16:51.74,0:16:57.66,GJM_Main,,0,0,0,,He's probably running around helping people.
 Dialogue: 10,0:16:57.66,0:17:01.95,GJM_Main,,0,0,0,,But don't worry, he'll accept your request.
 Dialogue: 10,0:17:02.75,0:17:04.50,GJM_Main,,0,0,0,,How do you know he'll agree?
-Dialogue: 10,0:17:04.50,0:17:07.63,GJM_Main,,0,0,0,,He can't refuse if people ask something of him.
+Dialogue: 10,0:17:04.50,0:17:07.63,GJM_Main,,0,0,0,,He's the kind of person who just can't say no.
 Dialogue: 10,0:17:08.46,0:17:13.22,GJM_Main,,0,0,0,,That's how Sogiita Gunha rolls.
 Dialogue: 10,0:17:14.93,0:17:16.59,GJM_Main,,0,0,0,,You bastard!
 Dialogue: 10,0:17:17.05,0:17:20.35,GJM_Main,,0,0,0,,{\q2}How dare you trample our flag, \Nsymbol of the hype section?!
@@ -415,7 +415,7 @@ Dialogue: 10,0:19:57.25,0:19:58.55,GJM_Main,,0,0,0,,See you!
 Dialogue: 10,0:19:58.55,0:20:00.72,GJM_Main,,0,0,0,,Should we get going?
 Dialogue: 10,0:20:01.22,0:20:03.89,GJM_Main,,0,0,0,,Are you visiting Shirai today as well?
 Dialogue: 10,0:20:03.89,0:20:07.76,GJM_Main,,0,0,0,,Yeah, I've got something for her... too...?
-Dialogue: 10,0:20:12.98,0:20:15.86,GJM_Main,,0,0,0,,Finally an official offer for Your Majesty.
+Dialogue: 10,0:20:12.98,0:20:15.86,GJM_Main,,0,0,0,,Finally an official offer for the Queen of Tokiwadai.
 Dialogue: 10,0:20:17.27,0:20:22.78,GJM_Main,,0,0,0,,{\q2}I'm really not so motivated\N after what I said to Misaka.
 Dialogue: 10,0:20:22.78,0:20:25.37,GJM_Main,,0,0,0,,I'd say you should accept the offer.
 Dialogue: 10,0:20:25.66,0:20:30.83,GJM_Main,,0,0,0,,{\q2}My work gets easier if you\N gather attention in the spotlight.
