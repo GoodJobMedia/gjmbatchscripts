@@ -17,8 +17,8 @@ Keyframes File: Railgun_T_EP02_Premux._keyframes.txt
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 2285
-Active Line: 2289
+Scroll Position: 184
+Active Line: 185
 Video Position: 7104
 
 [V4+ Styles]
@@ -218,7 +218,7 @@ Dialogue: 10,0:11:52.74,0:11:53.56,GJM_Main,,0,0,0,,Shit.
 Dialogue: 10,0:11:56.65,0:12:02.06,GJM_Main,,0,0,0,,Amazing! A safety mat caught them in the air!
 Dialogue: 10,0:12:03.32,0:12:06.91,GJM_Main,,0,0,0,,{\q2}The heroes of the day are \Nof course the Tokiwadai pair!
 Dialogue: 10,0:12:06.91,0:12:10.32,GJM_Main,,0,0,0,,Misaka lifted up the mat with her magnetism,
-Dialogue: 10,0:12:10.32,0:12:14.50,GJM_Main,,0,0,0,,and Kongou made it fly with her Air Hand!
+Dialogue: 10,0:12:10.32,0:12:14.50,GJM_Main,,0,0,0,,and Kongou made it fly with her Aero Hand!
 Dialogue: 10,0:12:14.50,0:12:20.21,GJM_Main,,0,0,0,,What amazing teamwork in the face of danger!
 Dialogue: 10,0:12:21.30,0:12:25.04,GJM_Main,,0,0,0,,Damn, and we were so close, too.
 Dialogue: 10,0:12:26.30,0:12:27.22,GJM_Main,,0,0,0,,What's this?
