@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Railgun_T_EP02_Premux (with audio shift).mkv
-Video File: Railgun_T_EP02_Premux (with audio shift).mkv
-Keyframes File: Railgun_T_EP02_Premux._keyframes.txt
+Audio File: E:/GJM/Railgun T/02/Railgun_T_EP02_Premux (with audio shift).mkv
+Video File: E:/GJM/Railgun T/02/Railgun_T_EP02_Premux (with audio shift).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 184
-Active Line: 185
-Video Position: 7104
+Video Zoom Percent: 0.500000
+Scroll Position: 223
+Active Line: 233
+Video Position: 21775
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -273,12 +272,12 @@ Dialogue: 10,0:15:16.22,0:15:20.50,GJM_Main,,0,0,0,,{\q2}I've seen you run befor
 Dialogue: 10,0:15:20.50,0:15:24.32,GJM_Main,,0,0,0,,You could outrun boys of the same age! So cool!
 Dialogue: 10,0:15:24.32,0:15:28.40,GJM_Main,,0,0,0,,Really? I've been quick since I was little...
 Dialogue: 10,0:15:27.54,0:15:31.56,GJM_Overlap,,0,0,0,,{\an8}Mikoto's been really fast since she could walk.{since kindergarten}
-Dialogue: 10,0:15:32.36,0:15:33.64,GJM_Main,,0,0,0,,Momma?
+Dialogue: 10,0:15:32.36,0:15:33.64,GJM_Main,,0,0,0,,Mama?
 Dialogue: 10,0:15:33.64,0:15:34.50,GJM_Main,,0,0,0,,Hey.
 Dialogue: 10,0:15:34.50,0:15:36.58,GJM_Main,,0,0,0,,{\q2}What are you doing here?\N We were supposed to meet—
-Dialogue: 10,0:15:36.58,0:15:38.00,GJM_Main,,0,0,0,,"Momma"?!
-Dialogue: 10,0:15:39.32,0:15:44.48,GJM_Main,,0,0,0,,{\q2}I called her the way I did when I was small without \Nthinking but it's not that I'm still a mommy's girl—
-Dialogue: 10,0:15:44.48,0:15:47.26,GJM_Main,,0,0,0,,Mom? Are you Misaka's mother?
+Dialogue: 10,0:15:36.58,0:15:38.00,GJM_Main,,0,0,0,,"Mama"?!
+Dialogue: 10,0:15:39.32,0:15:44.48,GJM_Main,,0,0,0,,{\q2}I called her the way I did when I was small without \Nthinking but it's not that I'm still a mama's girl—
+Dialogue: 10,0:15:44.48,0:15:47.26,GJM_Main,,0,0,0,,"Mama"? Are you Misaka's mother?
 Dialogue: 10,0:15:47.26,0:15:49.00,GJM_Main,,0,0,0,,Not her sister?
 Dialogue: 10,0:15:49.00,0:15:50.98,GJM_Main,,0,0,0,,You look like you're in your early twenties!
 Dialogue: 10,0:15:50.98,0:15:52.54,GJM_Main,,0,0,0,,Oh. That?
@@ -300,7 +299,7 @@ Dialogue: 10,0:16:40.00,0:16:44.08,GJM_Main,,0,0,0,,Why not ask someone to run i
 Dialogue: 10,0:16:44.08,0:16:45.27,GJM_Main,,0,0,0,,Well...
 Dialogue: 10,0:16:45.27,0:16:49.22,GJM_Main,,0,0,0,,{\q2}I'll have to compete with that moron,\N so I'd rather not...
 Dialogue: 10,0:16:49.22,0:16:51.04,GJM_Main,,0,0,0,,That moron? Who would that be?
-Dialogue: 10,0:16:51.04,0:16:53.26,GJM_Main,,0,0,0,,Mommy wants to know!
+Dialogue: 10,0:16:51.04,0:16:53.26,GJM_Main,,0,0,0,,Mama wants to know!
 Dialogue: 10,0:16:53.26,0:16:56.00,GJM_Main,,0,0,0,,I-I didn't mean it like that!
 Dialogue: 10,0:16:56.00,0:16:58.88,GJM_Main,,0,0,0,,Oh, him?
 Dialogue: 10,0:16:58.88,0:16:59.91,GJM_Main,,0,0,0,,You know?
