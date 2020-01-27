@@ -17,6 +17,8 @@ Keyframes File: Mahou_Shoujo_Misaka_Mikoto_T_EP03_Premux (with -48 audio shift)_
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
+Scroll Position: 91
+Active Line: 109
 Video Position: 47
 
 [V4+ Styles]
@@ -165,7 +167,7 @@ Dialogue: 10,0:09:47.84,0:09:50.73,GJM_Main,,0,0,0,,Thus I fall, in the end.
 Dialogue: 10,0:09:51.84,0:09:56.70,GJM_Main,,0,0,0,,Don't forget to feed Ekaterina... one mouse a day.
 Dialogue: 10,0:09:57.10,0:10:00.60,GJM_Main,,0,0,0,,{\q2}Thanks for the performance.\N Now get out of the battle zone quick.
 Dialogue: 10,0:10:00.60,0:10:02.82,GJM_Main,,0,0,0,,Oh, we need to?
-Dialogue: 10,0:10:02.82,0:10:06.66,GJM_Main,,0,0,0,,Youre so strong. There were seven of us.
+Dialogue: 10,0:10:02.82,0:10:06.66,GJM_Main,,0,0,0,,You're so strong. There were seven of us.
 Dialogue: 10,0:10:06.66,0:10:10.92,GJM_Main,,0,0,0,,{\q2}This is what you deserve\N for challenging the great Kongou Mitsuko!
 Dialogue: 10,0:10:10.92,0:10:15.74,GJM_Main,,0,0,0,,{\q2}You should be proud that you\N managed to beat me at all!
 Dialogue: 10,0:10:10.08,0:10:14.84,GJM_Overlap,,0,0,0,,{\an8\q2}She's a transfer student,\N so we barely had any data on her.
@@ -202,7 +204,7 @@ Dialogue: 10,0:11:57.36,0:12:00.96,GJM_Main,,0,0,0,,{\i1}Yet she is not just run
 Dialogue: 10,0:12:01.84,0:12:04.40,GJM_Main,,0,0,0,,{\i1}She's escaped to such an open area.
 Dialogue: 10,0:12:04.40,0:12:07.14,GJM_Main,,0,0,0,,{\i1}This is either of benefit to her ability,
 Dialogue: 10,0:12:07.14,0:12:08.79,GJM_Main,,0,0,0,,{\i1}or perhaps...
-Dialogue: 10,0:12:08.79,0:12:09.78,GJM_Main,,0,0,0,,{\i1}it's a trap. 
+Dialogue: 10,0:12:08.79,0:12:09.78,GJM_Main,,0,0,0,,{\i1}it's a trap.
 Dialogue: 10,0:12:13.22,0:12:15.58,GJM_Main,,0,0,0,,If thrown balls can't hit her,
 Dialogue: 10,0:12:15.58,0:12:17.88,GJM_Main,,0,0,0,,then don't throw them.
 Dialogue: 10,0:12:17.88,0:12:19.58,GJM_Main,,0,0,0,,Huh?
@@ -321,7 +323,7 @@ Dialogue: 10,0:18:31.30,0:18:33.09,GJM_Main,,0,0,0,,It's all tea though.
 Dialogue: 10,0:18:34.16,0:18:37.52,GJM_Main,,0,0,0,,Who might that be?
 Dialogue: 10,0:18:37.52,0:18:40.34,GJM_Main,,0,0,0,,A schoolmate in my year. Sadly.
 Dialogue: 10,0:18:40.34,0:18:43.76,GJM_Main,,0,0,0,,In your yea...
-Dialogue: 10,0:18:45.22,0:18:48.60,GJM_Main,,0,0,0,,I see, in your year! 
+Dialogue: 10,0:18:45.22,0:18:48.60,GJM_Main,,0,0,0,,I see, in your year!
 Dialogue: 10,0:18:47.06,0:18:51.10,GJM_Overlap,,0,0,0,,{\an8\i1}I saw where his eyes just went!
 Dialogue: 10,0:18:52.66,0:18:55.47,GJM_Main,,0,0,0,,Hello, Kamijou!
 Dialogue: 10,0:18:55.57,0:19:01.37,GJM_Main,,0,0,0,,I'm Shokuhou Misaki, Misaka's friend!
