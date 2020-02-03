@@ -1,0 +1,174 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: GJM_Main,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: ED,Austie Bost Hooked on a Feeling,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:05.09,0:00:07.12,GJM_Main,,0,0,0,,{\i1}In May, the ski resort
+Dialogue: 10,0:00:07.12,0:00:09.92,GJM_Main,,0,0,0,,{\i1}is still covered in snow.
+Dialogue: 10,0:00:09.92,0:00:12.74,GJM_Main,,0,0,0,,{\i1}It looks like we can keep it open for a while longer.
+Dialogue: 10,0:00:13.34,0:00:17.41,GJM_Main,,0,0,0,,{\q2\i1}The paths on the snow-covered \Nmountains around here
+Dialogue: 10,0:00:17.41,0:00:22.44,GJM_Main,,0,0,0,,{\i1}serve as fantastic beginner courses
+Dialogue: 10,0:00:22.44,0:00:24.00,GJM_Main,,0,0,0,,{\i1}for us new to skiing.
+Dialogue: 10,0:00:29.18,0:00:32.37,GJM_Main,,0,0,0,,{\i1}As for the parking lot in front of the lodge,
+Dialogue: 10,0:00:32.37,0:00:37.10,GJM_Main,,0,0,0,,{\i1}it's used for time-trial practice during the off season.
+Dialogue: 10,0:00:39.31,0:00:41.10,GJM_Main,,0,0,0,,Um, excuse me.
+Dialogue: 10,0:00:41.71,0:00:43.90,GJM_Main,,0,0,0,,I think the vending machine is broken.
+Dialogue: 10,0:00:50.01,0:00:51.88,GJM_Main,,0,0,0,,Um...
+Dialogue: 10,0:00:51.88,0:00:54.09,GJM_Main,,0,0,0,,Did it have any contact information?
+Dialogue: 10,0:00:54.09,0:00:57.28,GJM_Main,,0,0,0,,Huh? Good question, I'm not sure.
+Dialogue: 10,0:00:57.28,0:01:00.62,GJM_Main,,0,0,0,,I believe the supplier operates it directly.
+Dialogue: 10,0:01:01.27,0:01:04.09,GJM_Main,,0,0,0,,Come on, have a quick look, pretty please?
+Dialogue: 10,0:01:04.09,0:01:06.62,GJM_Main,,0,0,0,,You don't look very busy anyway.
+Dialogue: 10,0:01:08.61,0:01:10.72,GJM_Main,,0,0,0,,Well, I'm not, but...
+Dialogue: 10,0:01:13.28,0:01:14.95,GJM_Main,,0,0,0,,What about the vending machine?
+Dialogue: 10,0:01:15.36,0:01:19.06,GJM_Main,,0,0,0,,This thing's one of the largest in Japan, right?
+Dialogue: 10,0:01:19.06,0:01:21.66,GJM_Main,,0,0,0,,Though it's Swiss technology.
+Dialogue: 10,0:01:22.18,0:01:25.19,GJM_Main,,0,0,0,,{\q2}The gondolas were constructed\N entirely in Switzerland.
+Dialogue: 10,0:01:25.19,0:01:26.96,GJM_Main,,0,0,0,,It's incredible.
+Dialogue: 10,0:01:26.96,0:01:30.44,GJM_Main,,0,0,0,,I'd love to see it in action.
+Dialogue: 10,0:01:30.73,0:01:32.52,GJM_Main,,0,0,0,,Why not come here to ski?
+Dialogue: 10,0:01:32.52,0:01:35.20,GJM_Main,,0,0,0,,It seems to be in operation the entire winter.
+Dialogue: 10,0:01:35.40,0:01:37.91,GJM_Main,,0,0,0,,Yeah, that sounds like a good idea.
+Dialogue: 10,0:01:37.91,0:01:43.37,GJM_Main,,0,0,0,,{\q2}By the way, when you get on a gondola here, \Nmake sure you sit on the ski slope side.
+Dialogue: 10,0:01:43.37,0:01:44.20,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:01:44.20,0:01:47.23,GJM_Main,,0,0,0,,There's something amazing to see there,
+Dialogue: 10,0:01:47.23,0:01:49.42,GJM_Main,,0,0,0,,on a clear day, if you're lucky.
+Dialogue: 10,0:01:51.84,0:01:54.03,GJM_Main,,0,0,0,,Oh right, the vending machine.
+Dialogue: 10,0:01:54.51,0:01:57.47,GJM_Main,,0,0,0,,Yup. My 130 yen.
+Dialogue: 10,0:02:05.40,0:02:08.08,GJM_Main,,0,0,0,,You like machines, right?
+Dialogue: 10,0:02:08.08,0:02:12.86,GJM_Main,,0,0,0,,{\q2}If only you were a bit more familiar \Nwith how vending machines work.
+Dialogue: 10,0:02:12.86,0:02:14.86,GJM_Main,,0,0,0,,Once the money's inserted, press a button.
+Dialogue: 10,0:02:15.17,0:02:16.14,GJM_Main,,0,0,0,,Thanks.
+Dialogue: 10,0:02:17.04,0:02:18.66,GJM_Main,,0,0,0,,You're welcome.
+Dialogue: 10,0:02:57.95,0:02:59.11,GJM_Main,,0,0,0,,It's moving!
+Dialogue: 10,0:02:59.37,0:03:00.61,GJM_Main,,0,0,0,,Let me on!
+Dialogue: 10,0:03:00.61,0:03:02.09,GJM_Main,,0,0,0,,I can't do that.
+Dialogue: 10,0:03:02.09,0:03:05.12,GJM_Main,,0,0,0,,I don't have permission to let people on as I please.
+Dialogue: 10,0:03:05.38,0:03:07.67,GJM_Main,,0,0,0,,Pretty please! I want to go up!
+Dialogue: 10,0:03:08.32,0:03:10.50,GJM_Main,,0,0,0,,There's something I just have to see!
+Dialogue: 10,0:03:11.26,0:03:12.06,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:03:16.22,0:03:17.80,GJM_Main,,0,0,0,,Just this once!
+Dialogue: 10,0:03:35.85,0:03:37.98,GJM_Main,,0,0,0,,You're good at driving cars, huh?
+Dialogue: 10,0:03:37.98,0:03:39.36,GJM_Main,,0,0,0,,Oh, please.
+Dialogue: 10,0:03:39.36,0:03:41.32,GJM_Main,,0,0,0,,I know you think I'm bad at it.
+Dialogue: 10,0:03:41.32,0:03:42.99,GJM_Main,,0,0,0,,Not at all!
+Dialogue: 10,0:03:42.99,0:03:46.08,GJM_Main,,0,0,0,,I could never drive like that!
+Dialogue: 10,0:03:46.08,0:03:47.27,GJM_Main,,0,0,0,,Yeah, that's true.
+Dialogue: 10,0:03:48.77,0:03:52.08,GJM_Main,,0,0,0,,And I couldn't drive a motorbike like you do.
+Dialogue: 10,0:03:53.06,0:03:56.34,GJM_Main,,0,0,0,,{\q2}Motorbikes and cars are just \Nmeans of transportation.
+Dialogue: 10,0:03:56.70,0:03:58.34,GJM_Main,,0,0,0,,They're more than that to me.
+Dialogue: 10,0:03:58.69,0:04:01.42,GJM_Main,,0,0,0,,{\q2}Well, it's not like I don't understand\N what makes machines fun.
+Dialogue: 10,0:04:01.42,0:04:02.41,GJM_Main,,0,0,0,,I guess so.
+Dialogue: 10,0:04:03.34,0:04:07.15,GJM_Main,,0,0,0,,Otherwise you wouldn't be doing a job like this.
+Dialogue: 10,0:04:09.90,0:04:11.80,GJM_Main,,0,0,0,,And I like nature, too.
+Dialogue: 10,0:04:12.26,0:04:15.52,GJM_Main,,0,0,0,,I work at the Inokuchi Camellia Hall.
+Dialogue: 10,0:04:15.93,0:04:18.05,GJM_Main,,0,0,0,,What? Really?
+Dialogue: 10,0:04:18.05,0:04:20.65,GJM_Main,,0,0,0,,It's amazing how many camellias they have.
+Dialogue: 10,0:04:20.65,0:04:22.99,GJM_Main,,0,0,0,,I love the camellias there!
+Dialogue: 10,0:04:22.99,0:04:24.47,GJM_Main,,0,0,0,,Yeah, it comes across.
+Dialogue: 10,0:04:24.47,0:04:27.52,GJM_Main,,0,0,0,,But in the end I don't like to rely on machines.
+Dialogue: 10,0:04:27.52,0:04:29.48,GJM_Main,,0,0,0,,You prefer to climb using your own legs.
+Dialogue: 10,0:04:29.48,0:04:30.11,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:04:30.89,0:04:32.97,GJM_Main,,0,0,0,,I see you climb up every now and then.
+Dialogue: 10,0:04:32.97,0:04:34.04,GJM_Main,,0,0,0,,On the ski slope.
+Dialogue: 10,0:04:34.31,0:04:36.04,GJM_Main,,0,0,0,,You were watching?!
+Dialogue: 10,0:04:36.04,0:04:38.25,GJM_Main,,0,0,0,,Hey, I don't go around spying on people.
+Dialogue: 10,0:04:38.25,0:04:40.09,GJM_Main,,0,0,0,,I just happened to...
+Dialogue: 10,0:04:50.10,0:04:53.25,GJM_Main,,0,0,0,,That was a lie. I was looking at you the whole time.
+Dialogue: 10,0:04:53.65,0:04:57.27,GJM_Main,,0,0,0,,And I really wanted to see this.
+Dialogue: 10,0:04:57.80,0:04:59.73,GJM_Main,,0,0,0,,The view you love so much.
+Dialogue: 10,0:04:59.73,0:05:00.41,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:05:02.45,0:05:05.47,GJM_Main,,0,0,0,,{\q2}The vending machine\N breaking down was a lie too.
+Dialogue: 10,0:05:05.47,0:05:06.73,GJM_Main,,0,0,0,,Sorry.
+Dialogue: 10,0:05:06.73,0:05:08.42,GJM_Main,,0,0,0,,What?!
+Dialogue: 0,0:05:14.44,0:05:20.30,ED,,0,0,0,,{\fad(200,200)}On a snowy hill where red flowers bloom
+Dialogue: 0,0:05:20.30,0:05:26.25,ED,,0,0,0,,{\fad(200,200)}You almost seem like pure light to me
+Dialogue: 0,0:05:26.25,0:05:31.14,ED,,0,0,0,,{\fad(200,200)}A cold breath
+Dialogue: 0,0:05:32.21,0:05:36.65,ED,,0,0,0,,{\fad(200,200)}Brushes past
+Dialogue: 0,0:05:38.81,0:05:44.80,ED,,0,0,0,,{\fad(200,200)}On a white hill that goes on forever
+Dialogue: 0,0:05:44.80,0:05:50.31,ED,,0,0,0,,{\fad(200,200)}You almost seem like you're infinite to me
+Dialogue: 0,0:05:50.69,0:05:55.42,ED,,0,0,0,,{\fad(200,200)}Our hands meet
+Dialogue: 0,0:05:56.62,0:06:01.38,ED,,0,0,0,,{\fad(200,200)}Let's stay like this
+Dialogue: 0,0:06:02.53,0:06:08.43,ED,,0,0,0,,{\fad(200,200)}If you ever feel like crying, come to me
+Dialogue: 0,0:06:08.43,0:06:13.55,ED,,0,0,0,,{\fad(200,200)}It would be our very own secret
+Dialogue: 0,0:06:14.40,0:06:19.96,ED,,0,0,0,,{\fad(200,200)}Just like the wide sky and the sun
+Dialogue: 0,0:06:19.96,0:06:25.01,ED,,0,0,0,,{\fad(200,200)}I want to stay next to you forever
+Dialogue: 0,0:06:25.53,0:06:29.29,ED,,0,0,0,,{\fad(200,200)}And ever{this is 100% filler, could also just extend the previous line to cover this}
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(622,448,627,522)\t(0,692,\c&HAB6200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(627,448,632,522)\t(0,692,\c&HAA6100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(632,448,637,522)\t(0,692,\c&HA96000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(637,448,642,522)\t(0,692,\c&HA85F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(642,448,647,522)\t(0,692,\c&HA75E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(647,448,652,522)\t(0,692,\c&HA65D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(652,448,657,522)\t(0,692,\c&HA65C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(657,448,662,522)\t(0,692,\c&HA55B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(662,448,667,522)\t(0,692,\c&HA45A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(667,448,672,522)\t(0,692,\c&HA35900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(672,448,677,522)\t(0,692,\c&HA25800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(677,448,682,522)\t(0,692,\c&HA25800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(682,448,687,522)\t(0,692,\c&HA15700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(687,448,692,522)\t(0,692,\c&HA05600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(692,448,697,522)\t(0,692,\c&H9F5500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(697,448,702,522)\t(0,692,\c&H9E5400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(702,448,707,522)\t(0,692,\c&H9E5300&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(707,448,712,522)\t(0,692,\c&H9D5200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(712,448,717,522)\t(0,692,\c&H9C5100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(717,448,722,522)\t(0,692,\c&H9B5000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(722,448,727,522)\t(0,692,\c&H9A4F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(727,448,732,522)\t(0,692,\c&H9A4F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(732,448,737,522)\t(0,692,\c&H994E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(742,448,747,522)\t(0,692,\c&H974C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(747,448,752,522)\t(0,692,\c&H964B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(752,448,757,522)\t(0,692,\c&H964A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(757,448,762,522)\t(0,692,\c&H954900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(762,448,767,522)\t(0,692,\c&H944800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(767,448,772,522)\t(0,692,\c&H934700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(772,448,777,522)\t(0,692,\c&H924600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(777,448,782,522)\t(0,692,\c&H924600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(782,448,787,522)\t(0,692,\c&H914500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(787,448,792,522)\t(0,692,\c&H904400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(792,448,797,522)\t(0,692,\c&H8F4300&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(797,448,802,522)\t(0,692,\c&H8E4200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(802,448,807,522)\t(0,692,\c&H8E4100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(807,448,812,522)\t(0,692,\c&H8D4000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(812,448,817,522)\t(0,692,\c&H8C3F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(817,448,822,522)\t(0,692,\c&H8B3E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(822,448,827,522)\t(0,692,\c&H8A3D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(827,448,832,522)\t(0,692,\c&H8A3D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(832,448,837,522)\t(0,692,\c&H893C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(837,448,842,522)\t(0,692,\c&H883B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(842,448,847,522)\t(0,692,\c&H873A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(847,448,852,522)\t(0,692,\c&H863900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(852,448,857,522)\t(0,692,\c&H863800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(857,448,862,522)\t(0,692,\c&H853700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(862,448,867,522)\t(0,692,\c&H843600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(867,448,872,522)\t(0,692,\c&H833500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(872,448,877,522)\t(0,692,\c&H823400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(877,448,882,522)\t(0,692,\c&H823401&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(644.053,638.936)\fnArial Rounded MT Bold\fs34\b1\bord1.8\3c&HFFFFFF&\blur0.4\t(0,692,\c&H666667&\3c&H666667&)}Takumi and Natsuko   Part 1
+Dialogue: 2,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(644.053,638.936)\fnArial Rounded MT Bold\fs34\b1\4a&HFF&\blur0.4}Takumi and Natsuko   Part 1
+Dialogue: 0,0:02:01.85,0:02:03.93,Signs,,0,0,0,,{\pos(162.597,65.6)\frz332.6\fax0.5\fnArial Rounded MT Bold\fs45\xshad3\c&HDBDADD&\4c&H423D4A&\blur0.7}Warm
+Dialogue: 0,0:02:01.85,0:02:03.93,Signs,,0,0,0,,{\pos(561.998,271.209)\frz332.6\fax0.53\fnArial Rounded MT Bold\fs50\xshad3\c&HD3D2DC&\4c&H423D4A&\blur0.7}Warm
+Dialogue: 0,0:02:01.85,0:02:02.18,Signs,,0,0,0,,{\pos(929.712,467.238)\frz332.6\fax0.5\fnArial Rounded MT Bold\fs46\xshad3\c&HC8C3D3&\4c&H423D4A&\blur0.7}Warm
+Dialogue: 0,0:02:02.18,0:02:02.31,Signs,,0,0,0,,{\pos(929.712,467.238)\frz332.6\fax0.5\fnArial Rounded MT Bold\fs46\xshad3\c&HC8C3D3&\4c&H423D4A&\blur0.7\iclip(m 866 465 l 976 445 1034 529 972 529 872 495)}Warm
+Dialogue: 0,0:02:02.31,0:02:02.43,Signs,,0,0,0,,{\pos(929.712,467.238)\frz332.6\fax0.5\fnArial Rounded MT Bold\fs46\xshad3\c&HC8C3D3&\4c&H423D4A&\blur0.7\clip(m 871 461 b 883 463 909 465 923 465 953 479 983 495 1003 498 l 999 560 856 490)}Warm
+Dialogue: 0,0:02:01.85,0:02:02.06,Signs,,0,0,0,,{\pos(1252.475,638.947)\frz332.6\fax0.5\fnArial Rounded MT Bold\fs44\xshad3\c&HC0BFD0&\4c&H423D4A&\blur0.7}Warm

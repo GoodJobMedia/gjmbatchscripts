@@ -1,0 +1,205 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: GJM_Main,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: GJM_Overlap,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: ED,Austie Bost Hooked on a Feeling,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:04.99,0:00:07.48,GJM_Main,,0,0,0,,Man, this sucks.
+Dialogue: 10,0:00:07.76,0:00:10.58,GJM_Main,,0,0,0,,So our group is going to Taira and Kamitaira...
+Dialogue: 10,0:00:10.58,0:00:12.24,GJM_Main,,0,0,0,,Not exactly exciting.
+Dialogue: 10,0:00:12.44,0:00:14.41,GJM_Main,,0,0,0,,Don't complain!
+Dialogue: 10,0:00:14.41,0:00:18.01,GJM_Main,,0,0,0,,{\q2}This is a good opportunity \Nto learn some local history!
+Dialogue: 10,0:00:18.01,0:00:18.74,GJM_Main,,0,0,0,,Whatever.
+Dialogue: 10,0:00:46.31,0:00:49.32,GJM_Main,,0,0,0,,It's pretty intense looking on this close.
+Dialogue: 10,0:00:49.32,0:00:51.64,GJM_Main,,0,0,0,,{\q2}Weren't you complaining \Nthat it was gonna be boring?
+Dialogue: 10,0:00:51.64,0:00:52.32,GJM_Main,,0,0,0,,Shut up.
+Dialogue: 10,0:00:53.28,0:00:55.07,GJM_Main,,0,0,0,,Wow.
+Dialogue: 10,0:00:55.07,0:01:00.58,GJM_Main,,0,0,0,,{\q2}The kokiriko dance originates from traditional \Ndengaku dance, and is a form of harvest dance.
+Dialogue: 10,0:01:00.58,0:01:04.60,GJM_Main,,0,0,0,,{\q2}To pray for a good harvest,\N and as a display of gratitude to the farmers,
+Dialogue: 10,0:01:04.60,0:01:08.08,GJM_Main,,0,0,0,,professional dancers referred to as dengaku monks
+Dialogue: 10,0:01:08.48,0:01:11.86,GJM_Main,,0,0,0,,would perform it while the rice farmers rested. 
+Dialogue: 10,0:01:11.86,0:01:15.59,GJM_Main,,0,0,0,,The lyrics were originally improvised.
+Dialogue: 10,0:01:16.09,0:01:20.36,GJM_Main,,0,0,0,,Some would sing of love, others of their parents.
+Dialogue: 10,0:01:20.36,0:01:24.60,GJM_Main,,0,0,0,,{\q2}They reflected the feelings of the commoners\N and farmers as they went through—
+Dialogue: 10,0:01:22.90,0:01:24.60,GJM_Overlap,,0,0,0,,{\an8}Love songs, huh?
+Dialogue: 10,0:01:25.09,0:01:26.35,GJM_Main,,0,0,0,,Isn't this cute?
+Dialogue: 10,0:01:28.05,0:01:31.06,GJM_Main,,0,0,0,,It's painfully obvious she's avoiding you.
+Dialogue: 10,0:01:31.06,0:01:32.21,GJM_Main,,0,0,0,,Aoi, I mean.
+Dialogue: 10,0:01:32.64,0:01:37.23,GJM_Main,,0,0,0,,{\q2}It's been, what, three months\N since you started dating?
+Dialogue: 10,0:01:37.23,0:01:38.36,GJM_Main,,0,0,0,,Four months!
+Dialogue: 10,0:01:39.33,0:01:42.44,GJM_Main,,0,0,0,,Before we'd go to school together,
+Dialogue: 10,0:01:42.83,0:01:44.37,GJM_Main,,0,0,0,,but now she goes alone.
+Dialogue: 10,0:01:44.97,0:01:47.62,GJM_Main,,0,0,0,,We've only been on a date twice,
+Dialogue: 10,0:01:48.31,0:01:50.63,GJM_Main,,0,0,0,,and she seemed kind of distant during both.
+Dialogue: 10,0:01:53.34,0:01:55.09,GJM_Main,,0,0,0,,Love, huh?
+Dialogue: 10,0:01:55.88,0:01:58.44,GJM_Main,,0,0,0,,Maybe I shouldn't have told her.
+Dialogue: 10,0:01:58.44,0:01:59.08,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:01:59.08,0:02:00.73,GJM_Main,,0,0,0,,Wow, that's crazy.
+Dialogue: 10,0:02:00.73,0:02:04.45,GJM_Main,,0,0,0,,{\q2}Check them out. \NSomething's definitely going on there.
+Dialogue: 10,0:02:01.91,0:02:04.89,GJM_Overlap,,0,0,0,,{\an8}I know it'll suit you! You should buy it!
+Dialogue: 10,0:02:05.07,0:02:06.94,GJM_Main,,0,0,0,,Y-You think?
+Dialogue: 10,0:02:06.94,0:02:08.69,GJM_Main,,0,0,0,,Okay, guess I'll buy it!
+Dialogue: 10,0:02:08.69,0:02:10.69,GJM_Main,,0,0,0,,Excuse me, we'd like these!
+Dialogue: 10,0:02:10.96,0:02:13.87,GJM_Main,,0,0,0,,All right, the next hour is free time.
+Dialogue: 10,0:02:13.87,0:02:15.19,GJM_Main,,0,0,0,,Okay!
+Dialogue: 10,0:02:17.95,0:02:20.35,GJM_Main,,0,0,0,,This place is really amazing.
+Dialogue: 10,0:02:20.35,0:02:22.50,GJM_Main,,0,0,0,,Like something out of a folk tale. 
+Dialogue: 10,0:02:22.50,0:02:23.45,GJM_Main,,0,0,0,,Yeah...
+Dialogue: 10,0:02:24.60,0:02:26.68,GJM_Main,,0,0,0,,Are you looking for Haruki?
+Dialogue: 10,0:02:26.68,0:02:27.21,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:02:27.21,0:02:28.41,GJM_Main,,0,0,0,,Hey, Aoi.
+Dialogue: 10,0:02:28.84,0:02:32.26,GJM_Main,,0,0,0,,You're not worrying about me and Haruki, are you?
+Dialogue: 10,0:02:32.26,0:02:34.96,GJM_Main,,0,0,0,,N-No! That's not...
+Dialogue: 10,0:02:35.32,0:02:37.09,GJM_Main,,0,0,0,,If you are, please stop.
+Dialogue: 10,0:02:37.09,0:02:39.39,GJM_Main,,0,0,0,,He turned me down.
+Dialogue: 10,0:02:39.39,0:02:41.72,GJM_Main,,0,0,0,,And I have someone else I'm interested in.
+Dialogue: 10,0:02:43.14,0:02:44.81,GJM_Main,,0,0,0,,No, you've got it wrong.
+Dialogue: 10,0:02:45.45,0:02:46.72,GJM_Main,,0,0,0,,That's not it.
+Dialogue: 10,0:02:47.04,0:02:47.79,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:02:52.54,0:02:58.72,GJM_Main,,0,0,0,,{\q2}You see, I've actually liked Haru\N ever since we were little.
+Dialogue: 10,0:02:59.79,0:03:02.95,GJM_Main,,0,0,0,,But I didn't think he had any interest in me.
+Dialogue: 10,0:03:04.26,0:03:06.61,GJM_Main,,0,0,0,,So I thought it was best not to tell him.
+Dialogue: 10,0:03:07.39,0:03:10.96,GJM_Main,,0,0,0,,Because I didn't want to ruin our friendship.
+Dialogue: 10,0:03:12.99,0:03:15.84,GJM_Main,,0,0,0,,But now that we're actually going out,
+Dialogue: 10,0:03:15.84,0:03:18.46,GJM_Main,,0,0,0,,it's nothing like how we were before.
+Dialogue: 10,0:03:19.96,0:03:23.97,GJM_Main,,0,0,0,,I'm too embarrassed to even look Haru in the eyes.
+Dialogue: 10,0:03:24.80,0:03:27.19,GJM_Main,,0,0,0,,I'm happy that I'm his girlfriend now,
+Dialogue: 10,0:03:27.79,0:03:31.81,GJM_Main,,0,0,0,,{\q2}but I can't help feeling our\N relationship really did change.
+Dialogue: 10,0:03:33.10,0:03:36.61,GJM_Main,,0,0,0,,Maybe it really was better not to tell him.
+Dialogue: 10,0:03:37.14,0:03:39.74,GJM_Main,,0,0,0,,It made me really happy, though.
+Dialogue: 10,0:03:39.74,0:03:41.89,GJM_Main,,0,0,0,,I was happy too, but...
+Dialogue: 10,0:03:42.37,0:03:42.96,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:03:43.95,0:03:45.01,GJM_Main,,0,0,0,,What?!
+Dialogue: 10,0:03:49.45,0:03:50.42,GJM_Main,,0,0,0,,N...
+Dialogue: 10,0:03:50.42,0:03:51.45,GJM_Main,,0,0,0,,No, no, no!
+Dialogue: 10,0:03:51.45,0:03:53.02,GJM_Main,,0,0,0,,Pretend you didn't hear anything!
+Dialogue: 10,0:03:53.02,0:03:54.04,GJM_Main,,0,0,0,,I refuse.
+Dialogue: 10,0:03:55.58,0:03:56.92,GJM_Main,,0,0,0,,What's wrong?
+Dialogue: 10,0:03:57.25,0:03:59.02,GJM_Main,,0,0,0,,I'm so embarrassed.
+Dialogue: 10,0:03:59.02,0:04:01.87,GJM_Main,,0,0,0,,Just bury me in the snow.
+Dialogue: 10,0:04:01.87,0:04:03.05,GJM_Main,,0,0,0,,In that case...
+Dialogue: 10,0:04:03.05,0:04:05.43,GJM_Main,,0,0,0,,I'll do something even more embarrassing.
+Dialogue: 10,0:04:05.43,0:04:06.51,GJM_Main,,0,0,0,,What?
+Dialogue: 10,0:04:08.43,0:04:15.71,GJM_Main,,0,0,0,,Kokiriko, Haruki here
+Dialogue: 10,0:04:15.71,0:04:22.03,GJM_Main,,0,0,0,,is in love with Aoi!
+Dialogue: 10,0:04:12.16,0:04:13.08,GJM_Overlap,,0,0,0,,{\an8}Huh? What?
+Dialogue: 10,0:04:13.08,0:04:14.08,GJM_Overlap,,0,0,0,,{\an8}Wait, stop!
+Dialogue: 10,0:04:14.94,0:04:16.77,GJM_Overlap,,0,0,0,,{\an8}What's gotten into you, Haru?
+Dialogue: 10,0:04:22.65,0:04:24.14,GJM_Main,,0,0,0,,N-No, stop!
+Dialogue: 10,0:04:24.14,0:04:25.53,GJM_Main,,0,0,0,,This is too embarrassing!
+Dialogue: 10,0:04:25.77,0:04:26.44,GJM_Main,,0,0,0,, Go away.
+Dialogue: 10,0:04:26.44,0:04:28.10,GJM_Main,,0,0,0,,Who cares if they hear?
+Dialogue: 10,0:04:28.10,0:04:29.34,GJM_Main,,0,0,0,,I mean, I...
+Dialogue: 10,0:04:29.80,0:04:35.79,GJM_Main,,0,0,0,,...am in love with Aoi!
+Dialogue: 10,0:04:35.79,0:04:37.43,GJM_Main,,0,0,0,,No, no, stop!
+Dialogue: 10,0:04:38.39,0:04:39.50,GJM_Main,,0,0,0,,Haru!
+Dialogue: 10,0:04:39.50,0:04:41.51,GJM_Main,,0,0,0,,That hurt...
+Dialogue: 10,0:04:41.51,0:04:42.78,GJM_Main,,0,0,0,,...less than I expected.
+Dialogue: 10,0:04:43.28,0:04:46.04,GJM_Main,,0,0,0,,Snow's pretty neat, actually.
+Dialogue: 10,0:04:47.01,0:04:48.52,GJM_Main,,0,0,0,,Oh, you...
+Dialogue: 10,0:04:49.00,0:04:50.88,GJM_Main,,0,0,0,,Nothing's changed between us.
+Dialogue: 10,0:04:50.88,0:04:52.52,GJM_Main,,0,0,0,,H-Haru?
+Dialogue: 10,0:04:54.08,0:04:55.66,GJM_Main,,0,0,0,,Being boyfriend and girlfriend...
+Dialogue: 10,0:04:56.12,0:05:00.28,GJM_Main,,0,0,0,,{\q2}means wanting to be closer \Nto each other than anyone else, right?
+Dialogue: 10,0:05:00.95,0:05:05.56,GJM_Main,,0,0,0,,{\q2}But that's how we were \Neven before we started dating.
+Dialogue: 10,0:05:07.18,0:05:08.85,GJM_Main,,0,0,0,,Nothing's changed.
+Dialogue: 10,0:05:10.68,0:05:12.66,GJM_Main,,0,0,0,,Free time is about to end!
+Dialogue: 10,0:05:13.61,0:05:15.17,GJM_Main,,0,0,0,,C'mon, let's hurry, Aoi.
+Dialogue: 10,0:05:23.50,0:05:27.84,GJM_Main,,0,0,0,,I love you as well!
+Dialogue: 0,0:05:31.12,0:05:35.92,ED,,0,0,0,,{\fad(100,100)}{no idea what this is and it's not included in the official lyrics}
+Dialogue: 0,0:05:38.23,0:05:41.11,ED,,0,0,0,,{\fad(100,100)}This is not a mistake
+Dialogue: 0,0:05:41.80,0:05:44.88,ED,,0,0,0,,{\fad(100,100)}This is not a mistake
+Dialogue: 0,0:05:44.88,0:05:47.98,ED,,0,0,0,,{\fad(100,100)}In that moment
+Dialogue: 0,0:05:48.44,0:05:52.45,ED,,0,0,0,,{\fad(100,100)}I felt my pulse change
+Dialogue: 0,0:05:52.45,0:05:55.35,ED,,0,0,0,,{\fad(100,100)}Do you know?
+Dialogue: 0,0:05:55.99,0:05:59.13,ED,,0,0,0,,{\fad(100,100)}Are you waiting for it?
+Dialogue: 0,0:05:59.13,0:06:02.67,ED,,0,0,0,,{\fad(100,100)}Despite its cowardice
+Dialogue: 0,0:06:02.67,0:06:06.90,ED,,0,0,0,,{\fad(100,100)}My heart can take to the sky
+Dialogue: 0,0:06:06.90,0:06:10.44,ED,,0,0,0,,{\fad(100,100)}Why do I feel a nervous sensation
+Dialogue: 0,0:06:10.44,0:06:14.00,ED,,0,0,0,,{\fad(100,100)}Running through my whole body?
+Dialogue: 0,0:06:14.00,0:06:17.53,ED,,0,0,0,,{\fad(100,100)}I can't express it very well
+Dialogue: 0,0:06:17.53,0:06:21.55,ED,,0,0,0,,{\fad(100,100)}But I need to tell you
+Dialogue: 0,0:06:22.67,0:06:25.80,ED,,0,0,0,,{\fad(100,100)}Today, tomorrow, and forever more
+Dialogue: 0,0:06:25.80,0:06:29.78,ED,,0,0,0,,{\fad(100,100)}I'm drawn to you
+Dialogue: 0,0:06:29.78,0:06:33.10,ED,,0,0,0,,{\fad(100,100)}When I'm next to you
+Dialogue: 0,0:06:33.10,0:06:36.90,ED,,0,0,0,,{\fad(100,100)}My feelings start to take shape {//}
+Dialogue: 0,0:06:36.90,0:06:39.98,ED,,0,0,0,,{\fad(100,100)}With your special tune {Lit. Using your timbre/tone}
+Dialogue: 0,0:06:39.98,0:06:44.01,ED,,0,0,0,,{\fad(100,100)}Let me hear it once again
+Dialogue: 0,0:06:44.01,0:06:52.05,ED,,0,0,0,,{\fad(100,500)}Our new lives have left the starting line {are accelerating away from start}
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(622,448,627,522)\t(0,692,\c&HAB6200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(627,448,632,522)\t(0,692,\c&HAA6100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(632,448,637,522)\t(0,692,\c&HA96000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(637,448,642,522)\t(0,692,\c&HA85F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(642,448,647,522)\t(0,692,\c&HA75E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(647,448,652,522)\t(0,692,\c&HA65D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(652,448,657,522)\t(0,692,\c&HA65C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(657,448,662,522)\t(0,692,\c&HA55B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(662,448,667,522)\t(0,692,\c&HA45A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(667,448,672,522)\t(0,692,\c&HA35900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(672,448,677,522)\t(0,692,\c&HA25800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(677,448,682,522)\t(0,692,\c&HA25800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(682,448,687,522)\t(0,692,\c&HA15700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(687,448,692,522)\t(0,692,\c&HA05600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(692,448,697,522)\t(0,692,\c&H9F5500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(697,448,702,522)\t(0,692,\c&H9E5400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(702,448,707,522)\t(0,692,\c&H9E5300&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(707,448,712,522)\t(0,692,\c&H9D5200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(712,448,717,522)\t(0,692,\c&H9C5100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(717,448,722,522)\t(0,692,\c&H9B5000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(722,448,727,522)\t(0,692,\c&H9A4F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(727,448,732,522)\t(0,692,\c&H9A4F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(732,448,737,522)\t(0,692,\c&H994E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(742,448,747,522)\t(0,692,\c&H974C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(747,448,752,522)\t(0,692,\c&H964B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(752,448,757,522)\t(0,692,\c&H964A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(757,448,762,522)\t(0,692,\c&H954900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(762,448,767,522)\t(0,692,\c&H944800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(767,448,772,522)\t(0,692,\c&H934700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(772,448,777,522)\t(0,692,\c&H924600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(777,448,782,522)\t(0,692,\c&H924600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(782,448,787,522)\t(0,692,\c&H914500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(787,448,792,522)\t(0,692,\c&H904400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(792,448,797,522)\t(0,692,\c&H8F4300&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(797,448,802,522)\t(0,692,\c&H8E4200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(802,448,807,522)\t(0,692,\c&H8E4100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(807,448,812,522)\t(0,692,\c&H8D4000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(812,448,817,522)\t(0,692,\c&H8C3F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(817,448,822,522)\t(0,692,\c&H8B3E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(822,448,827,522)\t(0,692,\c&H8A3D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(827,448,832,522)\t(0,692,\c&H8A3D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(832,448,837,522)\t(0,692,\c&H893C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(837,448,842,522)\t(0,692,\c&H883B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(842,448,847,522)\t(0,692,\c&H873A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(847,448,852,522)\t(0,692,\c&H863900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(852,448,857,522)\t(0,692,\c&H863800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(857,448,862,522)\t(0,692,\c&H853700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(862,448,867,522)\t(0,692,\c&H843600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(867,448,872,522)\t(0,692,\c&H833500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(872,448,877,522)\t(0,692,\c&H823400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(877,448,882,522)\t(0,692,\c&H823401&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(644.053,638.936)\fnArial Rounded MT Bold\fs34\b1\bord1.8\3c&HFFFFFF&\blur0.4\t(0,692,\c&H666667&\3c&H666667&)}Haruki and Aoi   Part 2
+Dialogue: 2,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(644.053,638.936)\fnArial Rounded MT Bold\fs34\b1\4a&HFF&\blur0.4}Haruki and Aoi   Part 2
+Dialogue: 1,0:01:38.36,0:01:41.87,Signs,,0,0,0,,{\pos(875.833,396.354)\frz1.69\fnThe Friday Stroke\fs23\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9}An Inami Specialty
+Dialogue: 2,0:01:38.36,0:01:41.87,Signs,,0,0,0,,{\pos(875.833,396.354)\frz1.69\fnThe Friday Stroke\fs23\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 1,0:01:38.36,0:01:41.87,Signs,,0,0,0,,{\pos(926.051,569.157)\fnThe Friday Stroke\fs43\bord0.6\c&H000000&\blur1}Inaka\N Manju
+Dialogue: 2,0:01:38.36,0:01:41.87,Signs,,0,0,0,,{\pos(926.051,569.157)\fnThe Friday Stroke\fs43\c&H18232D&\4a&HFF&\blur0.6}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 0,0:02:34.96,0:02:39.97,Signs,,0,0,0,,{\pos(354.818,294.275)\frz353.1\fax0.12\fnFranklin Gothic Medium\fs10\b1\c&H453837&\blur0.6}R{\fs9.63}e{\fs9.25}c{\fs8.88}e{\fs8.5}p{\fs8.13}t{\fs7.75}i{\fs7.38}o{\fs7}n

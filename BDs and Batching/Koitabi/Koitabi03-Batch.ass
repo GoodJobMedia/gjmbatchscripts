@@ -1,0 +1,380 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: GJM_Main,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: GJM_Overlap,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: ED,Austie Bost Hooked on a Feeling,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:20.42,0:00:21.48,GJM_Main,,0,0,0,,It's too rough.
+Dialogue: 10,0:00:21.48,0:00:23.75,GJM_Main,,0,0,0,,Come on, it's just a souvenir.
+Dialogue: 10,0:00:24.49,0:00:26.50,GJM_Main,,0,0,0,,No can do. You're redoing it.
+Dialogue: 10,0:00:37.75,0:00:39.01,GJM_Main,,0,0,0,,Good morning, Haru!
+Dialogue: 10,0:00:39.01,0:00:41.14,GJM_Main,,0,0,0,,Here's this week's supply.
+Dialogue: 10,0:00:41.97,0:00:44.39,GJM_Main,,0,0,0,,These were carved by the apprentice.
+Dialogue: 10,0:00:44.78,0:00:45.89,GJM_Main,,0,0,0,,Is it that obvious?
+Dialogue: 10,0:00:45.89,0:00:47.39,GJM_Main,,0,0,0,,And these are yours.
+Dialogue: 10,0:00:47.39,0:00:48.15,GJM_Main,,0,0,0,,Haru!
+Dialogue: 10,0:00:48.59,0:00:50.53,GJM_Main,,0,0,0,,Here's today's lunch.
+Dialogue: 10,0:00:50.53,0:00:52.05,GJM_Main,,0,0,0,,Thank you for always doing this.
+Dialogue: 10,0:00:52.05,0:00:53.68,GJM_Main,,0,0,0,,Don't worry about it.
+Dialogue: 10,0:00:53.68,0:00:55.43,GJM_Main,,0,0,0,,It's just leftovers anyway.
+Dialogue: 10,0:00:55.43,0:00:56.41,GJM_Main,,0,0,0,,Hang on!
+Dialogue: 10,0:00:59.40,0:01:00.24,GJM_Main,,0,0,0,,What's with that?
+Dialogue: 10,0:01:01.17,0:01:03.28,GJM_Main,,0,0,0,,It's supposed to rain in the afternoon.
+Dialogue: 10,0:01:03.80,0:01:06.75,GJM_Main,,0,0,0,,That's a long way away. You worry too much.
+Dialogue: 10,0:01:07.18,0:01:10.88,GJM_Main,,0,0,0,,{\q2}So, are you going to follow \Nin your father's footsteps?
+Dialogue: 10,0:01:12.66,0:01:13.94,GJM_Main,,0,0,0,,I dunno.
+Dialogue: 10,0:01:13.94,0:01:17.07,GJM_Main,,0,0,0,,I don't really care about sculpting.
+Dialogue: 10,0:01:17.07,0:01:18.89,GJM_Main,,0,0,0,,Really? That's such a waste.
+Dialogue: 10,0:01:19.15,0:01:19.65,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:01:19.65,0:01:22.13,GJM_Main,,0,0,0,,You know the phone straps from last week?
+Dialogue: 10,0:01:22.13,0:01:24.53,GJM_Main,,0,0,0,,It took me a while to decide,
+Dialogue: 10,0:01:24.53,0:01:25.89,GJM_Main,,0,0,0,,before going with yours!
+Dialogue: 10,0:01:25.89,0:01:26.76,GJM_Main,,0,0,0,,Really?!
+Dialogue: 10,0:01:26.76,0:01:27.90,GJM_Main,,0,0,0,,D-Don't spit in my face!
+Dialogue: 10,0:01:28.73,0:01:30.85,GJM_Main,,0,0,0,,Your wife{, aoi} made lunch for you again?
+Dialogue: 10,0:01:30.85,0:01:33.28,GJM_Main,,0,0,0,,Knock it off! Aoi's mom made this.
+Dialogue: 10,0:01:33.54,0:01:35.20,GJM_Main,,0,0,0,,You don't have to get so embarrassed.
+Dialogue: 10,0:01:35.71,0:01:38.50,GJM_Main,,0,0,0,,Aoi, do you really not like Haruki that way?
+Dialogue: 10,0:01:38.50,0:01:40.68,GJM_Main,,0,0,0,,What?! No, not at all!
+Dialogue: 10,0:01:40.68,0:01:42.82,GJM_Main,,0,0,0,,He's like a brother to me!
+Dialogue: 10,0:01:42.82,0:01:44.91,GJM_Main,,0,0,0,,We've been together ever since we were kids.
+Dialogue: 10,0:01:44.91,0:01:46.71,GJM_Main,,0,0,0,,There's just no way!
+Dialogue: 10,0:01:47.02,0:01:48.71,GJM_Main,,0,0,0,,What? M-Me?
+Dialogue: 10,0:01:48.97,0:01:52.71,GJM_Main,,0,0,0,,Yeah. I always thought you seemed really nice.
+Dialogue: 10,0:01:53.18,0:01:55.09,GJM_Main,,0,0,0,,Oh... Uh...
+Dialogue: 10,0:01:55.09,0:01:56.92,GJM_Main,,0,0,0,,You don't have to respond right away.
+Dialogue: 10,0:01:56.92,0:01:58.22,GJM_Main,,0,0,0,,Huh? Oh... Okay...
+Dialogue: 10,0:01:58.79,0:02:03.51,GJM_Main,,0,0,0,,If you really don't like Aoi or whatever,
+Dialogue: 10,0:02:03.51,0:02:06.94,GJM_Main,,0,0,0,,I was hoping you could at least consider me.
+Dialogue: 10,0:02:09.72,0:02:12.44,GJM_Main,,0,0,0,,Oh? Shiori said that?
+Dialogue: 10,0:02:12.94,0:02:14.94,GJM_Main,,0,0,0,,Yeah, she did.
+Dialogue: 10,0:02:15.18,0:02:16.25,GJM_Main,,0,0,0,,You know...
+Dialogue: 10,0:02:16.25,0:02:16.95,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:02:17.16,0:02:18.41,GJM_Main,,0,0,0,,You can't do that!
+Dialogue: 10,0:02:18.41,0:02:19.34,GJM_Main,,0,0,0,,You just can't!{actually exact same line, but for differentiation?}
+Dialogue: 10,0:02:19.34,0:02:21.97,GJM_Main,,0,0,0,,Shiori hasn't even told me, her best friend!
+Dialogue: 10,0:02:21.97,0:02:25.00,GJM_Main,,0,0,0,,So you can't just go around telling people about it!
+Dialogue: 10,0:02:26.41,0:02:28.22,GJM_Main,,0,0,0,,You gonna go out with her?
+Dialogue: 10,0:02:28.22,0:02:30.12,GJM_Main,,0,0,0,,I have no idea.
+Dialogue: 10,0:02:30.35,0:02:32.18,GJM_Main,,0,0,0,,I've never even considered it before.
+Dialogue: 10,0:02:32.18,0:02:33.77,GJM_Main,,0,0,0,,Well, do consider it properly!
+Dialogue: 10,0:02:33.77,0:02:35.13,GJM_Main,,0,0,0,,Why do I have to tell you—
+Dialogue: 10,0:02:36.13,0:02:38.03,GJM_Main,,0,0,0,,You can't just keep it a secret!
+Dialogue: 10,0:02:38.03,0:02:40.46,GJM_Main,,0,0,0,,We're childhood friends! Tell me everything!
+Dialogue: 10,0:02:40.46,0:02:43.35,GJM_Main,,0,0,0,,{\q2}First you tell me to be quiet, \Nnext you want to know everything...
+Dialogue: 10,0:02:43.35,0:02:45.34,GJM_Main,,0,0,0,,What's your problem?!
+Dialogue: 10,0:03:03.81,0:03:04.91,GJM_Main,,0,0,0,,Oh.
+Dialogue: 10,0:03:04.91,0:03:05.56,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:03:06.84,0:03:09.16,GJM_Main,,0,0,0,,You're really a ditz sometimes.
+Dialogue: 10,0:03:11.95,0:03:15.65,GJM_Main,,0,0,0,,{\q2}Is being told you're a ditz really \Nsomething to get mad about?
+Dialogue: 10,0:03:15.65,0:03:17.13,GJM_Main,,0,0,0,,That's not what I'm mad about!
+Dialogue: 10,0:03:18.17,0:03:18.78,GJM_Main,,0,0,0,,Oh.
+Dialogue: 10,0:03:18.78,0:03:19.47,GJM_Main,,0,0,0,,Hm?
+Dialogue: 10,0:03:20.15,0:03:22.18,GJM_Main,,0,0,0,,There's a frog here!
+Dialogue: 10,0:03:22.18,0:03:23.91,GJM_Main,,0,0,0,,Huh, you're right.
+Dialogue: 10,0:03:23.91,0:03:27.81,GJM_Main,,0,0,0,,{\q2}You're a sculptor's son,\N and you never noticed before?
+Dialogue: 10,0:03:27.81,0:03:29.91,GJM_Main,,0,0,0,,Shut up, of course I knew about it.
+Dialogue: 10,0:03:29.91,0:03:32.19,GJM_Main,,0,0,0,,I've just never had a proper look.
+Dialogue: 10,0:03:32.19,0:03:33.91,GJM_Main,,0,0,0,,It's so cute.
+Dialogue: 10,0:03:34.84,0:03:38.40,GJM_Main,,0,0,0,,And we played here so much as kids.
+Dialogue: 10,0:03:39.47,0:03:44.20,GJM_Main,,0,0,0,,I guess some things are just too close to notice.
+Dialogue: 10,0:03:44.20,0:03:44.84,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:03:56.18,0:03:56.97,GJM_Main,,0,0,0,,What?
+Dialogue: 10,0:03:56.97,0:03:58.63,GJM_Main,,0,0,0,,Uh... Nothing...
+Dialogue: 10,0:04:06.67,0:04:09.98,GJM_Main,,0,0,0,,{\i1}Some things are too close to notice...
+Dialogue: 10,0:04:15.81,0:04:16.49,GJM_Main,,0,0,0,,Good morning!
+Dialogue: 10,0:04:16.49,0:04:17.31,GJM_Main,,0,0,0,,Here.
+Dialogue: 10,0:04:20.70,0:04:22.41,GJM_Main,,0,0,0,,Is this the one from yesterday?
+Dialogue: 10,0:04:22.41,0:04:25.54,GJM_Main,,0,0,0,,There's something that was always close by...
+Dialogue: 10,0:04:25.54,0:04:26.16,GJM_Main,,0,0,0,,Huh?
+Dialogue: 10,0:04:28.33,0:04:30.37,GJM_Main,,0,0,0,,And I couldn't really see it...
+Dialogue: 10,0:04:31.05,0:04:31.54,GJM_Main,,0,0,0,,But...
+Dialogue: 10,0:04:32.97,0:04:35.57,GJM_Main,,0,0,0,,You know, I...
+Dialogue: 10,0:04:35.57,0:04:37.29,GJM_Main,,0,0,0,,It seems that I like...
+Dialogue: 10,0:04:39.34,0:04:41.76,GJM_Main,,0,0,0,,You like... what?
+Dialogue: 10,0:04:41.76,0:04:42.61,GJM_Main,,0,0,0,,That's obvious!
+Dialogue: 10,0:04:42.61,0:04:44.36,GJM_Main,,0,0,0,,I can't know if you don't tell me!
+Dialogue: 10,0:04:44.36,0:04:45.24,GJM_Main,,0,0,0,,Figure it out!
+Dialogue: 10,0:04:45.24,0:04:46.06,GJM_Main,,0,0,0,,I don't know!
+Dialogue: 10,0:04:46.06,0:04:47.59,GJM_Main,,0,0,0,,I don't know, I don't know!
+Dialogue: 10,0:04:46.69,0:04:47.59,GJM_Overlap,,0,0,0,,Figure it out!
+Dialogue: 0,0:04:51.08,0:04:55.88,ED,,0,0,0,,{\fad(100,100)}{no idea what this is and it's not included in the official lyrics}
+Dialogue: 0,0:04:58.19,0:05:01.07,ED,,0,0,0,,{\fad(100,100)}This is not a mistake
+Dialogue: 0,0:05:01.76,0:05:04.84,ED,,0,0,0,,{\fad(100,100)}This is not a mistake
+Dialogue: 0,0:05:04.84,0:05:07.94,ED,,0,0,0,,{\fad(100,100)}In that moment
+Dialogue: 0,0:05:08.40,0:05:12.41,ED,,0,0,0,,{\fad(100,100)}I felt my pulse change
+Dialogue: 0,0:05:12.41,0:05:15.31,ED,,0,0,0,,{\fad(100,100)}Do you know?
+Dialogue: 0,0:05:15.95,0:05:19.09,ED,,0,0,0,,{\fad(100,100)}Are you waiting for it?
+Dialogue: 0,0:05:19.09,0:05:22.63,ED,,0,0,0,,{\fad(100,100)}Despite its cowardice
+Dialogue: 0,0:05:22.63,0:05:26.86,ED,,0,0,0,,{\fad(100,100)}My heart can take to the sky
+Dialogue: 0,0:05:26.86,0:05:30.40,ED,,0,0,0,,{\fad(100,100)}Why do I feel a nervous sensation
+Dialogue: 0,0:05:30.40,0:05:33.96,ED,,0,0,0,,{\fad(100,100)}Running through my whole body?
+Dialogue: 0,0:05:33.96,0:05:37.49,ED,,0,0,0,,{\fad(100,100)}I can't express it very well
+Dialogue: 0,0:05:37.49,0:05:41.51,ED,,0,0,0,,{\fad(100,100)}But I need to tell you
+Dialogue: 0,0:05:42.63,0:05:45.76,ED,,0,0,0,,{\fad(100,100)}Today, tomorrow, and forever more
+Dialogue: 0,0:05:45.76,0:05:49.74,ED,,0,0,0,,{\fad(100,100)}I'm drawn to you
+Dialogue: 0,0:05:49.74,0:05:53.06,ED,,0,0,0,,{\fad(100,100)}When I'm next to you
+Dialogue: 0,0:05:53.06,0:05:56.86,ED,,0,0,0,,{\fad(100,100)}My feelings start to take shape {//}
+Dialogue: 0,0:05:56.86,0:05:59.94,ED,,0,0,0,,{\fad(100,100)}With your special tune {Lit. Using your timbre/tone}
+Dialogue: 0,0:05:59.94,0:06:03.97,ED,,0,0,0,,{\fad(100,100)}Let me hear it once again
+Dialogue: 0,0:06:03.97,0:06:12.01,ED,,0,0,0,,{\fad(100,500)}Our new lives have left the starting line {are accelerating away from start}
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur8}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(622,448,627,522)\t(0,692,\c&HAB6200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(627,448,632,522)\t(0,692,\c&HAA6100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(632,448,637,522)\t(0,692,\c&HA96000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(637,448,642,522)\t(0,692,\c&HA85F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(642,448,647,522)\t(0,692,\c&HA75E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(647,448,652,522)\t(0,692,\c&HA65D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(652,448,657,522)\t(0,692,\c&HA65C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(657,448,662,522)\t(0,692,\c&HA55B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(662,448,667,522)\t(0,692,\c&HA45A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(667,448,672,522)\t(0,692,\c&HA35900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(672,448,677,522)\t(0,692,\c&HA25800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(677,448,682,522)\t(0,692,\c&HA25800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(682,448,687,522)\t(0,692,\c&HA15700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(687,448,692,522)\t(0,692,\c&HA05600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(692,448,697,522)\t(0,692,\c&H9F5500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(697,448,702,522)\t(0,692,\c&H9E5400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(702,448,707,522)\t(0,692,\c&H9E5300&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(707,448,712,522)\t(0,692,\c&H9D5200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(712,448,717,522)\t(0,692,\c&H9C5100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(717,448,722,522)\t(0,692,\c&H9B5000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(722,448,727,522)\t(0,692,\c&H9A4F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(727,448,732,522)\t(0,692,\c&H9A4F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(732,448,737,522)\t(0,692,\c&H994E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(742,448,747,522)\t(0,692,\c&H974C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(747,448,752,522)\t(0,692,\c&H964B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(752,448,757,522)\t(0,692,\c&H964A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(757,448,762,522)\t(0,692,\c&H954900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(762,448,767,522)\t(0,692,\c&H944800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(767,448,772,522)\t(0,692,\c&H934700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(772,448,777,522)\t(0,692,\c&H924600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(777,448,782,522)\t(0,692,\c&H924600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(782,448,787,522)\t(0,692,\c&H914500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(787,448,792,522)\t(0,692,\c&H904400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(792,448,797,522)\t(0,692,\c&H8F4300&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(797,448,802,522)\t(0,692,\c&H8E4200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(802,448,807,522)\t(0,692,\c&H8E4100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(807,448,812,522)\t(0,692,\c&H8D4000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(812,448,817,522)\t(0,692,\c&H8C3F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(817,448,822,522)\t(0,692,\c&H8B3E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(822,448,827,522)\t(0,692,\c&H8A3D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(827,448,832,522)\t(0,692,\c&H8A3D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(832,448,837,522)\t(0,692,\c&H893C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(837,448,842,522)\t(0,692,\c&H883B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(842,448,847,522)\t(0,692,\c&H873A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(847,448,852,522)\t(0,692,\c&H863900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(852,448,857,522)\t(0,692,\c&H863800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(857,448,862,522)\t(0,692,\c&H853700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(862,448,867,522)\t(0,692,\c&H843600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(867,448,872,522)\t(0,692,\c&H833500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(872,448,877,522)\t(0,692,\c&H823400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(753.988,488.032)\fncharlotte\fs100\i1\blur0.6\clip(877,448,882,522)\t(0,692,\c&H823401&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(644.053,638.936)\fnArial Rounded MT Bold\fs34\b1\bord1.8\3c&HFFFFFF&\blur0.4\t(0,692,\c&H666667&\3c&H666667&)}Haruki and Aoi   Part 1
+Dialogue: 2,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\pos(644.053,638.936)\fnArial Rounded MT Bold\fs34\b1\4a&HFF&\blur0.4}Haruki and Aoi   Part 1
+Dialogue: 1,0:00:34.01,0:00:35.01,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9}An Inami Specialty
+Dialogue: 2,0:00:34.01,0:00:35.01,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 1,0:00:34.01,0:00:35.01,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1}Inaka\N Manju
+Dialogue: 2,0:00:34.01,0:00:35.01,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\blur0.6}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:35.01,0:00:35.13,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:35.13,0:00:35.26,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 894 358 l 897 414 916 508 b 920 549 918 589 921 616 953 612 978 619 988 628 l 1035 505 981 339)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:35.26,0:00:35.39,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 872 366 l 871 410 891 640 1012 652 995 333)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:35.39,0:00:35.51,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 850 373 l 847 418 904 644 995 638 1007 483 963 334)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:35.51,0:00:35.64,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 955 357 l 970 532 966 616 912 643 883 636 833 414 834 364)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:35.64,0:00:35.76,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 806 369 l 942 365 942 476 943 530 941 598 902 615 872 612 836 604)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:35.76,0:00:35.89,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 908 358 l 806 364 847 591 907 632 921 619 923 529 921 438 919 365 m 967 318 l 1038 633 972 644 946 485 935 436 923 360)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:35.89,0:00:36.01,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 809 368 l 1047 294 1029 490 1001 659 961 632 941 528 923 442 911 388 911 440 914 518 913 628 844 633)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:36.26,0:00:36.39,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 918 416 l 926 372 927 362 938 380 944 426 961 536 b 962 569 978 608 980 641 l 1060 633 981 253 818 288 809 456 876 644 923 641 b 921 628 917 609 907 588 905 577 913 563 898 540)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:36.39,0:00:36.51,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 880 423 l 811 439 805 350 904 307 980 302 1034 614 1000 661 964 634 947 578 942 550 929 495 913 404 912 384 896 363)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:36.51,0:00:36.64,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 857 442 l 814 456 806 285 994 262 1009 663 952 634 941 589 b 932 547 931 544 925 517 l 903 410 893 369 886 347 878 372 869 427)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:36.64,0:00:36.76,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 861 409 l 868 371 879 369 892 411 919 530 928 576 940 628 828 616 777 651 1058 698 1050 321 829 200 753 624 836 600)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:00:35.01,0:00:35.13,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 978 350 l 950 366 b 951 390 950 395 959 401 l 935 474 972 536 977 578 1018 584)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:35.13,0:00:35.26,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 894 358 l 897 414 916 508 b 920 549 918 589 921 616 953 612 978 619 988 628 l 1035 505 981 339)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:35.51,0:00:35.64,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 955 357 l 970 532 966 616 912 643 883 636 833 414 834 364)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:35.64,0:00:35.76,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 806 369 l 942 365 942 476 943 530 941 598 902 615 872 612 836 604)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:35.76,0:00:35.89,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 908 358 l 806 364 847 591 907 632 921 619 923 529 921 438 919 365 m 967 318 l 1038 633 972 644 946 485 935 436 923 360)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:35.89,0:00:36.01,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 809 368 l 1047 294 1029 490 1001 659 961 632 941 528 923 442 911 388 911 440 914 518 913 628 844 633)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:36.01,0:00:36.14,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 815 374 l 972 360 978 436 1005 641 950 634 929 526 904 417 873 435 903 521 906 631 821 613)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:36.14,0:00:36.26,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 815 370 l 979 358 969 512 965 543 b 967 547 976 566 969 585 972 593 978 604 982 612 984 601 986 584 983 575 984 566 977 541 976 530 l 1060 550 982 674 897 637 809 414)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:36.26,0:00:36.39,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 918 416 l 926 372 927 362 938 380 944 426 961 536 b 962 569 978 608 980 641 l 1060 633 981 253 818 288 809 456 876 644 923 641 b 921 628 917 609 907 588 905 577 913 563 898 540)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:36.39,0:00:36.51,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 880 423 l 811 439 805 350 904 307 980 302 1034 614 1000 661 964 634 947 578 942 550 929 495 913 404 912 384 896 363)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:36.51,0:00:36.64,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 857 442 l 814 456 806 285 994 262 1009 663 952 634 941 589 b 932 547 931 544 925 517 l 903 410 893 369 886 347 878 372 869 427)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:00:36.64,0:00:36.76,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 861 409 l 868 371 879 369 892 411 919 530 928 576 940 628 828 616 777 651 1058 698 1050 321 829 200 753 624 836 600)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 1,0:00:35.01,0:00:35.13,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9}An Inami Specialty
+Dialogue: 1,0:00:35.13,0:00:35.26,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 894 358 l 897 414 916 508 b 920 549 918 589 921 616 953 612 978 619 988 628 l 1035 505 981 339)}An Inami Specialty
+Dialogue: 1,0:00:35.26,0:00:35.39,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 872 366 l 871 410 891 640 1012 652 995 333)}An Inami Specialty
+Dialogue: 1,0:00:35.39,0:00:35.51,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 850 373 l 847 418 904 644 995 638 1007 483 963 334)}An Inami Specialty
+Dialogue: 1,0:00:35.51,0:00:35.64,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 955 357 l 970 532 966 616 912 643 883 636 833 414 834 364)}An Inami Specialty
+Dialogue: 1,0:00:35.64,0:00:35.76,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 806 369 l 942 365 942 476 943 530 941 598 902 615 872 612 836 604)}An Inami Specialty
+Dialogue: 1,0:00:35.76,0:00:35.89,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 908 358 l 806 364 847 591 907 632 921 619 923 529 921 438 919 365 m 967 318 l 1038 633 972 644 946 485 935 436 923 360)}An Inami Specialty
+Dialogue: 1,0:00:35.89,0:00:36.01,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 809 368 l 1047 294 1029 490 1001 659 961 632 941 528 923 442 911 388 911 440 914 518 913 628 844 633)}An Inami Specialty
+Dialogue: 1,0:00:36.26,0:00:36.39,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 918 416 l 926 372 927 362 938 380 944 426 961 536 b 962 569 978 608 980 641 l 1060 633 981 253 818 288 809 456 876 644 923 641 b 921 628 917 609 907 588 905 577 913 563 898 540)}An Inami Specialty
+Dialogue: 1,0:00:36.39,0:00:36.51,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 880 423 l 811 439 805 350 904 307 980 302 1034 614 1000 661 964 634 947 578 942 550 929 495 913 404 912 384 896 363)}An Inami Specialty
+Dialogue: 1,0:00:36.51,0:00:36.64,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 857 442 l 814 456 806 285 994 262 1009 663 952 634 941 589 b 932 547 931 544 925 517 l 903 410 893 369 886 347 878 372 869 427)}An Inami Specialty
+Dialogue: 1,0:00:36.64,0:00:36.76,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 861 409 l 868 371 879 369 892 411 919 530 928 576 940 628 828 616 777 651 1058 698 1050 321 829 200 753 624 836 600)}An Inami Specialty
+Dialogue: 1,0:00:35.01,0:00:35.13,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 978 350 l 950 366 b 951 390 950 395 959 401 l 935 474 972 536 977 578 1018 584)}Inaka\N Manju
+Dialogue: 1,0:00:35.13,0:00:35.26,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 894 358 l 897 414 916 508 b 920 549 918 589 921 616 953 612 978 619 988 628 l 1035 505 981 339)}Inaka\N Manju
+Dialogue: 1,0:00:35.51,0:00:35.64,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 955 357 l 970 532 966 616 912 643 883 636 833 414 834 364)}Inaka\N Manju
+Dialogue: 1,0:00:35.64,0:00:35.76,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 806 369 l 942 365 942 476 943 530 941 598 902 615 872 612 836 604)}Inaka\N Manju
+Dialogue: 1,0:00:35.76,0:00:35.89,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 908 358 l 806 364 847 591 907 632 921 619 923 529 921 438 919 365 m 967 318 l 1038 633 972 644 946 485 935 436 923 360)}Inaka\N Manju
+Dialogue: 1,0:00:35.89,0:00:36.01,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 809 368 l 1047 294 1029 490 1001 659 961 632 941 528 923 442 911 388 911 440 914 518 913 628 844 633)}Inaka\N Manju
+Dialogue: 1,0:00:36.01,0:00:36.14,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 815 374 l 972 360 978 436 1005 641 950 634 929 526 904 417 873 435 903 521 906 631 821 613)}Inaka\N Manju
+Dialogue: 1,0:00:36.14,0:00:36.26,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 815 370 l 979 358 969 512 965 543 b 967 547 976 566 969 585 972 593 978 604 982 612 984 601 986 584 983 575 984 566 977 541 976 530 l 1060 550 982 674 897 637 809 414)}Inaka\N Manju
+Dialogue: 1,0:00:36.26,0:00:36.39,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 918 416 l 926 372 927 362 938 380 944 426 961 536 b 962 569 978 608 980 641 l 1060 633 981 253 818 288 809 456 876 644 923 641 b 921 628 917 609 907 588 905 577 913 563 898 540)}Inaka\N Manju
+Dialogue: 1,0:00:36.39,0:00:36.51,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 880 423 l 811 439 805 350 904 307 980 302 1034 614 1000 661 964 634 947 578 942 550 929 495 913 404 912 384 896 363)}Inaka\N Manju
+Dialogue: 1,0:00:36.51,0:00:36.64,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 857 442 l 814 456 806 285 994 262 1009 663 952 634 941 589 b 932 547 931 544 925 517 l 903 410 893 369 886 347 878 372 869 427)}Inaka\N Manju
+Dialogue: 1,0:00:36.64,0:00:36.76,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 861 409 l 868 371 879 369 892 411 919 530 928 576 940 628 828 616 777 651 1058 698 1050 321 829 200 753 624 836 600)}Inaka\N Manju
+Dialogue: 2,0:00:36.76,0:00:36.89,Signs,,0,0,0,,{\pos(1201.286,398.571)\fnThe Friday Stroke\fs150\b1\c&H1F1B24&\4a&HFF&\blur2.5\iclip(m 1244 239 b 1244 252 1234 296 1224 317 1232 346 1248 361 1259 367 l 1227 371 1202 358 1191 356 1172 373 1174 386 b 1169 425 1196 472 1217 477 1168 488 1142 446 1128 429 1134 463 1118 550 1101 555 l 1089 539 1032 507 1106 242)}Inaka\N Manju
+Dialogue: 2,0:00:36.89,0:00:37.01,Signs,,0,0,0,,{\pos(1201.286,398.571)\fnThe Friday Stroke\fs150\b1\c&H1F1B24&\4a&HFF&\blur2.5\iclip(m 1145 275 b 1157 300 1173 314 1187 322 1163 326 1141 325 1112 308 1106 320 1109 358 1116 383 1121 394 1138 415 1163 416 1138 428 1088 428 1064 389 l 1063 259)}Inaka\N Manju
+Dialogue: 2,0:00:37.01,0:00:37.14,Signs,,0,0,0,,{\pos(1201.286,398.571)\fnThe Friday Stroke\fs150\b1\c&H1F1B24&\4a&HFF&\blur2.5\iclip(m 1105 259 b 1110 274 1130 292 1148 296 1124 303 1095 299 1075 288)}Inaka\N Manju
+Dialogue: 2,0:00:37.14,0:00:39.01,Signs,,0,0,0,,{\pos(1201.286,398.571)\fnThe Friday Stroke\fs150\b1\c&H1F1B24&\4a&HFF&\blur2.5}Inaka\N Manju
+Dialogue: 1,0:04:11.64,0:04:13.35,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9}An Inami Specialty
+Dialogue: 2,0:04:11.64,0:04:13.35,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 1,0:04:11.64,0:04:13.35,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1}Inaka\N Manju
+Dialogue: 2,0:04:11.64,0:04:13.35,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:13.35,0:04:13.47,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:13.47,0:04:13.60,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 894 358 l 897 414 916 508 b 920 549 918 589 921 616 953 612 978 619 988 628 l 1035 505 981 339)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:13.60,0:04:13.73,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 872 366 l 871 410 891 640 1012 652 995 333)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:13.73,0:04:13.85,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 850 373 l 847 418 904 644 995 638 1007 483 963 334)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:13.85,0:04:13.98,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 955 357 l 970 532 966 616 912 643 883 636 833 414 834 364)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:13.98,0:04:14.10,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 806 369 l 942 365 942 476 943 530 941 598 902 615 872 612 836 604)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:14.10,0:04:14.23,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 908 358 l 806 364 847 591 907 632 921 619 923 529 921 438 919 365 m 967 318 l 1038 633 972 644 946 485 935 436 923 360)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:14.23,0:04:14.35,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 809 368 l 1047 294 1029 490 1001 659 961 632 941 528 923 442 911 388 911 440 914 518 913 628 844 633)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:14.60,0:04:14.73,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 918 416 l 926 372 927 362 938 380 944 426 961 536 b 962 569 978 608 980 641 l 1060 633 981 253 818 288 809 456 876 644 923 641 b 921 628 917 609 907 588 905 577 913 563 898 540)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:14.73,0:04:14.85,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 880 423 l 811 439 805 350 904 307 980 302 1034 614 1000 661 964 634 947 578 942 550 929 495 913 404 912 384 896 363)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:14.85,0:04:14.98,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 857 442 l 814 456 806 285 994 262 1009 663 952 634 941 589 b 932 547 931 544 925 517 l 903 410 893 369 886 347 878 372 869 427)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:14.98,0:04:15.10,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\c&H0C1634&\4a&HFF&\blur0.6\iclip(m 861 409 l 868 371 879 369 892 411 919 530 928 576 940 628 828 616 777 651 1058 698 1050 321 829 200 753 624 836 600)}A{\c&H0D1736&}n {\c&H0F1A3B&}I{\c&H101C3D&}n{\c&H121D3F&}a{\c&H131F42&}m{\c&H142044&}i {\c&H172449&}Specialty
+Dialogue: 2,0:04:13.35,0:04:13.47,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 978 350 l 950 366 b 951 390 950 395 959 401 l 935 474 972 536 977 578 1018 584)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:13.47,0:04:13.60,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 894 358 l 897 414 916 508 b 920 549 918 589 921 616 953 612 978 619 988 628 l 1035 505 981 339)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:13.85,0:04:13.98,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 955 357 l 970 532 966 616 912 643 883 636 833 414 834 364)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:13.98,0:04:14.10,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 806 369 l 942 365 942 476 943 530 941 598 902 615 872 612 836 604)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:14.10,0:04:14.23,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 908 358 l 806 364 847 591 907 632 921 619 923 529 921 438 919 365 m 967 318 l 1038 633 972 644 946 485 935 436 923 360)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:14.23,0:04:14.35,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 809 368 l 1047 294 1029 490 1001 659 961 632 941 528 923 442 911 388 911 440 914 518 913 628 844 633)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:14.35,0:04:14.48,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 815 374 l 972 360 978 436 1005 641 950 634 929 526 904 417 873 435 903 521 906 631 821 613)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:14.48,0:04:14.60,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 815 370 l 979 358 969 512 965 543 b 967 547 976 566 969 585 972 593 978 604 982 612 984 601 986 584 983 575 984 566 977 541 976 530 l 1060 550 982 674 897 637 809 414)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:14.60,0:04:14.73,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 918 416 l 926 372 927 362 938 380 944 426 961 536 b 962 569 978 608 980 641 l 1060 633 981 253 818 288 809 456 876 644 923 641 b 921 628 917 609 907 588 905 577 913 563 898 540)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:14.73,0:04:14.85,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 880 423 l 811 439 805 350 904 307 980 302 1034 614 1000 661 964 634 947 578 942 550 929 495 913 404 912 384 896 363)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:14.85,0:04:14.98,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 857 442 l 814 456 806 285 994 262 1009 663 952 634 941 589 b 932 547 931 544 925 517 l 903 410 893 369 886 347 878 372 869 427)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 2,0:04:14.98,0:04:15.10,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\c&H18232D&\4a&HFF&\blur0.6\iclip(m 861 409 l 868 371 879 369 892 411 919 530 928 576 940 628 828 616 777 651 1058 698 1050 321 829 200 753 624 836 600)}I{\c&H1C2936&}n{\c&H20303F&}a{\c&H243648&}k{\c&H293D51&}a\N M{\c&H243648&}a{\c&H20303F&}n{\c&H1C2936&}j{\c&H18232D&}u
+Dialogue: 1,0:04:13.35,0:04:13.47,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9}An Inami Specialty
+Dialogue: 1,0:04:13.47,0:04:13.60,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 894 358 l 897 414 916 508 b 920 549 918 589 921 616 953 612 978 619 988 628 l 1035 505 981 339)}An Inami Specialty
+Dialogue: 1,0:04:13.60,0:04:13.73,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 872 366 l 871 410 891 640 1012 652 995 333)}An Inami Specialty
+Dialogue: 1,0:04:13.73,0:04:13.85,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 850 373 l 847 418 904 644 995 638 1007 483 963 334)}An Inami Specialty
+Dialogue: 1,0:04:13.85,0:04:13.98,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 955 357 l 970 532 966 616 912 643 883 636 833 414 834 364)}An Inami Specialty
+Dialogue: 1,0:04:13.98,0:04:14.10,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 806 369 l 942 365 942 476 943 530 941 598 902 615 872 612 836 604)}An Inami Specialty
+Dialogue: 1,0:04:14.10,0:04:14.23,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 908 358 l 806 364 847 591 907 632 921 619 923 529 921 438 919 365 m 967 318 l 1038 633 972 644 946 485 935 436 923 360)}An Inami Specialty
+Dialogue: 1,0:04:14.23,0:04:14.35,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 809 368 l 1047 294 1029 490 1001 659 961 632 941 528 923 442 911 388 911 440 914 518 913 628 844 633)}An Inami Specialty
+Dialogue: 1,0:04:14.60,0:04:14.73,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 918 416 l 926 372 927 362 938 380 944 426 961 536 b 962 569 978 608 980 641 l 1060 633 981 253 818 288 809 456 876 644 923 641 b 921 628 917 609 907 588 905 577 913 563 898 540)}An Inami Specialty
+Dialogue: 1,0:04:14.73,0:04:14.85,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 880 423 l 811 439 805 350 904 307 980 302 1034 614 1000 661 964 634 947 578 942 550 929 495 913 404 912 384 896 363)}An Inami Specialty
+Dialogue: 1,0:04:14.85,0:04:14.98,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 857 442 l 814 456 806 285 994 262 1009 663 952 634 941 589 b 932 547 931 544 925 517 l 903 410 893 369 886 347 878 372 869 427)}An Inami Specialty
+Dialogue: 1,0:04:14.98,0:04:15.10,Signs,,0,0,0,,{\pos(890.571,394.143)\frz1.69\fnThe Friday Stroke\fs25\fsp0.4\bord0.5\c&H121D3D&\3c&H101831&\blur0.9\iclip(m 861 409 l 868 371 879 369 892 411 919 530 928 576 940 628 828 616 777 651 1058 698 1050 321 829 200 753 624 836 600)}An Inami Specialty
+Dialogue: 1,0:04:13.35,0:04:13.47,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 978 350 l 950 366 b 951 390 950 395 959 401 l 935 474 972 536 977 578 1018 584)}Inaka\N Manju
+Dialogue: 1,0:04:13.47,0:04:13.60,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 894 358 l 897 414 916 508 b 920 549 918 589 921 616 953 612 978 619 988 628 l 1035 505 981 339)}Inaka\N Manju
+Dialogue: 1,0:04:13.85,0:04:13.98,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 955 357 l 970 532 966 616 912 643 883 636 833 414 834 364)}Inaka\N Manju
+Dialogue: 1,0:04:13.98,0:04:14.10,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 806 369 l 942 365 942 476 943 530 941 598 902 615 872 612 836 604)}Inaka\N Manju
+Dialogue: 1,0:04:14.10,0:04:14.23,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 908 358 l 806 364 847 591 907 632 921 619 923 529 921 438 919 365 m 967 318 l 1038 633 972 644 946 485 935 436 923 360)}Inaka\N Manju
+Dialogue: 1,0:04:14.23,0:04:14.35,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 809 368 l 1047 294 1029 490 1001 659 961 632 941 528 923 442 911 388 911 440 914 518 913 628 844 633)}Inaka\N Manju
+Dialogue: 1,0:04:14.35,0:04:14.48,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 815 374 l 972 360 978 436 1005 641 950 634 929 526 904 417 873 435 903 521 906 631 821 613)}Inaka\N Manju
+Dialogue: 1,0:04:14.48,0:04:14.60,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 815 370 l 979 358 969 512 965 543 b 967 547 976 566 969 585 972 593 978 604 982 612 984 601 986 584 983 575 984 566 977 541 976 530 l 1060 550 982 674 897 637 809 414)}Inaka\N Manju
+Dialogue: 1,0:04:14.60,0:04:14.73,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 918 416 l 926 372 927 362 938 380 944 426 961 536 b 962 569 978 608 980 641 l 1060 633 981 253 818 288 809 456 876 644 923 641 b 921 628 917 609 907 588 905 577 913 563 898 540)}Inaka\N Manju
+Dialogue: 1,0:04:14.73,0:04:14.85,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 880 423 l 811 439 805 350 904 307 980 302 1034 614 1000 661 964 634 947 578 942 550 929 495 913 404 912 384 896 363)}Inaka\N Manju
+Dialogue: 1,0:04:14.85,0:04:14.98,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 857 442 l 814 456 806 285 994 262 1009 663 952 634 941 589 b 932 547 931 544 925 517 l 903 410 893 369 886 347 878 372 869 427)}Inaka\N Manju
+Dialogue: 1,0:04:14.98,0:04:15.10,Signs,,0,0,0,,{\pos(943,578)\fnThe Friday Stroke\fs45\bord0.6\c&H000000&\blur1\iclip(m 861 409 l 868 371 879 369 892 411 919 530 928 576 940 628 828 616 777 651 1058 698 1050 321 829 200 753 624 836 600)}Inaka\N Manju
+Dialogue: 2,0:04:15.10,0:04:15.23,Signs,,0,0,0,,{\pos(1201.286,398.571)\fnThe Friday Stroke\fs150\b1\c&H1F1B24&\4a&HFF&\blur2.5\iclip(m 1244 239 b 1244 252 1234 296 1224 317 1232 346 1248 361 1259 367 l 1227 371 1202 358 1191 356 1172 373 1174 386 b 1169 425 1196 472 1217 477 1168 488 1142 446 1128 429 1134 463 1118 550 1101 555 l 1089 539 1032 507 1106 242)}Inaka\N Manju
+Dialogue: 2,0:04:15.23,0:04:15.35,Signs,,0,0,0,,{\pos(1201.286,398.571)\fnThe Friday Stroke\fs150\b1\c&H1F1B24&\4a&HFF&\blur2.5\iclip(m 1145 275 b 1157 300 1173 314 1187 322 1163 326 1141 325 1112 308 1106 320 1109 358 1116 383 1121 394 1138 415 1163 416 1138 428 1088 428 1064 389 l 1063 259)}Inaka\N Manju
+Dialogue: 2,0:04:15.35,0:04:15.48,Signs,,0,0,0,,{\pos(1201.286,398.571)\fnThe Friday Stroke\fs150\b1\c&H1F1B24&\4a&HFF&\blur2.5\iclip(m 1105 259 b 1110 274 1130 292 1148 296 1124 303 1095 299 1075 288)}Inaka\N Manju
+Dialogue: 2,0:04:15.48,0:04:17.86,Signs,,0,0,0,,{\pos(1201.286,398.571)\fnThe Friday Stroke\fs150\b1\c&H1F1B24&\4a&HFF&\blur2.5}Inaka\N Manju
+Dialogue: 0,0:00:39.01,0:00:40.27,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\bord0.7\yshad3\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\4a&H38&\blur0.9}Yamada Fuel Shop
+Dialogue: 1,0:00:39.01,0:00:40.27,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\xshad-1\yshad4\c&HEDF1F3&\4c&H454853&\4a&HFF&\blur0.9}Y{\c&HECEFF0&}a{\c&HEBEDEE&}m{\c&HEAECEB&}a{\c&HEAEAE9&}d{\c&HE9E9E6&}a {\c&HE8E6E2&}F{\c&HE7E5E1&}u{\c&HE6E5E0&}e{\c&HE5E4E0&}l {\c&HE4E4DF&}Shop
+Dialogue: 0,0:00:40.27,0:00:40.64,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\bord0.7\yshad3\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\4a&H38&\blur0.9\iclip(m 836 320 l 825 326 821 340 887 383 866 290)}Yamada Fuel Shop
+Dialogue: 1,0:00:40.27,0:00:40.64,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\xshad-1\yshad4\c&HEDF1F3&\4c&H454853&\4a&HFF&\blur0.9\iclip(m 836 320 l 825 326 821 340 887 383 866 290)}Y{\c&HECEFF0&}a{\c&HEBEDEE&}m{\c&HEAECEB&}a{\c&HEAEAE9&}d{\c&HE9E9E6&}a {\c&HE8E6E2&}F{\c&HE7E5E1&}u{\c&HE6E5E0&}e{\c&HE5E4E0&}l {\c&HE4E4DF&}Shop
+Dialogue: 0,0:00:40.64,0:00:40.89,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\bord0.7\yshad3\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\4a&H38&\blur0.9\iclip(m 841 321 l 824 328 820 338 827 370 859 369 904 305)}Yamada Fuel Shop
+Dialogue: 1,0:00:40.64,0:00:40.89,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\xshad-1\yshad4\c&HEDF1F3&\4c&H454853&\4a&HFF&\blur0.9\iclip(m 841 321 l 824 328 820 338 827 370 859 369 904 305)}Y{\c&HECEFF0&}a{\c&HEBEDEE&}m{\c&HEAECEB&}a{\c&HEAEAE9&}d{\c&HE9E9E6&}a {\c&HE8E6E2&}F{\c&HE7E5E1&}u{\c&HE6E5E0&}e{\c&HE5E4E0&}l {\c&HE4E4DF&}Shop
+Dialogue: 0,0:00:40.89,0:00:41.02,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\bord0.7\yshad3\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\4a&H38&\blur0.9\iclip(m 840 321 l 827 327 819 338 832 358 876 347 889 299)}Yamada Fuel Shop
+Dialogue: 1,0:00:40.89,0:00:41.02,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\xshad-1\yshad4\c&HEDF1F3&\4c&H454853&\4a&HFF&\blur0.9\iclip(m 840 321 l 827 327 819 338 832 358 876 347 889 299)}Y{\c&HECEFF0&}a{\c&HEBEDEE&}m{\c&HEAECEB&}a{\c&HEAEAE9&}d{\c&HE9E9E6&}a {\c&HE8E6E2&}F{\c&HE7E5E1&}u{\c&HE6E5E0&}e{\c&HE5E4E0&}l {\c&HE4E4DF&}Shop
+Dialogue: 0,0:00:41.02,0:00:41.14,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\bord0.7\yshad3\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\4a&H38&\blur0.9\iclip(m 834 323 l 825 328 816 342 829 365 848 363 875 330 862 290)}Yamada Fuel Shop
+Dialogue: 1,0:00:41.02,0:00:41.14,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\xshad-1\yshad4\c&HEDF1F3&\4c&H454853&\4a&HFF&\blur0.9\iclip(m 834 323 l 825 328 816 342 829 365 848 363 875 330 862 290)}Y{\c&HECEFF0&}a{\c&HEBEDEE&}m{\c&HEAECEB&}a{\c&HEAEAE9&}d{\c&HE9E9E6&}a {\c&HE8E6E2&}F{\c&HE7E5E1&}u{\c&HE6E5E0&}e{\c&HE5E4E0&}l {\c&HE4E4DF&}Shop
+Dialogue: 0,0:00:44.39,0:00:47.02,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 909 84 920 93 940 110 944 126)}Yamada Fuel Shop
+Dialogue: 0,0:00:44.39,0:00:47.02,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 909 84 920 93 940 110 944 126)}Yamada Fuel Shop
+Dialogue: 1,0:00:44.39,0:00:47.02,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 909 84 920 93 940 110 944 126)}Yamada Fuel Shop
+Dialogue: 1,0:00:44.39,0:00:47.02,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 909 84 920 93 940 110 944 126)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.02,0:00:47.15,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 909 84 920 93 940 110 937 113 944 75 961 54 976 51 l 1058 150 940 189)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.02,0:00:47.15,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 909 84 920 93 940 110 937 113 944 75 961 54 976 51 l 1058 150 940 189)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.02,0:00:47.15,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 909 84 920 93 940 110 937 113 944 75 961 54 976 51 l 1058 150 940 189)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.02,0:00:47.15,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 909 84 920 93 940 110 937 113 944 75 961 54 976 51 l 1058 150 940 189)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.15,0:00:47.27,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 911 87 l 924 69 1057 55 1003 158)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.15,0:00:47.27,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 911 87 l 924 69 1057 55 1003 158)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.15,0:00:47.27,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 911 87 l 924 69 1057 55 1003 158)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.15,0:00:47.27,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 887 80 901 82 911 87 l 924 69 1057 55 1003 158)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.27,0:00:47.40,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 l 890 81 903 62 1069 52 1013 152)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.27,0:00:47.40,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 l 890 81 903 62 1069 52 1013 152)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.27,0:00:47.40,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 l 890 81 903 62 1069 52 1013 152)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.27,0:00:47.40,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 866 75 875 77 880 79 l 890 81 903 62 1069 52 1013 152)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.40,0:00:47.52,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 l 911 50 1011 58 1015 141)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.40,0:00:47.52,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 l 911 50 1011 58 1015 141)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.40,0:00:47.52,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 l 911 50 1011 58 1015 141)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.40,0:00:47.52,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 799 117 b 823 86 832 81 862 75 l 911 50 1011 58 1015 141)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.52,0:00:47.65,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 797 109 b 816 83 834 72 862 75 l 922 64 1014 54 1008 154 778 137 780 114)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.52,0:00:47.65,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 797 109 b 816 83 834 72 862 75 l 922 64 1014 54 1008 154 778 137 780 114)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.52,0:00:47.65,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 797 109 b 816 83 834 72 862 75 l 922 64 1014 54 1008 154 778 137 780 114)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.52,0:00:47.65,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 797 109 b 816 83 834 72 862 75 l 922 64 1014 54 1008 154 778 137 780 114)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.65,0:00:47.77,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 786 118 b 808 77 833 72 846 72 l 936 59 1019 75 1011 135)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.65,0:00:47.77,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 786 118 b 808 77 833 72 846 72 l 936 59 1019 75 1011 135)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.65,0:00:47.77,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 786 118 b 808 77 833 72 846 72 l 936 59 1019 75 1011 135)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.65,0:00:47.77,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 786 118 b 808 77 833 72 846 72 l 936 59 1019 75 1011 135)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.77,0:00:47.90,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 784 129 b 786 111 798 101 803 95 l 777 61 795 60 896 52 1033 64 994 190 811 91 801 81 803 87 806 91 809 86 918 149 810 219)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.77,0:00:47.90,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\iclip(m 784 129 b 786 111 798 101 803 95 l 777 61 795 60 896 52 1033 64 994 190 811 91 801 81 803 87 806 91 809 86 918 149 810 219)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.77,0:00:47.90,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 784 129 b 786 111 798 101 803 95 l 777 61 795 60 896 52 1033 64 994 190 811 91 801 81 803 87 806 91 809 86 918 149 810 219)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.77,0:00:47.90,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\iclip(m 784 129 b 786 111 798 101 803 95 l 777 61 795 60 896 52 1033 64 994 190 811 91 801 81 803 87 806 91 809 86 918 149 810 219)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.90,0:00:48.02,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\clip(m 785 124 l 780 104 791 111 m 793 107 l 786 89 798 100 m 978 93 l 968 109 959 109 m 969 114 b 978 112 991 95 999 89 l 1007 111 972 128)}Yamada Fuel Shop
+Dialogue: 0,0:00:47.90,0:00:48.02,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\bord0.8\yshad5\c&H58757E&\3c&H58757E&\4c&H58757E&\blur1\clip(m 785 124 l 780 104 791 111 m 793 107 l 786 89 798 100 m 978 93 l 968 109 959 109 m 969 114 b 978 112 991 95 999 89 l 1007 111 972 128)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.90,0:00:48.02,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\clip(m 785 124 l 780 104 791 111 m 793 107 l 786 89 798 100 m 978 93 l 968 109 959 109 m 969 114 b 978 112 991 95 999 89 l 1007 111 972 128)}Yamada Fuel Shop
+Dialogue: 1,0:00:47.90,0:00:48.02,Signs,,0,0,0,,{\pos(885.676,88.439)\fnNature Beauty Personal Use\fs45\b1\xshad-1\yshad4\c&HF4F6F6&\4c&H454853&\4a&HFF&\blur1\clip(m 785 124 l 780 104 791 111 m 793 107 l 786 89 798 100 m 978 93 l 968 109 959 109 m 969 114 b 978 112 991 95 999 89 l 1007 111 972 128)}Yamada Fuel Shop
+Dialogue: 0,0:00:56.41,0:00:56.91,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\yshad6\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\blur4\iclip(m 372 67 b 400 17 456 -1 472 -2 l 638 0 549 103)}Yamada Fuel Shop
+Dialogue: 0,0:00:56.41,0:00:56.91,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\yshad6\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\blur4\iclip(m 372 67 b 400 17 456 -1 472 -2 l 638 0 549 103)}Yamada Fuel Shop
+Dialogue: 1,0:00:56.41,0:00:56.91,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\xshad-1\yshad4\c&HFAFAFA&\4c&H454853&\4a&HFF&\blur3\iclip(m 372 67 b 400 17 456 -1 472 -2 l 638 0 549 103)}Yamada {\c&HE8E6E2&}Fuel {\c&HE4E4DF&}Shop
+Dialogue: 1,0:00:56.41,0:00:56.91,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\xshad-1\yshad4\c&HFAFAFA&\4c&H454853&\4a&HFF&\blur3\iclip(m 372 67 b 400 17 456 -1 472 -2 l 638 0 549 103)}Yamada {\c&HE8E6E2&}Fuel {\c&HE4E4DF&}Shop
+Dialogue: 0,0:00:56.91,0:00:57.03,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\yshad6\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\blur4\iclip(m 389 57 b 397 57 425 20 440 0 l 616 0 559 81)}Yamada Fuel Shop
+Dialogue: 0,0:00:56.91,0:00:57.03,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\yshad6\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\blur4\iclip(m 389 57 b 397 57 425 20 440 0 l 616 0 559 81)}Yamada Fuel Shop
+Dialogue: 1,0:00:56.91,0:00:57.03,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\xshad-1\yshad4\c&HFAFAFA&\4c&H454853&\4a&HFF&\blur3\iclip(m 389 57 b 397 57 425 20 440 0 l 616 0 559 81)}Yamada {\c&HE8E6E2&}Fuel {\c&HE4E4DF&}Shop
+Dialogue: 1,0:00:56.91,0:00:57.03,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\xshad-1\yshad4\c&HFAFAFA&\4c&H454853&\4a&HFF&\blur3\iclip(m 389 57 b 397 57 425 20 440 0 l 616 0 559 81)}Yamada {\c&HE8E6E2&}Fuel {\c&HE4E4DF&}Shop
+Dialogue: 0,0:00:57.03,0:00:57.16,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\yshad6\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\blur4\iclip(m 386 73 b 422 21 429 22 451 0 l 638 0 549 103)}Yamada Fuel Shop
+Dialogue: 0,0:00:57.03,0:00:57.16,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\yshad6\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\blur4\iclip(m 386 73 b 422 21 429 22 451 0 l 638 0 549 103)}Yamada Fuel Shop
+Dialogue: 1,0:00:57.03,0:00:57.16,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\xshad-1\yshad4\c&HFAFAFA&\4c&H454853&\4a&HFF&\blur3\iclip(m 386 73 b 422 21 429 22 451 0 l 638 0 549 103)}Yamada {\c&HE8E6E2&}Fuel {\c&HE4E4DF&}Shop
+Dialogue: 1,0:00:57.03,0:00:57.16,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\xshad-1\yshad4\c&HFAFAFA&\4c&H454853&\4a&HFF&\blur3\iclip(m 386 73 b 422 21 429 22 451 0 l 638 0 549 103)}Yamada {\c&HE8E6E2&}Fuel {\c&HE4E4DF&}Shop
+Dialogue: 0,0:00:57.16,0:00:57.28,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\yshad6\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\blur4\iclip(m 385 79 b 423 18 432 17 452 0 l 638 0 549 103)}Yamada Fuel Shop
+Dialogue: 0,0:00:57.16,0:00:57.28,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\yshad6\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\blur4\iclip(m 385 79 b 423 18 432 17 452 0 l 638 0 549 103)}Yamada Fuel Shop
+Dialogue: 1,0:00:57.16,0:00:57.28,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\xshad-1\yshad4\c&HFAFAFA&\4c&H454853&\4a&HFF&\blur3\iclip(m 385 79 b 423 18 432 17 452 0 l 638 0 549 103)}Yamada {\c&HE8E6E2&}Fuel {\c&HE4E4DF&}Shop
+Dialogue: 1,0:00:57.16,0:00:57.28,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\xshad-1\yshad4\c&HFAFAFA&\4c&H454853&\4a&HFF&\blur3\iclip(m 385 79 b 423 18 432 17 452 0 l 638 0 549 103)}Yamada {\c&HE8E6E2&}Fuel {\c&HE4E4DF&}Shop
+Dialogue: 0,0:00:57.28,0:00:58.32,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\yshad6\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\blur4\iclip(m 391 71 b 404 45 424 19 447 -1 l 638 0 549 103)}Yamada Fuel Shop
+Dialogue: 0,0:00:57.28,0:00:58.32,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\yshad6\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\blur4\iclip(m 391 71 b 404 45 424 19 447 -1 l 638 0 549 103)}Yamada Fuel Shop
+Dialogue: 1,0:00:57.28,0:00:58.32,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\xshad-1\yshad4\c&HFAFAFA&\4c&H454853&\4a&HFF&\blur3\iclip(m 391 71 b 404 45 424 19 447 -1 l 638 0 549 103)}Yamada {\c&HE8E6E2&}Fuel {\c&HE4E4DF&}Shop
+Dialogue: 1,0:00:57.28,0:00:58.32,Signs,,0,0,0,,{\pos(448.691,17.692)\fnNature Beauty Personal Use\fs50\xshad-1\yshad4\c&HFAFAFA&\4c&H454853&\4a&HFF&\blur3\iclip(m 391 71 b 404 45 424 19 447 -1 l 638 0 549 103)}Yamada {\c&HE8E6E2&}Fuel {\c&HE4E4DF&}Shop
+Dialogue: 0,0:04:41.76,0:04:44.26,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\bord0.7\yshad3\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\4a&H38&\blur0.9\iclip(m 749 341 l 756 323 779 316 883 296 887 371)}Yamada Fuel Shop
+Dialogue: 1,0:04:41.76,0:04:44.26,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\xshad-1\yshad4\c&HEDF1F3&\4c&H454853&\4a&HFF&\blur0.9\iclip(m 749 341 l 756 323 784 307 883 296 887 371)}Y{\c&HECEFF0&}a{\c&HEBEDEE&}m{\c&HEAECEB&}a{\c&HEAEAE9&}d{\c&HE9E9E6&}a {\c&HE8E6E2&}F{\c&HE7E5E1&}u{\c&HE6E5E0&}e{\c&HE5E4E0&}l {\c&HE4E4DF&}Shop
+Dialogue: 0,0:04:44.26,0:04:44.38,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\bord0.7\yshad3\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\4a&H38&\blur0.9\iclip(m 730 339 l 733 322 753 319 808 312 909 301 920 397 725 372)}Yamada Fuel Shop
+Dialogue: 1,0:04:44.26,0:04:44.38,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\xshad-1\yshad4\c&HEDF1F3&\4c&H454853&\4a&HFF&\blur0.9\iclip(m 730 339 l 733 322 753 319 808 312 909 301 920 397 725 372)}Y{\c&HECEFF0&}a{\c&HEBEDEE&}m{\c&HEAECEB&}a{\c&HEAEAE9&}d{\c&HE9E9E6&}a {\c&HE8E6E2&}F{\c&HE7E5E1&}u{\c&HE6E5E0&}e{\c&HE5E4E0&}l {\c&HE4E4DF&}Shop
+Dialogue: 0,0:04:44.38,0:04:44.51,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\bord0.7\yshad3\c&H3C3C3C&\3c&H3C3C3C&\4c&H3C3C3C&\4a&H38&\blur0.9\iclip(m 724 321 l 728 307 877 296 886 358 711 401 710 323)}Yamada Fuel Shop
+Dialogue: 1,0:04:44.38,0:04:44.51,Signs,,0,0,0,,{\pos(787.667,325)\fnNature Beauty Personal Use\fs30\xshad-1\yshad4\c&HEDF1F3&\4c&H454853&\4a&HFF&\blur0.9\iclip(m 724 321 l 728 307 877 296 886 358 711 401 710 323)}Y{\c&HECEFF0&}a{\c&HEBEDEE&}m{\c&HEAECEB&}a{\c&HEAEAE9&}d{\c&HE9E9E6&}a {\c&HE8E6E2&}F{\c&HE7E5E1&}u{\c&HE6E5E0&}e{\c&HE5E4E0&}l {\c&HE4E4DF&}Shop
+Dialogue: 0,0:00:48.15,0:00:50.53,Signs,,0,0,0,,{\pos(438,257.571)\fnThe Friday Stroke\fs60\b1\c&H000000&\1a&H53&\blur0.8}Yoshida    Manju
+Dialogue: 0,0:00:48.15,0:00:50.53,Signs,,0,0,0,,{\pos(438,257.571)\fnThe Friday Stroke\fs60\b1\c&H274256&\blur0.8}Yoshida    Manju
+Dialogue: 0,0:00:50.53,0:00:56.41,Signs,,0,0,0,,{\pos(326,114.714)\fnThe Friday Stroke\fs28\b1\c&H000000&\1a&H03&\blur0.6\iclip(m 375 100 b 373 107 366 127 359 128 l 407 142 411 103)}Yoshida      Manju
+Dialogue: 0,0:00:50.53,0:00:56.41,Signs,,0,0,0,,{\pos(326,114.714)\fnThe Friday Stroke\fs28\b1\c&H274256&\blur0.6\iclip(m 375 100 b 373 107 366 127 359 128 l 407 142 411 103)}Yoshida      Manju

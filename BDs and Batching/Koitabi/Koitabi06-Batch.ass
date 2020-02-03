@@ -1,0 +1,185 @@
+﻿[Script Info]
+Title: Default Aegisub file
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 1280
+PlayResY: 720
+YCbCr Matrix: TV.709
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: GJM_Main,Gandhi Sans,50,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,2.4,1,2,150,150,40,1
+Style: ED,Austie Bost Hooked on a Feeling,50,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,0,0,7,20,20,20,1
+Style: Signs,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,5,10,10,10,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 10,0:00:05.23,0:00:06.73,GJM_Main,,0,0,0,,Oh, hello.
+Dialogue: 10,0:00:06.73,0:00:10.36,GJM_Main,,0,0,0,,{\q2}Hm? If you're looking for Natsuko,\N she's in the greenroom.
+Dialogue: 10,0:00:17.94,0:00:24.45,GJM_Main,,0,0,0,,{\q2\i1}I can't believe these camellias were \Ncollected from all over the world by the same person.
+Dialogue: 10,0:00:24.45,0:00:27.26,GJM_Main,,0,0,0,,{\i1}It must have taken a lot of time, work, and money.
+Dialogue: 10,0:00:27.69,0:00:30.35,GJM_Main,,0,0,0,,{\i1}And even more important than any of those:
+Dialogue: 10,0:00:30.35,0:00:32.23,GJM_Main,,0,0,0,,{\i1}A tremendous amount of curiosity.
+Dialogue: 10,0:00:34.11,0:00:36.39,GJM_Main,,0,0,0,,{\i1}He must have been a serious eccentric.
+Dialogue: 10,0:01:10.19,0:01:12.29,GJM_Main,,0,0,0,,Huh? You're here already?
+Dialogue: 10,0:01:12.71,0:01:14.92,GJM_Main,,0,0,0,,Oh right, it's already this late.
+Dialogue: 10,0:01:15.41,0:01:18.78,GJM_Main,,0,0,0,,Hang on, I'll wrap up the remaining work real quick.
+Dialogue: 10,0:01:18.78,0:01:20.44,GJM_Main,,0,0,0,,Then I can head out.
+Dialogue: 10,0:01:23.97,0:01:25.36,GJM_Main,,0,0,0,,{\i1}That scared me.
+Dialogue: 10,0:01:25.36,0:01:27.34,GJM_Main,,0,0,0,,{\i1}He just appeared out of nowhere.
+Dialogue: 10,0:01:27.77,0:01:29.39,GJM_Main,,0,0,0,,{\i1}Did he see me?
+Dialogue: 10,0:01:33.12,0:01:37.31,GJM_Main,,0,0,0,,{\i1}I first met him by the gondola lift at a ski resort.
+Dialogue: 10,0:01:39.07,0:01:41.85,GJM_Main,,0,0,0,,{\i1}He's a big fan of nature.
+Dialogue: 10,0:01:41.85,0:01:43.93,GJM_Main,,0,0,0,,{\i1}And not just nature,
+Dialogue: 10,0:01:43.93,0:01:46.09,GJM_Main,,0,0,0,,{\i1}but nature that's been touched by humans. 
+Dialogue: 10,0:01:47.03,0:01:50.27,GJM_Main,,0,0,0,,{\i1}I can't put it very well, but he's a bit strange.
+Dialogue: 10,0:01:51.98,0:01:58.04,GJM_Main,,0,0,0,,{\q2\i1}Lately I've started to understand \Nhow he thinks and acts better.
+Dialogue: 10,0:02:00.70,0:02:09.45,GJM_Main,,0,0,0,,{\q2}Looking at this, I stop caring about how\N much is nature and how much is artificial.
+Dialogue: 10,0:02:09.45,0:02:12.08,GJM_Main,,0,0,0,,It feels stupid to even try to make the distinction.
+Dialogue: 10,0:02:13.34,0:02:15.21,GJM_Main,,0,0,0,,This is so great.
+Dialogue: 10,0:02:15.21,0:02:17.15,GJM_Main,,0,0,0,,I love stuff like this.
+Dialogue: 10,0:02:19.15,0:02:22.26,GJM_Main,,0,0,0,,I've heard that a million times before.
+Dialogue: 10,0:02:23.06,0:02:26.41,GJM_Main,,0,0,0,,{\i1}Yes, I know very well that he likes this.
+Dialogue: 10,0:02:27.08,0:02:30.60,GJM_Main,,0,0,0,,{\i1}But there's something that I'm not so sure on.
+Dialogue: 10,0:02:31.89,0:02:33.92,GJM_Main,,0,0,0,,Look, there's something there!
+Dialogue: 10,0:02:34.24,0:02:35.28,GJM_Main,,0,0,0,,What is that?
+Dialogue: 10,0:02:35.82,0:02:37.92,GJM_Main,,0,0,0,,There you go again.
+Dialogue: 10,0:02:38.76,0:02:42.18,GJM_Main,,0,0,0,,Last time it was just a shrub.
+Dialogue: 10,0:02:42.18,0:02:44.68,GJM_Main,,0,0,0,,And before that,\N it was something floating in the water.
+Dialogue: 10,0:02:45.55,0:02:48.74,GJM_Main,,0,0,0,,{\i1}How does he feel about me?
+Dialogue: 10,0:02:54.55,0:02:57.71,GJM_Main,,0,0,0,,{\i1}This is the first hobby we've shared.
+Dialogue: 10,0:02:58.10,0:03:05.03,GJM_Main,,0,0,0,,{\q2\i1}In free climbing, you climb natural or artificial \Nrock walls without aids like pitons or ladders,
+Dialogue: 10,0:03:05.03,0:03:07.71,GJM_Main,,0,0,0,,{\i1}using just your own arms and legs.
+Dialogue: 10,0:03:08.21,0:03:11.96,GJM_Main,,0,0,0,,{\i1}The rope you attach to your body is just for safety.
+Dialogue: 10,0:03:14.66,0:03:17.55,GJM_Main,,0,0,0,,{\i1}Does he really love me?
+Dialogue: 10,0:03:21.61,0:03:23.42,GJM_Main,,0,0,0,,{\i1}He's very cautious.
+Dialogue: 10,0:03:23.42,0:03:27.11,GJM_Main,,0,0,0,,{\q2\i1}It won't get him much higher,\N but he'll use the safer red grip by his left leg and...
+Dialogue: 10,0:03:36.33,0:03:37.56,GJM_Main,,0,0,0,,{\i1}He didn't.
+Dialogue: 10,0:03:37.99,0:03:40.07,GJM_Main,,0,0,0,,{\i1}He's different from usual today.
+Dialogue: 10,0:03:42.98,0:03:44.29,GJM_Main,,0,0,0,,{\i1}What's gotten into you?
+Dialogue: 10,0:03:44.29,0:03:46.33,GJM_Main,,0,0,0,,{\i1}You've never been this adventurous...
+Dialogue: 10,0:04:00.06,0:04:01.34,GJM_Main,,0,0,0,,Th-This is...
+Dialogue: 10,0:04:02.57,0:04:04.18,GJM_Main,,0,0,0,,Right, that thing.
+Dialogue: 10,0:04:04.74,0:04:06.14,GJM_Main,,0,0,0,,Uh... Huh?
+Dialogue: 10,0:04:06.52,0:04:08.46,GJM_Main,,0,0,0,,That thing, as in {\i1}that{\i0} thing?
+Dialogue: 10,0:04:08.46,0:04:09.68,GJM_Main,,0,0,0,,{\i1}He saw me!
+Dialogue: 10,0:04:09.68,0:04:10.93,GJM_Main,,0,0,0,,Well...
+Dialogue: 10,0:04:11.65,0:04:12.45,GJM_Main,,0,0,0,,I...
+Dialogue: 10,0:04:13.01,0:04:15.06,GJM_Main,,0,0,0,,I wanted to try it too.
+Dialogue: 10,0:04:18.47,0:04:19.57,GJM_Main,,0,0,0,,Pervert.
+Dialogue: 10,0:04:20.71,0:04:22.71,GJM_Main,,0,0,0,,What did you just call me?
+Dialogue: 10,0:04:22.71,0:04:24.91,GJM_Main,,0,0,0,,Pervert!
+Dialogue: 10,0:04:24.91,0:04:28.12,GJM_Main,,0,0,0,,I'm not a pervert, okay?
+Dialogue: 10,0:04:28.43,0:04:30.91,GJM_Main,,0,0,0,,I just... I just...
+Dialogue: 10,0:04:30.91,0:04:32.41,GJM_Main,,0,0,0,,I just love you!
+Dialogue: 10,0:04:33.92,0:04:36.12,GJM_Main,,0,0,0,,I just really love you!
+Dialogue: 10,0:04:36.12,0:04:38.38,GJM_Main,,0,0,0,,I'm not a pervert in any way!
+Dialogue: 0,0:05:14.77,0:05:20.63,ED,,0,0,0,,{\fad(200,200)}On a snowy hill where red flowers bloom
+Dialogue: 0,0:05:20.63,0:05:26.58,ED,,0,0,0,,{\fad(200,200)}You almost seem like pure light to me
+Dialogue: 0,0:05:26.58,0:05:31.47,ED,,0,0,0,,{\fad(200,200)}A cold breath
+Dialogue: 0,0:05:32.54,0:05:36.98,ED,,0,0,0,,{\fad(200,200)}Brushes past
+Dialogue: 0,0:05:39.14,0:05:45.13,ED,,0,0,0,,{\fad(200,200)}On a white hill that goes on forever
+Dialogue: 0,0:05:45.13,0:05:50.64,ED,,0,0,0,,{\fad(200,200)}You almost seem like you're infinite to me
+Dialogue: 0,0:05:51.02,0:05:55.75,ED,,0,0,0,,{\fad(200,200)}Our hands meet
+Dialogue: 0,0:05:56.95,0:06:01.71,ED,,0,0,0,,{\fad(200,200)}Let's stay like this
+Dialogue: 0,0:06:02.86,0:06:08.76,ED,,0,0,0,,{\fad(200,200)}If you ever feel like crying, come to me
+Dialogue: 0,0:06:08.76,0:06:13.88,ED,,0,0,0,,{\fad(200,200)}It would be our very own secret
+Dialogue: 0,0:06:14.73,0:06:20.29,ED,,0,0,0,,{\fad(200,200)}Just like the wide sky and the sun
+Dialogue: 0,0:06:20.29,0:06:25.34,ED,,0,0,0,,{\fad(200,200)}I want to stay next to you forever
+Dialogue: 0,0:06:25.86,0:06:29.62,ED,,0,0,0,,{\fad(200,200)}And ever{this is 100% filler, could also just extend the previous line to cover this}
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\blur8\fs100\fncharlotte\i1\pos(753.988,488.032)}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\blur8\fs100\fncharlotte\i1\pos(753.988,488.032)}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\blur8\fs100\fncharlotte\i1\pos(753.988,488.032)}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\blur8\fs100\fncharlotte\i1\pos(753.988,488.032)}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\blur8\fs100\fncharlotte\i1\pos(753.988,488.032)}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\blur8\fs100\fncharlotte\i1\pos(753.988,488.032)}Love Tours
+Dialogue: 0,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\blur8\fs100\fncharlotte\i1\pos(753.988,488.032)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(622,448,627,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HAB6200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(627,448,632,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HAA6100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(632,448,637,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA96000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(637,448,642,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA85F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(642,448,647,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA75E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(647,448,652,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA65D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(652,448,657,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA65C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(657,448,662,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA55B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(662,448,667,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA45A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(667,448,672,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA35900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(672,448,677,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA25800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(677,448,682,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA25800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(682,448,687,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA15700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(687,448,692,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&HA05600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(692,448,697,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H9F5500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(697,448,702,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H9E5400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(702,448,707,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H9E5300&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(707,448,712,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H9D5200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(712,448,717,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H9C5100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(717,448,722,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H9B5000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(722,448,727,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H9A4F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(727,448,732,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H9A4F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(732,448,737,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H994E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(737,448,742,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H984D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(742,448,747,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H974C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(747,448,752,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H964B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(752,448,757,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H964A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(757,448,762,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H954900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(762,448,767,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H944800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(767,448,772,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H934700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(772,448,777,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H924600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(777,448,782,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H924600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(782,448,787,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H914500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(787,448,792,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H904400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(792,448,797,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H8F4300&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(797,448,802,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H8E4200&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(802,448,807,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H8E4100&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(807,448,812,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H8D4000&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(812,448,817,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H8C3F00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(817,448,822,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H8B3E00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(822,448,827,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H8A3D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(827,448,832,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H8A3D00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(832,448,837,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H893C00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(837,448,842,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H883B00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(842,448,847,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H873A00&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(847,448,852,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H863900&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(852,448,857,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H863800&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(857,448,862,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H853700&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(862,448,867,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H843600&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(867,448,872,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H833500&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(872,448,877,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H823400&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\clip(877,448,882,522)\pos(753.988,488.032)\blur0.6\fs100\fncharlotte\i1\c&HFFFFFF&\t(0,692,1,\c&H823401&)}Love Tours
+Dialogue: 1,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\fs34\b1\bord1.8\blur0.4\pos(644.053,638.936)\fnArial Rounded MT Bold\c&HFFFFFF&\3c&HFFFFFF&\t(0,692,1,\c&H666667&\3c&H666667&)}Takumi and Natsuko   Part 2
+Dialogue: 2,0:00:00.10,0:00:03.98,Signs,,0,0,0,,{\fs34\b1\bord0\blur0.4\pos(644.053,638.936)\fnArial Rounded MT Bold\4a&HFF&}Takumi and Natsuko   Part 2
+Dialogue: 0,0:00:03.98,0:00:06.73,Signs,,0,0,0,,{\fs50\fax0.08\frz357.9\fncharlotte\c&H0E0F14&\xshad-1\blur0.6\pos(613.521,398.298)}I{*\fs49.524}n{*\fs49.048}o{*\fs48.571}k{*\fs48.095}u{*\fs47.619}c{*\fs47.143}h{*\fs46.667}i {*\fs45.714}C{*\fs45.238}a{*\fs44.762}m{*\fs44.286}e{*\fs43.81}l{*\fs43.333}l{*\fs42.857}i{*\fs42.381}a {*\fs41.429}H{*\fs40.952}a{*\fs40.476}l{\fs40}l
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\an7\pos(0,0)\c&H3F697D&\fscx100\fscy100\p1\blur1}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\an7\pos(0,0)\c&H4B7A91&\fscx100\fscy100\p1\blur1}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(593,187,598,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H3F697D&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(598,187,603,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H3F697D&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(603,187,608,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H406A7E&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(608,187,613,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H406B7F&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(613,187,618,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H416B80&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(618,187,623,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H416C81&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(623,187,628,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H426D82&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(628,187,633,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H426D82&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(633,187,638,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H436E83&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(638,187,643,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H436F84&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(643,187,648,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H447085&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(648,187,653,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H447086&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(653,187,658,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H457187&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(658,187,663,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H457287&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(663,187,668,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H467288&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(668,187,673,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H467389&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(673,187,678,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H47748A&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(678,187,683,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H47758B&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(683,187,688,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H48758C&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(688,187,693,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H48768C&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(693,187,698,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H49778D&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(698,187,703,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H49778E&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(703,187,708,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H4A788F&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(708,187,713,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H4A7990&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\clip(713,187,718,248)\pos(0,0)\an7\fscx100\fscy100\p1\blur1\c&H4B7A91&}m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\fnSplatter\fs200\blur2\c&H35596D&\clip(m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215)\pos(606.839,278.936)}R
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\fnSplatter\fs200\blur2\c&H35596D&\clip(m 599 192 l 713 192 713 242 624 242 617 228 604 226 599 215)\pos(708.532,212.61)}V
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\an7\pos(0,0)\c&H19214F&\fscx100\fscy100\p1\blur0.8}m 667 217 l 709 217 709 236 667 236
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\fnSlate Pro Bk Condensed\fs15\pos(656,204)\blur0.6\b1\c&H14242E&}Wild Camellia Garden
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\fnSlate Pro Bk Condensed\fs13\pos(639,226.5)\blur0.6\b1\c&H14242E&}Greenhouse
+Dialogue: 0,0:04:41.38,0:04:43.47,Signs,,0,0,0,,{\fnSlate Pro Bk Condensed\fs13\pos(688.5,226.5)\blur0.6\b1\c&H46748A&}Entrance
