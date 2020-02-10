@@ -17,8 +17,8 @@ Keyframes File: E:/GJM/Railgun T/05/Biribiri_Precure_T_EP05_Premux (with -48 aud
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 242
-Active Line: 262
+Scroll Position: 248
+Active Line: 261
 Video Position: 24695
 
 [V4+ Styles]
@@ -293,7 +293,7 @@ Dialogue: 10,0:16:42.85,0:16:45.56,GJM_Main,,0,0,0,,Guess why I led you here?
 Dialogue: 10,0:16:46.15,0:16:50.78,GJM_Main,,0,0,0,,{\q2}Just give up and spill the beans.\N Then I won't have to hurt you.
 Dialogue: 10,0:16:50.78,0:16:52.36,GJM_Main,,0,0,0,,Otherwise...
 Dialogue: 10,0:16:54.03,0:16:56.66,GJM_Main,,0,0,0,,What?!
-Dialogue: 10,0:16:59.03,0:17:05.25,GJM_Main,,0,0,0,,{\q2}You seem to have two misunderstandings\N regarding my ability, Aero Hand.
+Dialogue: 10,0:16:59.03,0:17:05.25,GJM_Main,,0,0,0,,{\q2}There seem to be two points you've failed\N to grasp about my ability, Aero Hand.
 Dialogue: 10,0:17:05.25,0:17:10.00,GJM_Main,,0,0,0,,{\q2}First, I can create pressure\N at {\i1}any{\i0} point I touch.
 Dialogue: 10,0:17:10.88,0:17:12.92,GJM_Main,,0,0,0,,It's coming from the ground?!
 Dialogue: 10,0:17:12.92,0:17:15.26,GJM_Main,,0,0,0,,Second...
