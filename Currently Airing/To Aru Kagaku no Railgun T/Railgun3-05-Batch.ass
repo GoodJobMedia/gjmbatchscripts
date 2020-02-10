@@ -11,15 +11,15 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Biribiri_Precure_T_EP05_Premux (with -48 audio shift).mkv
-Video File: Biribiri_Precure_T_EP05_Premux (with -48 audio shift).mkv
-Keyframes File: Biribiri_Precure_T_EP05_Premux (with -48 audio shift)_keyframes.log
+Audio File: E:/GJM/Railgun T/05/Biribiri_Precure_T_EP05_Premux (with -48 audio shift).mkv
+Video File: E:/GJM/Railgun T/05/Biribiri_Precure_T_EP05_Premux (with -48 audio shift).mkv
+Keyframes File: E:/GJM/Railgun T/05/Biribiri_Precure_T_EP05_Premux (with -48 audio shift)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 35
-Active Line: 51
-Video Position: 6430
+Scroll Position: 242
+Active Line: 262
+Video Position: 24695
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -281,7 +281,7 @@ Dialogue: 10,0:16:00.89,0:16:03.94,GJM_Main,,0,0,0,,{\fad(0,350)}Misaka, please 
 Dialogue: 10,0:16:04.61,0:16:07.94,GJM_Main,,0,0,0,,{\i1}I'm out of the telepath's range. Now—
 Dialogue: 10,0:16:08.48,0:16:10.99,GJM_Main,,0,0,0,,Are you hurt?
 Dialogue: 10,0:16:10.99,0:16:13.91,GJM_Main,,0,0,0,,Yes, we caught up. She is fine.
-Dialogue: 10,0:16:13.91,0:16:16.95,GJM_Overlap,,0,0,0,,{\an8}We will get off at the next station. 
+Dialogue: 10,0:16:13.91,0:16:16.95,GJM_Overlap,,0,0,0,,{\an8}We will get off at the next station.
 Dialogue: 10,0:16:16.95,0:16:19.95,GJM_Overlap,,0,0,0,,{\an8}We'll take a train back, or call a taxi.
 Dialogue: 10,0:16:15.70,0:16:20.83,GJM_Main,,0,0,0,,{\i1\q2}I see, of course you catch up to\N a moving train in that situation. Why not.
 Dialogue: 10,0:16:20.83,0:16:23.25,GJM_Main,,0,0,0,,Sorry for the trouble.
@@ -294,7 +294,7 @@ Dialogue: 10,0:16:46.15,0:16:50.78,GJM_Main,,0,0,0,,{\q2}Just give up and spill 
 Dialogue: 10,0:16:50.78,0:16:52.36,GJM_Main,,0,0,0,,Otherwise...
 Dialogue: 10,0:16:54.03,0:16:56.66,GJM_Main,,0,0,0,,What?!
 Dialogue: 10,0:16:59.03,0:17:05.25,GJM_Main,,0,0,0,,{\q2}You seem to have two misunderstandings\N regarding my ability, Aero Hand.
-Dialogue: 10,0:17:05.25,0:17:10.00,GJM_Main,,0,0,0,,{\q2}First, I need not touch a particular point\N to create pressure there.
+Dialogue: 10,0:17:05.25,0:17:10.00,GJM_Main,,0,0,0,,{\q2}First, I can create pressure\N at {\i1}any{\i0} point I touch.
 Dialogue: 10,0:17:10.88,0:17:12.92,GJM_Main,,0,0,0,,It's coming from the ground?!
 Dialogue: 10,0:17:12.92,0:17:15.26,GJM_Main,,0,0,0,,Second...
 Dialogue: 10,0:17:21.52,0:17:23.31,GJM_Main,,0,0,0,,The parabolic antenna?
