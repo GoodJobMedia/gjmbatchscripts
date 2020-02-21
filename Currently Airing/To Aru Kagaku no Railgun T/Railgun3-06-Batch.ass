@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: FateKaleid_Liner_Prisma_Mikoto_T_6echs_Premux (bilibili -192 delay).mkv
-Video File: FateKaleid_Liner_Prisma_Mikoto_T_6echs_Premux (bilibili -192 delay).mkv
-Keyframes File: FateKaleid_Liner_Prisma_Mikoto_T_6echs_Premux (bilibili -192 delay)_keyframes.log
+Audio File: E:/GJM/Railgun T/06/[GJM] To Aru Kagaku no Railgun T - 06 [75506B2D].mkv
+Video File: E:/GJM/Railgun T/06/[GJM] To Aru Kagaku no Railgun T - 06 [75506B2D].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 270
-Active Line: 14
-Video Position: 1553
+Scroll Position: 129
+Active Line: 138
+Video Position: 15176
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -170,9 +169,9 @@ Dialogue: 10,0:10:19.08,0:10:22.44,GJM_Main,,0,0,0,,I saw Kongou lying unconscio
 Dialogue: 10,0:10:22.44,0:10:27.81,GJM_Main,,0,0,0,,{\q2}Wannai and Awatsuki were confronting\N a sinister-looking boy controlling some robot dogs.
 Dialogue: 10,0:10:29.22,0:10:30.81,GJM_Main,,0,0,0,,{\i1}This is my fault.
 Dialogue: 10,0:10:31.28,0:10:32.94,GJM_Main,,0,0,0,,{\i1}I didn't take this seriously enough.
-Dialogue: 10,0:10:32.94,0:10:36.78,GJM_Main,,0,0,0,,{\i1\q2}This must be part of the usual\N fights between factions again.
-Dialogue: 10,0:10:36.78,0:10:40.62,GJM_Main,,0,0,0,,{\i1}Even if she hates me and wants to mess with me,
-Dialogue: 10,0:10:41.34,0:10:46.76,GJM_Main,,0,0,0,,{\i1\q2}she's not the type of person\N who would hurt a student from our school.
+Dialogue: 10,0:10:32.94,0:10:36.78,GJM_Main,,0,0,0,,{\i1\q2}I thought it was just a regular\N squabble between cliques.
+Dialogue: 10,0:10:36.78,0:10:40.62,GJM_Main,,0,0,0,,{\i1}That she was just trying to mess around with me.
+Dialogue: 10,0:10:41.34,0:10:46.76,GJM_Main,,0,0,0,,{\i1\q2}I never thought she'd go so far\N as to hurt a student from our school.
 Dialogue: 10,0:10:50.46,0:10:52.32,GJM_Main,,0,0,0,,We're ready.
 Dialogue: 10,0:10:52.32,0:10:54.70,GJM_Main,,0,0,0,,Please wait over there.
 Dialogue: 10,0:10:54.70,0:10:56.21,GJM_Main,,0,0,0,,Okay.
