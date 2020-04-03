@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: senryu07_premux [2E229BEF].mkv
-Video File: senryu07_premux [2E229BEF].mkv
-Keyframes File: senryu07_premux [2E229BEF]_keyframes.log
+Audio File: E:/GJM/Senryuu/07/senryu07_premux [2E229BEF].mkv
+Video File: E:/GJM/Senryuu/07/senryu07_premux [2E229BEF].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 241
-Active Line: 247
-Video Position: 17573
+Video Zoom Percent: 0.500000
+Scroll Position: 770
+Active Line: 784
+Video Position: 13609
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -830,8 +829,8 @@ Dialogue: 1,0:09:21.87,0:09:27.88,Senryuu: Nanako,,0,0,0,,{\an5\pos(251,118.5)\f
 Dialogue: 2,0:09:21.87,0:09:27.88,Senryuu: Nanako,,0,0,0,,{\an5\pos(251,118.5)\fscx434\fscy189\c&H000000&\blur1\fad(400,1)\iclip(36,26,466,211)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 3,0:09:21.87,0:09:27.88,Senryuu: Nanako,,0,0,0,,{\an5\pos(251,118.5)\fscx432\fscy187\c&HF4F3F4&\blur1\fad(400,1)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 4,0:09:23.62,0:09:27.88,Senryuu: Nanako,,0,0,0,senryu,{\pos(51.6,68)\fax0.1\fs60\c&H534956&\blur0.6\fad(272,1)}Hey, Ei, {\fsp-4}I{\fsp0} forgot
-Dialogue: 4,0:09:25.37,0:09:27.88,Senryuu: Nanako,,0,0,0,senryu,{\pos(86.8,122.4)\fax0.1\fs60\c&H534956&\blur0.6\fad(272,1)}to bring an umbrella with
-Dialogue: 4,0:09:26.71,0:09:27.88,Senryuu: Nanako,,0,0,0,senryu,{\pos(130,178.4)\fax0.1\fs60\c&H534956&\blur0.6\fad(272,1)}me to school today.
+Dialogue: 4,0:09:25.37,0:09:27.88,Senryuu: Nanako,,0,0,0,senryu,{\pos(86.8,122.4)\fax0.1\fs60\c&H534956&\blur0.6\fad(272,1)}to bring an umbrella to
+Dialogue: 4,0:09:26.71,0:09:27.88,Senryuu: Nanako,,0,0,0,senryu,{\pos(130,178.4)\fax0.1\fs60\c&H534956&\blur0.6\fad(272,1)}school with me today.
 Dialogue: 0,0:09:33.09,0:09:37.55,Senryuu: Nanako,,0,0,0,,{\an5\pos(251,118.5)\fscx458\fscy213\c&H000000&\blur1\fad(1,600)\iclip(m 25 15 l 477 15 477 222 25 222)\p1}m 0 0 l 100 0 100 100 0 100
 Comment: 1,0:09:33.09,0:09:37.55,Senryuu: Nanako,,0,0,0,,{\fscx456\fscy211\an5\bord0\shad0\blur1\pos(251,118.5)\p1\c&HC6FAFF&\iclip(m 35 25 l 467 25 467 212 35 212)}m 0 0 l 100 0 100 100 0 100
 Comment: 1,0:09:33.09,0:09:37.55,Senryuu: Nanako,,0,0,0,,{\fscx456\fscy211\an5\bord0\shad0\blur1\pos(251,118.5)\p1\c&H73B9D2&\iclip(m 35 25 l 467 25 467 212 35 212)}m 0 0 l 100 0 100 100 0 100
