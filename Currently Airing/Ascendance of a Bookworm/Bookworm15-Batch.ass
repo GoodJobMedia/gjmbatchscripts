@@ -17,8 +17,8 @@ Keyframes File: Bookworm_15 (Premux)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 316
-Active Line: 327
+Scroll Position: 14
+Active Line: 15
 Video Position: 30816
 
 [V4+ Styles]
@@ -48,7 +48,7 @@ Dialogue: 10,0:02:16.83,0:02:18.70,GJM_Main,Mom,0,0,0,,You'll get feverish again
 Dialogue: 10,0:02:18.70,0:02:20.53,GJM_Main,M,0,0,0,,Right, I wouldn't want that.
 Dialogue: 10,0:02:20.93,0:02:23.16,GJM_Main,T,0,0,0,,It'll still be a while until you go to the temple.
 Dialogue: 10,0:02:25.19,0:02:27.70,GJM_Main,M,0,0,0,,{\i1}Even though I've been accepted into the temple,
-Dialogue: 10,0:02:27.70,0:02:30.12,GJM_Main,M,0,0,0,,{\i1\q2}there's apparently a lot things \Nthat need to be prepared first.
+Dialogue: 10,0:02:27.70,0:02:30.12,GJM_Main,M,0,0,0,,{\i1\q2}there's apparently a lot of things \Nthat need to be prepared first.
 Dialogue: 10,0:02:30.12,0:02:34.42,GJM_Main,M,0,0,0,,{\i1\q2}As a result, my apprenticeship\N at the temple has been put on hold.
 Dialogue: 10,0:02:34.95,0:02:37.55,GJM_Main,Mom,0,0,0,,You're going to see Mr. Benno tomorrow, right?
 Dialogue: 10,0:02:37.87,0:02:41.93,GJM_Main,M,0,0,0,,I am! I'm gonna tell him how the negotiations went.
