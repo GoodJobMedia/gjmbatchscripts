@@ -17,8 +17,8 @@ Keyframes File: Bookworm_15 (Premux)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 14
-Active Line: 15
+Scroll Position: 75
+Active Line: 118
 Video Position: 30816
 
 [V4+ Styles]
@@ -151,7 +151,7 @@ Dialogue: 10,0:07:45.38,0:07:47.97,GJM_Main,O,0,0,0,,She's Benno's Water Goddess
 Dialogue: 10,0:07:48.49,0:07:51.11,GJM_Main,Dad,0,0,0,,Water Goddess?
 Dialogue: 10,0:07:51.11,0:07:52.76,GJM_Main,O,0,0,0,,I'm happy for you too, Captain.
 Dialogue: 10,0:07:53.33,0:07:55.80,GJM_Main,O,0,0,0,,It's good you found a way to save Myne.
-Dialogue: 10,0:07:59.43,0:08:02.79,GJM_Main,O,0,0,0,,{\q2}I thought you had accepted the fact\N that's she's joining the temple.
+Dialogue: 10,0:07:59.43,0:08:02.79,GJM_Main,O,0,0,0,,{\q2}I thought you had accepted the fact\N that she's joining the temple.
 Dialogue: 10,0:08:04.70,0:08:07.14,GJM_Main,Dad,0,0,0,,You think I can accept that this easily?
 Dialogue: 10,0:08:07.14,0:08:09.92,GJM_Main,Dad,0,0,0,,{\q2}They claim she'll be treated \Nas an equal to the nobles.
 Dialogue: 10,0:08:10.26,0:08:11.77,GJM_Main,Dad,0,0,0,,But it's {\i1}them{\i0} we're talking about.
