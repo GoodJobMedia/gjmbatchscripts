@@ -17,8 +17,8 @@ Keyframes File: Railgun_T_EP10_Premux_(bilibili)(-120 delay)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 296
-Active Line: 305
+Scroll Position: 38
+Active Line: 48
 Video Position: 1324
 
 [V4+ Styles]
@@ -72,7 +72,7 @@ Dialogue: 10,0:04:00.10,0:04:03.68,GJM_Main,,0,0,0,,{\i1\q2}She may have the str
 Dialogue: 10,0:04:03.68,0:04:08.18,GJM_Main,,0,0,0,,{\i1}but she shouldn't have such nightmare-level powers.
 Dialogue: 10,0:04:08.52,0:04:11.30,GJM_Main,,0,0,0,,{\i1}How did she do it?
 Dialogue: 10,0:04:12.00,0:04:17.02,GJM_Main,,0,0,0,,{\i1\q2}I can't let them take over\N that place before I get there.
-Dialogue: 10,0:04:23.07,0:04:26.48,GJM_Main,,0,0,0,,Makua, what are you eating?
+Dialogue: 10,0:04:23.07,0:04:26.48,GJM_Main,,0,0,0,,Makuwa, what are you eating?
 Dialogue: 10,0:04:27.16,0:04:29.96,GJM_Main,,0,0,0,,A melon. Isn't it obvious?
 Dialogue: 10,0:04:29.96,0:04:31.79,GJM_Main,,0,0,0,,What is the food you most dislike?
 Dialogue: 10,0:04:32.20,0:04:33.21,GJM_Main,,0,0,0,,Apples.
@@ -190,7 +190,7 @@ Dialogue: 10,0:12:21.68,0:12:25.09,GJM_Main,,0,0,0,,No. This is your farewell.
 Dialogue: 10,0:12:25.70,0:12:29.31,GJM_Main,,0,0,0,,Her body's been past its natural limit for some time.
 Dialogue: 10,0:12:29.76,0:12:32.31,GJM_Main,,0,0,0,,Even with the science of Academy City,
 Dialogue: 10,0:12:32.88,0:12:36.02,GJM_Main,,0,0,0,,{\q2}it would've been impossible\N to extend her life any further.
-Dialogue: 10,0:12:37.10,0:12:41.24,GJM_Main,,0,0,0,,I'm sure Dolly was aware of that as well. 
+Dialogue: 10,0:12:37.10,0:12:41.24,GJM_Main,,0,0,0,,I'm sure Dolly was aware of that as well.
 Dialogue: 10,0:12:47.84,0:12:49.79,GJM_Main,,0,0,0,,Oh, you're here again?
 Dialogue: 10,0:12:50.38,0:12:53.54,GJM_Main,,0,0,0,,You're behind your curriculum. This won't do.
 Dialogue: 10,0:12:53.54,0:12:57.46,GJM_Main,,0,0,0,,Oh, right, they told me to tell you.
@@ -203,7 +203,7 @@ Dialogue: 10,0:13:15.06,0:13:18.36,GJM_Main,,0,0,0,,{\q2}If she knew she was art
 Dialogue: 10,0:13:19.08,0:13:20.44,GJM_Main,,0,0,0,,Sure.
 Dialogue: 10,0:13:20.44,0:13:24.88,GJM_Main,,0,0,0,,We can try that if she doesn't improve.
 Dialogue: 10,0:13:24.88,0:13:31.78,GJM_Main,,0,0,0,,{\q2}Project Exterior isn't like that puppet\N the higher-ups forced us to deal with.
-Dialogue: 10,0:13:31.78,0:13:35.52,GJM_Main,,0,0,0,,{\q2}It's the long-awaited fruit\N of the Clone Dolly group's efforts. 
+Dialogue: 10,0:13:31.78,0:13:35.52,GJM_Main,,0,0,0,,{\q2}It's the long-awaited fruit\N of the Clone Dolly group's efforts.
 Dialogue: 10,0:13:35.52,0:13:37.26,GJM_Main,,0,0,0,,But I have my concerns.
 Dialogue: 10,0:13:37.26,0:13:43.76,GJM_Main,,0,0,0,,{\q2}If Shokuhou keeps growing at this rate, one day\N our mental guards won't be able to keep her out.
 Dialogue: 10,0:13:43.76,0:13:48.10,GJM_Main,,0,0,0,,{\q2}After that it will be nigh-impossible\N to keep the goal of the project from her.
@@ -241,7 +241,7 @@ Dialogue: 10,0:15:33.70,0:15:34.90,GJM_Main,,0,0,0,,Exterior?
 Dialogue: 10,0:15:34.90,0:15:36.66,GJM_Main,,0,0,0,,I showed you earlier.
 Dialogue: 10,0:15:36.66,0:15:38.16,GJM_Main,,0,0,0,,Earlier?
 Dialogue: 10,0:15:39.26,0:15:46.50,GJM_Main,,0,0,0,,{\q2}The Exterior is a system \Nthat boosts and extends my ability.
-Dialogue: 10,0:15:46.82,0:15:48.46,GJM_Main,,0,0,0,,Officially, anyway. 
+Dialogue: 10,0:15:46.82,0:15:48.46,GJM_Main,,0,0,0,,Officially, anyway.
 Dialogue: 10,0:15:48.46,0:15:50.36,GJM_Main,,0,0,0,,Officially?
 Dialogue: 10,0:15:50.36,0:15:56.84,GJM_Main,,0,0,0,,{\q2}The original goal of Project Exterior\N was to enable anyone to use my ability.
 Dialogue: 10,0:15:58.84,0:15:59.48,GJM_Main,,0,0,0,,What?!
