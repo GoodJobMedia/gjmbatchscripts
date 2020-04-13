@@ -17,8 +17,8 @@ Keyframes File: Bookworm_16 (Premux)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 274
-Active Line: 275
+Scroll Position: 202
+Active Line: 203
 Video Position: 3068
 
 [V4+ Styles]
@@ -236,7 +236,7 @@ Dialogue: 10,0:13:36.26,0:13:38.21,GJM_Main,F,0,0,0,,Please excuse me, Sister My
 Dialogue: 10,0:13:41.75,0:13:43.30,GJM_Main,M,0,0,0,,{\i1}He understood it!
 Dialogue: 10,0:13:45.41,0:13:48.09,GJM_Main,M,0,0,0,,{\i1}Huh, his attitude has changed.
 Dialogue: 10,0:13:50.10,0:13:55.10,GJM_Main,M,0,0,0,,{\i1\q2}Mr. Benno said he brought\Nthe donation and gifts of gratitude.
-Dialogue: 10,0:13:56.05,0:14:00.48,GJM_Main,HP,0,0,0,,{\q2}There are few matters I would \Nlike to discuss with you, Benno.
+Dialogue: 10,0:13:56.05,0:14:00.48,GJM_Main,HP,0,0,0,,{\q2}There are a few matters I would \Nlike to discuss with you, Benno.
 Dialogue: 10,0:14:03.35,0:14:05.00,GJM_Main,M,0,0,0,,I don't really understand what's happening,
 Dialogue: 10,0:14:05.00,0:14:07.21,GJM_Main,M,0,0,0,,but the fight is about to begin!
 Dialogue: 10,0:14:07.21,0:14:09.10,GJM_Main,M,0,0,0,,Don't lose, Mr. Benno!
