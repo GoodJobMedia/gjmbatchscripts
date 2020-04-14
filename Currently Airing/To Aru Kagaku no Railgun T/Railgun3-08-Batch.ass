@@ -45,7 +45,7 @@ Dialogue: 10,0:00:35.88,0:00:36.89,GJM_Main,,0,0,0,,Kuroko.
 Dialogue: 10,0:00:37.44,0:00:40.85,GJM_Main,,0,0,0,,Do you recognize this building? Any idea where it is?
 Dialogue: 10,0:00:41.78,0:00:45.60,GJM_Main,,0,0,0,,{\q2}I would really appreciate if you\N stopped being so overly-familiar.
 Dialogue: 10,0:00:45.60,0:00:47.20,GJM_Main,,0,0,0,,That building?
-Dialogue: 10,0:00:47.20,0:00:51.14,GJM_Main,,0,0,0,,It closely resembles the Judgment office in district 2.
+Dialogue: 10,0:00:47.20,0:00:51.14,GJM_Main,,0,0,0,,It closely resembles Judgment's office building in District 2.
 Dialogue: 10,0:00:51.14,0:00:52.24,GJM_Main,,0,0,0,,District 2?
 Dialogue: 10,0:00:52.68,0:00:54.02,GJM_Main,,0,0,0,,I'll head there then.
 Dialogue: 10,0:00:54.02,0:00:56.06,GJM_Main,,0,0,0,,Sorry, but when Mom wakes up—
@@ -99,7 +99,7 @@ Dialogue: 10,0:05:24.84,0:05:29.76,GJM_Main,,0,0,0,,{\q2}I vaguely recall you sa
 Dialogue: 10,0:05:29.76,0:05:31.56,GJM_Main,,0,0,0,,J-Just sit back.
 Dialogue: 10,0:05:32.02,0:05:36.82,GJM_Main,,0,0,0,,{\q2}I prepared for this scenario.\N It detects who's tampering with it.
 Dialogue: 10,0:05:36.82,0:05:37.48,GJM_Main,,0,0,0,,There it is.
-Dialogue: 10,0:05:38.34,0:05:40.98,GJM_Main,,0,0,0,,Judgment office 177?
+Dialogue: 10,0:05:38.34,0:05:40.98,GJM_Main,,0,0,0,,Judgment branch #177?
 Dialogue: 10,0:05:41.52,0:05:47.60,GJM_Main,,0,0,0,,{\q2}And of course the Judgment girl there\N had to be Misaka's friend.
 Dialogue: 10,0:05:47.60,0:05:49.96,GJM_Main,,0,0,0,,That was when everything went south.
 Dialogue: 10,0:05:49.96,0:05:56.37,GJM_Main,,0,0,0,,{\q2}Not that I had any other choice—\Nwhich means this situation was a necessity too.
@@ -255,7 +255,7 @@ Dialogue: 10,0:15:47.92,0:15:51.94,GJM_Main,,0,0,0,,{\q2}Why would a corrupt mon
 Dialogue: 10,0:15:52.92,0:15:57.96,GJM_Main,,0,0,0,,{\q2}Sorry, but we aren't good enough\N friends for me to answer that.
 Dialogue: 10,0:15:57.96,0:16:01.19,GJM_Main,,0,0,0,,Anyway, we're almost there.
 Dialogue: 10,0:16:08.02,0:16:09.36,GJM_Main,,0,0,0,,Misuzu?
-Dialogue: 10,0:16:10.06,0:16:13.66,GJM_Main,,0,0,0,,Is this the nap room at office 177?
+Dialogue: 10,0:16:10.06,0:16:13.66,GJM_Main,,0,0,0,,Is this the nap room at branch 177?
 Dialogue: 10,0:16:16.22,0:16:22.62,GJM_Main,,0,0,0,,{\q2}If your conclusion is correct, that would mean\N Uiharu was under their control since yesterday.
 Dialogue: 10,0:16:22.62,0:16:23.71,GJM_Main,,0,0,0,,Yeah.
 Dialogue: 10,0:16:23.71,0:16:27.46,GJM_Main,,0,0,0,,They tried really hard to hide that site.

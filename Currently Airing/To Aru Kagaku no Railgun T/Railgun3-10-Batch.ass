@@ -34,7 +34,7 @@ Style: ED1,Iwata Mincho Old Pro-Fate B,78,&H00FFFFFF,&H000000FF,&H00000000,&H000
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:07.14,0:00:08.90,GJM_Main,,0,0,0,,You're awake?
-Dialogue: 10,0:00:09.76,0:00:12.90,GJM_Main,,0,0,0,,This is a certain building in district 2.
+Dialogue: 10,0:00:09.76,0:00:12.90,GJM_Main,,0,0,0,,This is a certain building in District 2.
 Dialogue: 10,0:00:13.36,0:00:17.28,GJM_Main,,0,0,0,,"Did you rescue me?"
 Dialogue: 10,0:00:17.28,0:00:21.12,GJM_Main,,0,0,0,,—asks Misaka in an expression of gratitude.
 Dialogue: 10,0:00:21.12,0:00:26.48,GJM_Main,,0,0,0,,{\q2}This is but a part of my job.\N Nothing to be grateful for.
