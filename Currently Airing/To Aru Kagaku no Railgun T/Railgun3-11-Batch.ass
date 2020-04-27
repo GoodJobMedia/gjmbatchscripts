@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Railgun_T_EP11_Premux (-48 delay added).mkv
-Video File: Railgun_T_EP11_Premux (-48 delay added).mkv
-Keyframes File: Railgun_T_EP11_Premux (-48 delay added)_keyframes.log
+Audio File: E:/GJM/Railgun T/11/Railgun_T_EP11_Premux (-48 delay added).mkv
+Video File: E:/GJM/Railgun T/11/railgunt_11_video_v2.mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 13
-Active Line: 14
-Video Position: 4671
+Scroll Position: 88
+Active Line: 101
+Video Position: 12981
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -138,7 +137,7 @@ Dialogue: 10,0:09:01.38,0:09:02.90,GJM_Main,,0,0,0,,Is that really her?
 Dialogue: 10,0:09:02.90,0:09:03.82,GJM_Main,,0,0,0,,{\i1}However,
 Dialogue: 10,0:09:03.82,0:09:04.88,GJM_Main,,0,0,0,,Hey, listen!
 Dialogue: 10,0:09:06.04,0:09:08.42,GJM_Overlap,,0,0,0,,{\an8}Oh, you can't...
-Dialogue: 10,0:09:04.88,0:09:12.24,GJM_Main,,0,0,0,,{\i1\q2}if you keep obstructing her,\N that should slow down the change in the network.
+Dialogue: 10,0:09:04.88,0:09:12.24,GJM_Main,,0,0,0,,{\i1\q2}if you keep obstructing her, that should\N slow down the changes the network's making.
 Dialogue: 10,0:09:12.24,0:09:15.64,GJM_Main,,0,0,0,,{\i1}Probably. Maybe. I hope.
 Dialogue: 10,0:09:15.64,0:09:17.14,GJM_Main,,0,0,0,,Could you be any vaguer?
 Dialogue: 10,0:09:17.14,0:09:22.80,GJM_Main,,0,0,0,,{\i1}But brainwashing shouldn't work on her,

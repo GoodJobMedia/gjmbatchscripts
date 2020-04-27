@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: Railgun_T_EP12_Premux (-96).mkv
-Video File: Railgun_T_EP12_Premux (-96).mkv
-Keyframes File: Railgun_T_EP12_Premux (-96)_keyframes.log
+Audio File: E:/GJM/Railgun T/12/Railgun_T_EP12_Premux (-96).mkv
+Video File: E:/GJM/Railgun T/12/Railgun_T_EP12_Premux (-96).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 129
-Active Line: 141
-Video Position: 18160
+Scroll Position: 173
+Active Line: 187
+Video Position: 22777
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -115,8 +114,8 @@ Dialogue: 10,0:07:18.12,0:07:25.80,GJM_Main,,0,0,0,,{\q2}Indeed, he's the only o
 Dialogue: 10,0:07:25.80,0:07:26.75,GJM_Main,,0,0,0,,Stable?
 Dialogue: 10,0:07:27.28,0:07:35.05,GJM_Main,,0,0,0,,{\q2}Misaka is currently being pushed towards \NLevel 6 by overloading her power.
 Dialogue: 10,0:07:35.05,0:07:40.94,GJM_Main,,0,0,0,,{\q2}According to theoretical models,\N at 53% of the way there,
-Dialogue: 10,0:07:40.94,0:07:45.56,GJM_Main,,0,0,0,,{\q2}her mind will transform and be\N transported to another dimension.
-Dialogue: 10,0:07:45.56,0:07:53.38,GJM_Main,,0,0,0,,{\q2}I need the limiter release codes to\N keep her tied to this world beyond that point.
+Dialogue: 10,0:07:40.94,0:07:45.56,GJM_Main,,0,0,0,,{\q2}her mind will transform and \Nascend to a higher form of existence.
+Dialogue: 10,0:07:45.56,0:07:53.38,GJM_Main,,0,0,0,,{\q2}I need the limiter release code to\N keep her tied to this world beyond that point.
 Dialogue: 10,0:07:53.38,0:07:59.60,GJM_Main,,0,0,0,,Then, at 100%, the moment she reaches Level 6,
 Dialogue: 10,0:07:59.60,0:08:02.26,GJM_Main,,0,0,0,,the toll will be too great on both her mind and body.
 Dialogue: 10,0:08:02.26,0:08:06.36,GJM_Main,,0,0,0,,I predict that she will simply disintegrate.
@@ -153,7 +152,7 @@ Dialogue: 10,0:10:33.40,0:10:37.28,GJM_Main,,0,0,0,,{\q2}Multiplying those two b
 Dialogue: 10,0:10:37.28,0:10:42.70,GJM_Main,,0,0,0,,{\q2}I must deploy all equipment and\N analysis espers to observe immediate—
 Dialogue: 10,0:10:43.56,0:10:45.83,GJM_Main,,0,0,0,,O-Oh shit!
 Dialogue: 10,0:10:46.48,0:10:48.29,GJM_Main,,0,0,0,,{\i1}Is he insane?
-Dialogue: 10,0:10:48.62,0:10:55.60,GJM_Main,,0,0,0,,{\i1}That insane explanation implied that \Nif he fails to get the release codes from me,
+Dialogue: 10,0:10:48.62,0:10:55.60,GJM_Main,,0,0,0,,{\i1}That insane explanation implied that \Nif he fails to get the release code from me,
 Dialogue: 10,0:10:55.60,0:11:00.59,GJM_Main,,0,0,0,,{\i1}the city will be saved at the cost of Misaka's life.
 Dialogue: 10,0:11:03.68,0:11:07.56,GJM_Main,,0,0,0,,{\q2}I'll always remember your sacrifice\N for at least a week and a half!
 Dialogue: 10,0:11:10.32,0:11:14.48,GJM_Main,,0,0,0,,It's one outcome to consider.
@@ -220,7 +219,7 @@ Dialogue: 10,0:15:33.34,0:15:36.87,GJM_Main,,0,0,0,,{\i1}so she had to fan her a
 Dialogue: 10,0:15:39.16,0:15:41.92,GJM_Main,,0,0,0,,{\i1}She has nowhere to run if I corner her from below.
 Dialogue: 10,0:15:41.92,0:15:44.92,GJM_Main,,0,0,0,,{\i1}It's but a matter of time before I catch her.
 Dialogue: 10,0:15:45.78,0:15:49.21,GJM_Main,,0,0,0,,{\i1}But I have this weird feeling,
-Dialogue: 10,0:15:49.98,0:15:51.97,GJM_Main,,0,0,0,,{\i1}as if I've forgotten something important...
+Dialogue: 10,0:15:49.98,0:15:51.97,GJM_Main,,0,0,0,,{\i1}as if I'm missing something important...
 Dialogue: 10,0:16:02.19,0:16:04.27,GJM_Main,,0,0,0,,Oh, Shokuhou.
 Dialogue: 10,0:16:06.26,0:16:11.74,GJM_Main,,0,0,0,,Excuse me for getting so worked up earlier.
 Dialogue: 10,0:16:11.74,0:16:18.83,GJM_Main,,0,0,0,,{\q2}It's a weakness of mine: if I see an unexpected\N situation, I focus in on it and lose touch.
@@ -233,7 +232,7 @@ Dialogue: 10,0:16:35.26,0:16:39.72,GJM_Main,,0,0,0,,{\q2}You've got Clairvoyance
 Dialogue: 10,0:16:40.14,0:16:45.44,GJM_Main,,0,0,0,,{\q2}If you caught me outside, I'd be out of options\N with no security to protect me.
 Dialogue: 10,0:16:46.26,0:16:49.28,GJM_Main,,0,0,0,,So I came to negotiate!
 Dialogue: 10,0:16:49.28,0:16:50.44,GJM_Main,,0,0,0,,Negotiate what?
-Dialogue: 10,0:16:51.32,0:16:55.36,GJM_Main,,0,0,0,,I'll give you the release codes,
+Dialogue: 10,0:16:51.32,0:16:55.36,GJM_Main,,0,0,0,,I'll give you the release code,
 Dialogue: 10,0:16:55.36,0:16:56.98,GJM_Main,,0,0,0,,so let me get away.
 Dialogue: 10,0:16:56.98,0:16:57.87,GJM_Main,,0,0,0,,Oh?
 Dialogue: 10,0:16:57.87,0:17:02.78,GJM_Main,,0,0,0,,{\q2}I thought it over,\N and I really couldn't care less about Misaka.
@@ -254,7 +253,7 @@ Dialogue: 10,0:17:51.46,0:17:54.59,GJM_Main,,0,0,0,,{\i1}One step on it and you'
 Dialogue: 10,0:17:55.46,0:18:02.89,GJM_Main,,0,0,0,,{\i1\q2}The waves travel up your feet, amplifying \Nthrough your body, finally collapsing in your head.
 Dialogue: 10,0:18:03.40,0:18:07.85,GJM_Main,,0,0,0,,{\i1\q2}It destroys your inner ear\N and shakes up your brain good.
 Dialogue: 10,0:18:09.31,0:18:10.98,GJM_Main,,0,0,0,,{\i1}One more?
-Dialogue: 10,0:18:12.92,0:18:19.88,GJM_Main,,0,0,0,,{\q2}True, if you gave me the release codes,\N I'd have no further business with you.
+Dialogue: 10,0:18:12.92,0:18:19.88,GJM_Main,,0,0,0,,{\q2}True, if you gave me the release code,\N I'd have no further business with you.
 Dialogue: 10,0:18:19.88,0:18:22.16,GJM_Main,,0,0,0,,But there is one thing that concerns me.
 Dialogue: 10,0:18:22.16,0:18:28.67,GJM_Main,,0,0,0,,{\q2}You've been staring at this spot so hard\N it's made me wonder if something's hiding there.
 Dialogue: 10,0:18:29.50,0:18:30.25,GJM_Main,,0,0,0,,You realized!
@@ -288,8 +287,8 @@ Dialogue: 10,0:21:10.02,0:21:15.71,GJM_Main,,0,0,0,,{\q2}You kept pretending to 
 Dialogue: 10,0:21:16.14,0:21:19.75,GJM_Main,,0,0,0,,And I'm very good at noticing that hint of hope.
 Dialogue: 10,0:21:19.75,0:21:24.05,GJM_Main,,0,0,0,,So looking at you now, it's plainly obvious.
 Dialogue: 10,0:21:27.32,0:21:33.10,GJM_Main,,0,0,0,,{\q2}You have no other tricks\N up your sleeve. Nothing at all.
-Dialogue: 10,0:21:48.40,0:21:50.53,GJM_Main,,0,0,0,,The limiter release codes
-Dialogue: 10,0:21:51.28,0:21:52.88,GJM_Main,,0,0,0,,are mine.
+Dialogue: 10,0:21:48.40,0:21:50.53,GJM_Main,,0,0,0,,The limiter release code
+Dialogue: 10,0:21:51.28,0:21:52.88,GJM_Main,,0,0,0,,is mine.
 Dialogue: 10,0:23:26.21,0:23:30.40,GJM_Main,,0,0,0,,{\q2}I should be cornering Kouzaku Mitori,\N but I cannot seem to reach her.
 Dialogue: 10,0:23:30.40,0:23:35.26,GJM_Main,,0,0,0,,{\q2}Something feels really wrong.\N But I will find her for sure!
 Dialogue: 10,0:23:35.26,0:23:39.98,GJM_Main,,0,0,0,,Hmm. Shokuhou is not interrupting me this time.
