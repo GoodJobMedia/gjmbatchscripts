@@ -159,7 +159,7 @@ Dialogue: 10,0:13:00.80,0:13:05.09,GJM_Main,,0,0,0,,Oh? She's already opening up
 Dialogue: 10,0:13:05.51,0:13:10.68,GJM_Main,,0,0,0,,It seems we're running short on time here.
 Dialogue: 10,0:13:11.47,0:13:18.11,GJM_Main,,0,0,0,,{\q2}Enter the limiter release code \NI got from Shokuhou into the Exterior.
 Dialogue: 10,0:13:19.73,0:13:22.15,GJM_Main,,0,0,0,,And, send.
-Dialogue: 10,0:13:38.83,0:13:43.59,GJM_Main,,0,0,0,,{\q2}If Mikoto reaches Level 6,\N that should wipe the city off the face of earth.
+Dialogue: 10,0:13:38.83,0:13:43.59,GJM_Main,,0,0,0,,{\q2}If Mikoto reaches Level 6,\N that should wipe the city off the face of the Earth.
 Dialogue: 10,0:13:44.09,0:13:48.84,GJM_Main,,0,0,0,,{\q2}But first I wanna personally make sure\N that {\i1}you{\i0} get blown to smithereens!
 Dialogue: 10,0:13:49.60,0:13:53.56,GJM_Main,,0,0,0,,Apologize to her in the afterlife! Die!{get blown away}
 Dialogue: 10,0:14:05.69,0:14:07.99,GJM_Main,,0,0,0,,Found you.
