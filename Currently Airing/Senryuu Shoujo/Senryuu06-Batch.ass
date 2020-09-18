@@ -244,7 +244,7 @@ Dialogue: 1,0:01:08.88,0:01:11.13,SenryuOP,,0,0,0,,{\fad(150,150)\be1\bord2\3c&H
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main_1080p,,0,0,0,,ED
 Comment: 0,0:11:02.97,0:11:03.01,SenryuOP,,0,0,0,,{first frame}
 Dialogue: 0,0:11:09.31,0:11:14.52,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}We two are so different that it's funny
-Dialogue: 0,0:11:14.52,0:11:20.07,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}Even our reflections in the display window too
+Dialogue: 0,0:11:14.52,0:11:20.07,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}Even our reflections in the display window
 Dialogue: 0,0:11:20.07,0:11:25.58,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}When you smile, it's like the sun
 Dialogue: 0,0:11:25.58,0:11:34.59,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}And I can feel a gentle wind begin to blow
 Dialogue: 0,0:11:35.80,0:11:41.38,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}Even these ordinary uneventful days
@@ -253,7 +253,7 @@ Dialogue: 0,0:11:46.97,0:11:50.31,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&
 Dialogue: 0,0:11:50.31,0:11:53.60,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}Even if we sometimes hurt each other
 Dialogue: 0,0:11:53.60,0:12:01.15,SenryuED,,0,0,0,,{\fad(150,150)\be5\c&HDFC590&}I'll keep believing in these unremarkable days
 Dialogue: 1,0:11:09.31,0:11:14.52,SenryuED,,0,0,0,,{\fad(150,150)\be1\bord2\3c&HA95143&}We two are so different that it's funny
-Dialogue: 1,0:11:14.52,0:11:20.07,SenryuED,,0,0,0,,{\fad(150,150)\be1\bord2\3c&HA95143&}Even our reflections in the display window too
+Dialogue: 1,0:11:14.52,0:11:20.07,SenryuED,,0,0,0,,{\fad(150,150)\be1\bord2\3c&HA95143&}Even our reflections in the display window
 Dialogue: 1,0:11:20.07,0:11:25.58,SenryuED,,0,0,0,,{\fad(150,150)\be1\bord2\3c&HA95143&}When you smile, it's like the sun
 Dialogue: 1,0:11:25.58,0:11:34.59,SenryuED,,0,0,0,,{\fad(150,150)\be1\bord2\3c&HA95143&}And I can feel a gentle wind begin to blow
 Dialogue: 1,0:11:35.80,0:11:41.38,SenryuED,,0,0,0,,{\fad(150,150)\be1\bord2\3c&HA95143&}Even these ordinary uneventful days
