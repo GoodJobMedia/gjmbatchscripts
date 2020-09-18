@@ -13,8 +13,8 @@ Keyframes File: senryu12_premux [74AB822A]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 12628
-Active Line: 4552
+Scroll Position: 12682
+Active Line: 12725
 Video Position: 10152
 
 [V4+ Styles]
@@ -12756,6 +12756,6 @@ Dialogue: 2,0:10:48.37,0:10:55.34,Senryuu: Nanako,,0,0,0,,{\an5\pos(1634,172)\fs
 Dialogue: 3,0:10:48.37,0:10:55.34,Senryuu: Nanako,,0,0,0,,{\an5\pos(1634,172)\fscx444\fscy200\c&HF4F3F4&\blur1\t(5450,0,\c&HFFFFFF&)\p1}m 0 0 l 100 0 100 100 0 100
 Dialogue: 4,0:10:48.37,0:10:55.34,Senryuu: Nanako,,0,0,0,,{\pos(1433,115)\fax0.1\fs60\c&H534956&\blur0.6\t(5450,0,\c&HFFFFFF&)}How are you doin{\fsp4}g?
 Dialogue: 4,0:10:48.37,0:10:55.34,Senryuu: Nanako,,0,0,0,,{\pos(1453.000,175.000)\fax0.1\fs60\c&H534956&\blur0.6\t(5450,0,\c&HFFFFFF&)}So you know, I really like
-Dialogue: 4,0:10:48.37,0:10:55.34,Senryuu: Nanako,,0,0,0,,{\pos(1523,235)\fax0.1\fs60\c&H534956&\blur0.6\t(5450,0,\c&HFFFFFF&)}that you have writte{\fsp5}n!
+Dialogue: 4,0:10:48.37,0:10:55.34,Senryuu: Nanako,,0,0,0,,{\pos(1523,235)\fax0.1\fs60\c&H534956&\blur0.6\t(5450,0,\c&HFFFFFF&)}the senryu you wrote!
 Dialogue: 0,0:06:54.43,0:06:55.89,TS,,0,0,0,,{\an7\pos(1154.2,692.867)\c&HE5E5E5&\4c&HF5F3F0&\blur1\p1}m -76 -5 l 62 -57 60 3 -73 51
 Dialogue: 1,0:06:54.43,0:06:55.89,TS,,0,0,0,,{\an5\pos(1155.2,688.867)\frz21.09\fax-0.37\fs39\xshad3\c&H706B68&\4c&HF2F0EE&\blur1}Y{\fs39.25}U{\fs39.5}K{\fs39.75}I{\fs40}S{\fs40.25}H{\fs40.5}I{\fs40.75}R{\fs41}O
