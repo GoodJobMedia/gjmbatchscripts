@@ -63,7 +63,7 @@ Dialogue: 10,0:01:29.48,0:01:32.07,GJM_Main,,0,0,0,,{\i1}Thanks a lot, girl in s
 Dialogue: 10,0:01:33.40,0:01:36.15,GJM_Main,,0,0,0,,Crap, that took way too long!
 Dialogue: 10,0:01:37.11,0:01:44.79,GJM_Main,,0,0,0,,{\q2}Academy City is one-third the size of Tokyo\N and has about 2.3 million inhabitants.{shoutout to CR TLing this as 230k in index 3}{four-zero is hard}
 Dialogue: 10,0:01:44.79,0:01:50.92,GJM_Main,,0,0,0,,{\q2}Roughly 80% of the population are students\N who train and refine their abilities here.
-Dialogue: 10,0:01:52.34,0:01:55.88,GJM_Main,,0,0,0,,The most powerful of them are the Level Fives.
+Dialogue: 10,0:01:52.34,0:01:55.88,GJM_Main,,0,0,0,,The most powerful of them are the Level 5s.
 Dialogue: 10,0:01:56.47,0:02:02.35,GJM_Main,,0,0,0,,{\q2}Of those millions of people,\N only 7 are granted that title.
 Dialogue: 10,0:02:02.89,0:02:06.98,GJM_Main,,0,0,0,,And they are our targets!
 Dialogue: 10,0:02:06.98,0:02:08.39,GJM_Main,,0,0,0,,Are you serious?
@@ -74,7 +74,7 @@ Dialogue: 10,0:02:21.70,0:02:26.54,GJM_Main,,0,0,0,,{\q2}But it's going to be br
 Dialogue: 10,0:02:26.91,0:02:32.50,GJM_Main,,0,0,0,,{\q2}The higher-ups want top-class espers\N to demonstrate their powers.
 Dialogue: 10,0:02:32.50,0:02:33.84,GJM_Main,,0,0,0,,Easier said than done...
 Dialogue: 10,0:02:33.84,0:02:37.13,GJM_Main,,0,0,0,,{\q2}If that's what they want,\N that's what we'll have to get.
-Dialogue: 10,0:02:37.42,0:02:42.76,GJM_Main,,0,0,0,,{\q2}We have to get at least two Level Fives to do\N the pledge of fair play opening the Starlight Games,
+Dialogue: 10,0:02:37.42,0:02:42.76,GJM_Main,,0,0,0,,{\q2}We have to get at least two Level 5s to do\N the pledge of fair play opening the Starlight Games,
 Dialogue: 10,0:02:44.06,0:02:47.68,GJM_Main,,0,0,0,,through whatever means or channels necessary!
 Dialogue: 10,0:02:48.64,0:02:49.39,GJM_Main,,0,0,0,,Oh,
 Dialogue: 10,0:02:51.40,0:02:53.11,GJM_Main,,0,0,0,,there'll be events like this too?
@@ -193,7 +193,7 @@ Dialogue: 10,0:08:19.56,0:08:23.44,GJM_Main,,0,0,0,,{\q2}Someone chosen to repre
 Dialogue: 10,0:08:23.44,0:08:26.02,GJM_Main,,0,0,0,,shouldn't be breaking rules so boldly.
 Dialogue: 10,0:08:26.69,0:08:29.78,GJM_Main,,0,0,0,,It's not like that's been decided on.
 Dialogue: 10,0:08:29.78,0:08:32.61,GJM_Main,,0,0,0,,They asked you too, didn't they?
-Dialogue: 10,0:08:32.61,0:08:35.24,GJM_Main,,0,0,0,,You're Level Five too, Shokuhou Misaki.
+Dialogue: 10,0:08:32.61,0:08:35.24,GJM_Main,,0,0,0,,You're Level 5 too, Shokuhou Misaki.
 Dialogue: 10,0:08:35.87,0:08:37.91,GJM_Main,,0,0,0,,Really, Your Majesty?
 Dialogue: 10,0:08:37.91,0:08:39.58,GJM_Main,,0,0,0,,Stay quiet.
 Dialogue: 10,0:08:40.45,0:08:44.42,GJM_Main,,0,0,0,,That seems like it'd be such a chore.
