@@ -23,7 +23,7 @@ Video AR Mode: 4
 Video AR Value: 1.774074
 Video Zoom Percent: 0.500000
 Scroll Position: 9
-Active Line: 24
+Active Line: 21
 Video Position: 2577
 
 [V4+ Styles]
@@ -57,7 +57,7 @@ Dialogue: 10,0:01:11.17,0:01:14.42,Default,Elaina,0,0,0,,{\i1}but I was a dilige
 Dialogue: 10,0:01:14.42,0:01:18.91,Default,Elaina,0,0,0,,{\i1}studying tirelessly from dawn 'til dusk every day.
 Dialogue: 10,0:01:23.61,0:01:24.68,Default,Elaina,0,0,0,,{\i1}As a result,
 Dialogue: 10,0:01:27.10,0:01:29.48,Default,Elaina,0,0,0,,{\i1}I became the youngest graduate
-Dialogue: 10,0:01:29.48,0:01:33.47,Default,Elaina,0,0,0,,{\i1\q2}in the history of the peaceful country of Robetta \Nto pass the magical skills exam,
+Dialogue: 10,0:01:29.48,0:01:33.47,Default,Elaina,0,0,0,,{\i1\q2}in the history of the peaceful country of Robetta \Nto pass the magical skills exam.
 Dialogue: 10,0:01:33.47,0:01:35.74,Default,Elaina,0,0,0,,{\i1\q2}Now, the fourteen-year-old \Nnovice witch standing before you...
 Dialogue: 10,0:01:37.63,0:01:39.83,Default,Elaina,0,0,0,,{\i1}Why yes, that would be me!
 Dialogue: 10,0:01:47.46,0:01:50.83,Default,Dad,0,0,0,,Congratulations on passing the exam, Elaina!
@@ -272,7 +272,7 @@ Dialogue: 10,0:19:07.63,0:19:08.41,Default,Elaina,0,0,0,,What?
 Dialogue: 10,0:19:08.98,0:19:11.67,Default,Fran,0,0,0,,You've done well this past year.
 Dialogue: 10,0:19:11.67,0:19:14.42,Default,Fran,0,0,0,,I have nothing more to teach you.
 Dialogue: 10,0:19:23.54,0:19:25.27,Default,Fran,0,0,0,,Congratulations, Elaina.
-Dialogue: 10,0:19:25.27,0:19:29.10,Default,Fran,0,0,0,,I, the Stardust Witch, hereby \Nrecognize you as a full-fledged witch. 
+Dialogue: 10,0:19:25.27,0:19:29.10,Default,Fran,0,0,0,,I, the Stardust Witch, hereby \Nrecognize you as a full-fledged witch.
 Dialogue: 10,0:19:30.05,0:19:32.05,Default,Elaina,0,0,0,,Thank you!
 Dialogue: 10,0:19:32.05,0:19:34.11,Default,Fran,0,0,0,,Also, concerning your witch title,
 Dialogue: 10,0:19:34.67,0:19:36.61,Default,Fran,0,0,0,,how do you feel about the "The Ashen Witch"?
