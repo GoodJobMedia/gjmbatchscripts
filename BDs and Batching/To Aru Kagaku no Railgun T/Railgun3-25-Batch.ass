@@ -17,8 +17,8 @@ Keyframes File: Railgun_T_EP25_Premux_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 254
-Active Line: 271
+Scroll Position: 64
+Active Line: 84
 Video Position: 22121
 
 [V4+ Styles]
@@ -99,7 +99,7 @@ Dialogue: 10,0:04:50.07,0:04:52.52,GJM_Main,,0,0,0,,{\i1}but the airship floated
 Dialogue: 10,0:04:53.30,0:04:56.47,GJM_Main,,0,0,0,,{\i1}It could take them a while to get here.
 Dialogue: 10,0:04:56.47,0:04:58.94,GJM_Main,,0,0,0,,No soul? Are you stupid?
 Dialogue: 10,0:04:58.94,0:05:00.78,GJM_Main,,0,0,0,,It's true!
-Dialogue: 10,0:05:01.52,0:05:05.90,GJM_Main,,0,0,0,,{\q2}She just faking "possession"\N by using artificial muscles!
+Dialogue: 10,0:05:01.52,0:05:05.90,GJM_Main,,0,0,0,,{\q2}She's just faking "possession"\N by using artificial muscles!
 Dialogue: 10,0:05:05.90,0:05:06.61,GJM_Main,,0,0,0,,You're lying!
 Dialogue: 10,0:05:06.61,0:05:08.21,GJM_Main,,0,0,0,,I'm not!
 Dialogue: 10,0:05:08.21,0:05:12.61,GJM_Main,,0,0,0,,{\q2}She's been suffering since she realized \Nwhat a soulless, twisted being she is!
@@ -118,7 +118,7 @@ Dialogue: 10,0:05:52.74,0:05:53.54,GJM_Main,,0,0,0,,Kuriba!
 Dialogue: 10,0:05:55.75,0:05:57.46,GJM_Main,,0,0,0,,Hold on!
 Dialogue: 10,0:05:57.98,0:06:00.41,GJM_Main,,0,0,0,,{\i1}I'll call the hospital,
 Dialogue: 10,0:06:00.41,0:06:02.50,GJM_Main,,0,0,0,,{\i1}and send Seike and Naru there to—
-Dialogue: 10,0:06:01.32,0:06:03.42,GJM_Overlap,,0,0,0,,{\an8}No need. I'll can handle it.
+Dialogue: 10,0:06:01.32,0:06:03.42,GJM_Overlap,,0,0,0,,{\an8}No need. I can handle it.
 Dialogue: 10,0:06:03.76,0:06:05.67,GJM_Main,,0,0,0,,Just call the hospital!
 Dialogue: 10,0:06:05.67,0:06:06.32,GJM_Main,,0,0,0,,{\i1}Fine.
 Dialogue: 10,0:06:06.32,0:06:09.02,GJM_Main,,0,0,0,,She was shot in a bad spot. She won't—
