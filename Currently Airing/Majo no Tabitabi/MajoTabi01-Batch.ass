@@ -22,8 +22,8 @@ Keyframes File: Tabitabi_01_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.774074
 Video Zoom Percent: 0.500000
-Scroll Position: 9
-Active Line: 21
+Scroll Position: 308
+Active Line: 338
 Video Position: 2577
 
 [V4+ Styles]
@@ -374,7 +374,7 @@ Dialogue: 0,0:23:49.66,0:23:51.53,Ep1 ED - ENG,,0,0,0,,{\blur4\fad(200,300)}I {\
 Dialogue: 0,0:22:37.29,0:22:41.09,Ep1 ED - ROM,,0,0,0,,{\pos(1880,85)\blur4\fad(200,300)}i{\3c&HF4CE60&}r{\3c&HF4CD5D&}o{\3c&HF3CC5B&}d{\3c&HF3CB58&}o{\3c&HF2CA56&}r{\3c&HF2C953&}a{\3c&HF1C851&}r{\3c&HF1C74E&}e{\3c&HF1C64C&}t{\3c&HF0C549&}e {\3c&HEFC344&}i{\3c&HEFC241&}k{\3c&HEEC13F&}e{\3c&HEEC03C&}b{\3c&HEDBF3A&}a {\3c&HEDBD35&}g{\3c&HECBC32&}e{\3c&HECBB2F&}n{\3c&HEBBA2D&}s{\3c&HEBB92A&}o{\3c&HEAB828&}u {\3c&HE9B623&}g{\3c&HE9B520&}a{\3c&HE9B41E&}
 Dialogue: 0,0:22:41.34,0:22:45.01,Ep1 ED - ROM,,0,0,0,,{\pos(1880,85)\blur4\fad(200,300)}k{\3c&HF4CE60&}a{\3c&HF4CD5E&}t{\3c&HF3CC5C&}a{\3c&HF3CB5A&}c{\3c&HF3CA57&}h{\3c&HF2C955&}i {\3c&HF1C851&}a{\3c&HF1C74E&}r{\3c&HF1C64C&}u {\3c&HF0C448&}m{\3c&HEFC346&}o{\3c&HEFC243&}n{\3c&HEFC141&}o {\3c&HEEC03D&}n{\3c&HEEBF3A&}i {\3c&HEDBD36&}n{\3c&HECBC34&}a{\3c&HECBB32&}r{\3c&HECBA2F&}u {\3c&HEBB92B&}y{\3c&HEAB829&}o{\3c&HEAB726&}u {\3c&HE9B522&}n{\3c&HE9B420&}i{\3c&HE9B41E&}
 Dialogue: 0,0:22:45.05,0:22:47.22,Ep1 ED - ROM,,0,0,0,,{\pos(1880,85)\blur4\fad(200,300)}e{\3c&HF4CC5D&}g{\3c&HF3CA58&}a{\3c&HF2C853&}i{\3c&HF1C64D&}t{\3c&HF0C448&}e {\3c&HEEC03D&}y{\3c&HEDBE38&}u{\3c&HECBC33&}k{\3c&HEBBA2D&}e{\3c&HEAB828&}r{\3c&HE9B623&}u{\3c&HE9B41E&}
-Dialogue: 0,0:22:47.30,0:22:49.85,Ep1 ED - ROM,,0,0,0,,{\pos(1880,85)\blur4\fad(200,300)}k{\3c&HF4CD5F&}a{\3c&HF3CC5B&}n{\3c&HF3CA57&}a{\3c&HF2C953&}e{\3c&HF1C74F&}t{\3c&HF1C64C&}e {\3c&HEFC344&}y{\3c&HEFC140&}u{\3c&HEEC03C&}n{\3c&HEDBE38&}k{\3c&HEDBD35&}e{\3c&HECBB31&}r{\3c&HEBBA2D&}u{\3c&HEBB829&}n{\3c&HEAB725&}d{\3c&HE9B521&}a{\3c&HE9B41E&}
+Dialogue: 0,0:22:47.30,0:22:49.85,Ep1 ED - ROM,,0,0,0,,{\pos(1880,85)\blur4\fad(200,300)}k{\3c&HF4CD5F&}a{\3c&HF3CC5B&}n{\3c&HF3CA57&}a{\3c&HF2C953&}e{\3c&HF1C74F&}t{\3c&HF1C64C&}e {\3c&HEFC344&}y{\3c&HEFC140&}u{\3c&HEDBE38&}k{\3c&HEDBD35&}e{\3c&HECBB31&}r{\3c&HEBBA2D&}u{\3c&HEBB829&}n{\3c&HEAB725&}d{\3c&HE9B521&}a{\3c&HE9B41E&}
 Dialogue: 0,0:22:49.97,0:22:53.10,Ep1 ED - ROM,,0,0,0,,{\pos(1880,85)\blur4\fad(200,300)}y{\3c&HF4CD60&}a{\3c&HF3CC5D&}s{\3c&HF3CB5A&}a{\3c&HF2CA57&}s{\3c&HF2C954&}h{\3c&HF1C751&}i{\3c&HF1C64E&}k{\3c&HF0C54B&}u {\3c&HEFC345&}f{\3c&HEFC242&}u{\3c&HEEC03F&}i{\3c&HEEBF3C&}t{\3c&HEDBE39&}a {\3c&HECBC33&}k{\3c&HECBB30&}a{\3c&HEBB92D&}z{\3c&HEBB82A&}e {\3c&HEAB624&}g{\3c&HE9B521&}a{\3c&HE9B41E&}
 Dialogue: 0,0:22:53.98,0:22:57.23,Ep1 ED - ROM,,0,0,0,,{\pos(1880,85)\blur4\fad(200,300)}f{\3c&HF4CD60&}u{\3c&HF4CC5D&}r{\3c&HF3CB5A&}u{\3c&HF3CA57&}i {\3c&HF2C851&}p{\3c&HF1C74E&}a{\3c&HF1C64C&}g{\3c&HF0C449&}e {\3c&HEFC243&}m{\3c&HEFC140&}e{\3c&HEEC03D&}k{\3c&HEEBF3A&}u{\3c&HEDBE37&}r{\3c&HEDBD35&}u {\3c&HECBA2F&}y{\3c&HEBB92C&}o{\3c&HEBB829&}u {\3c&HEAB623&}n{\3c&HE9B520&}i{\3c&HE9B41E&}
 Dialogue: 0,0:22:57.27,0:22:59.48,Ep1 ED - ROM,,0,0,0,,{\pos(1880,85)\blur4\fad(200,300)}f{\3c&HF4CD5E&}u{\3c&HF3CB59&}r{\3c&HF2C954&}i{\3c&HF1C74F&}k{\3c&HF0C54A&}a{\3c&HEFC345&}e{\3c&HEFC140&}r{\3c&HEEBF3B&}u {\3c&HECBB31&}k{\3c&HEBB92C&}e{\3c&HEAB727&}d{\3c&HE9B522&}o{\3c&HE9B41E&}
