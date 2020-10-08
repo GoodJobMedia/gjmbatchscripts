@@ -17,8 +17,8 @@ Keyframes File: kuma401_premux [43ABA4F9]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Scroll Position: 3226
-Active Line: 3235
+Scroll Position: 30
+Active Line: 31
 Video Position: 3707
 
 [V4+ Styles]
@@ -64,7 +64,7 @@ Dialogue: 20,0:01:41.37,0:01:45.67,1$GJM_Main,,0,0,0,,{\q2}I can't wait that lon
 Dialogue: 20,0:01:45.67,0:01:48.38,1$GJM_Main,,0,0,0,,Someone, anyone, help us!
 Dialogue: 20,0:01:48.38,0:01:50.17,1$GJM_Main,,0,0,0,,Hey, you go.
 Dialogue: 20,0:01:50.17,0:01:51.88,1$GJM_Main,,0,0,0,,C'mon, I can't take on that thing!
-Dialogue: 20,0:01:51.88,0:01:54.72,1$GJM_Main,,0,0,0,,If only Deboraney were here...
+Dialogue: 20,0:01:51.88,0:01:54.72,1$GJM_Main,,0,0,0,,If only Deboranay were here...
 Dialogue: 20,0:01:55.80,0:01:56.60,1$GJM_Main,,0,0,0,,Why...
 Dialogue: 20,0:01:57.10,0:01:58.56,1$GJM_Main,,0,0,0,,Why?!
 Dialogue: 20,0:01:58.56,0:02:01.73,1$GJM_Main,,0,0,0,,What am I supposed to tell the other villagers?!
