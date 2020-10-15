@@ -11,15 +11,14 @@ YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: kuma4_02_premux [2E875386].mkv
-Video File: kuma4_02_premux [2E875386].mkv
-Keyframes File: kuma4_02_premux [2E875386]_keyframes.log
+Audio File: E:/GJM/Kuma Kuma Kuma Bear/02/kuma4_02_premux [2E875386].mkv
+Video File: E:/GJM/Kuma Kuma Kuma Bear/02/kuma4_02_premux [2E875386].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 171
-Active Line: 210
-Video Position: 12528
+Scroll Position: 2513
+Active Line: 2530
+Video Position: 34042
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2550,7 +2549,7 @@ Dialogue: 1,0:04:48.10,0:04:48.14,4$MeteorSigns,,0,0,0,,{=34}{\an4\pos(-40.13,60
 Dialogue: 1,0:04:48.14,0:04:48.18,4$MeteorSigns,,0,0,0,,{=34}{\an4\pos(-41.28,604.01)\fnMuseo Sans 500\fs75\blur1.8\q2}Congratulations, Yuna! Clap clap clap clap\N\NI've decided to send you to another world that I manage.\NYou can keep that bear gear as a present.\NI hope you have a lot of fun and fall in love with this world!
 Dialogue: 1,0:04:48.18,0:04:48.22,4$MeteorSigns,,0,0,0,,{=34}{\an4\pos(-42.56,604)\fnMuseo Sans 500\fs75\blur1.8\q2}Congratulations, Yuna! Clap clap clap clap\N\NI've decided to send you to another world that I manage.\NYou can keep that bear gear as a present.\NI hope you have a lot of fun and fall in love with this world!
 Dialogue: 1,0:04:48.22,0:04:48.26,4$MeteorSigns,,0,0,0,,{=34}{\an4\pos(-43.83,604.03)\fnMuseo Sans 500\fs75\blur1.8\q2}Congratulations, Yuna! Clap clap clap clap\N\NI've decided to send you to another world that I manage.\NYou can keep that bear gear as a present.\NI hope you have a lot of fun and fall in love with this world!
-Comment: 2,0:23:34.93,0:23:39.81,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\b1\c&H44128C&\fscx120\fscy120\bord0\blur1\pos(956,284.4)}NEXT TIME
+Comment: 2,0:23:34.93,0:23:39.86,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\b1\c&H44128C&\fscx120\fscy120\bord0\blur1\pos(956,284.4)}NEXT TIME
 Dialogue: 2,0:23:34.93,0:23:34.97,5$Signs,,0,0,0,,{\pos(785,281.72)\fscx120\fscy120\frz14.345\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HF4&\blur1}N
 Dialogue: 2,0:23:34.97,0:23:35.02,5$Signs,,0,0,0,,{\pos(785,267.029)\fscx120\fscy120\frz9.764\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HA6&\blur1}N
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(785,260.439)\fscx120\fscy120\frz5.182\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H58&\blur1}N
@@ -2565,7 +2564,7 @@ Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(785,282.283)\fscx120\fsc
 Dialogue: 2,0:23:35.39,0:23:35.43,5$Signs,,0,0,0,,{\pos(785,283.611)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}N
 Dialogue: 2,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(785,284.285)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}N
 Dialogue: 2,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(785,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}N
-Dialogue: 2,0:23:35.52,0:23:39.85,5$Signs,,0,0,0,,{\pos(785,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}N
+Dialogue: 2,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(785,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}N
 Dialogue: 2,0:23:34.97,0:23:35.02,5$Signs,,0,0,0,,{\pos(836.431,280.855)\fscx120\fscy120\frz14.127\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HF0&\blur1}E
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(836.431,266.528)\fscx120\fscy120\frz9.545\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HA2&\blur1}E
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(836.431,260.38)\fscx120\fscy120\frz5.073\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H56&\blur1}E
@@ -2579,7 +2578,7 @@ Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(836.431,280.92)\fscx120\
 Dialogue: 2,0:23:35.39,0:23:35.43,5$Signs,,0,0,0,,{\pos(836.431,282.355)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}E
 Dialogue: 2,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(836.431,283.66)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}E
 Dialogue: 2,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(836.431,284.292)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}E
-Dialogue: 2,0:23:35.52,0:23:39.85,5$Signs,,0,0,0,,{\pos(836.431,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}E
+Dialogue: 2,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(836.431,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}E
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(883.231,280.005)\fscx120\fscy120\frz13.909\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HEC&\blur1}X
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(883.231,266.284)\fscx120\fscy120\frz9.436\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HA0&\blur1}X
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(883.231,260.276)\fscx120\fscy120\frz4.855\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H53&\blur1}X
@@ -2593,7 +2592,7 @@ Dialogue: 2,0:23:35.39,0:23:35.43,5$Signs,,0,0,0,,{\pos(883.231,280.976)\fscx120
 Dialogue: 2,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(883.231,282.427)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}X
 Dialogue: 2,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(883.231,283.684)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}X
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(883.231,284.307)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}X
-Dialogue: 2,0:23:35.56,0:23:39.85,5$Signs,,0,0,0,,{\pos(883.231,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}X
+Dialogue: 2,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(883.231,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}X
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(927.866,279.585)\fscx120\fscy120\frz13.8\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HEB&\blur1}T
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(927.866,265.81)\fscx120\fscy120\frz9.218\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H9D&\blur1}T
 Dialogue: 2,0:23:35.14,0:23:35.18,5$Signs,,0,0,0,,{\pos(927.866,260.188)\fscx120\fscy120\frz4.636\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H4F&\blur1}T
@@ -2607,7 +2606,7 @@ Dialogue: 2,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(927.866,281.035)\fscx120
 Dialogue: 2,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(927.866,282.463)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}T
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(927.866,283.73)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}T
 Dialogue: 2,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(927.866,284.32)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}T
-Dialogue: 2,0:23:35.60,0:23:39.85,5$Signs,,0,0,0,,{\pos(927.866,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}T
+Dialogue: 2,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(927.866,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}T
 Dialogue: 2,0:23:35.14,0:23:35.18,5$Signs,,0,0,0,,{\pos(995.028,277.946)\fscx120\fscy120\frz13.364\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HE3&\blur1}T
 Dialogue: 2,0:23:35.18,0:23:35.22,5$Signs,,0,0,0,,{\pos(995.028,265.136)\fscx120\fscy120\frz8.891\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H97&\blur1}T
 Dialogue: 2,0:23:35.22,0:23:35.27,5$Signs,,0,0,0,,{\pos(995.028,260.089)\fscx120\fscy120\frz4.309\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H49&\blur1}T
@@ -2621,7 +2620,7 @@ Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(995.028,281.126)\fscx120
 Dialogue: 2,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(995.028,282.604)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}T
 Dialogue: 2,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(995.028,283.817)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}T
 Dialogue: 2,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(995.028,284.337)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}T
-Dialogue: 2,0:23:35.68,0:23:39.85,5$Signs,,0,0,0,,{\pos(995.028,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}T
+Dialogue: 2,0:23:35.68,0:23:39.86,5$Signs,,0,0,0,,{\pos(995.028,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}T
 Dialogue: 2,0:23:35.18,0:23:35.22,5$Signs,,0,0,0,,{\pos(1029.116,277.546)\fscx120\fscy120\frz13.255\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HE1&\blur1}I
 Dialogue: 2,0:23:35.22,0:23:35.27,5$Signs,,0,0,0,,{\pos(1029.116,264.71)\fscx120\fscy120\frz8.673\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H93&\blur1}I
 Dialogue: 2,0:23:35.27,0:23:35.31,5$Signs,,0,0,0,,{\pos(1029.116,260.043)\fscx120\fscy120\frz4.091\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H46&\blur1}I
@@ -2635,7 +2634,7 @@ Dialogue: 2,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1029.116,281.189)\fscx12
 Dialogue: 2,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(1029.116,282.674)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}I
 Dialogue: 2,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(1029.116,283.838)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}I
 Dialogue: 2,0:23:35.68,0:23:35.72,5$Signs,,0,0,0,,{\pos(1029.116,284.347)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}I
-Dialogue: 2,0:23:35.72,0:23:39.85,5$Signs,,0,0,0,,{\pos(1029.116,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}I
+Dialogue: 2,0:23:35.72,0:23:39.86,5$Signs,,0,0,0,,{\pos(1029.116,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}I
 Dialogue: 2,0:23:35.22,0:23:35.27,5$Signs,,0,0,0,,{\pos(1073.375,276.758)\fscx120\fscy120\frz13.036\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HDE&\blur1}M
 Dialogue: 2,0:23:35.27,0:23:35.31,5$Signs,,0,0,0,,{\pos(1073.375,264.303)\fscx120\fscy120\frz8.455\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H90&\blur1}M
 Dialogue: 2,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(1073.375,260.013)\fscx120\fscy120\frz3.873\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H42&\blur1}M
@@ -2649,7 +2648,7 @@ Dialogue: 2,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(1073.375,281.254)\fscx12
 Dialogue: 2,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(1073.375,282.709)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}M
 Dialogue: 2,0:23:35.68,0:23:35.72,5$Signs,,0,0,0,,{\pos(1073.375,283.878)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}M
 Dialogue: 2,0:23:35.72,0:23:35.77,5$Signs,,0,0,0,,{\pos(1073.375,284.356)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}M
-Dialogue: 2,0:23:35.77,0:23:39.85,5$Signs,,0,0,0,,{\pos(1073.375,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}M
+Dialogue: 2,0:23:35.77,0:23:39.86,5$Signs,,0,0,0,,{\pos(1073.375,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}M
 Dialogue: 2,0:23:35.27,0:23:35.31,5$Signs,,0,0,0,,{\pos(1129.906,275.987)\fscx120\fscy120\frz12.818\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&HDA&\blur1}E
 Dialogue: 2,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(1129.906,263.915)\fscx120\fscy120\frz8.236\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H8C&\blur1}E
 Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(1129.906,260.005)\fscx120\fscy120\frz3.764\fnFOT-Seurat Pro UB\b1\c&H44128C&\alpha&H40&\blur1}E
@@ -2663,8 +2662,8 @@ Dialogue: 2,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(1129.906,281.286)\fscx12
 Dialogue: 2,0:23:35.68,0:23:35.72,5$Signs,,0,0,0,,{\pos(1129.906,282.777)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}E
 Dialogue: 2,0:23:35.72,0:23:35.77,5$Signs,,0,0,0,,{\pos(1129.906,283.917)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}E
 Dialogue: 2,0:23:35.77,0:23:35.81,5$Signs,,0,0,0,,{\pos(1129.906,284.36)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}E
-Dialogue: 2,0:23:35.81,0:23:39.85,5$Signs,,0,0,0,,{\pos(1129.906,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}E
-Comment: 1,0:23:34.93,0:23:39.81,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\b1\fscx120\fscy120\c&H1B033E&\bord0\blur1\pos(956,284.4)}NEXT TIME
+Dialogue: 2,0:23:35.81,0:23:39.86,5$Signs,,0,0,0,,{\pos(1129.906,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H44128C&\blur1}E
+Comment: 1,0:23:34.93,0:23:39.86,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\b1\fscx120\fscy120\c&H1B033E&\bord0\blur1\pos(956,284.4)}NEXT TIME
 Dialogue: 1,0:23:34.93,0:23:34.97,5$Signs,,0,0,0,,{\pos(785,281.72)\fscx120\fscy120\frz14.345\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HF4&\blur1}N
 Dialogue: 1,0:23:34.97,0:23:35.02,5$Signs,,0,0,0,,{\pos(785,267.029)\fscx120\fscy120\frz9.764\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HA6&\blur1}N
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(785,260.439)\fscx120\fscy120\frz5.182\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H58&\blur1}N
@@ -2679,7 +2678,7 @@ Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(785,282.283)\fscx120\fsc
 Dialogue: 1,0:23:35.39,0:23:35.43,5$Signs,,0,0,0,,{\pos(785,283.611)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}N
 Dialogue: 1,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(785,284.285)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}N
 Dialogue: 1,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(785,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}N
-Dialogue: 1,0:23:35.52,0:23:39.85,5$Signs,,0,0,0,,{\pos(785,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}N
+Dialogue: 1,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(785,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}N
 Dialogue: 1,0:23:34.97,0:23:35.02,5$Signs,,0,0,0,,{\pos(836.431,280.855)\fscx120\fscy120\frz14.127\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HF0&\blur1}E
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(836.431,266.528)\fscx120\fscy120\frz9.545\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HA2&\blur1}E
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(836.431,260.38)\fscx120\fscy120\frz5.073\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H56&\blur1}E
@@ -2693,7 +2692,7 @@ Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(836.431,280.92)\fscx120\
 Dialogue: 1,0:23:35.39,0:23:35.43,5$Signs,,0,0,0,,{\pos(836.431,282.355)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(836.431,283.66)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(836.431,284.292)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
-Dialogue: 1,0:23:35.52,0:23:39.85,5$Signs,,0,0,0,,{\pos(836.431,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
+Dialogue: 1,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(836.431,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(883.231,280.005)\fscx120\fscy120\frz13.909\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HEC&\blur1}X
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(883.231,266.284)\fscx120\fscy120\frz9.436\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HA0&\blur1}X
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(883.231,260.276)\fscx120\fscy120\frz4.855\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H53&\blur1}X
@@ -2707,7 +2706,7 @@ Dialogue: 1,0:23:35.39,0:23:35.43,5$Signs,,0,0,0,,{\pos(883.231,280.976)\fscx120
 Dialogue: 1,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(883.231,282.427)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}X
 Dialogue: 1,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(883.231,283.684)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}X
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(883.231,284.307)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}X
-Dialogue: 1,0:23:35.56,0:23:39.85,5$Signs,,0,0,0,,{\pos(883.231,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}X
+Dialogue: 1,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(883.231,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}X
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(927.866,279.585)\fscx120\fscy120\frz13.8\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HEB&\blur1}T
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(927.866,265.81)\fscx120\fscy120\frz9.218\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H9D&\blur1}T
 Dialogue: 1,0:23:35.14,0:23:35.18,5$Signs,,0,0,0,,{\pos(927.866,260.188)\fscx120\fscy120\frz4.636\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H4F&\blur1}T
@@ -2721,7 +2720,7 @@ Dialogue: 1,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(927.866,281.035)\fscx120
 Dialogue: 1,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(927.866,282.463)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}T
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(927.866,283.73)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}T
 Dialogue: 1,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(927.866,284.32)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}T
-Dialogue: 1,0:23:35.60,0:23:39.85,5$Signs,,0,0,0,,{\pos(927.866,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}T
+Dialogue: 1,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(927.866,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}T
 Dialogue: 1,0:23:35.14,0:23:35.18,5$Signs,,0,0,0,,{\pos(995.028,277.946)\fscx120\fscy120\frz13.364\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HE3&\blur1}T
 Dialogue: 1,0:23:35.18,0:23:35.22,5$Signs,,0,0,0,,{\pos(995.028,265.136)\fscx120\fscy120\frz8.891\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H97&\blur1}T
 Dialogue: 1,0:23:35.22,0:23:35.27,5$Signs,,0,0,0,,{\pos(995.028,260.089)\fscx120\fscy120\frz4.309\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H49&\blur1}T
@@ -2735,7 +2734,7 @@ Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(995.028,281.126)\fscx120
 Dialogue: 1,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(995.028,282.604)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}T
 Dialogue: 1,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(995.028,283.817)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}T
 Dialogue: 1,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(995.028,284.337)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}T
-Dialogue: 1,0:23:35.68,0:23:39.85,5$Signs,,0,0,0,,{\pos(995.028,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}T
+Dialogue: 1,0:23:35.68,0:23:39.86,5$Signs,,0,0,0,,{\pos(995.028,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}T
 Dialogue: 1,0:23:35.18,0:23:35.22,5$Signs,,0,0,0,,{\pos(1029.116,277.546)\fscx120\fscy120\frz13.255\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HE1&\blur1}I
 Dialogue: 1,0:23:35.22,0:23:35.27,5$Signs,,0,0,0,,{\pos(1029.116,264.71)\fscx120\fscy120\frz8.673\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H93&\blur1}I
 Dialogue: 1,0:23:35.27,0:23:35.31,5$Signs,,0,0,0,,{\pos(1029.116,260.043)\fscx120\fscy120\frz4.091\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H46&\blur1}I
@@ -2749,7 +2748,7 @@ Dialogue: 1,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1029.116,281.189)\fscx12
 Dialogue: 1,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(1029.116,282.674)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}I
 Dialogue: 1,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(1029.116,283.838)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}I
 Dialogue: 1,0:23:35.68,0:23:35.72,5$Signs,,0,0,0,,{\pos(1029.116,284.347)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}I
-Dialogue: 1,0:23:35.72,0:23:39.85,5$Signs,,0,0,0,,{\pos(1029.116,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}I
+Dialogue: 1,0:23:35.72,0:23:39.86,5$Signs,,0,0,0,,{\pos(1029.116,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}I
 Dialogue: 1,0:23:35.22,0:23:35.27,5$Signs,,0,0,0,,{\pos(1073.375,276.758)\fscx120\fscy120\frz13.036\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HDE&\blur1}M
 Dialogue: 1,0:23:35.27,0:23:35.31,5$Signs,,0,0,0,,{\pos(1073.375,264.303)\fscx120\fscy120\frz8.455\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H90&\blur1}M
 Dialogue: 1,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(1073.375,260.013)\fscx120\fscy120\frz3.873\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H42&\blur1}M
@@ -2763,7 +2762,7 @@ Dialogue: 1,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(1073.375,281.254)\fscx12
 Dialogue: 1,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(1073.375,282.709)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}M
 Dialogue: 1,0:23:35.68,0:23:35.72,5$Signs,,0,0,0,,{\pos(1073.375,283.878)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}M
 Dialogue: 1,0:23:35.72,0:23:35.77,5$Signs,,0,0,0,,{\pos(1073.375,284.356)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}M
-Dialogue: 1,0:23:35.77,0:23:39.85,5$Signs,,0,0,0,,{\pos(1073.375,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}M
+Dialogue: 1,0:23:35.77,0:23:39.86,5$Signs,,0,0,0,,{\pos(1073.375,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}M
 Dialogue: 1,0:23:35.27,0:23:35.31,5$Signs,,0,0,0,,{\pos(1129.906,275.987)\fscx120\fscy120\frz12.818\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HDA&\blur1}E
 Dialogue: 1,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(1129.906,263.915)\fscx120\fscy120\frz8.236\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H8C&\blur1}E
 Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(1129.906,260.005)\fscx120\fscy120\frz3.764\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H40&\blur1}E
@@ -2777,8 +2776,8 @@ Dialogue: 1,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(1129.906,281.286)\fscx12
 Dialogue: 1,0:23:35.68,0:23:35.72,5$Signs,,0,0,0,,{\pos(1129.906,282.777)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.72,0:23:35.77,5$Signs,,0,0,0,,{\pos(1129.906,283.917)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.77,0:23:35.81,5$Signs,,0,0,0,,{\pos(1129.906,284.36)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
-Dialogue: 1,0:23:35.81,0:23:39.85,5$Signs,,0,0,0,,{\pos(1129.906,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
-Comment: 0,0:23:34.93,0:23:39.81,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\b1\c&HFEFFFF&\fscx120\fscy120\bord10\blur6\pos(956,284.4)\3c&HFEFFFF&}NEXT TIME
+Dialogue: 1,0:23:35.81,0:23:39.86,5$Signs,,0,0,0,,{\pos(1129.906,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
+Comment: 0,0:23:34.93,0:23:39.86,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\b1\c&HFEFFFF&\fscx120\fscy120\bord10\blur6\pos(956,284.4)\3c&HFEFFFF&}NEXT TIME
 Dialogue: 0,0:23:34.93,0:23:34.97,5$Signs,,0,0,0,,{\pos(785,281.72)\fscx120\fscy120\frz14.345\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HF4&\blur6}N
 Dialogue: 0,0:23:34.97,0:23:35.02,5$Signs,,0,0,0,,{\pos(785,267.029)\fscx120\fscy120\frz9.764\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HA6&\blur6}N
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(785,260.439)\fscx120\fscy120\frz5.182\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H58&\blur6}N
@@ -2793,7 +2792,7 @@ Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(785,282.283)\fscx120\fsc
 Dialogue: 0,0:23:35.39,0:23:35.43,5$Signs,,0,0,0,,{\pos(785,283.611)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}N
 Dialogue: 0,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(785,284.285)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}N
 Dialogue: 0,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(785,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}N
-Dialogue: 0,0:23:35.52,0:23:39.85,5$Signs,,0,0,0,,{\pos(785,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}N
+Dialogue: 0,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(785,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}N
 Dialogue: 0,0:23:34.97,0:23:35.02,5$Signs,,0,0,0,,{\pos(836.431,280.855)\fscx120\fscy120\frz14.127\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HF0&\blur6}E
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(836.431,266.528)\fscx120\fscy120\frz9.545\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HA2&\blur6}E
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(836.431,260.38)\fscx120\fscy120\frz5.073\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H56&\blur6}E
@@ -2807,7 +2806,7 @@ Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(836.431,280.92)\fscx120\
 Dialogue: 0,0:23:35.39,0:23:35.43,5$Signs,,0,0,0,,{\pos(836.431,282.355)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(836.431,283.66)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(836.431,284.292)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
-Dialogue: 0,0:23:35.52,0:23:39.85,5$Signs,,0,0,0,,{\pos(836.431,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
+Dialogue: 0,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(836.431,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(883.231,280.005)\fscx120\fscy120\frz13.909\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HEC&\blur6}X
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(883.231,266.284)\fscx120\fscy120\frz9.436\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HA0&\blur6}X
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(883.231,260.276)\fscx120\fscy120\frz4.855\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H53&\blur6}X
@@ -2821,7 +2820,7 @@ Dialogue: 0,0:23:35.39,0:23:35.43,5$Signs,,0,0,0,,{\pos(883.231,280.976)\fscx120
 Dialogue: 0,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(883.231,282.427)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}X
 Dialogue: 0,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(883.231,283.684)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}X
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(883.231,284.307)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}X
-Dialogue: 0,0:23:35.56,0:23:39.85,5$Signs,,0,0,0,,{\pos(883.231,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}X
+Dialogue: 0,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(883.231,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}X
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(927.866,279.585)\fscx120\fscy120\frz13.8\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HEB&\blur6}T
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(927.866,265.81)\fscx120\fscy120\frz9.218\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H9D&\blur6}T
 Dialogue: 0,0:23:35.14,0:23:35.18,5$Signs,,0,0,0,,{\pos(927.866,260.188)\fscx120\fscy120\frz4.636\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H4F&\blur6}T
@@ -2835,7 +2834,7 @@ Dialogue: 0,0:23:35.43,0:23:35.47,5$Signs,,0,0,0,,{\pos(927.866,281.035)\fscx120
 Dialogue: 0,0:23:35.47,0:23:35.52,5$Signs,,0,0,0,,{\pos(927.866,282.463)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}T
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(927.866,283.73)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}T
 Dialogue: 0,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(927.866,284.32)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}T
-Dialogue: 0,0:23:35.60,0:23:39.85,5$Signs,,0,0,0,,{\pos(927.866,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}T
+Dialogue: 0,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(927.866,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}T
 Dialogue: 0,0:23:35.14,0:23:35.18,5$Signs,,0,0,0,,{\pos(995.028,277.946)\fscx120\fscy120\frz13.364\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HE3&\blur6}T
 Dialogue: 0,0:23:35.18,0:23:35.22,5$Signs,,0,0,0,,{\pos(995.028,265.136)\fscx120\fscy120\frz8.891\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H97&\blur6}T
 Dialogue: 0,0:23:35.22,0:23:35.27,5$Signs,,0,0,0,,{\pos(995.028,260.089)\fscx120\fscy120\frz4.309\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H49&\blur6}T
@@ -2849,7 +2848,7 @@ Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(995.028,281.126)\fscx120
 Dialogue: 0,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(995.028,282.604)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}T
 Dialogue: 0,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(995.028,283.817)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}T
 Dialogue: 0,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(995.028,284.337)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}T
-Dialogue: 0,0:23:35.68,0:23:39.85,5$Signs,,0,0,0,,{\pos(995.028,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}T
+Dialogue: 0,0:23:35.68,0:23:39.86,5$Signs,,0,0,0,,{\pos(995.028,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}T
 Dialogue: 0,0:23:35.18,0:23:35.22,5$Signs,,0,0,0,,{\pos(1029.116,277.546)\fscx120\fscy120\frz13.255\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HE1&\blur6}I
 Dialogue: 0,0:23:35.22,0:23:35.27,5$Signs,,0,0,0,,{\pos(1029.116,264.71)\fscx120\fscy120\frz8.673\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H93&\blur6}I
 Dialogue: 0,0:23:35.27,0:23:35.31,5$Signs,,0,0,0,,{\pos(1029.116,260.043)\fscx120\fscy120\frz4.091\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H46&\blur6}I
@@ -2863,7 +2862,7 @@ Dialogue: 0,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1029.116,281.189)\fscx12
 Dialogue: 0,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(1029.116,282.674)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}I
 Dialogue: 0,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(1029.116,283.838)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}I
 Dialogue: 0,0:23:35.68,0:23:35.72,5$Signs,,0,0,0,,{\pos(1029.116,284.347)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}I
-Dialogue: 0,0:23:35.72,0:23:39.85,5$Signs,,0,0,0,,{\pos(1029.116,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}I
+Dialogue: 0,0:23:35.72,0:23:39.86,5$Signs,,0,0,0,,{\pos(1029.116,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}I
 Dialogue: 0,0:23:35.22,0:23:35.27,5$Signs,,0,0,0,,{\pos(1073.375,276.758)\fscx120\fscy120\frz13.036\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HDE&\blur6}M
 Dialogue: 0,0:23:35.27,0:23:35.31,5$Signs,,0,0,0,,{\pos(1073.375,264.303)\fscx120\fscy120\frz8.455\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H90&\blur6}M
 Dialogue: 0,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(1073.375,260.013)\fscx120\fscy120\frz3.873\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H42&\blur6}M
@@ -2877,7 +2876,7 @@ Dialogue: 0,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(1073.375,281.254)\fscx12
 Dialogue: 0,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(1073.375,282.709)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}M
 Dialogue: 0,0:23:35.68,0:23:35.72,5$Signs,,0,0,0,,{\pos(1073.375,283.878)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}M
 Dialogue: 0,0:23:35.72,0:23:35.77,5$Signs,,0,0,0,,{\pos(1073.375,284.356)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}M
-Dialogue: 0,0:23:35.77,0:23:39.85,5$Signs,,0,0,0,,{\pos(1073.375,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}M
+Dialogue: 0,0:23:35.77,0:23:39.86,5$Signs,,0,0,0,,{\pos(1073.375,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}M
 Dialogue: 0,0:23:35.27,0:23:35.31,5$Signs,,0,0,0,,{\pos(1129.906,275.987)\fscx120\fscy120\frz12.818\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&HDA&\blur6}E
 Dialogue: 0,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(1129.906,263.915)\fscx120\fscy120\frz8.236\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H8C&\blur6}E
 Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(1129.906,260.005)\fscx120\fscy120\frz3.764\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\alpha&H40&\blur6}E
@@ -2891,8 +2890,8 @@ Dialogue: 0,0:23:35.64,0:23:35.68,5$Signs,,0,0,0,,{\pos(1129.906,281.286)\fscx12
 Dialogue: 0,0:23:35.68,0:23:35.72,5$Signs,,0,0,0,,{\pos(1129.906,282.777)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.72,0:23:35.77,5$Signs,,0,0,0,,{\pos(1129.906,283.917)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.77,0:23:35.81,5$Signs,,0,0,0,,{\pos(1129.906,284.36)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
-Dialogue: 0,0:23:35.81,0:23:39.85,5$Signs,,0,0,0,,{\pos(1129.906,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
-Comment: 2,0:23:34.89,0:23:39.81,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\fscx170\fscy180\b1\c&H43128D&\bord0\blur1\pos(956.71,702.86)}BEAR GOES ON A RAMPAGE
+Dialogue: 0,0:23:35.81,0:23:39.86,5$Signs,,0,0,0,,{\pos(1129.906,284.4)\fscx120\fscy120\fnFOT-Seurat Pro UB\b1\bord10\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
+Comment: 2,0:23:34.89,0:23:39.86,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\fscx170\fscy180\b1\c&H43128D&\bord0\blur1\pos(956.71,702.86)}BEAR GOES ON A RAMPAGE
 Dialogue: 2,0:23:34.89,0:23:34.93,5$Signs,,0,0,0,,{\pos(234.94,700.488)\fscx170\fscy180\frz14.673\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HF9&\blur1}B
 Dialogue: 2,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(234.94,674.317)\fscx170\fscy180\frz10.2\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HAD&\blur1}B
 Dialogue: 2,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(234.94,661.416)\fscx170\fscy180\frz5.618\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H60&\blur1}B
@@ -2907,7 +2906,7 @@ Dialogue: 2,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(234.94,698.964)\fscx170\
 Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(234.94,701.347)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}B
 Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(234.94,702.599)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}B
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(234.94,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}B
-Dialogue: 2,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(234.94,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}B
+Dialogue: 2,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(234.94,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}B
 Dialogue: 2,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(308.28,678.42)\fscx170\fscy180\frz11.073\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HBC&\blur1}E
 Dialogue: 2,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(308.28,662.765)\fscx170\fscy180\frz6.491\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H6E&\blur1}E
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(308.28,660.925)\fscx170\fscy180\frz1.909\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H20&\blur1}E
@@ -2920,7 +2919,7 @@ Dialogue: 2,0:23:35.27,0:23:35.31,5$Signs,,0,0,0,,{\pos(308.28,696.229)\fscx170\
 Dialogue: 2,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(308.28,698.453)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
 Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(308.28,700.963)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
 Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(308.28,702.449)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
-Dialogue: 2,0:23:35.44,0:23:39.81,5$Signs,,0,0,0,,{\pos(308.28,702.854)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
+Dialogue: 2,0:23:35.44,0:23:39.86,5$Signs,,0,0,0,,{\pos(308.28,702.854)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
 Dialogue: 2,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(381.034,683.033)\fscx170\fscy180\frz11.945\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HCB&\blur1}A
 Dialogue: 2,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(381.034,664.626)\fscx170\fscy180\frz7.364\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H7D&\blur1}A
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(381.034,660.337)\fscx170\fscy180\frz2.782\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H2F&\blur1}A
@@ -2934,7 +2933,7 @@ Dialogue: 2,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(381.034,697.951)\fscx170
 Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(381.034,700.538)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(381.034,702.255)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(381.034,702.836)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
-Dialogue: 2,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(381.034,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
+Dialogue: 2,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(381.034,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(457.375,688.137)\fscx170\fscy180\frz12.818\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HDA&\blur1}R
 Dialogue: 2,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(457.375,667.011)\fscx170\fscy180\frz8.236\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H8C&\blur1}R
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(457.375,660.16)\fscx170\fscy180\frz3.655\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H3E&\blur1}R
@@ -2948,7 +2947,7 @@ Dialogue: 2,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(457.375,697.469)\fscx170
 Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(457.375,700.08)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}R
 Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(457.375,702.014)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}R
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(457.375,702.797)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}R
-Dialogue: 2,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(457.375,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}R
+Dialogue: 2,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(457.375,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}R
 Dialogue: 2,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(568.552,699.709)\fscx170\fscy180\frz14.564\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HF8&\blur1}G
 Dialogue: 2,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(568.552,673.373)\fscx170\fscy180\frz9.982\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HAA&\blur1}G
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(568.552,661.157)\fscx170\fscy180\frz5.4\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H5C&\blur1}G
@@ -2962,7 +2961,7 @@ Dialogue: 2,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(568.552,696.628)\fscx170
 Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(568.552,699.091)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}G
 Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(568.552,701.392)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}G
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(568.552,702.63)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}G
-Dialogue: 2,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(568.552,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}G
+Dialogue: 2,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(568.552,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}G
 Dialogue: 2,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(652.211,677.346)\fscx170\fscy180\frz10.855\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HB9&\blur1}O
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(652.211,662.38)\fscx170\fscy180\frz6.273\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H6B&\blur1}O
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(652.211,661.133)\fscx170\fscy180\frz1.691\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H1D&\blur1}O
@@ -2974,7 +2973,7 @@ Dialogue: 2,0:23:35.27,0:23:35.35,5$Signs,,0,0,0,,{\pos(652.211,696.277)\fscx170
 Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(652.211,698.581)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}O
 Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(652.211,701.013)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}O
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(652.211,702.49)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}O
-Dialogue: 2,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(652.211,702.856)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}O
+Dialogue: 2,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(652.211,702.856)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}O
 Dialogue: 2,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(729.561,681.833)\fscx170\fscy180\frz11.727\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HC7&\blur1}E
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(729.561,664.112)\fscx170\fscy180\frz7.145\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H79&\blur1}E
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(729.561,660.447)\fscx170\fscy180\frz2.564\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H2C&\blur1}E
@@ -2988,7 +2987,7 @@ Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(729.561,698.075)\fscx170
 Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(729.561,700.593)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(729.561,702.307)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(729.561,702.842)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
-Dialogue: 2,0:23:35.52,0:23:39.81,5$Signs,,0,0,0,,{\pos(729.561,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
+Dialogue: 2,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(729.561,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
 Dialogue: 2,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(800.642,686.817)\fscx170\fscy180\frz12.6\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HD6&\blur1}S
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(800.642,666.365)\fscx170\fscy180\frz8.018\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H88&\blur1}S
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(800.642,660.164)\fscx170\fscy180\frz3.436\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H3A&\blur1}S
@@ -3002,7 +3001,7 @@ Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(800.642,697.587)\fscx170
 Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(800.642,700.139)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}S
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(800.642,702.079)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}S
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(800.642,702.809)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}S
-Dialogue: 2,0:23:35.52,0:23:39.81,5$Signs,,0,0,0,,{\pos(800.642,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}S
+Dialogue: 2,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(800.642,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}S
 Dialogue: 2,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(912.869,698.17)\fscx170\fscy180\frz14.345\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HF4&\blur1}O
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(912.869,672.462)\fscx170\fscy180\frz9.764\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HA6&\blur1}O
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(912.869,660.929)\fscx170\fscy180\frz5.182\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H58&\blur1}O
@@ -3017,7 +3016,7 @@ Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(912.869,699.154)\fscx170
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(912.869,701.48)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}O
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(912.869,702.658)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}O
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(912.869,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}O
-Dialogue: 2,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(912.869,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}O
+Dialogue: 2,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(912.869,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}O
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(994.336,676.304)\fscx170\fscy180\frz10.636\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HB5&\blur1}N
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(994.336,662.027)\fscx170\fscy180\frz6.055\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H67&\blur1}N
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(994.336,661.246)\fscx170\fscy180\frz1.582\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H1B&\blur1}N
@@ -3030,7 +3029,7 @@ Dialogue: 2,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(994.336,696.374)\fscx170
 Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(994.336,698.644)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}N
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(994.336,701.112)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}N
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(994.336,702.529)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}N
-Dialogue: 2,0:23:35.52,0:23:39.81,5$Signs,,0,0,0,,{\pos(994.336,702.857)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}N
+Dialogue: 2,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(994.336,702.857)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}N
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(1103.747,685.525)\fscx170\fscy180\frz12.382\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HD2&\blur1}A
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1103.747,665.752)\fscx170\fscy180\frz7.8\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H85&\blur1}A
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1103.747,660.176)\fscx170\fscy180\frz3.327\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H39&\blur1}A
@@ -3044,7 +3043,7 @@ Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(1103.747,697.646)\fscx17
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1103.747,700.255)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1103.747,702.14)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1103.747,702.814)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
-Dialogue: 2,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(1103.747,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
+Dialogue: 2,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(1103.747,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(1212.626,696.656)\fscx170\fscy180\frz14.127\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HF0&\blur1}R
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1212.626,671.583)\fscx170\fscy180\frz9.545\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HA2&\blur1}R
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1212.626,660.826)\fscx170\fscy180\frz5.073\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H56&\blur1}R
@@ -3058,7 +3057,7 @@ Dialogue: 2,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(1212.626,696.769)\fscx17
 Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1212.626,699.281)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}R
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1212.626,701.565)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}R
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1212.626,702.672)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}R
-Dialogue: 2,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(1212.626,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}R
+Dialogue: 2,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(1212.626,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}R
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1288.967,675.294)\fscx170\fscy180\frz10.418\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HB1&\blur1}A
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1288.967,661.863)\fscx170\fscy180\frz5.945\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H65&\blur1}A
 Dialogue: 2,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1288.967,661.488)\fscx170\fscy180\frz1.364\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H17&\blur1}A
@@ -3072,7 +3071,7 @@ Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1288.967,698.772)\fscx17
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1288.967,701.208)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1288.967,702.547)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1288.967,702.859)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
-Dialogue: 2,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1288.967,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
+Dialogue: 2,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1288.967,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1373.064,679.526)\fscx170\fscy180\frz11.291\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HC0&\blur1}M
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1373.064,663.402)\fscx170\fscy180\frz6.818\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H74&\blur1}M
 Dialogue: 2,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1373.064,660.658)\fscx170\fscy180\frz2.236\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H26&\blur1}M
@@ -3086,7 +3085,7 @@ Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1373.064,698.263)\fscx17
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1373.064,700.808)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}M
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1373.064,702.381)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}M
 Dialogue: 2,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1373.064,702.849)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}M
-Dialogue: 2,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1373.064,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}M
+Dialogue: 2,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1373.064,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}M
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1454.677,684.264)\fscx170\fscy180\frz12.164\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HCF&\blur1}P
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1454.677,665.458)\fscx170\fscy180\frz7.691\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H83&\blur1}P
 Dialogue: 2,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1454.677,660.22)\fscx170\fscy180\frz3.109\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H35&\blur1}P
@@ -3100,7 +3099,7 @@ Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1454.677,697.767)\fscx17
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1454.677,700.37)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}P
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1454.677,702.17)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}P
 Dialogue: 2,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1454.677,702.824)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}P
-Dialogue: 2,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1454.677,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}P
+Dialogue: 2,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1454.677,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}P
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1528.959,689.487)\fscx170\fscy180\frz13.036\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HDE&\blur1}A
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1528.959,668.042)\fscx170\fscy180\frz8.564\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H92&\blur1}A
 Dialogue: 2,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1528.959,660.206)\fscx170\fscy180\frz3.982\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H44&\blur1}A
@@ -3114,7 +3113,7 @@ Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1528.959,697.297)\fscx17
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1528.959,699.9)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1528.959,701.912)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1528.959,702.775)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
-Dialogue: 2,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1528.959,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
+Dialogue: 2,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1528.959,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}A
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1608.023,695.168)\fscx170\fscy180\frz13.909\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HEC&\blur1}G
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1608.023,671.157)\fscx170\fscy180\frz9.436\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HA0&\blur1}G
 Dialogue: 2,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1608.023,660.643)\fscx170\fscy180\frz4.855\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H53&\blur1}G
@@ -3128,7 +3127,7 @@ Dialogue: 2,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1608.023,696.868)\fscx17
 Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1608.023,699.407)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}G
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1608.023,701.606)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}G
 Dialogue: 2,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1608.023,702.697)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}G
-Dialogue: 2,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1608.023,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}G
+Dialogue: 2,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1608.023,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}G
 Dialogue: 2,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1683.075,701.272)\fscx170\fscy180\frz14.782\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HFB&\blur1}E
 Dialogue: 2,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1683.075,674.801)\fscx170\fscy180\frz10.309\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&HAF&\blur1}E
 Dialogue: 2,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1683.075,661.557)\fscx170\fscy180\frz5.727\fnFOT-Seurat Pro UB\b1\c&H43128D&\alpha&H61&\blur1}E
@@ -3143,8 +3142,8 @@ Dialogue: 2,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1683.075,698.9)\fscx170\
 Dialogue: 2,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1683.075,701.255)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
 Dialogue: 2,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1683.075,702.582)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
 Dialogue: 2,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(1683.075,702.859)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
-Dialogue: 2,0:23:35.64,0:23:39.81,5$Signs,,0,0,0,,{\pos(1683.075,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
-Comment: 1,0:23:34.89,0:23:39.81,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\fscx170\fscy180\b1\c&H1B033E&\bord0\blur1\pos(956.71,702.86)}BEAR GOES ON A RAMPAGE
+Dialogue: 2,0:23:35.64,0:23:39.86,5$Signs,,0,0,0,,{\pos(1683.075,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H43128D&\blur1}E
+Comment: 1,0:23:34.89,0:23:39.86,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\fscx170\fscy180\b1\c&H1B033E&\bord0\blur1\pos(956.71,702.86)}BEAR GOES ON A RAMPAGE
 Dialogue: 1,0:23:34.89,0:23:34.93,5$Signs,,0,0,0,,{\pos(234.94,700.488)\fscx170\fscy180\frz14.673\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HF9&\blur1}B
 Dialogue: 1,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(234.94,674.317)\fscx170\fscy180\frz10.2\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HAD&\blur1}B
 Dialogue: 1,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(234.94,661.416)\fscx170\fscy180\frz5.618\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H60&\blur1}B
@@ -3159,7 +3158,7 @@ Dialogue: 1,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(234.94,698.964)\fscx170\
 Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(234.94,701.347)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}B
 Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(234.94,702.599)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}B
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(234.94,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}B
-Dialogue: 1,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(234.94,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}B
+Dialogue: 1,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(234.94,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}B
 Dialogue: 1,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(308.28,678.42)\fscx170\fscy180\frz11.073\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HBC&\blur1}E
 Dialogue: 1,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(308.28,662.765)\fscx170\fscy180\frz6.491\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H6E&\blur1}E
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(308.28,660.925)\fscx170\fscy180\frz1.909\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H20&\blur1}E
@@ -3173,7 +3172,7 @@ Dialogue: 1,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(308.28,698.453)\fscx170\
 Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(308.28,700.963)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(308.28,702.449)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(308.28,702.854)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
-Dialogue: 1,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(308.28,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
+Dialogue: 1,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(308.28,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(381.034,683.033)\fscx170\fscy180\frz11.945\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HCB&\blur1}A
 Dialogue: 1,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(381.034,664.626)\fscx170\fscy180\frz7.364\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H7D&\blur1}A
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(381.034,660.337)\fscx170\fscy180\frz2.782\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H2F&\blur1}A
@@ -3187,7 +3186,7 @@ Dialogue: 1,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(381.034,697.951)\fscx170
 Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(381.034,700.538)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(381.034,702.255)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(381.034,702.836)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
-Dialogue: 1,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(381.034,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
+Dialogue: 1,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(381.034,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(457.375,688.137)\fscx170\fscy180\frz12.818\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HDA&\blur1}R
 Dialogue: 1,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(457.375,667.011)\fscx170\fscy180\frz8.236\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H8C&\blur1}R
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(457.375,660.16)\fscx170\fscy180\frz3.655\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H3E&\blur1}R
@@ -3201,7 +3200,7 @@ Dialogue: 1,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(457.375,697.469)\fscx170
 Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(457.375,700.08)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}R
 Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(457.375,702.014)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}R
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(457.375,702.797)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}R
-Dialogue: 1,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(457.375,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}R
+Dialogue: 1,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(457.375,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}R
 Dialogue: 1,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(568.552,699.709)\fscx170\fscy180\frz14.564\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HF8&\blur1}G
 Dialogue: 1,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(568.552,673.373)\fscx170\fscy180\frz9.982\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HAA&\blur1}G
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(568.552,661.157)\fscx170\fscy180\frz5.4\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H5C&\blur1}G
@@ -3215,7 +3214,7 @@ Dialogue: 1,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(568.552,696.628)\fscx170
 Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(568.552,699.091)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}G
 Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(568.552,701.392)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}G
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(568.552,702.63)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}G
-Dialogue: 1,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(568.552,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}G
+Dialogue: 1,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(568.552,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}G
 Dialogue: 1,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(652.211,677.346)\fscx170\fscy180\frz10.855\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HB9&\blur1}O
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(652.211,662.38)\fscx170\fscy180\frz6.273\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H6B&\blur1}O
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(652.211,661.133)\fscx170\fscy180\frz1.691\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H1D&\blur1}O
@@ -3227,7 +3226,7 @@ Dialogue: 1,0:23:35.27,0:23:35.35,5$Signs,,0,0,0,,{\pos(652.211,696.277)\fscx170
 Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(652.211,698.581)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}O
 Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(652.211,701.013)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}O
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(652.211,702.49)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}O
-Dialogue: 1,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(652.211,702.856)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}O
+Dialogue: 1,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(652.211,702.856)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}O
 Dialogue: 1,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(729.561,681.833)\fscx170\fscy180\frz11.727\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HC7&\blur1}E
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(729.561,664.112)\fscx170\fscy180\frz7.145\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H79&\blur1}E
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(729.561,660.447)\fscx170\fscy180\frz2.564\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H2C&\blur1}E
@@ -3241,7 +3240,7 @@ Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(729.561,698.075)\fscx170
 Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(729.561,700.593)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(729.561,702.307)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(729.561,702.842)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
-Dialogue: 1,0:23:35.52,0:23:39.81,5$Signs,,0,0,0,,{\pos(729.561,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
+Dialogue: 1,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(729.561,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(800.642,686.817)\fscx170\fscy180\frz12.6\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HD6&\blur1}S
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(800.642,666.365)\fscx170\fscy180\frz8.018\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H88&\blur1}S
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(800.642,660.164)\fscx170\fscy180\frz3.436\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H3A&\blur1}S
@@ -3255,7 +3254,7 @@ Dialogue: 1,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(800.642,697.587)\fscx170
 Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(800.642,700.139)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}S
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(800.642,702.079)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}S
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(800.642,702.809)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}S
-Dialogue: 1,0:23:35.52,0:23:39.81,5$Signs,,0,0,0,,{\pos(800.642,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}S
+Dialogue: 1,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(800.642,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}S
 Dialogue: 1,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(912.869,698.17)\fscx170\fscy180\frz14.345\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HF4&\blur1}O
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(912.869,672.462)\fscx170\fscy180\frz9.764\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HA6&\blur1}O
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(912.869,660.929)\fscx170\fscy180\frz5.182\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H58&\blur1}O
@@ -3270,7 +3269,7 @@ Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(912.869,699.154)\fscx170
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(912.869,701.48)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}O
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(912.869,702.658)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}O
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(912.869,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}O
-Dialogue: 1,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(912.869,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}O
+Dialogue: 1,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(912.869,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}O
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(994.336,676.304)\fscx170\fscy180\frz10.636\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HB5&\blur1}N
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(994.336,662.027)\fscx170\fscy180\frz6.055\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H67&\blur1}N
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(994.336,661.246)\fscx170\fscy180\frz1.582\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H1B&\blur1}N
@@ -3284,7 +3283,7 @@ Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(994.336,698.644)\fscx170
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(994.336,701.112)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}N
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(994.336,702.529)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}N
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(994.336,702.857)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}N
-Dialogue: 1,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(994.336,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}N
+Dialogue: 1,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(994.336,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}N
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(1103.747,685.525)\fscx170\fscy180\frz12.382\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HD2&\blur1}A
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1103.747,665.752)\fscx170\fscy180\frz7.8\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H85&\blur1}A
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1103.747,660.176)\fscx170\fscy180\frz3.327\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H39&\blur1}A
@@ -3298,7 +3297,7 @@ Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(1103.747,697.646)\fscx17
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1103.747,700.255)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1103.747,702.14)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1103.747,702.814)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
-Dialogue: 1,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(1103.747,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
+Dialogue: 1,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(1103.747,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(1212.626,696.656)\fscx170\fscy180\frz14.127\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HF0&\blur1}R
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1212.626,671.583)\fscx170\fscy180\frz9.545\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HA2&\blur1}R
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1212.626,660.826)\fscx170\fscy180\frz5.073\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H56&\blur1}R
@@ -3312,7 +3311,7 @@ Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(1212.626,696.769)\fscx17
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1212.626,699.281)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}R
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1212.626,701.565)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}R
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1212.626,702.672)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}R
-Dialogue: 1,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(1212.626,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}R
+Dialogue: 1,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(1212.626,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}R
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1288.967,675.294)\fscx170\fscy180\frz10.418\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HB1&\blur1}A
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1288.967,661.863)\fscx170\fscy180\frz5.945\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H65&\blur1}A
 Dialogue: 1,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1288.967,661.488)\fscx170\fscy180\frz1.364\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H17&\blur1}A
@@ -3325,7 +3324,7 @@ Dialogue: 1,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(1288.967,696.414)\fscx17
 Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1288.967,698.772)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1288.967,701.208)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1288.967,702.547)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
-Dialogue: 1,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(1288.967,702.859)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
+Dialogue: 1,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(1288.967,702.859)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1373.064,679.526)\fscx170\fscy180\frz11.291\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HC0&\blur1}M
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1373.064,663.402)\fscx170\fscy180\frz6.818\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H74&\blur1}M
 Dialogue: 1,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1373.064,660.658)\fscx170\fscy180\frz2.236\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H26&\blur1}M
@@ -3339,7 +3338,7 @@ Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1373.064,698.263)\fscx17
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1373.064,700.808)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}M
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1373.064,702.381)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}M
 Dialogue: 1,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1373.064,702.849)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}M
-Dialogue: 1,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1373.064,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}M
+Dialogue: 1,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1373.064,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}M
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1454.677,684.264)\fscx170\fscy180\frz12.164\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HCF&\blur1}P
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1454.677,665.458)\fscx170\fscy180\frz7.691\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H83&\blur1}P
 Dialogue: 1,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1454.677,660.22)\fscx170\fscy180\frz3.109\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H35&\blur1}P
@@ -3353,7 +3352,7 @@ Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1454.677,697.767)\fscx17
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1454.677,700.37)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}P
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1454.677,702.17)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}P
 Dialogue: 1,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1454.677,702.824)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}P
-Dialogue: 1,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1454.677,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}P
+Dialogue: 1,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1454.677,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}P
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1528.959,689.487)\fscx170\fscy180\frz13.036\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HDE&\blur1}A
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1528.959,668.042)\fscx170\fscy180\frz8.564\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H92&\blur1}A
 Dialogue: 1,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1528.959,660.206)\fscx170\fscy180\frz3.982\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H44&\blur1}A
@@ -3367,7 +3366,7 @@ Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1528.959,697.297)\fscx17
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1528.959,699.9)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1528.959,701.912)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1528.959,702.775)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
-Dialogue: 1,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1528.959,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
+Dialogue: 1,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1528.959,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}A
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1608.023,695.168)\fscx170\fscy180\frz13.909\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HEC&\blur1}G
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1608.023,671.157)\fscx170\fscy180\frz9.436\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HA0&\blur1}G
 Dialogue: 1,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1608.023,660.643)\fscx170\fscy180\frz4.855\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H53&\blur1}G
@@ -3381,7 +3380,7 @@ Dialogue: 1,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1608.023,696.868)\fscx17
 Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1608.023,699.407)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}G
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1608.023,701.606)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}G
 Dialogue: 1,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1608.023,702.697)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}G
-Dialogue: 1,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1608.023,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}G
+Dialogue: 1,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1608.023,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}G
 Dialogue: 1,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1683.075,701.272)\fscx170\fscy180\frz14.782\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HFB&\blur1}E
 Dialogue: 1,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1683.075,674.801)\fscx170\fscy180\frz10.309\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&HAF&\blur1}E
 Dialogue: 1,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1683.075,661.557)\fscx170\fscy180\frz5.727\fnFOT-Seurat Pro UB\b1\c&H1B033E&\alpha&H61&\blur1}E
@@ -3396,8 +3395,8 @@ Dialogue: 1,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1683.075,698.9)\fscx170\
 Dialogue: 1,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1683.075,701.255)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1683.075,702.582)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
 Dialogue: 1,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(1683.075,702.859)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
-Dialogue: 1,0:23:35.64,0:23:39.81,5$Signs,,0,0,0,,{\pos(1683.075,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
-Comment: 0,0:23:34.89,0:23:39.81,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\fscx170\fscy180\b1\c&HFEFFFF&\bord12\blur6\pos(956.71,702.86)\3c&HFEFFFF&}BEAR GOES ON A RAMPAGE
+Dialogue: 1,0:23:35.64,0:23:39.86,5$Signs,,0,0,0,,{\pos(1683.075,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\c&H1B033E&\blur1}E
+Comment: 0,0:23:34.89,0:23:39.86,5$Signs,,0,0,0,,{\fnFOT-Seurat Pro UB\shad0\fscx170\fscy180\b1\c&HFEFFFF&\bord12\blur6\pos(956.71,702.86)\3c&HFEFFFF&}BEAR GOES ON A RAMPAGE
 Dialogue: 0,0:23:34.89,0:23:34.93,5$Signs,,0,0,0,,{\pos(234.94,700.488)\fscx170\fscy180\frz14.673\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HF9&\blur6}B
 Dialogue: 0,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(234.94,674.317)\fscx170\fscy180\frz10.2\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HAD&\blur6}B
 Dialogue: 0,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(234.94,661.416)\fscx170\fscy180\frz5.618\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H60&\blur6}B
@@ -3412,7 +3411,7 @@ Dialogue: 0,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(234.94,698.964)\fscx170\
 Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(234.94,701.347)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}B
 Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(234.94,702.599)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}B
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(234.94,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}B
-Dialogue: 0,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(234.94,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}B
+Dialogue: 0,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(234.94,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}B
 Dialogue: 0,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(308.28,678.42)\fscx170\fscy180\frz11.073\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HBC&\blur6}E
 Dialogue: 0,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(308.28,662.765)\fscx170\fscy180\frz6.491\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H6E&\blur6}E
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(308.28,660.925)\fscx170\fscy180\frz1.909\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H20&\blur6}E
@@ -3426,7 +3425,7 @@ Dialogue: 0,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(308.28,698.453)\fscx170\
 Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(308.28,700.963)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(308.28,702.449)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(308.28,702.854)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
-Dialogue: 0,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(308.28,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
+Dialogue: 0,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(308.28,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(381.034,683.033)\fscx170\fscy180\frz11.945\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HCB&\blur6}A
 Dialogue: 0,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(381.034,664.626)\fscx170\fscy180\frz7.364\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H7D&\blur6}A
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(381.034,660.337)\fscx170\fscy180\frz2.782\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H2F&\blur6}A
@@ -3440,7 +3439,7 @@ Dialogue: 0,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(381.034,697.951)\fscx170
 Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(381.034,700.538)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(381.034,702.255)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(381.034,702.836)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
-Dialogue: 0,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(381.034,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
+Dialogue: 0,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(381.034,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(457.375,688.137)\fscx170\fscy180\frz12.818\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HDA&\blur6}R
 Dialogue: 0,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(457.375,667.011)\fscx170\fscy180\frz8.236\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H8C&\blur6}R
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(457.375,660.16)\fscx170\fscy180\frz3.655\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H3E&\blur6}R
@@ -3454,7 +3453,7 @@ Dialogue: 0,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(457.375,697.469)\fscx170
 Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(457.375,700.08)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}R
 Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(457.375,702.014)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}R
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(457.375,702.797)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}R
-Dialogue: 0,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(457.375,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}R
+Dialogue: 0,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(457.375,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}R
 Dialogue: 0,0:23:34.93,0:23:34.98,5$Signs,,0,0,0,,{\pos(568.552,699.709)\fscx170\fscy180\frz14.564\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HF8&\blur6}G
 Dialogue: 0,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(568.552,673.373)\fscx170\fscy180\frz9.982\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HAA&\blur6}G
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(568.552,661.157)\fscx170\fscy180\frz5.4\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H5C&\blur6}G
@@ -3468,7 +3467,7 @@ Dialogue: 0,0:23:35.31,0:23:35.35,5$Signs,,0,0,0,,{\pos(568.552,696.628)\fscx170
 Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(568.552,699.091)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}G
 Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(568.552,701.392)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}G
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(568.552,702.63)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}G
-Dialogue: 0,0:23:35.48,0:23:39.81,5$Signs,,0,0,0,,{\pos(568.552,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}G
+Dialogue: 0,0:23:35.48,0:23:39.86,5$Signs,,0,0,0,,{\pos(568.552,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}G
 Dialogue: 0,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(652.211,677.346)\fscx170\fscy180\frz10.855\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HB9&\blur6}O
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(652.211,662.38)\fscx170\fscy180\frz6.273\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H6B&\blur6}O
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(652.211,661.133)\fscx170\fscy180\frz1.691\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H1D&\blur6}O
@@ -3482,7 +3481,7 @@ Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(652.211,698.581)\fscx170
 Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(652.211,701.013)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}O
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(652.211,702.49)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}O
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(652.211,702.856)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}O
-Dialogue: 0,0:23:35.52,0:23:39.81,5$Signs,,0,0,0,,{\pos(652.211,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}O
+Dialogue: 0,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(652.211,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}O
 Dialogue: 0,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(729.561,681.833)\fscx170\fscy180\frz11.727\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HC7&\blur6}E
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(729.561,664.112)\fscx170\fscy180\frz7.145\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H79&\blur6}E
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(729.561,660.447)\fscx170\fscy180\frz2.564\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H2C&\blur6}E
@@ -3496,7 +3495,7 @@ Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(729.561,698.075)\fscx170
 Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(729.561,700.593)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(729.561,702.307)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(729.561,702.842)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
-Dialogue: 0,0:23:35.52,0:23:39.81,5$Signs,,0,0,0,,{\pos(729.561,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
+Dialogue: 0,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(729.561,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(800.642,686.817)\fscx170\fscy180\frz12.6\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HD6&\blur6}S
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(800.642,666.365)\fscx170\fscy180\frz8.018\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H88&\blur6}S
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(800.642,660.164)\fscx170\fscy180\frz3.436\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H3A&\blur6}S
@@ -3510,7 +3509,7 @@ Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(800.642,697.587)\fscx170
 Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(800.642,700.139)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}S
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(800.642,702.079)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}S
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(800.642,702.809)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}S
-Dialogue: 0,0:23:35.52,0:23:39.81,5$Signs,,0,0,0,,{\pos(800.642,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}S
+Dialogue: 0,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(800.642,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}S
 Dialogue: 0,0:23:34.98,0:23:35.02,5$Signs,,0,0,0,,{\pos(912.869,698.17)\fscx170\fscy180\frz14.345\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HF4&\blur6}O
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(912.869,672.462)\fscx170\fscy180\frz9.764\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HA6&\blur6}O
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(912.869,660.929)\fscx170\fscy180\frz5.182\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H58&\blur6}O
@@ -3524,7 +3523,7 @@ Dialogue: 0,0:23:35.35,0:23:35.39,5$Signs,,0,0,0,,{\pos(912.869,696.721)\fscx170
 Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(912.869,699.154)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}O
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(912.869,701.48)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}O
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(912.869,702.658)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}O
-Dialogue: 0,0:23:35.52,0:23:39.81,5$Signs,,0,0,0,,{\pos(912.869,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}O
+Dialogue: 0,0:23:35.52,0:23:39.86,5$Signs,,0,0,0,,{\pos(912.869,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}O
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(994.336,676.304)\fscx170\fscy180\frz10.636\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HB5&\blur6}N
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(994.336,662.027)\fscx170\fscy180\frz6.055\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H67&\blur6}N
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(994.336,661.246)\fscx170\fscy180\frz1.582\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H1B&\blur6}N
@@ -3538,7 +3537,7 @@ Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(994.336,698.644)\fscx170
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(994.336,701.112)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}N
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(994.336,702.529)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}N
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(994.336,702.857)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}N
-Dialogue: 0,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(994.336,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}N
+Dialogue: 0,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(994.336,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}N
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(1103.747,685.525)\fscx170\fscy180\frz12.382\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HD2&\blur6}A
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1103.747,665.752)\fscx170\fscy180\frz7.8\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H85&\blur6}A
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1103.747,660.176)\fscx170\fscy180\frz3.327\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H39&\blur6}A
@@ -3552,7 +3551,7 @@ Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(1103.747,697.646)\fscx17
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1103.747,700.255)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1103.747,702.14)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1103.747,702.814)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
-Dialogue: 0,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(1103.747,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
+Dialogue: 0,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(1103.747,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.02,0:23:35.06,5$Signs,,0,0,0,,{\pos(1212.626,696.656)\fscx170\fscy180\frz14.127\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HF0&\blur6}R
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1212.626,671.583)\fscx170\fscy180\frz9.545\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HA2&\blur6}R
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1212.626,660.826)\fscx170\fscy180\frz5.073\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H56&\blur6}R
@@ -3566,7 +3565,7 @@ Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(1212.626,696.769)\fscx17
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1212.626,699.281)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}R
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1212.626,701.565)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}R
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1212.626,702.672)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}R
-Dialogue: 0,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(1212.626,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}R
+Dialogue: 0,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(1212.626,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}R
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1288.967,675.294)\fscx170\fscy180\frz10.418\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HB1&\blur6}A
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1288.967,661.863)\fscx170\fscy180\frz5.945\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H65&\blur6}A
 Dialogue: 0,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1288.967,661.488)\fscx170\fscy180\frz1.364\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H17&\blur6}A
@@ -3579,7 +3578,7 @@ Dialogue: 0,0:23:35.39,0:23:35.44,5$Signs,,0,0,0,,{\pos(1288.967,696.414)\fscx17
 Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1288.967,698.772)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1288.967,701.208)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1288.967,702.547)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
-Dialogue: 0,0:23:35.56,0:23:39.81,5$Signs,,0,0,0,,{\pos(1288.967,702.859)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
+Dialogue: 0,0:23:35.56,0:23:39.86,5$Signs,,0,0,0,,{\pos(1288.967,702.859)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1373.064,679.526)\fscx170\fscy180\frz11.291\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HC0&\blur6}M
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1373.064,663.402)\fscx170\fscy180\frz6.818\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H74&\blur6}M
 Dialogue: 0,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1373.064,660.658)\fscx170\fscy180\frz2.236\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H26&\blur6}M
@@ -3593,7 +3592,7 @@ Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1373.064,698.263)\fscx17
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1373.064,700.808)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}M
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1373.064,702.381)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}M
 Dialogue: 0,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1373.064,702.849)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}M
-Dialogue: 0,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1373.064,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}M
+Dialogue: 0,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1373.064,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}M
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1454.677,684.264)\fscx170\fscy180\frz12.164\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HCF&\blur6}P
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1454.677,665.458)\fscx170\fscy180\frz7.691\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H83&\blur6}P
 Dialogue: 0,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1454.677,660.22)\fscx170\fscy180\frz3.109\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H35&\blur6}P
@@ -3607,7 +3606,7 @@ Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1454.677,697.767)\fscx17
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1454.677,700.37)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}P
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1454.677,702.17)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}P
 Dialogue: 0,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1454.677,702.824)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}P
-Dialogue: 0,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1454.677,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}P
+Dialogue: 0,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1454.677,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}P
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1528.959,689.487)\fscx170\fscy180\frz13.036\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HDE&\blur6}A
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1528.959,668.042)\fscx170\fscy180\frz8.564\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H92&\blur6}A
 Dialogue: 0,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1528.959,660.206)\fscx170\fscy180\frz3.982\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H44&\blur6}A
@@ -3621,7 +3620,7 @@ Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1528.959,697.297)\fscx17
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1528.959,699.9)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1528.959,701.912)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1528.959,702.775)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
-Dialogue: 0,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1528.959,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
+Dialogue: 0,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1528.959,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}A
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1608.023,695.168)\fscx170\fscy180\frz13.909\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HEC&\blur6}G
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1608.023,671.157)\fscx170\fscy180\frz9.436\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HA0&\blur6}G
 Dialogue: 0,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1608.023,660.643)\fscx170\fscy180\frz4.855\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H53&\blur6}G
@@ -3635,7 +3634,7 @@ Dialogue: 0,0:23:35.44,0:23:35.48,5$Signs,,0,0,0,,{\pos(1608.023,696.868)\fscx17
 Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1608.023,699.407)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}G
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1608.023,701.606)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}G
 Dialogue: 0,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1608.023,702.697)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}G
-Dialogue: 0,0:23:35.60,0:23:39.81,5$Signs,,0,0,0,,{\pos(1608.023,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}G
+Dialogue: 0,0:23:35.60,0:23:39.86,5$Signs,,0,0,0,,{\pos(1608.023,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}G
 Dialogue: 0,0:23:35.06,0:23:35.10,5$Signs,,0,0,0,,{\pos(1683.075,701.272)\fscx170\fscy180\frz14.782\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HFB&\blur6}E
 Dialogue: 0,0:23:35.10,0:23:35.14,5$Signs,,0,0,0,,{\pos(1683.075,674.801)\fscx170\fscy180\frz10.309\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&HAF&\blur6}E
 Dialogue: 0,0:23:35.14,0:23:35.19,5$Signs,,0,0,0,,{\pos(1683.075,661.557)\fscx170\fscy180\frz5.727\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\alpha&H61&\blur6}E
@@ -3650,7 +3649,7 @@ Dialogue: 0,0:23:35.48,0:23:35.52,5$Signs,,0,0,0,,{\pos(1683.075,698.9)\fscx170\
 Dialogue: 0,0:23:35.52,0:23:35.56,5$Signs,,0,0,0,,{\pos(1683.075,701.255)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.56,0:23:35.60,5$Signs,,0,0,0,,{\pos(1683.075,702.582)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 0,0:23:35.60,0:23:35.64,5$Signs,,0,0,0,,{\pos(1683.075,702.859)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
-Dialogue: 0,0:23:35.64,0:23:39.81,5$Signs,,0,0,0,,{\pos(1683.075,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
+Dialogue: 0,0:23:35.64,0:23:39.86,5$Signs,,0,0,0,,{\pos(1683.075,702.86)\fscx170\fscy180\fnFOT-Seurat Pro UB\b1\bord12\c&HFEFFFF&\3c&HFEFFFF&\blur6}E
 Dialogue: 5,0:22:31.95,0:22:32.04,5$Signs,,0,0,0,,{\an7\pos(481.33,734.66)\fnFuture n0t Found\c&HBD7B21&\1a&HA1&\blur0.5\p1}m -320 51 l -227 51 -227 173 -320 173
 Dialogue: 4,0:22:31.95,0:22:32.04,5$Signs,,0,0,0,,{\an7\pos(468,725.33)\fnFuture n0t Found\c&HA28B38&\1a&HCA&\blur0.5\p1}m -320 51 l -227 51 -227 173 -320 173
 Dialogue: 3,0:22:31.95,0:22:32.04,5$Signs,,0,0,0,,{\pos(549.105,847)\fscx152\fscy152\fnFuture n0t Found\c&HFFFFFD&\blur0.5}B{\alpha&HFF&}ear Meets Girl
