@@ -17,8 +17,8 @@ Keyframes File: kuma4_02_premux [2E875386]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 131
-Active Line: 148
+Scroll Position: 171
+Active Line: 210
 Video Position: 12528
 
 [V4+ Styles]
@@ -245,6 +245,7 @@ Dialogue: 20,0:11:27.53,0:11:30.31,1$GJM_Main,,0,0,0,,I'll order some more for y
 Dialogue: 20,0:11:30.31,0:11:32.50,1$GJM_Main,,0,0,0,,Y-You don't need to go out of your way like that!
 Dialogue: 20,0:11:32.50,0:11:34.46,1$GJM_Main,,0,0,0,,Oh, don't worry about it.
 Dialogue: 20,0:11:35.07,0:11:36.80,1$GJM_Main,,0,0,0,,Thank you so much for the food!
+Dialogue: 20,0:11:40.14,0:11:41.76,1$GJM_Main,,0,0,0,,Now then...
 Dialogue: 20,0:11:44.93,0:11:46.33,1$GJM_Main,,0,0,0,,How adorable!
 Dialogue: 20,0:11:46.83,0:11:49.52,1$GJM_Main,,0,0,0,,{\i1}Well, this is new.{\i0}
 Dialogue: 20,0:11:49.81,0:11:51.90,1$GJM_Main,,0,0,0,,So, do you have any rooms available?
