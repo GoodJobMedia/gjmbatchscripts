@@ -16,9 +16,8 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: Tabitabi_02 (Premux).mkv
-Video File: Tabitabi_02 (Premux).mkv
-Keyframes File: Tabitabi_02 (Premux)_keyframes.log
+Audio File: G:/Anime/Fansubbing/Seeding/[Kaleido-collab]/[GJM-Kaleido] Majo no Tabitabi/[GJM-Kaleido] Majo no Tabitabi ~The Journey of Elaina~ - 02 [CE152A0A].mkv
+Video File: G:/Anime/Fansubbing/Seeding/[Kaleido-collab]/[GJM-Kaleido] Majo no Tabitabi/[GJM-Kaleido] Majo no Tabitabi ~The Journey of Elaina~ - 02 [CE152A0A].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 
@@ -309,7 +308,7 @@ Dialogue: 10,0:19:20.52,0:19:22.16,Default,Saya,0,0,0,,What was that for?!
 Dialogue: 10,0:19:22.16,0:19:23.93,Default,Elaina,0,0,0,,That's no excuse.
 Dialogue: 10,0:19:24.61,0:19:29.87,Default,Elaina,0,0,0,,{\q2}Everyone is alone when they're giving everything \Nthey have to accomplish something.
 Dialogue: 10,0:19:29.87,0:19:31.94,Default,Elaina,0,0,0,,You {\i1}have{\i0} to be alone for that.
-Dialogue: 10,0:19:32.87,0:19:34.91,Default,Elaina,0,0,0,,{\q2}Trying to pal with others \Nwon't lead you anywhere.
+Dialogue: 10,0:19:32.87,0:19:34.91,Default,Elaina,0,0,0,,Trying to pal around won't get you anywhere.
 Dialogue: 10,0:19:37.03,0:19:41.25,Default,Elaina,0,0,0,,{\q2}I know fighting battles by yourself \Nis hard, and it's frightening.
 Dialogue: 10,0:19:41.25,0:19:43.78,Default,Elaina,0,0,0,,Believe me, I understand that well.
 Dialogue: 10,0:19:43.78,0:19:44.91,Default,Elaina,0,0,0,,So here.
