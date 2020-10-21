@@ -17,8 +17,8 @@ Keyframes File: KamiNatta_02 (Premux)(-10ms)_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2031
-Active Line: 2036
+Scroll Position: 192
+Active Line: 236
 Video Position: 9287
 
 [V4+ Styles]
@@ -83,7 +83,7 @@ Dialogue: 10,0:03:19.05,0:03:20.97,GJM_Main_1080p,,0,0,0,,How is she related to 
 Dialogue: 10,0:03:20.97,0:03:22.30,GJM_Main_1080p,,0,0,0,,What happened to her family?
 Dialogue: 10,0:03:22.30,0:03:24.06,GJM_Main_1080p,,0,0,0,,Calm down, Youta.
 Dialogue: 10,0:03:24.06,0:03:26.43,GJM_Main_1080p,,0,0,0,,There's no need for us to pry into that.
-Dialogue: 10,0:03:26.43,0:03:31.14,GJM_Main_1080p,,0,0,0,,{\q2}This an important time for me,\N you know. I have exams.
+Dialogue: 10,0:03:26.43,0:03:31.14,GJM_Main_1080p,,0,0,0,,{\q2}This is an important time for me,\N you know. I have exams.
 Dialogue: 10,0:03:32.44,0:03:34.94,GJM_Main_1080p,,0,0,0,,I shall reside with you for some time.
 Dialogue: 10,0:03:37.71,0:03:38.69,GJM_Main_1080p,,0,0,0,,Ah,{or Wow, but "Ah" is slowly becoming her catchphrase as an expression of surprise... Kinda like with a naunce that removes actual surprise.}
 Dialogue: 10,0:03:38.69,0:03:41.24,GJM_Main_1080p,,0,0,0,,so this is what you humans take for supper.
@@ -269,7 +269,7 @@ Dialogue: 10,0:12:06.96,0:12:08.39,GJM_Main_1080p,,0,0,0,,And I am aware of the 
 Dialogue: 10,0:12:08.39,0:12:11.79,GJM_Main_1080p,,0,0,0,,{\q2}Your time in space felt too abridged,\N thus lacking the impact to cause the desired response.
 Dialogue: 10,0:12:11.79,0:12:15.67,GJM_Main_1080p,,0,0,0,,{\q2}Well, I {\i1}did{\i0} just go around \Nthe corner then come back out!
 Dialogue: 10,0:12:16.01,0:12:17.85,GJM_Main_1080p,,0,0,0,,Also it's super hot in this suit! Can I take it off?
-Dialogue: 10,0:12:17.85,0:12:20.11,GJM_Main_1080p,,0,0,0,,No! It cost the astronomical amount of 580 yen!{Heh.}
+Dialogue: 10,0:12:17.85,0:12:20.11,GJM_Main_1080p,,0,0,0,,No! It cost the astronomical amount of 4,580 yen!{Heh.}
 Dialogue: 10,0:12:20.11,0:12:21.51,GJM_Main_1080p,,0,0,0,,That's a very reasonable price!
 Dialogue: 10,0:12:21.51,0:12:24.80,GJM_Main_1080p,,0,0,0,,Still, Sora appears happy with the result.
 Dialogue: 10,0:12:24.80,0:12:27.17,GJM_Main_1080p,,0,0,0,,I might get a prize with this one!
