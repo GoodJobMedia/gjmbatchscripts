@@ -16,8 +16,8 @@ Video File: E:/GJM/Kuma Kuma Kuma Bear/02/kuma4_02_premux [2E875386].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 2513
-Active Line: 2530
+Scroll Position: 349
+Active Line: 393
 Video Position: 34042
 
 [V4+ Styles]
@@ -343,7 +343,7 @@ Dialogue: 20,0:17:00.36,0:17:04.33,1$GJM_Main,,0,0,0,,{\q2}I'm {\i1}terribly{\i0
 Dialogue: 20,0:17:05.63,0:17:06.71,1$GJM_Main,,0,0,0,,I'll kill you, dammit!
 Dialogue: 20,0:17:07.02,0:17:08.58,1$GJM_Main,,0,0,0,,Follow me, brat.
 Dialogue: 20,0:17:08.58,0:17:10.92,1$GJM_Main,,0,0,0,,I'll show you what a real adventurer's like!
-Dialogue: 20,0:17:10.92,0:17:12.36,1$GJM_Main,,0,0,0,,Bear punch!
+Dialogue: 20,0:17:10.92,0:17:12.36,1$GJM_Main,,0,0,0,,Bear Punch!
 Dialogue: 20,0:17:20.77,0:17:23.65,1$GJM_Main,,0,0,0,,W-Well then, please fill in this registration form.
 Dialogue: 20,0:17:23.65,0:17:24.60,1$GJM_Main,,0,0,0,,Sure.
 Dialogue: 20,0:17:26.46,0:17:28.09,1$GJM_Main,,0,0,0,,{\i1}Profession, huh?{\i0}
@@ -419,7 +419,7 @@ Dialogue: 20,0:20:19.76,0:20:21.66,1$GJM_Main,,0,0,0,,All right, I'll go with th
 Dialogue: 20,0:20:22.16,0:20:23.24,1$GJM_Main,,0,0,0,,By the way...
 Dialogue: 20,0:20:24.39,0:20:27.04,1$GJM_Main,,0,0,0,,Let's get this straight—are they tigers or wolves?
 Dialogue: 20,0:20:27.04,0:20:29.25,1$GJM_Main,,0,0,0,,I-I couldn't tell you.
-Dialogue: 20,0:20:29.89,0:20:31.56,1$GJM_Main,,0,0,0,,Water bear!
+Dialogue: 20,0:20:29.89,0:20:31.56,1$GJM_Main,,0,0,0,,Water Bear!
 Dialogue: 20,0:20:39.22,0:20:40.42,1$GJM_Main,,0,0,0,,All right, quest completed.
 Dialogue: 20,0:20:41.07,0:20:44.64,1$GJM_Main,,0,0,0,,{\q2}This way all the material is left intact,\N and I don't have to see any blood either.
 Dialogue: 20,0:20:45.45,0:20:47.54,1$GJM_Main,,0,0,0,,Anyway, tiger wolves, huh?
@@ -427,7 +427,7 @@ Dialogue: 20,0:20:48.26,0:20:49.62,1$GJM_Main,,0,0,0,,Nah, they're clearly tiger
 Dialogue: 20,0:20:50.31,0:20:52.52,1$GJM_Main,,0,0,0,,Huh? Looks like one's still standing.
 Dialogue: 20,0:20:53.53,0:20:55.20,1$GJM_Main,,0,0,0,,There's someone this deep in the forest?
 Dialogue: 20,0:20:59.44,0:21:00.65,1$GJM_Main,,0,0,0,,Fina!
-Dialogue: 20,0:21:02.49,0:21:04.20,1$GJM_Main,,0,0,0,,Bear cutter!
+Dialogue: 20,0:21:02.49,0:21:04.20,1$GJM_Main,,0,0,0,,Bear Cutter!
 Dialogue: 20,0:21:12.74,0:21:13.42,1$GJM_Main,,0,0,0,,Ah, crap!
 Dialogue: 20,0:21:13.94,0:21:16.88,1$GJM_Main,,0,0,0,,I ruined the material.
 Dialogue: 20,0:21:17.15,0:21:19.07,1$GJM_Main,,0,0,0,,I'm sorry.
