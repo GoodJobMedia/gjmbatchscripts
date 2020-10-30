@@ -17,7 +17,7 @@ Keyframes File: kuma4_04_premux [963DA5BF]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.625000
-Active Line: 5
+Active Line: 19
 Video Position: 185
 
 [V4+ Styles]
@@ -52,7 +52,7 @@ Dialogue: 20,0:00:29.76,0:00:30.84,1$GJM_Main,,0,0,0,,Yeah!
 Dialogue: 20,0:00:30.84,0:00:32.04,1$GJM_Main,,0,0,0,,I'm gonna start with the eyes!
 Dialogue: 20,0:00:32.04,0:00:34.15,1$GJM_Main,,0,0,0,,Hey, the inside of the mouth is all charred!
 Dialogue: 20,0:00:34.15,0:00:35.30,1$GJM_Main,,0,0,0,tlc,Damn, you're right!
-Dialogue: 20,0:00:36.88,0:00:38.85,1$GJM_Main,,0,0,0,,{\i1}Even since I met Yuna,
+Dialogue: 20,0:00:36.88,0:00:38.85,1$GJM_Main,,0,0,0,,{\i1}Ever since I met Yuna,
 Dialogue: 20,0:00:38.85,0:00:41.43,1$GJM_Main,,0,0,0,,{\i1}it's been one wonder after the next.
 Dialogue: 20,0:00:41.77,0:00:43.94,1$GJM_Main,,0,0,0,,{\i1}She defeats monsters in no time flat,
 Dialogue: 20,0:00:44.56,0:00:47.44,1$GJM_Main,,0,0,0,,{\i1}and even built an amazing house like it was nothing.
