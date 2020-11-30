@@ -16,14 +16,10 @@ ScaledBorderAndShadow: yes
 [Aegisub Project Garbage]
 Export Encoding: Unicode (UTF-8)
 Last Style Storage: Default
-Audio File: Tabitabi_06 (Premux).mkv
-Video File: Tabitabi_06 (Premux).mkv
+Audio File: E:/Anime/Fansubbing/Git Repositories/Kaleido-subs/Majo-no-Tabitabi/06/Tabitabi_06 (Premux).mkv
+Video File: E:/Anime/Fansubbing/Git Repositories/Kaleido-subs/Majo-no-Tabitabi/06/Tabitabi_06 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.500000
-Scroll Position: 39
-Active Line: 40
-Video Position: 5694
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -38,15 +34,15 @@ Style: ED1 - ROM,H_Valkyria,64,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:04.06,0:00:06.76,Default,Elaina,0,0,0,,The Country of Honest People?
+Dialogue: 10,0:00:04.06,0:00:06.76,Default,Elaina,0,0,0,,The Country of Truth-Tellers?
 Dialogue: 10,0:00:06.76,0:00:08.56,Default,Elaina,0,0,0,,But I don't see it anywhere on my map.
 Dialogue: 10,0:00:08.56,0:00:11.07,Default,Sentry1,0,0,0,,Its name only changed six months ago.
 Dialogue: 10,0:00:11.52,0:00:15.53,Default,Sentry1,0,0,0,,{\q2}And just like the new name says, \Nit's now a country where no one can tell a lie.
 Dialogue: 10,0:00:15.90,0:00:17.34,Default,Elaina,0,0,0,,I see...
 Dialogue: 10,0:00:17.34,0:00:19.03,Default,Sentry2,0,0,0,,The moment a person enters its borders,
-Dialogue: 10,0:00:19.03,0:00:22.54,Default,Sentry2,0,0,0,,{\q2}they lose the ability to lie. \NNot even witches are immune.
+Dialogue: 10,0:00:19.03,0:00:22.54,Default,Sentry2,0,0,0,,{\q2}they lose the ability to lie. \NNot even witches are exempt.
 Dialogue: 10,0:00:22.92,0:00:25.79,Default,Elaina,0,0,0,,And why is this?
-Dialogue: 10,0:00:26.23,0:00:29.76,Default,Setry1,0,0,0,,{\q2}It's because of the mysterious power \Ninside the sword the king wields.
+Dialogue: 10,0:00:26.23,0:00:29.76,Default,Sentry1,0,0,0,,{\q2}It's because of the mysterious power \Nwithin the sword the king wields.
 Dialogue: 10,0:00:29.76,0:00:30.84,Default,Elaina,0,0,0,,The sword?
 Dialogue: 10,0:00:31.57,0:00:33.65,Default,Sentry2,0,0,0,,The power within that sword
 Dialogue: 10,0:00:33.65,0:00:38.05,Default,Sentry2,0,0,0,,{\q2}cast a barrier over the entire country that \Nmakes it impossible for anyone within it to lie.
@@ -55,13 +51,13 @@ Dialogue: 10,0:00:41.43,0:00:44.78,Default,Sentry1,0,0,0,,{\q2}You're already be
 Dialogue: 10,0:00:44.78,0:00:46.81,Default,Sentry1,0,0,0,,To tell you the truth, I think so too.
 Dialogue: 10,0:00:47.25,0:00:50.47,Default,Sentry1,0,0,0,,So, what do you wish to do? Will you enter?
 Dialogue: 10,0:00:50.47,0:00:51.72,Default,Elaina,0,0,0,,Let me see.
-Dialogue: 10,0:00:51.72,0:00:54.76,Default,Elaina,0,0,0,,{\q2}I'm really not sure of this, \Nso I keep going back and forth,
+Dialogue: 10,0:00:51.72,0:00:54.76,Default,Elaina,0,0,0,,I'm of two minds, so I keep switching back and forth,
 Dialogue: 10,0:00:54.76,0:00:57.15,Default,Elaina,0,0,0,,{\q2}but it seems it would \Nmake for an interesting story,
 Dialogue: 10,0:00:57.15,0:00:58.83,Default,Elaina,0,0,0,,so I may as well come in and see it myself.
 Dialogue: 10,0:00:59.14,0:01:00.87,Default,Sentry2,0,0,0,,You're an honest one, huh?
-Dialogue: 10,0:01:00.87,0:01:03.08,Default,Sentry2,0,0,0,,Then welcome to the Country of Honest People.
+Dialogue: 10,0:01:00.87,0:01:03.08,Default,Sentry2,0,0,0,,Then welcome to the Country of Truth-Tellers.
 Dialogue: 10,0:01:03.76,0:01:05.96,Default,Both,0,0,0,,Welcome to the shithole we call home!
-Dialogue: 10,0:02:51.19,0:02:54.76,Default,Elaina,0,0,0,,{\i1}The Country of Honest People, hmm?
+Dialogue: 10,0:02:51.19,0:02:54.76,Default,Elaina,0,0,0,,{\i1}The Country of Truth-Tellers, hmm?
 Dialogue: 10,0:02:54.76,0:02:56.82,Default,Elaina,0,0,0,,{\i1}It looks like a totally ordinary town to me.
 Dialogue: 10,0:02:57.74,0:03:01.16,Default,Elaina,0,0,0,,{\i1\q2}First things first, I'll perform a little test \Nand see whether I can lie.
 Dialogue: 10,0:03:01.83,0:03:05.20,Default,Elaina,0,0,0,,{\i1}I'll try and say "I'm not at all beautiful".
@@ -80,7 +76,7 @@ Dialogue: 10,0:03:48.61,0:03:49.91,Default,Elaina,0,0,0,,I'll take one, then.
 Dialogue: 10,0:03:53.61,0:03:57.45,Default,Elaina,0,0,0,,Ugh, what is this? It's hard, and all dried out to boot.
 Dialogue: 10,0:03:57.45,0:03:59.80,Default,Elaina,0,0,0,,I bet it's left over from yesterday.
 Dialogue: 10,0:03:59.80,0:04:01.94,Default,Elaina,0,0,0,,And to think she nodded when I asked if it was fresh.
-Dialogue: 10,0:04:01.94,0:04:04.30,Default,Elaina,0,0,0,,"Country of Honest People" my foot.
+Dialogue: 10,0:04:01.94,0:04:04.30,Default,Elaina,0,0,0,,"Country of Truth-Tellers" my foot.
 Dialogue: 10,0:04:04.96,0:04:07.63,Default,Elaina,0,0,0,,Judging from the name,
 Dialogue: 10,0:04:07.63,0:04:11.06,Default,Elaina,0,0,0,,{\q2}I expected a country of people \Nwho were honest and pure,
 Dialogue: 10,0:04:11.52,0:04:13.70,Default,Elaina,0,0,0,,but that certainly doesn't seem to be the case.
@@ -105,9 +101,12 @@ Dialogue: 10,0:05:40.05,0:05:43.30,Default,Youth1,0,0,0,,Are you kiddin' me, you
 Dialogue: 10,0:05:43.30,0:05:46.53,Default,Youth2,0,0,0,,Big talk coming from a craven coward like you!
 Dialogue: 10,0:05:46.53,0:05:49.34,Default,Youth1,0,0,0,,{\q2}You schemin' scoundrel! Why don't you \Ntake a long walk off a short pier?
 Dialogue: 10,0:05:49.34,0:05:51.49,Default,Youth2,0,0,0,,You contrary son of a bitch! You first!
-Dialogue: 10,0:05:51.49,0:05:54.87,Alt,Youth1,0,0,0,,{\an8}Excuse the heck out of you! \NWhat makes you think you're so great?
-Dialogue: 10,0:05:54.87,0:05:57.85,Alt,Youth2,0,0,0,,{\an8}You're the last person I want to hear that from!
-Dialogue: 10,0:05:52.10,0:05:57.85,Default,Elaina,0,0,0,,{\q2}Oh, dear. I finally get to hear human voices, \Nand it's because of a street fight.
+Dialogue: 10,0:05:51.49,0:05:52.33,Default,Youth1,0,0,0,,{\an8}Excuse the heck outta you!
+Dialogue: 10,0:05:52.33,0:05:54.87,Default,Youth1,0,0,0,,{\q2\an8}You're crazy if you think you have a chance \Nwith a woman that far outta your league!
+Dialogue: 10,0:05:54.87,0:05:57.85,Default,Youth2,0,0,0,,{\an8}Says you! She was totally into me!
+Dialogue: 10,0:05:58.25,0:05:59.51,Default,Youth1,0,0,0,,{\an8}Laugh at me, will ya?!
+Dialogue: 10,0:05:59.51,0:06:02.26,Default,Youth2,0,0,0,,{\an8}Get your hands off me!
+Dialogue: 10,0:05:52.10,0:05:57.85,Default,Elaina,0,0,0,,{\q2}Oh, dear. I finally get to hear someone speak, \Nand it's because of a street fight.
 Dialogue: 10,0:05:57.85,0:06:00.50,Default,Elaina,0,0,0,,Excuse me. Isn't anyone going to stop them?
 Dialogue: 10,0:06:01.14,0:06:03.83,Default,Bystander,0,0,0,,No way. Watching them helps us blow off steam.
 Dialogue: 10,0:06:03.83,0:06:05.87,Default,Bystander,0,0,0,,Honestly, I'd rather they really get the claws out!
@@ -183,11 +182,10 @@ Dialogue: 10,0:10:31.34,0:10:35.32,Default,Eyhemia,0,0,0,,{\q2}That's it. I'll p
 Dialogue: 10,0:10:35.92,0:10:39.63,Default,Elaina,0,0,0,,{\i1\q2}So Eyhemia took some old sword that \Nhappened to be lying around the castle
 Dialogue: 10,0:10:39.63,0:10:42.74,Default,Elaina,0,0,0,,{\i1\q2}to use it as a vessel for the magical power \Nthat could create the barrier.
 Dialogue: 10,0:10:44.41,0:10:45.98,Default,Eyhemia,0,0,0,,All right.
-Comment: 10,0:10:45.98,0:10:49.54,Default,Eyhemia,0,0,0,,{CCs might have dialogue for these spells so just timed them. if CCs are a bust then delete these lines kthxbai}{true}
-Comment: 10,0:10:51.13,0:10:52.59,Default,Eyhemia,0,0,0,,
-Comment: 10,0:10:57.96,0:11:00.26,Default,Eyhemia,0,0,0,,
-Comment: 10,0:11:00.26,0:11:02.45,Default,Eyhemia,0,0,0,,
-Comment: 10,0:11:02.45,0:11:04.26,Default,Eyhemia,0,0,0,,
+Dialogue: 10,0:10:45.98,0:10:49.54,Default,Eyhemia,0,0,0,,Ianesana-ha, ianesana-ha.
+Dialogue: 10,0:10:51.13,0:10:52.59,Default,Eyhemia,0,0,0,,Ominano motera-do!
+Dialogue: 10,0:10:57.96,0:11:02.45,Default,Eyhemia,0,0,0,,{\an8}Ianesana-ha, ianesana-ha.
+Dialogue: 10,0:11:02.45,0:11:04.26,Default,Eyhemia,0,0,0,,{\an8}Ominano motera-do!
 Dialogue: 10,0:10:56.05,0:11:00.26,Default,Elaina,0,0,0,,{\i1}But to do this required a very great deal of power.
 Dialogue: 10,0:11:00.26,0:11:03.46,Default,Elaina,0,0,0,,{\i1\q2}Eyhemia poured all the magical power \Nshe possessed into it,
 Dialogue: 10,0:11:04.26,0:11:06.60,Default,Elaina,0,0,0,,{\i1}but that still wasn't enough.
@@ -201,10 +199,10 @@ Dialogue: 10,0:11:29.94,0:11:33.50,Default,King,0,0,0,,{\q2}a barrier that preve
 Dialogue: 10,0:11:33.50,0:11:34.67,Default,King,0,0,0,,Is that right?
 Dialogue: 10,0:11:37.98,0:11:40.07,Default,King,0,0,0,,A country of honest people?
 Dialogue: 10,0:11:40.07,0:11:41.34,Default,King,0,0,0,,That sounds pretty good!
-Dialogue: 10,0:11:47.74,0:11:51.73,Default,King,0,0,0,,But wow, is this sword a piece of crap or what?
+Dialogue: 10,0:11:47.74,0:11:51.73,Default,King,0,0,0,,But wow, is this sword lame or what?
 Dialogue: 10,0:11:52.03,0:11:53.90,Default,King,0,0,0,,You've got no taste.
 Dialogue: 10,0:11:53.90,0:11:57.73,Default,King,0,0,0,,{\q2}I know it's for the barrier and all, but having to \Nhold this thing is honestly pretty lame.
-Dialogue: 10,0:12:00.74,0:12:05.28,Default,Elaina,0,0,0,,{\i1\q2\t(2983,4526,\c&H000000&)}And that was how the Country of \NHonest People came to be.
+Dialogue: 10,0:12:00.74,0:12:05.28,Default,Elaina,0,0,0,,{\i1\q2\t(2983,4526,\c&H000000&)}And that was how the Country of \NTruth-Tellers came to be.
 Dialogue: 10,0:12:06.01,0:12:07.76,Default,Elaina,0,0,0,,{\i1}Oh, and after she did all that,
 Dialogue: 10,0:12:07.76,0:12:13.08,Default,Elaina,0,0,0,,{\i1\q2}Eyhemia was branded useless after losing \Nher magic and expelled from the palace.
 Dialogue: 10,0:12:18.45,0:12:23.59,Default,Elaina,0,0,0,,{\q2}You were hired as a witch, you know. \NWhat worth would you have to him with no magic?
@@ -222,7 +220,7 @@ Dialogue: 10,0:13:09.16,0:13:10.81,Default,Elaina,0,0,0,,We'll figure out anothe
 Dialogue: 10,0:13:13.90,0:13:18.10,Default,Saya,0,0,0,,{\q2}Hmm... but wouldn't it be awfully hard \Nto do that if we can't lie our way through it?
 Dialogue: 10,0:13:18.10,0:13:20.87,Default,Saya,0,0,0,,{\q2}It didn't look like we'd have \Nany luck flying in from above.
 Dialogue: 10,0:13:20.87,0:13:22.87,Default,Saya,0,0,0,,It's practically crawling with guards, too.
-Dialogue: 10,0:13:22.87,0:13:25.25,Default,Elaina,0,0,0,,This is the Country of Honest People.
+Dialogue: 10,0:13:22.87,0:13:25.25,Default,Elaina,0,0,0,,This is the Country of Truth-Tellers.
 Dialogue: 10,0:13:25.25,0:13:28.81,Default,Elaina,0,0,0,,Trying to lie our way in is bound to be difficult.
 Dialogue: 10,0:13:28.81,0:13:30.23,Default,Elaina,0,0,0,,But...
 Dialogue: 10,0:13:30.23,0:13:31.16,Default,Saya,0,0,0,,But what?
@@ -247,7 +245,7 @@ Dialogue: 10,0:14:15.61,0:14:17.12,Default,Guard,0,0,0,,"...will accompany her i
 Dialogue: 10,0:14:17.12,0:14:18.76,Default,Guard,0,0,0,,"...on the orders of..."
 Dialogue: 10,0:14:18.76,0:14:20.54,Default,Guard,0,0,0,,"...the king"?!
 Dialogue: 10,0:14:21.03,0:14:22.54,Default,Guard,0,0,0,,Is that really true?
-Dialogue: 10,0:14:23.10,0:14:25.50,Default,Saya,0,0,0,,This is the Country of Honest People, isn't it?
+Dialogue: 10,0:14:23.10,0:14:25.50,Default,Saya,0,0,0,,This is the Country of Truth-Tellers, isn't it?
 Dialogue: 10,0:14:25.50,0:14:28.05,Default,Saya,0,0,0,,It couldn't possibly be false, could it?
 Dialogue: 10,0:14:28.05,0:14:29.83,Default,Guard,0,0,0,,Well, that's true...
 Dialogue: 10,0:14:29.83,0:14:31.51,Default,Elaina,0,0,0,,May we come in?
@@ -312,7 +310,7 @@ Dialogue: 10,0:17:58.23,0:18:00.32,Default,King,0,0,0,,Wrap things up, you say?
 Dialogue: 10,0:18:00.32,0:18:03.34,Default,King,0,0,0,,It's taking everything you have merely to counter me!
 Dialogue: 10,0:18:03.34,0:18:04.81,Default,Elaina,0,0,0,,Sorry, but no.
 Dialogue: 10,0:18:04.81,0:18:09.31,Default,Elaina,0,0,0,,{\q2}I'm already done preparing to \Ntake that sword from you.
-Dialogue: 10,0:18:26.83,0:18:28.21,Default,King,0,0,0,,My piece of crap sword!
+Dialogue: 10,0:18:26.83,0:18:28.21,Default,King,0,0,0,,My lame-ass sword!
 Dialogue: 10,0:18:31.50,0:18:33.50,Default,Saya,0,0,0,,You did it, Miss Elaina!
 Dialogue: 10,0:18:39.67,0:18:43.10,Default,King,0,0,0,,Are you saying... that I was wrong?
 Dialogue: 10,0:18:43.98,0:18:46.18,Default,Eyhemia,0,0,0,,No, Your Majesty.
@@ -327,7 +325,7 @@ Dialogue: 10,0:19:39.56,0:19:42.20,Default,Youth2,0,0,0,,And you're one gutsy du
 Dialogue: 10,0:19:44.56,0:19:47.22,Default,Elaina,0,0,0,,{\i1}The king acknowledged the error of his ways
 Dialogue: 10,0:19:47.22,0:19:51.67,Default,Elaina,0,0,0,,{\i1\q2}and apologised to his countrymen \Nfor making it so that they could not lie.
 Dialogue: 10,0:19:52.21,0:19:55.78,Default,Elaina,0,0,0,,{\i1\q2}I don't know whether the country \Nwill return to how it was before,
-Dialogue: 10,0:19:55.78,0:19:58.65,Default,Elaina,0,0,0,,{\i1}but Eyhemia was asked to return to the palace,
+Dialogue: 10,0:19:55.78,0:19:58.65,Default,Elaina,0,0,0,,{\i1}but Eyhemia was reinstated at the palace,
 Dialogue: 10,0:19:58.65,0:20:00.67,Default,Elaina,0,0,0,,{\i1}so I think things will probably turn out all right.
 Dialogue: 10,0:20:01.07,0:20:03.70,Default,Sentries,0,0,0,,Thank you, honoured witches!
 Dialogue: 10,0:20:03.70,0:20:05.10,Default,Sentries,0,0,0,,Safe travels!
@@ -340,7 +338,7 @@ Dialogue: 10,0:20:21.07,0:20:22.57,Default,Saya,0,0,0,,This isn't much, but...
 Dialogue: 10,0:20:23.14,0:20:24.87,Default,Saya,0,0,0,,Ta-dah!
 Dialogue: 10,0:20:25.81,0:20:27.12,Default,Elaina,0,0,0,,A necklace?
 Dialogue: 10,0:20:28.61,0:20:30.27,Default,Saya,0,0,0,,You see,
-Dialogue: 10,0:20:30.27,0:20:35.03,Default,Saya,0,0,0,,{\q2}I spent every last cent I had on this so I could \Ngive it to you when we were reunited!
+Dialogue: 10,0:20:30.27,0:20:35.03,Default,Saya,0,0,0,,{\q2}I spent every last coin I had on this so I could \Ngive it to you when we were reunited!
 Dialogue: 10,0:20:35.81,0:20:39.87,Default,Saya,0,0,0,,{\q2}Thanks to that, I'm broke, which is why \NI took the job in that country...
 Dialogue: 10,0:20:39.87,0:20:42.14,Default,Saya,0,0,0,,But thanks to that, I saw you again!
 Dialogue: 10,0:20:42.14,0:20:44.34,Default,Saya,0,0,0,,This has to be destiny!
@@ -509,30 +507,30 @@ Dialogue: 1,0:23:18.21,0:23:22.92,ED1 - ENG,,0,0,0,,{\an3\fad(250,250)\3c&HD3CD5
 Dialogue: 1,0:23:18.21,0:23:22.92,ED1 - ROM,,0,0,0,,{\an9\fad(250,250)\3c&HD3CD5A&\blur8}d{*\3c&HD3C95D&}a{*\3c&HD3C661&}r{*\3c&HD4C364&}e{*\3c&HD4C068&}m{*\3c&HD5BD6B&}o {*\3c&HD6B772&}m{*\3c&HD6B476&}i{*\3c&HD6B17A&}t{*\3c&HD7AE7D&}a {*\3c&HD8A884&}k{*\3c&HD8A588&}o{*\3c&HD9A28B&}t{*\3c&HD99F8F&}o {*\3c&HDA9996&}n{*\3c&HDA969A&}o {*\3c&HDB90A1&}n{*\3c&HDC8DA4&}a{*\3c&HDC8AA8&}i{\3c&HDD87AC&}
 Dialogue: 1,0:23:23.01,0:23:27.01,ED1 - ENG,,0,0,0,,{\an3\fad(250,250)\3c&HD3CD5A&\blur8}O{*\3c&HD3CA5C&}n{*\3c&HD3C85F&}e {*\3c&HD4C364&}n{*\3c&HD4C167&}o{*\3c&HD4BF69&}b{*\3c&HD5BD6C&}o{*\3c&HD5BA6F&}d{*\3c&HD5B871&}y {*\3c&HD6B477&}h{*\3c&HD6B179&}a{*\3c&HD7AF7C&}s {*\3c&HD7AB81&}e{*\3c&HD8A884&}v{*\3c&HD8A686&}e{*\3c&HD8A489&}r {*\3c&HD99F8E&}s{*\3c&HD99D91&}e{*\3c&HDA9B94&}e{*\3c&HDA9996&}n {*\3c&HDB949C&}b{*\3c&HDB929E&}e{*\3c&HDB90A1&}f{*\3c&HDC8DA4&}o{*\3c&HDC8BA6&}r{*\3c&HDC89A9&}e{\3c&HDD87AC&}
 Dialogue: 1,0:23:23.01,0:23:27.01,ED1 - ROM,,0,0,0,,{\an9\fad(250,250)\3c&HD3CD5A&\blur8}s{*\3c&HD3C85E&}o{*\3c&HD4C463&}n{*\3c&HD4C068&}o {*\3c&HD5B872&}i{*\3c&HD6B476&}c{*\3c&HD7B07B&}h{*\3c&HD7AC80&}i {*\3c&HD8A38A&}p{*\3c&HD99F8F&}a{*\3c&HDA9B93&}g{*\3c&HDA9798&}e {*\3c&HDB8FA2&}w{*\3c&HDC8BA7&}o{\3c&HDD87AC&}
-Dialogue: 0,0:02:43.55,0:02:48.02,TitleCard,,0,0,0,,{\fad(1000,0)\c&H1F2633&\blur0.8\fscx414\fscy357\an5\frz18.92\pos(1321.6,766.267)}The Country of Honest People
+Dialogue: 0,0:02:43.55,0:02:48.02,TitleCard,,0,0,0,,{\fad(1000,0)\c&H1F2633&\blur0.8\fscx414\fscy357\an5\frz18.92\pos(1321.6,766.267)}The Country of Truth-Tellers
 Dialogue: 1,0:05:32.14,0:05:35.60,Signs,,0,0,120,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}I have an exemplary personality.
 Dialogue: 2,0:05:32.14,0:05:35.60,Signs,,0,0,120,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}I have an exemplary personality.
 Dialogue: 1,0:08:40.08,0:08:42.66,Signs,,0,0,120,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}Eep! I'm sorry! I'm sorry!
 Dialogue: 2,0:08:40.08,0:08:42.66,Signs,,0,0,120,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}Eep! I'm sorry! I'm sorry!
 Dialogue: 1,0:12:13.08,0:12:18.09,Signs,,0,0,25,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}I had no value to him outside of my magical ability...
 Dialogue: 2,0:12:13.08,0:12:18.09,Signs,,0,0,25,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}I had no value to him outside of my magical ability...
-Dialogue: 3,0:12:23.59,0:12:28.60,Signs,,0,0,0,,{\pos(960,1128)\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}I still hoped he'd allow me \N{\alpha&HFF&}to stay with him, though!
-Dialogue: 4,0:12:23.59,0:12:28.60,Signs,,0,0,0,,{\pos(960,1128)\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}I still hoped he'd allow me \N{\alpha&HFF&}to stay with him, though!
-Dialogue: 1,0:12:23.59,0:12:28.60,Signs,,0,0,25,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3\alpha&HFF&}I still hoped he'd allow me \N{\alpha&H00&}to stay with him, though!
-Dialogue: 2,0:12:23.59,0:12:28.60,Signs,,0,0,25,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8\alpha&HFF&}I still hoped he'd allow me \N{\alpha&H00&}to stay with him, though!
-Dialogue: 3,0:12:45.36,0:12:50.12,Signs,,0,0,0,,{\pos(960,1128)\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}All you need to do is destroy the king's sword. \N{\alpha&HFF&}That will restore my magic, as well as my voice, too.
-Dialogue: 4,0:12:45.36,0:12:50.12,Signs,,0,0,0,,{\pos(960,1128)\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}All you need to do is destroy the king's sword. \N{\alpha&HFF&}That will restore my magic, as well as my voice, too.
-Dialogue: 1,0:12:45.36,0:12:50.12,Signs,,0,0,25,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3\alpha&HFF&}All you need to do is destroy the king's sword. \N{\alpha&H00&}That will restore my magic, as well as my voice, too.
-Dialogue: 2,0:12:45.36,0:12:50.12,Signs,,0,0,25,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8\alpha&HFF&}All you need to do is destroy the king's sword. \N{\alpha&H00&}That will restore my magic, as well as my voice, too.
+Dialogue: 1,0:12:23.59,0:12:28.60,Signs,,0,0,25,,{\pos(960,979)\fsp1\b600\bord2\c&H000000&\blur3}I still hoped he'd allow me to
+Dialogue: 2,0:12:23.59,0:12:28.60,Signs,,0,0,25,,{\pos(960,979)\fsp1\b600\c&HFEFEFE&\blur0.8}I still hoped he'd allow me to
+Dialogue: 1,0:12:23.59,0:12:28.60,Signs,,0,0,25,,{\pos(960,1055)\fsp1\b600\bord2\c&H000000&\pos(960,1055)\blur3}stay by his side, though!
+Dialogue: 2,0:12:23.59,0:12:28.60,Signs,,0,0,25,,{\pos(960,1055)\fsp1\b600\c&HFEFEFE&\pos(960,1055)\blur0.8}stay by his side, though!
+Dialogue: 1,0:12:45.36,0:12:50.12,Signs,,0,0,25,,{\pos(960,979)\fsp1\b600\bord2\c&H000000&\blur3}All you need to do is destroy the king's sword.
+Dialogue: 2,0:12:45.36,0:12:50.12,Signs,,0,0,25,,{\pos(960,979)\fsp1\b600\c&HFEFEFE&\blur0.8}All you need to do is destroy the king's sword.
+Dialogue: 1,0:12:45.36,0:12:50.12,Signs,,0,0,25,,{\pos(960,1055)\fsp1\b600\bord2\c&H000000&\blur3}That will restore my magic, as well as my voice, too.
+Dialogue: 2,0:12:45.36,0:12:50.12,Signs,,0,0,25,,{\pos(960,1055)\fsp1\b600\c&HFEFEFE&\blur0.8}That will restore my magic, as well as my voice, too.
 Dialogue: 1,0:12:56.25,0:12:58.38,Signs,,0,0,25,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}He'll be holding a speech a month from now.
 Dialogue: 2,0:12:56.25,0:12:58.38,Signs,,0,0,25,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}He'll be holding a speech a month from now.
-Dialogue: 1,0:13:11.85,0:13:13.56,Signs,,0,0,25,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}Getting inside the palace would be the best way.
-Dialogue: 2,0:13:11.85,0:13:13.56,Signs,,0,0,25,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}Getting inside the palace would be the best way.
+Dialogue: 1,0:13:11.85,0:13:13.56,Signs,,0,0,25,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}Getting inside the palace might be the best way.
+Dialogue: 2,0:13:11.85,0:13:13.56,Signs,,0,0,25,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}Getting inside the palace might be the best way.
 Dialogue: 1,0:15:54.14,0:15:56.05,Signs,,0,0,120,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}I am a noncombatant.
 Dialogue: 2,0:15:54.14,0:15:56.05,Signs,,0,0,120,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}I am a noncombatant.
 Dialogue: 1,0:16:18.91,0:16:21.25,Signs,,0,0,120,,{\b600\bord2\c&H000000&\3a&H28&\blur3}The sword can fire the magical energy stored inside it, so watch out, okay?
 Dialogue: 2,0:16:18.91,0:16:21.25,Signs,,0,0,120,,{\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}The sword can fire the magical energy stored inside it, so watch out, okay?
-Dialogue: 1,0:16:21.83,0:16:25.50,Signs,,0,0,120,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}It'll really hurt if it hits you.
-Dialogue: 2,0:16:21.83,0:16:25.50,Signs,,0,0,120,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}It'll really hurt if it hits you.
+Dialogue: 1,0:16:21.83,0:16:25.50,Signs,,0,0,120,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}It'll really hurt if it hits you!
+Dialogue: 2,0:16:21.83,0:16:25.50,Signs,,0,0,120,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}It'll really hurt if it hits you!
 Dialogue: 1,0:17:51.75,0:17:53.17,Signs,,0,0,120,,{\fsp1\b600\bord2\c&H000000&\3a&H28&\blur3}Do your best!
 Dialogue: 2,0:17:51.75,0:17:53.17,Signs,,0,0,120,,{\fsp1\b600\c&HFEFEFE&\3a&H28&\4a&HFF&\blur0.8}Do your best!
