@@ -101,11 +101,11 @@ Dialogue: 10,0:05:40.05,0:05:43.30,Default,Youth1,0,0,0,,Are you kiddin' me, you
 Dialogue: 10,0:05:43.30,0:05:46.53,Default,Youth2,0,0,0,,Big talk coming from a craven coward like you!
 Dialogue: 10,0:05:46.53,0:05:49.34,Default,Youth1,0,0,0,,{\q2}You schemin' scoundrel! Why don't you \Ntake a long walk off a short pier?
 Dialogue: 10,0:05:49.34,0:05:51.49,Default,Youth2,0,0,0,,You contrary son of a bitch! You first!
-Dialogue: 10,0:05:51.49,0:05:52.33,Default,Youth1,0,0,0,,{\an8}Excuse the heck outta you!
-Dialogue: 10,0:05:52.33,0:05:54.87,Default,Youth1,0,0,0,,{\q2\an8}You're crazy if you think you have a chance \Nwith a woman that far outta your league!
-Dialogue: 10,0:05:54.87,0:05:57.85,Default,Youth2,0,0,0,,{\an8}Says you! She was totally into me!
-Dialogue: 10,0:05:58.25,0:05:59.51,Default,Youth1,0,0,0,,{\an8}Laugh at me, will ya?!
-Dialogue: 10,0:05:59.51,0:06:02.26,Default,Youth2,0,0,0,,{\an8}Get your hands off me!
+Dialogue: 10,0:05:51.49,0:05:52.33,Alt,Youth1,0,0,0,,{\an8}Excuse the heck outta you!
+Dialogue: 10,0:05:52.33,0:05:54.87,Alt,Youth1,0,0,0,,{\q2\an8}You're crazy if you think you have a chance \Nwith a woman that far outta your league!
+Dialogue: 10,0:05:54.87,0:05:57.85,Alt,Youth2,0,0,0,,{\an8}Says you! She was totally into me!
+Dialogue: 10,0:05:58.25,0:05:59.51,Alt,Youth1,0,0,0,,{\an8}Laugh at me, will ya?!
+Dialogue: 10,0:05:59.51,0:06:02.26,Alt,Youth2,0,0,0,,{\an8}Get your hands off me!
 Dialogue: 10,0:05:52.10,0:05:57.85,Default,Elaina,0,0,0,,{\q2}Oh, dear. I finally get to hear someone speak, \Nand it's because of a street fight.
 Dialogue: 10,0:05:57.85,0:06:00.50,Default,Elaina,0,0,0,,Excuse me. Isn't anyone going to stop them?
 Dialogue: 10,0:06:01.14,0:06:03.83,Default,Bystander,0,0,0,,No way. Watching them helps us blow off steam.
