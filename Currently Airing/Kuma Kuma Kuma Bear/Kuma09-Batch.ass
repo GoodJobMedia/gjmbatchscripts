@@ -17,7 +17,8 @@ Keyframes File: kuma4_09_premux [E9AB7C88]_keyframes.log
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 5
+Scroll Position: 206
+Active Line: 250
 Video Position: 396
 
 [V4+ Styles]
@@ -192,7 +193,7 @@ Dialogue: 20,0:09:13.30,0:09:16.44,1$GJM_Main,,0,0,0,,Now then, we'll have a lot
 Dialogue: 20,0:09:17.53,0:09:20.44,1$GJM_Main,,0,0,0,,I'm really looking forward to your restaurant!
 Dialogue: 20,0:09:24.66,0:09:27.58,1$GJM_Main,,0,0,0,,{\an8}It definitely can't be too small.
 Dialogue: 20,0:09:27.93,0:09:29.45,1$GJM_Main,,0,0,0,,{\an8}Yes, especially the hall.
-Dialogue: 20,0:09:29.45,0:09:33.00,1$GJM_Main,,0,0,0,,{\q2}Furnished properties are all on the small side,\Nso why don't you just knock down a wall or two? 
+Dialogue: 20,0:09:29.45,0:09:33.00,1$GJM_Main,,0,0,0,,{\q2}Furnished properties are all on the small side,\Nso why don't you just knock down a wall or two?
 Dialogue: 20,0:09:33.00,0:09:33.97,1$GJM_Main,,0,0,0,,Excuse me...
 Dialogue: 20,0:09:33.97,0:09:35.40,1$GJM_Main,,0,0,0,,Oh, how about this one?
 Dialogue: 20,0:09:36.91,0:09:38.47,1$GJM_Main,,0,0,0,,It can't be located on a main street.
@@ -283,7 +284,7 @@ Dialogue: 20,0:13:30.02,0:13:30.80,1$GJM_Main,,0,0,0,,I wanna try it on!
 Dialogue: 20,0:13:30.78,0:13:31.81,1$GJM_Main,,0,0,0,,Me too!
 Dialogue: 20,0:13:36.75,0:13:39.21,1$GJM_Main,,0,0,0,,Come now, you're already wearing it.
 Dialogue: 20,0:13:39.21,0:13:41.17,1$GJM_Main,,0,0,0,,Why do I have to wear this too?
-Dialogue: 20,0:13:41.17,0:13:43.39,1$GJM_Main,,0,0,0,,Well, you're in charge if the hall, are you not?
+Dialogue: 20,0:13:41.17,0:13:43.39,1$GJM_Main,,0,0,0,,Well, you're in charge of the hall, are you not?
 Dialogue: 20,0:13:46.88,0:13:48.89,1$GJM_Main,,0,0,0,,B-Bear!
 Dialogue: 20,0:13:49.45,0:13:51.35,1$GJM_Main,,0,0,0,,Wait, no, this is too embarrassing!
 Dialogue: 20,0:13:53.00,0:13:54.89,1$GJM_Main,,0,0,0,,You don't have to force yourself to wear it.
