@@ -129,8 +129,8 @@ Dialogue: 10,0:06:42.59,0:06:45.67,Default,Shopkeeper,0,0,0,,Don't be shy, now! 
 Dialogue: 10,0:06:45.67,0:06:47.43,Default,Shopkeeper,0,0,0,,Why, how about this one?
 Dialogue: 10,0:06:47.43,0:06:49.13,Default,Shopkeeper,0,0,0,,That's my most popular model these days!
 Dialogue: 10,0:06:49.65,0:06:51.39,Default,Elaina,0,0,0,,Well, then...
-Dialogue: 10,0:06:59.45,0:07:03.05,Default,Elaina,0,0,0,,{\q2}A doll would only add to the things \NI have to carry, so I think I'll pass.
-Dialogue: 10,0:07:03.05,0:07:05.52,Default,Elaina,0,0,0,,Thanks for the thought, and do excuse me.
+Dialogue: 10,0:06:59.45,0:07:03.02,Default,Elaina,0,0,0,,{\q2}A doll would only add to the things \NI have to carry, so I think I'll pass.
+Dialogue: 10,0:07:03.02,0:07:05.52,Default,Elaina,0,0,0,,Thanks for the thought, and do excuse me.
 Dialogue: 10,0:07:11.41,0:07:12.99,Default,Shopkeeper,0,0,0,,What a pity.
 Dialogue: 10,0:07:13.43,0:07:18.95,Default,Elaina,0,0,0,,{\q2}She really didn't want to accept any money \Nfor her dolls. What a charitable soul.
 Dialogue: 10,0:07:22.25,0:07:25.96,Default,Innkeeper,0,0,0,,Here you are. You'll be in Room 5, on the third floor.
