@@ -16,7 +16,9 @@ Video File: E:/GJM/Neverland/06/neverland06_premux [D17CCD35].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Video Position: 120
+Scroll Position: 36
+Active Line: 37
+Video Position: 13195
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -151,7 +153,7 @@ Dialogue: 10,0:08:25.86,0:08:28.02,GJM_Main,,0,0,0,,Who is she contacting?
 Dialogue: 10,0:08:28.02,0:08:29.89,GJM_Main,,0,0,0,,That HQ or whatever Ray mentioned?
 Dialogue: 10,0:08:29.89,0:08:32.36,GJM_Main,,0,0,0,,Are the bad guys there?
 Dialogue: 10,0:08:33.01,0:08:34.38,GJM_Main,,0,0,0,,Another thing he said...
-Dialogue: 10,0:08:34.38,0:08:38.79,GJM_Main,,0,0,0,,"I've got Mom under control,\Nbut we're done for if the Sister finds out." 
+Dialogue: 10,0:08:34.38,0:08:38.79,GJM_Main,,0,0,0,,"I've got Mom under control,\Nbut we're done for if the Sister finds out."
 Dialogue: 10,0:08:38.79,0:08:40.43,GJM_Main,,0,0,0,,What did he mean, "done for"?
 Dialogue: 10,0:08:40.43,0:08:43.43,GJM_Main,,0,0,0,,{\q2}Would Mom and the Sister \Ndo something to us if we're found out?
 Dialogue: 10,0:08:44.21,0:08:46.88,GJM_Main,,0,0,0,,What if Mom's actually more dangerous,
@@ -163,7 +165,7 @@ Dialogue: 10,0:08:54.79,0:08:57.26,GJM_Main,,0,0,0,,They must have their reasons
 Dialogue: 10,0:08:58.11,0:09:00.75,GJM_Main,,0,0,0,,I can't trust them so easily.
 Dialogue: 10,0:09:00.75,0:09:01.90,GJM_Main,,0,0,0,,After all,
 Dialogue: 10,0:09:01.90,0:09:04.74,GJM_Main,,0,0,0,,they don't trust in us.
-Dialogue: 10,0:09:05.39,0:09:10.37,GJM_Main,,0,0,0,,{\q2}But yeah, it's worth investigating\N this Minerva guy and these books.
+Dialogue: 10,0:09:05.39,0:09:10.37,GJM_Main,,0,0,0,,{\q2}But yeah, it's worth investigating\N Mr. Minerva and these books.
 Dialogue: 10,0:09:10.37,0:09:12.01,GJM_Main,,0,0,0,,Just running ain't gonna be enough.
 Dialogue: 10,0:09:12.01,0:09:15.65,GJM_Main,,0,0,0,,Let's find a way to survive out there!
 Dialogue: 10,0:09:15.65,0:09:17.01,GJM_Main,,0,0,0,,Yeah.
@@ -179,7 +181,7 @@ Dialogue: 10,0:09:42.50,0:09:44.43,GJM_Main,,0,0,0,,It wasn't me, actually.
 Dialogue: 10,0:09:45.44,0:09:47.57,GJM_Main,,0,0,0,,Phil noticed and told me.
 Dialogue: 10,0:09:47.57,0:09:48.44,GJM_Main,,0,0,0,,Phil?
 Dialogue: 10,0:09:48.44,0:09:49.39,GJM_Main,,0,0,0,,Yeah.
-Dialogue: 10,0:09:49.39,0:09:52.40,GJM_Main,,0,0,0,,He was reading one of Minerva's picture books,
+Dialogue: 10,0:09:49.39,0:09:52.40,GJM_Main,,0,0,0,,He was reading one of Mr. Minerva's picture books,
 Dialogue: 10,0:09:52.40,0:09:55.53,GJM_Main,,0,0,0,,and Morse code happened to be part of the story...
 Dialogue: 10,0:09:54.57,0:09:56.07,GJM_Overlap,,0,0,0,,{\an8}Hey, get the plates.
 Dialogue: 10,0:09:58.28,0:09:58.99,GJM_Main,,0,0,0,,Thanks.
