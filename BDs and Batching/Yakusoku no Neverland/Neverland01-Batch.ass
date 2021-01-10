@@ -65,7 +65,7 @@ Dialogue: 10,0:03:44.95,0:03:46.28,GJM_Main,,0,0,0,,Good morning, Emma.
 Dialogue: 10,0:03:46.28,0:03:47.87,GJM_Main,,0,0,0,,"Murnin'," Emma.
 Dialogue: 10,0:03:47.87,0:03:51.29,GJM_Main,,0,0,0,,{\q2}You're already so hyped up,\Nand you haven't even had breakfast yet.
 Dialogue: 10,0:03:51.29,0:03:54.04,GJM_Main,,0,0,0,,How old are you supposed to be? Five?
-Dialogue: 10,0:03:54.04,0:03:55.88,GJM_Main,,0,0,0,,I'm 11, same as you guys!
+Dialogue: 10,0:03:54.04,0:03:55.88,GJM_Main,,0,0,0,,I'm eleven, same as you guys!
 Dialogue: 10,0:03:56.34,0:03:58.21,GJM_Main,,0,0,0,,We're the eldest ones here!
 Dialogue: 10,0:03:59.80,0:04:01.38,GJM_Main,,0,0,0,,You're laughing too, Mom?
 Dialogue: 10,0:04:01.38,0:04:03.47,GJM_Main,,0,0,0,,Emma, can you give me a hand over here?
@@ -84,7 +84,7 @@ Dialogue: 10,0:04:55.23,0:04:56.73,GJM_Main,,0,0,0,,It's yummy!
 Dialogue: 10,0:04:57.27,0:04:59.36,GJM_Main,,0,0,0,,You're such a baby, Conny.
 Dialogue: 10,0:04:59.36,0:05:02.03,GJM_Main,,0,0,0,,But it's okay for today, right?
 Dialogue: 10,0:05:02.03,0:05:03.28,GJM_Main,,0,0,0,,That it is.
-Dialogue: 10,0:05:03.28,0:05:05.82,GJM_Main,,0,0,0,,{\i1}Age 11, type 1.
+Dialogue: 10,0:05:03.28,0:05:05.82,GJM_Main,,0,0,0,,{\i1}Age eleven, type 1.
 Dialogue: 10,0:05:05.82,0:05:08.12,GJM_Main,,0,0,0,,{\i1}Answer each question within ten seconds.
 Dialogue: 10,0:05:08.70,0:05:10.79,GJM_Main,,0,0,0,,{\i1}You may begin.
 Dialogue: 10,0:05:36.23,0:05:38.35,GJM_Main,,0,0,0,,Well, I think I got at least half!
@@ -173,7 +173,7 @@ Dialogue: 10,0:11:19.74,0:11:21.32,GJM_Main,,0,0,0,,We should call it a day.
 Dialogue: 10,0:11:21.32,0:11:23.99,GJM_Main,,0,0,0,,{\q2}If we're out too late, \NMom will start getting worried.
 Dialogue: 10,0:11:25.45,0:11:28.87,GJM_Main,,0,0,0,,We'll all leave this place someday, right?
 Dialogue: 10,0:11:28.87,0:11:32.00,GJM_Main,,0,0,0,,{\q2}This is an orphanage.\N Of course we'll leave eventually.
-Dialogue: 10,0:11:32.50,0:11:34.42,GJM_Main,,0,0,0,,By the time we turn 12.
+Dialogue: 10,0:11:32.50,0:11:34.42,GJM_Main,,0,0,0,,By the time we turn twelve.
 Dialogue: 10,0:11:34.42,0:11:35.92,GJM_Main,,0,0,0,,You know what?
 Dialogue: 10,0:11:35.92,0:11:38.88,GJM_Main,,0,0,0,,We don't get letters from anyone.
 Dialogue: 10,0:11:38.88,0:11:39.63,GJM_Main,,0,0,0,,Letters?

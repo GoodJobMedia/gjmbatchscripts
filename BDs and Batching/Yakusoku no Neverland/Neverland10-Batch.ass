@@ -16,9 +16,9 @@ Video File: E:/GJM/Neverland/10/neverland10_premux  [9CDDD49E].mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
-Scroll Position: 263
-Active Line: 275
-Video Position: 29869
+Scroll Position: 14
+Active Line: 18
+Video Position: 3672
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -48,10 +48,10 @@ Dialogue: 10,0:02:16.64,0:02:19.66,GJM_Main,,0,0,0,,{\q2}As for the two areas wi
 Dialogue: 10,0:02:20.11,0:02:22.41,GJM_Main,,0,0,0,,Both sides had the exact same scenery.
 Dialogue: 10,0:02:24.53,0:02:27.04,GJM_Main,,0,0,0,,Basically, Grace Field House here
 Dialogue: 10,0:02:27.04,0:02:31.92,GJM_Main,,0,0,0,,{\q2}is comprised of six adjacent areas on \Na hexagonal plot surrounded by the chasm.
-Dialogue: 10,0:02:33.14,0:02:36.34,GJM_Main,,0,0,0,,We're in Plant 3, and this area to west of it...
+Dialogue: 10,0:02:33.14,0:02:36.34,GJM_Main,,0,0,0,,We're in Plant 3, and this area to the west of it...
 Dialogue: 10,0:02:37.39,0:02:39.68,GJM_Main,,0,0,0,,That's likely the HQ.
 Dialogue: 10,0:02:40.51,0:02:42.85,GJM_Main,,0,0,0,,It was the only one with a bridge.
-Dialogue: 10,0:02:43.33,0:02:45.35,GJM_Main,,0,0,0,,Given that the rest is envoloped by the chasm,
+Dialogue: 10,0:02:43.33,0:02:45.35,GJM_Main,,0,0,0,,Given that the rest is enveloped by the chasm,
 Dialogue: 10,0:02:45.77,0:02:47.69,GJM_Main,,0,0,0,,that is our only possible escape route.
 Dialogue: 10,0:02:50.53,0:02:52.11,GJM_Main,,0,0,0,,Norman!
 Dialogue: 10,0:02:52.46,0:02:54.08,GJM_Main,,0,0,0,,Mom's calling for you!
