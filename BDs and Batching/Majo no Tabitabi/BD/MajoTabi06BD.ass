@@ -175,17 +175,17 @@ Dialogue: 10,0:10:44.42,0:10:46.00,Default,Eyhemia,0,0,0,,All right.
 Dialogue: 10,0:10:46.00,0:10:49.55,Default,Eyhemia,0,0,0,,Ianesana-ha, ianesana-ha.
 Dialogue: 10,0:10:51.13,0:10:52.59,Default,Eyhemia,0,0,0,,Ominano motera-do!
 Dialogue: 10,0:10:56.05,0:11:00.26,Default,Elaina,0,0,0,,{\i1}But to do this required a very great deal of power.
-Dialogue: 10,0:10:57.97,0:11:02.43,Default,Eyhemia,0,0,0,,{\an8}Ianesana-ha, ianesana-ha.
+Dialogue: 10,0:10:57.97,0:11:02.43,Alt,Eyhemia,0,0,0,,{\an8}Ianesana-ha, ianesana-ha.
 Dialogue: 10,0:11:00.26,0:11:03.48,Default,Elaina,0,0,0,,{\i1\q2}Eyhemia poured all the magical power \Nshe possessed into it,
-Dialogue: 10,0:11:02.43,0:11:04.27,Default,Eyhemia,0,0,0,,{\an8}Ominano motera-do!
+Dialogue: 10,0:11:02.43,0:11:04.27,Alt,Eyhemia,0,0,0,,{\an8}Ominano motera-do!
 Dialogue: 10,0:11:04.27,0:11:06.60,Default,Elaina,0,0,0,,{\i1}but that still wasn't enough.
 Dialogue: 10,0:11:06.60,0:11:12.48,Default,Elaina,0,0,0,,{\i1\q2\t(4862,5905,\c&H000000&)}So she offered her own voice in exchange, \Nsacrificing it to create the barrier sword.
 Dialogue: 10,0:11:13.24,0:11:19.07,Default,Elaina,0,0,0,,{\q2}Why does everyone leap to offer their voice or \Ntheir memories and things like that in exchange?
 Dialogue: 10,0:11:19.07,0:11:19.99,Default,Both,0,0,0,,Huh?
 Dialogue: 10,0:11:19.99,0:11:22.16,Default,Elaina,0,0,0,,Never mind. Just talking to myself.
 Dialogue: 10,0:11:24.62,0:11:27.42,Default,King,0,0,0,,Oh? A barrier sword, you say?
-Dialogue: 10,0:11:27.79,0:11:29.96,Default,King,0,0,0,,"When you hold this sword in your dominant hand,
-Dialogue: 10,0:11:29.96,0:11:33.51,Default,King,0,0,0,,{\q2}a barrier that prevents the telling of \Nany lie will envelop the land."
+Dialogue: 10,0:11:27.79,0:11:29.96,Default,King,0,0,0,,"When you hold this sword in your dominant hand,"
+Dialogue: 10,0:11:29.96,0:11:33.51,Default,King,0,0,0,,{\q2}"a barrier that prevents the telling of \Nany lie will envelop the land."
 Dialogue: 10,0:11:33.51,0:11:34.67,Default,King,0,0,0,,Is that right?
 Dialogue: 10,0:11:37.97,0:11:40.05,Default,King,0,0,0,,A country of honest people?
 Dialogue: 10,0:11:40.05,0:11:41.35,Default,King,0,0,0,,That sounds pretty good!
