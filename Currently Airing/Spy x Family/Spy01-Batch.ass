@@ -16,7 +16,7 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]
-Active Line: 10
+Active Line: 24
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -54,7 +54,7 @@ Dialogue: 10,0:00:52.74,0:00:53.97,Default,Fake Edgar,0,0,0,,Well done.
 Dialogue: 10,0:00:54.36,0:00:56.45,Default,Fake Edgar,0,0,0,,This will help seal his resignation.{til wearing a toupee can make you lose your job}
 Dialogue: 10,0:00:56.45,0:00:58.41,Default,Fake Edgar,0,0,0,,Pleasure doing business.
 Dialogue: 10,0:01:00.95,0:01:01.75,Default,Edgar,0,0,0,,Hey.
-Dialogue: 10,0:01:02.92,0:01:06.03,Default,Edgar,0,0,0,,How about you hand over those goods now?
+Dialogue: 10,0:01:02.92,0:01:06.03,Default,Edgar,0,0,0,,How about you hand over the goods now?
 Dialogue: 10,0:01:06.03,0:01:08.65,Default,Man in Coat,0,0,0,,Huh? Wha—But you were just—
 Dialogue: 10,0:01:11.18,0:01:12.30,Default,Man in Coat,0,0,0,,I got duped!
 Dialogue: 10,0:01:12.77,0:01:14.68,Default,Narrator,0,0,0,,Code name: {*}Twilight{*Tasogare}.
