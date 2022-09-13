@@ -1,0 +1,394 @@
+﻿[Script Info]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+Title: Good Job! Media
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: GJM_Main_1080p,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+Style: GJM_Overlap_1080p,Gandhi Sans,75,&H00FFFFFF,&H000000FF,&H00743E15,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,225,225,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 99,0:00:00.00,0:00:00.02,GJM_Main_1080p,chapter,0,0,0,,{Intro}
+Comment: 99,0:00:07.99,0:00:08.03,GJM_Main_1080p,chapter,0,0,0,,{Prologue}
+Dialogue: 99,0:00:17.62,0:00:20.38,GJM_Main_1080p,,0,0,0,,Thrall to LF-03.
+Dialogue: 99,0:00:20.96,0:00:23.33,GJM_Main_1080p,,0,0,0,,Restarting Permet link connection test.
+Dialogue: 99,0:00:24.72,0:00:27.42,GJM_Main_1080p,,0,0,0,,In three, two, one...
+Dialogue: 99,0:00:29.28,0:00:31.22,GJM_Main_1080p,,0,0,0,,Interconnect established.
+Dialogue: 99,0:00:31.22,0:00:33.21,GJM_Main_1080p,,0,0,0,,Currently on Layer 31.
+Dialogue: 99,0:00:33.21,0:00:34.89,GJM_Main_1080p,,0,0,0,,Please commence calling.
+Dialogue: 99,0:00:34.89,0:00:35.43,GJM_Main_1080p,,0,0,0,,Roger.
+Dialogue: 99,0:00:36.35,0:00:38.43,GJM_Main_1080p,,0,0,0,,Calling Layer 31.
+Dialogue: 99,0:00:39.51,0:00:41.61,GJM_Main_1080p,,0,0,0,,No abnormalities detected in GUND Format.
+Dialogue: 99,0:00:41.61,0:00:43.73,GJM_Main_1080p,,0,0,0,,Connect to Layer 32.
+Dialogue: 99,0:00:43.73,0:00:45.93,GJM_Main_1080p,,0,0,0,,Calling Layer 32.
+Dialogue: 99,0:00:45.93,0:00:49.27,GJM_Main_1080p,,0,0,0,,Callback confirmed.
+Dialogue: 99,0:00:49.27,0:00:51.20,GJM_Main_1080p,,0,0,0,,Connect to Layer 33.
+Dialogue: 99,0:00:52.77,0:00:54.84,GJM_Main_1080p,,0,0,0,,Error. No callback.
+Dialogue: 99,0:00:54.84,0:00:56.79,GJM_Main_1080p,,0,0,0,,Retreat to Layer 10.
+Dialogue: 99,0:00:56.79,0:01:00.16,GJM_Main_1080p,,0,0,0,,Attempting to call Layer 33 again from Layer 10.
+Dialogue: 99,0:01:01.66,0:01:03.84,GJM_Main_1080p,,0,0,0,,Error. No callback.
+Dialogue: 99,0:01:03.84,0:01:05.80,GJM_Main_1080p,,0,0,0,,Calling Layer 33.
+Dialogue: 99,0:01:07.48,0:01:09.46,GJM_Main_1080p,,0,0,0,,Error. No callback.
+Dialogue: 99,0:01:09.46,0:01:11.70,GJM_Main_1080p,,0,0,0,,LF-03 to Thrall.
+Dialogue: 99,0:01:12.32,0:01:15.26,GJM_Main_1080p,,0,0,0,,Requesting an increase to the GUND Format score.
+Dialogue: 99,0:01:15.53,0:01:18.59,GJM_Main_1080p,,0,0,0,,{\q2}Negative. That would go \Nagainst the test's objectives.
+Dialogue: 99,0:01:18.59,0:01:20.63,GJM_Main_1080p,,0,0,0,,We don't have time. I'm executing it.
+Dialogue: 99,0:01:20.63,0:01:21.52,GJM_Main_1080p,,0,0,0,,Hold it.
+Dialogue: 99,0:01:22.52,0:01:23.65,GJM_Main_1080p,,0,0,0,,Elnora.
+Dialogue: 99,0:01:24.39,0:01:26.57,GJM_Main_1080p,,0,0,0,,Let's wrap things up for today.
+Dialogue: 99,0:01:26.95,0:01:29.43,GJM_Main_1080p,,0,0,0,,I haven't entered the danger zone yet.
+Dialogue: 99,0:01:29.43,0:01:32.20,GJM_Main_1080p,,0,0,0,,{\q2}Let me increase the level \Nand attempt to call Layer 33 aga—
+Dialogue: 99,0:01:31.29,0:01:33.60,GJM_Overlap_1080p,,0,0,0,,{\an8}The test ends here, Elnora.
+Dialogue: 99,0:01:36.56,0:01:37.70,GJM_Main_1080p,,0,0,0,,Understood.
+Dialogue: 99,0:01:38.78,0:01:39.99,GJM_Main_1080p,,0,0,0,,Test complete.
+Dialogue: 99,0:01:39.99,0:01:42.35,GJM_Main_1080p,,0,0,0,,Start analyzing the Permet influx values.
+Dialogue: 99,0:01:42.35,0:01:44.22,GJM_Main_1080p,,0,0,0,,Roger. Starting analysis.
+Dialogue: 99,0:01:44.22,0:01:46.34,GJM_Main_1080p,,0,0,0,,Any abnormal fluctuations?
+Dialogue: 99,0:01:46.71,0:01:48.09,GJM_Main_1080p,,0,0,0,,You're too eager.
+Dialogue: 99,0:01:48.71,0:01:50.25,GJM_Main_1080p,,0,0,0,,Oh, Dr. Cardo.
+Dialogue: 99,0:01:50.25,0:01:53.51,GJM_Main_1080p,,0,0,0,,If you can't clear it, then no one can.
+Dialogue: 99,0:01:54.25,0:01:57.93,GJM_Main_1080p,,0,0,0,,{\q2}We have to prove that the GUND Format \Nis safe as soon as we can.
+Dialogue: 99,0:01:58.66,0:02:00.93,GJM_Main_1080p,,0,0,0,,If not, we're at the whims of the council.
+Dialogue: 99,0:02:01.29,0:02:05.64,GJM_Main_1080p,,0,0,0,,It won't mean a thing if your body doesn't hold out.
+Dialogue: 99,0:02:05.64,0:02:06.14,GJM_Main_1080p,,0,0,0,,But—
+Dialogue: 99,0:02:06.14,0:02:08.32,GJM_Main_1080p,,0,0,0,,Besides, someone's here to pick you up.
+Dialogue: 99,0:02:08.32,0:02:09.13,GJM_Main_1080p,,0,0,0,,Huh?
+Dialogue: 99,0:02:09.13,0:02:10.57,GJM_Main_1080p,,0,0,0,,Mama!
+Dialogue: 99,0:02:15.60,0:02:17.38,GJM_Main_1080p,,0,0,0,,Mama!
+Dialogue: 99,0:02:20.23,0:02:21.45,GJM_Main_1080p,,0,0,0,,Eri!
+Dialogue: 99,0:02:27.03,0:02:29.23,GJM_Main_1080p,,0,0,0,,Mama! Papa's waiting!
+Dialogue: 99,0:02:29.23,0:02:31.19,GJM_Main_1080p,,0,0,0,,Let's go eat cake{y}!
+Dialogue: 99,0:02:31.19,0:02:34.16,GJM_Main_1080p,,0,0,0,,I thought I told you not to come in here!
+Dialogue: 99,0:02:34.16,0:02:36.72,GJM_Main_1080p,,0,0,0,,Is she still sleeping?
+Dialogue: 99,0:02:41.32,0:02:42.23,GJM_Main_1080p,,0,0,0,,Yeah.
+Dialogue: 99,0:02:43.86,0:02:45.03,GJM_Main_1080p,,0,0,0,,Fast asleep.
+Dialogue: 99,0:02:47.48,0:02:50.63,GJM_Main_1080p,,0,0,0,,{\q2}She's gonna get a spanking \Nif she doesn't wake up soon!
+Dialogue: 99,0:02:50.63,0:02:53.11,GJM_Main_1080p,,0,0,0,,Lfrith is still an infant.
+Dialogue: 99,0:02:53.84,0:02:55.23,GJM_Main_1080p,,0,0,0,,A baby?
+Dialogue: 99,0:02:55.23,0:02:58.45,GJM_Main_1080p,,0,0,0,,Exactly. A newborn who can't even turn over.
+Dialogue: 99,0:02:59.05,0:03:01.20,GJM_Main_1080p,,0,0,0,,Everyone here helped with her birth.
+Dialogue: 99,0:03:02.57,0:03:07.21,GJM_Main_1080p,,0,0,0,,{\q2}Right now, your mother is \Nteaching her all kinds of things.
+Dialogue: 99,0:03:07.56,0:03:09.15,GJM_Main_1080p,,0,0,0,,Huh.
+Dialogue: 99,0:03:09.15,0:03:11.67,GJM_Main_1080p,,0,0,0,,Then she's my little sister!
+Dialogue: 99,0:03:12.30,0:03:14.65,GJM_Main_1080p,,0,0,0,,How old are you now, Eri?
+Dialogue: 99,0:03:14.65,0:03:15.73,GJM_Main_1080p,,0,0,0,,Four!
+Comment: 99,0:03:29.98,0:03:30.02,GJM_Main_1080p,chapter,0,0,0,,{Main Episode}
+Dialogue: 99,0:03:31.00,0:03:35.45,GJM_Main_1080p,,0,0,0,,As of the 20th, the Front 3rd Autonomous Sector
+Dialogue: 99,0:03:35.45,0:03:38.87,GJM_Main_1080p,,0,0,0,,{\q2}has approved a budget to purchase Gundam-type \Nmobile suits manufactured by Ochs Earth.
+Dialogue: 99,0:03:38.87,0:03:44.37,GJM_Main_1080p,,0,0,0,,{\q2}Ochs Earth's weapon system has raised major \Nconcerns regarding bioethical issues for its pilots,
+Dialogue: 99,0:03:45.00,0:03:50.54,GJM_Main_1080p,,0,0,0,,{\q2\an8}eliciting calls for accountability from the company, \Nas well as the Mobile Suit Development Council.
+Dialogue: 99,0:03:50.79,0:03:52.55,GJM_Main_1080p,,0,0,0,,The GUND Format was originally constructive:
+Dialogue: 99,0:03:52.95,0:03:58.79,GJM_Main_1080p,,0,0,0,,{\q2}a medical technology meant to assist with physical \Ndysfunctions caused by the environment of space.
+Dialogue: 99,0:03:59.59,0:04:03.53,GJM_Main_1080p,,0,0,0,,{\q2}However, Vanadis Institute, \Nthe project's lead researcher,
+Dialogue: 99,0:04:03.53,0:04:05.83,GJM_Main_1080p,,0,0,0,,was bought out by Ochs Earth.
+Dialogue: 99,0:04:05.83,0:04:09.35,GJM_Main_1080p,,0,0,0,,{\q2}The GUND Format was then repurposed \Nfor military mobile suits.
+Dialogue: 99,0:04:09.35,0:04:14.52,GJM_Main_1080p,,0,0,0,,{\q2}Its pilots, however, are regularly exposed \Nto data storms that wreak havoc on the body.
+Dialogue: 99,0:04:15.66,0:04:17.60,GJM_Main_1080p,,0,0,0,,Imagine, if you will!
+Dialogue: 99,0:04:17.60,0:04:22.01,GJM_Main_1080p,,0,0,0,,{\q2}A gigantic frame 18 meters tall, \Nmoving with inorganic mechanisms,
+Dialogue: 99,0:04:22.01,0:04:25.62,GJM_Main_1080p,,0,0,0,,controlled by forcibly linking it to a human body.
+Dialogue: 99,0:04:25.89,0:04:28.83,GJM_Main_1080p,,0,0,0,,The strain a pilot must bear is unfathomable.
+Dialogue: 99,0:04:29.19,0:04:31.20,GJM_Main_1080p,,0,0,0,,The public fears an arms race,
+Dialogue: 99,0:04:31.20,0:04:36.09,GJM_Main_1080p,,0,0,0,,{\q2}as the buildup of mobile suits may prompt Earth \Nto expand their military, accelerating tensions—
+Dialogue: 99,0:04:37.37,0:04:40.90,GJM_Main_1080p,,0,0,0,,{\q2}They're sure saying all they want \Nabout our products, huh.
+Dialogue: 99,0:04:43.45,0:04:45.44,GJM_Main_1080p,,0,0,0,,Papa! I'm back!
+Dialogue: 99,0:04:46.20,0:04:47.27,GJM_Main_1080p,,0,0,0,,Welcome back.
+Dialogue: 99,0:04:47.92,0:04:51.52,GJM_Main_1080p,,0,0,0,,Looking good. Sorry for making you do all this.
+Dialogue: 99,0:04:51.96,0:04:53.24,GJM_Main_1080p,,0,0,0,,It's nothing to apologize for.
+Dialogue: 99,0:04:53.24,0:04:55.38,GJM_Main_1080p,,0,0,0,,Eri helped out, too.
+Dialogue: 99,0:04:55.38,0:04:57.69,GJM_Main_1080p,,0,0,0,,I made that over there!
+Dialogue: 99,0:04:57.69,0:05:00.50,GJM_Main_1080p,,0,0,0,,Amazing. It's beautiful!
+Dialogue: 99,0:05:00.50,0:05:03.57,GJM_Main_1080p,,0,0,0,,Eri, why don't you go grab a party hat for Mama?
+Dialogue: 99,0:05:03.57,0:05:04.48,GJM_Main_1080p,,0,0,0,,Okay!
+Dialogue: 99,0:05:07.97,0:05:10.12,GJM_Main_1080p,,0,0,0,,Layer 33 again?
+Dialogue: 99,0:05:10.12,0:05:13.42,GJM_Main_1080p,,0,0,0,,{\q2}If I don't clear it soon, \Nwe're {\i1}all{\i0} going to be in trouble.
+Dialogue: 99,0:05:13.74,0:05:15.21,GJM_Main_1080p,,0,0,0,,I'm sorry.
+Dialogue: 99,0:05:15.21,0:05:19.26,GJM_Main_1080p,,0,0,0,,{\q2}This wouldn't've happened if the higher-ups \Nweren't in a rush to roll out Lfrith.
+Dialogue: 99,0:05:19.26,0:05:21.54,GJM_Main_1080p,,0,0,0,,We got the sponsor we needed.
+Dialogue: 99,0:05:21.54,0:05:22.80,GJM_Main_1080p,,0,0,0,,Thanks to you, Nadim.
+Dialogue: 99,0:05:23.35,0:05:27.52,GJM_Main_1080p,,0,0,0,,I just hope the Council stays put until the deadline...
+Dialogue: 99,0:05:29.80,0:05:32.31,GJM_Main_1080p,,0,0,0,,The press conference is in one hour.
+Dialogue: 99,0:05:33.08,0:05:35.57,GJM_Main_1080p,,0,0,0,,This is it for Ochs Earth.
+Dialogue: 99,0:05:36.15,0:05:40.32,GJM_Main_1080p,,0,0,0,,{\q2}This is what happens when \NEarthians get ahead of themselves.
+Dialogue: 99,0:05:40.74,0:05:43.78,GJM_Main_1080p,,0,0,0,,Hopefully, it'll be as easy as you say.
+Dialogue: 99,0:05:43.78,0:05:46.70,GJM_Main_1080p,,0,0,0,,We don't know if Dr. Cardo Nabo will comply.
+Dialogue: 99,0:05:46.99,0:05:49.14,GJM_Main_1080p,,0,0,0,,Will it really go smoothly?
+Dialogue: 99,0:05:49.14,0:05:52.05,GJM_Main_1080p,,0,0,0,,{\q2}Is this not exceeding the capacity \Nof a private enterprise?
+Dialogue: 99,0:05:52.05,0:05:54.67,GJM_Main_1080p,,0,0,0,,What are you worried about at this stage?
+Dialogue: 99,0:05:54.95,0:05:57.04,GJM_Main_1080p,,0,0,0,,There's nothing wrong with overachieving.
+Dialogue: 99,0:05:58.61,0:06:01.69,GJM_Main_1080p,,0,0,0,,We didn't ask for your opinion, Delling.
+Dialogue: 99,0:06:01.69,0:06:06.55,GJM_Main_1080p,,0,0,0,,{\q2}It'll be too late if we let Vanadis \Ncomplete their Gundam.
+Dialogue: 99,0:06:07.16,0:06:10.09,GJM_Main_1080p,,0,0,0,,We, the Mobile Suit Development Council,
+Dialogue: 99,0:06:10.09,0:06:12.04,GJM_Main_1080p,,0,0,0,,must come to a decision.
+Dialogue: 99,0:06:12.69,0:06:15.06,GJM_Main_1080p,,0,0,0,,For the peace of all humanity...
+Dialogue: 99,0:06:15.81,0:06:17.94,GJM_Main_1080p,,0,0,0,,we must purge the witch.
+Dialogue: 99,0:06:18.46,0:06:22.22,GJM_Main_1080p,,0,0,0,,Cake! Cake! Yummy cake!
+Dialogue: 99,0:06:19.52,0:06:22.22,GJM_Overlap_1080p,,0,0,0,,I'm putting the candle in now.
+Dialogue: 99,0:06:22.22,0:06:22.80,GJM_Main_1080p,,0,0,0,,Oh?
+Dialogue: 99,0:06:24.09,0:06:24.98,GJM_Main_1080p,,0,0,0,,Oopsie.
+Dialogue: 99,0:06:26.37,0:06:27.56,GJM_Main_1080p,,0,0,0,,Mama?
+Dialogue: 99,0:06:27.56,0:06:29.68,GJM_Main_1080p,,0,0,0,,Sorry about that. Give me a sec.
+Dialogue: 99,0:06:34.33,0:06:37.41,GJM_Main_1080p,,0,0,0,,Mama's GUND always breaks.
+Dialogue: 99,0:06:38.64,0:06:40.03,GJM_Main_1080p,,0,0,0,,I guess it does.
+Dialogue: 99,0:06:40.03,0:06:42.27,GJM_Main_1080p,,0,0,0,,But without this tech,
+Dialogue: 99,0:06:42.27,0:06:44.09,GJM_Main_1080p,,0,0,0,,Mama wouldn't be alive right now.
+Dialogue: 99,0:06:45.24,0:06:48.20,GJM_Main_1080p,,0,0,0,,That's why Dr. Cardo is more than a mentor to me.
+Dialogue: 99,0:06:48.20,0:06:50.60,GJM_Main_1080p,,0,0,0,,She's my savior.
+Dialogue: 99,0:06:50.95,0:06:52.44,GJM_Main_1080p,,0,0,0,,The old granny's amazing!
+Dialogue: 99,0:06:52.44,0:06:53.70,GJM_Main_1080p,,0,0,0,,Eri.
+Dialogue: 99,0:06:53.70,0:06:56.68,GJM_Main_1080p,,0,0,0,,{\q2}The doctor isn't the type \Nto mind what people call her.
+Dialogue: 99,0:06:56.68,0:07:00.05,GJM_Main_1080p,,0,0,0,,Still, it's disrespectful.
+Dialogue: 99,0:07:02.68,0:07:03.75,GJM_Main_1080p,,0,0,0,,HQ?
+Dialogue: 99,0:07:06.15,0:07:08.19,GJM_Main_1080p,,0,0,0,,Eri, can you give your papa a minute?
+Dialogue: 99,0:07:08.19,0:07:09.47,GJM_Main_1080p,,0,0,0,,Whaaat!
+Dialogue: 99,0:07:09.47,0:07:11.36,GJM_Main_1080p,,0,0,0,,Papa has work.
+Dialogue: 99,0:07:11.36,0:07:12.87,GJM_Main_1080p,,0,0,0,,Sorry, kiddo.
+Dialogue: 99,0:07:14.16,0:07:15.37,GJM_Main_1080p,,0,0,0,,No fair!
+Dialogue: 99,0:07:15.37,0:07:18.13,GJM_Overlap_1080p,,0,0,0,,{\an8}I want papa {\i1}now{\i0}!
+Dialogue: 99,0:07:16.87,0:07:18.13,GJM_Main_1080p,,0,0,0,,What's going on?
+Dialogue: 99,0:07:18.97,0:07:21.03,GJM_Main_1080p,,0,0,0,,The Council is having a press conference.
+Dialogue: 99,0:07:21.03,0:07:22.85,GJM_Main_1080p,,0,0,0,,But we should still have time!
+Dialogue: 99,0:07:22.85,0:07:23.88,GJM_Main_1080p,,0,0,0,,It's Delling.
+Dialogue: 99,0:07:24.53,0:07:26.38,GJM_Main_1080p,,0,0,0,,He's behind this.
+Dialogue: 99,0:07:26.86,0:07:29.01,GJM_Main_1080p,,0,0,0,,The ex-military guy?
+Dialogue: 99,0:07:29.28,0:07:31.39,GJM_Main_1080p,,0,0,0,,We don't know what they're trying to pull.
+Dialogue: 99,0:07:31.39,0:07:33.10,GJM_Main_1080p,,0,0,0,,You guys watch out, too.
+Dialogue: 99,0:07:33.10,0:07:37.35,GJM_Main_1080p,,0,0,0,,Folkvangr to transport ship Begavent. Control 173.
+Dialogue: 99,0:07:37.35,0:07:39.48,GJM_Main_1080p,,0,0,0,,This is Begavent. Communicating with 173.
+Dialogue: 99,0:07:40.18,0:07:42.61,GJM_Main_1080p,,0,0,0,,Distance to gate entrance, 22.
+Dialogue: 99,0:07:42.61,0:07:43.78,GJM_Main_1080p,,0,0,0,,Trajectory confirmed.
+Dialogue: 99,0:07:43.78,0:07:46.36,GJM_Main_1080p,,0,0,0,,Please enter Gate Three.
+Dialogue: 99,0:07:54.20,0:07:55.45,GJM_Main_1080p,,0,0,0,,A ship's here.
+Dialogue: 99,0:07:55.70,0:07:58.04,GJM_Main_1080p,,0,0,0,,Wendy, gimmie a hand with the cargo.
+Dialogue: 99,0:07:58.04,0:08:00.80,GJM_Main_1080p,,0,0,0,,Tarrifs are way too high lately.
+Dialogue: 99,0:08:00.80,0:08:02.28,GJM_Main_1080p,,0,0,0,,It's pissing me off.
+Dialogue: 99,0:08:02.28,0:08:04.68,GJM_Main_1080p,,0,0,0,,They aren't gonna ship it for free, you know?
+Dialogue: 99,0:08:04.68,0:08:07.30,GJM_Main_1080p,,0,0,0,,The Spacians are monopolizing trade to bits.
+Dialogue: 99,0:08:07.30,0:08:09.84,GJM_Main_1080p,,0,0,0,,I'll make it worth your while.
+Dialogue: 99,0:08:09.84,0:08:11.10,GJM_Main_1080p,,0,0,0,,Okay?
+Dialogue: 99,0:08:11.10,0:08:12.78,GJM_Main_1080p,,0,0,0,,That's cheap.
+Dialogue: 99,0:08:15.48,0:08:16.85,GJM_Main_1080p,,0,0,0,,Found it, Eri!
+Dialogue: 99,0:08:17.56,0:08:18.35,GJM_Main_1080p,,0,0,0,,This one, right?
+Dialogue: 99,0:08:20.02,0:08:21.36,GJM_Main_1080p,,0,0,0,,Eri?
+Dialogue: 99,0:08:27.43,0:08:28.82,GJM_Main_1080p,,0,0,0,,Wake up already!
+Dialogue: 99,0:08:29.54,0:08:32.83,GJM_Main_1080p,,0,0,0,,You make Papa and Mama worry all the time!
+Dialogue: 99,0:08:33.18,0:08:36.09,GJM_Main_1080p,,0,0,0,,Even on my birthday!
+Dialogue: 99,0:08:36.91,0:08:39.12,GJM_Main_1080p,,0,0,0,,That's unfortunate.
+Dialogue: 99,0:08:42.15,0:08:43.52,GJM_Main_1080p,,0,0,0,,Granny?
+Dialogue: 99,0:08:43.52,0:08:45.72,GJM_Main_1080p,,0,0,0,,You came here by yourself again?
+Dialogue: 99,0:08:45.72,0:08:48.30,GJM_Main_1080p,,0,0,0,,Elnora must be tired of scolding you.
+Dialogue: 99,0:08:48.85,0:08:50.32,GJM_Main_1080p,,0,0,0,,I guess...
+Dialogue: 99,0:08:52.30,0:08:55.13,GJM_Main_1080p,,0,0,0,,Is she important to you too, Granny?
+Dialogue: 99,0:08:55.13,0:08:56.70,GJM_Main_1080p,,0,0,0,,Indeed.
+Dialogue: 99,0:08:56.70,0:08:58.10,GJM_Main_1080p,,0,0,0,,Why?
+Dialogue: 99,0:08:58.10,0:09:01.35,GJM_Main_1080p,,0,0,0,,What about those two over there?
+Dialogue: 99,0:09:01.71,0:09:04.02,GJM_Main_1080p,,0,0,0,,This one's special.
+Dialogue: 99,0:09:04.58,0:09:06.26,GJM_Main_1080p,,0,0,0,,Special?
+Dialogue: 99,0:09:06.26,0:09:10.78,GJM_Main_1080p,,0,0,0,,{\q2}In order for you and your family \Nto continue living in space,
+Dialogue: 99,0:09:10.78,0:09:13.65,GJM_Main_1080p,,0,0,0,,a suitable body is required.
+Dialogue: 99,0:09:14.29,0:09:16.14,GJM_Main_1080p,,0,0,0,,Though not a weapon like this.
+Dialogue: 99,0:09:18.14,0:09:22.04,GJM_Main_1080p,,0,0,0,,Lfrith embodies the future we envisioned for GUND.
+Dialogue: 99,0:09:22.38,0:09:24.93,GJM_Main_1080p,,0,0,0,,A door to a new frontier
+Dialogue: 99,0:09:25.63,0:09:27.05,GJM_Main_1080p,,0,0,0,,for all humanity.
+Dialogue: 99,0:09:28.60,0:09:30.49,GJM_Main_1080p,,0,0,0,,I don't get it.
+Dialogue: 99,0:09:30.49,0:09:32.80,GJM_Main_1080p,,0,0,0,,Then, do you want to try talking to her?
+Dialogue: 99,0:09:37.86,0:09:38.91,GJM_Main_1080p,,0,0,0,,Come, Eri.
+Dialogue: 99,0:09:40.87,0:09:42.81,GJM_Main_1080p,,0,0,0,,Try putting your hand there.
+Dialogue: 99,0:09:47.75,0:09:50.85,GJM_Main_1080p,,0,0,0,,Lfrith recognizes you now, Eri.
+Dialogue: 99,0:09:51.79,0:09:54.73,GJM_Main_1080p,,0,0,0,,Try telling her that there's nothing to fear.
+Dialogue: 99,0:09:56.82,0:09:59.87,GJM_Main_1080p,,0,0,0,,Hello, my name is Ericht Samaya!
+Dialogue: 99,0:10:00.23,0:10:01.62,GJM_Main_1080p,,0,0,0,,Do you like cake?
+Dialogue: 99,0:10:01.87,0:10:04.60,GJM_Main_1080p,,0,0,0,,Today's my birthday!
+Dialogue: 99,0:10:04.60,0:10:06.76,GJM_Main_1080p,,0,0,0,,I wore a party hat, too!
+Dialogue: 99,0:10:06.76,0:10:07.38,GJM_Main_1080p,,0,0,0,,What's wrong?
+Dialogue: 99,0:10:07.65,0:10:10.34,GJM_Main_1080p,,0,0,0,,The Council is holding a press conference.
+Dialogue: 99,0:10:10.62,0:10:12.05,GJM_Main_1080p,,0,0,0,,Right this minute?
+Dialogue: 99,0:10:12.05,0:10:14.26,GJM_Main_1080p,,0,0,0,,Ochs Earth was left out.
+Dialogue: 99,0:10:14.76,0:10:16.42,GJM_Main_1080p,,0,0,0,,Got it. I'll be right there.
+Dialogue: 99,0:10:18.46,0:10:20.25,GJM_Main_1080p,,0,0,0,,Eri, can you get back on your own?
+Dialogue: 99,0:10:20.25,0:10:21.08,GJM_Main_1080p,,0,0,0,,Yeah.
+Dialogue: 99,0:10:21.67,0:10:23.58,GJM_Main_1080p,,0,0,0,,Don't make you mother worry.
+Dialogue: 99,0:10:23.58,0:10:24.36,GJM_Main_1080p,,0,0,0,,Okay.
+Dialogue: 99,0:10:26.49,0:10:29.11,GJM_Main_1080p,,0,0,0,,The cake has strawberries on it.
+Dialogue: 99,0:10:29.11,0:10:30.64,GJM_Main_1080p,,0,0,0,,Oh yeah, and Mama...
+Dialogue: 99,0:10:38.68,0:10:41.08,GJM_Main_1080p,,0,0,0,,Ulysses is in position.
+Dialogue: 99,0:10:41.36,0:10:42.71,GJM_Main_1080p,,0,0,0,,Ready at your command.
+Dialogue: 99,0:10:43.11,0:10:46.16,GJM_Main_1080p,,0,0,0,,{\q2}Raid everything, \Nincluding the headquarters as planned.
+Dialogue: 99,0:10:46.16,0:10:47.97,GJM_Main_1080p,,0,0,0,,Has the Council approved?
+Dialogue: 99,0:10:47.97,0:10:50.50,GJM_Main_1080p,,0,0,0,,Leave that to me.
+Dialogue: 99,0:10:51.44,0:10:55.01,GJM_Main_1080p,,0,0,0,,We, the Mobile Suit Development Committee,
+Dialogue: 99,0:10:55.01,0:10:57.85,GJM_Main_1080p,,0,0,0,,hereby announce that we have decided
+Dialogue: 99,0:10:57.85,0:11:01.52,GJM_Main_1080p,,0,0,0,,{\q2}to freeze the development of \Nall Gundam-type mobile suits.
+Dialogue: 99,0:11:01.95,0:11:06.77,GJM_Main_1080p,,0,0,0,,{\q2}Furthermore, the Council will forcibly seize \Nthe company that developed them, Ochs Earth,
+Dialogue: 99,0:11:07.33,0:11:10.77,GJM_Main_1080p,,0,0,0,,{\q2}which acted under the authority \Nof business administrative laws.
+Dialogue: 99,0:11:11.01,0:11:12.21,GJM_Main_1080p,,0,0,0,,Ridiculous.
+Dialogue: 99,0:11:12.21,0:11:14.49,GJM_Main_1080p,,0,0,0,,We're the scapegoats?
+Dialogue: 99,0:11:15.05,0:11:16.64,GJM_Main_1080p,,0,0,0,,Any ships scheduled to dock?
+Dialogue: 99,0:11:16.64,0:11:18.15,GJM_Main_1080p,,0,0,0,,There's one transport ship.
+Dialogue: 99,0:11:18.15,0:11:18.82,GJM_Main_1080p,,0,0,0,,Stop them.
+Dialogue: 99,0:11:19.54,0:11:20.70,GJM_Main_1080p,,0,0,0,,Don't let them in!
+Dialogue: 99,0:11:34.32,0:11:38.09,GJM_Main_1080p,,0,0,0,,{\q2}In order to protect the order \Nand the ethics of mobile suit development,
+Dialogue: 99,0:11:38.69,0:11:43.20,GJM_Main_1080p,,0,0,0,,{\q2}we have decided to establish \Nan auditing organization, Cathedral.
+Dialogue: 99,0:11:44.79,0:11:48.52,GJM_Main_1080p,,0,0,0,,{\q2}Allow me to introduce \Nthe supervising head of Cathedral.
+Dialogue: 99,0:11:49.09,0:11:51.12,GJM_Main_1080p,,0,0,0,,Mr. Delling Rembran.
+Dialogue: 99,0:11:52.28,0:11:55.40,GJM_Main_1080p,,0,0,0,,The acquisition was a sham!
+Dialogue: 99,0:11:55.78,0:11:58.32,GJM_Main_1080p,,0,0,0,,Money was never on the table. They intended to use forc—
+Dialogue: 99,0:11:59.90,0:12:01.00,GJM_Main_1080p,,0,0,0,,Yamaoka!
+Dialogue: 99,0:12:01.51,0:12:02.24,GJM_Main_1080p,,0,0,0,,Dammit!
+Dialogue: 99,0:12:03.52,0:12:05.91,GJM_Main_1080p,,0,0,0,,Those narrow-minded Spacians...
+Dialogue: 99,0:12:08.52,0:12:09.77,GJM_Main_1080p,,0,0,0,,Elnora?
+Dialogue: 99,0:12:09.77,0:12:10.46,GJM_Main_1080p,,0,0,0,,Eri?
+Dialogue: 99,0:12:11.88,0:12:14.67,GJM_Main_1080p,,0,0,0,,HQ to all Dominicus units.
+Dialogue: 99,0:12:14.67,0:12:18.22,GJM_Main_1080p,,0,0,0,,{\q2}You are to seal off the Folkvangr's \Nsurroundings immediately.
+Dialogue: 99,0:12:19.03,0:12:21.22,GJM_Main_1080p,,0,0,0,,Not a single shuttle may escape.
+Dialogue: 99,0:12:33.23,0:12:34.54,GJM_Main_1080p,,0,0,0,,Nyla?
+Dialogue: 99,0:12:34.54,0:12:36.25,GJM_Main_1080p,,0,0,0,,Wendy, run for it.
+Dialogue: 99,0:12:36.25,0:12:37.35,GJM_Main_1080p,,0,0,0,,Now!
+Dialogue: 99,0:12:38.84,0:12:39.95,GJM_Main_1080p,,0,0,0,,Nyla!
+Dialogue: 99,0:12:40.99,0:12:42.18,GJM_Main_1080p,,0,0,0,,The alarm?
+Dialogue: 99,0:12:42.18,0:12:43.16,GJM_Main_1080p,,0,0,0,,Elnora!
+Dialogue: 99,0:12:44.10,0:12:46.07,GJM_Main_1080p,,0,0,0,,The Council crossed the line.
+Dialogue: 99,0:12:46.07,0:12:47.37,GJM_Main_1080p,,0,0,0,,I can't find Eri!
+Dialogue: 99,0:12:47.37,0:12:48.29,GJM_Main_1080p,,0,0,0,,She's missing?
+Dialogue: 99,0:12:50.19,0:12:51.76,GJM_Main_1080p,,0,0,0,,You go get Eri.
+Dialogue: 99,0:12:51.76,0:12:53.29,GJM_Main_1080p,,0,0,0,,I'll sortie a Lfrith.
+Dialogue: 99,0:12:53.60,0:12:54.63,GJM_Main_1080p,,0,0,0,,It's too dangerous!
+Dialogue: 99,0:12:54.63,0:12:56.46,GJM_Main_1080p,,0,0,0,,It's all over if the enemy gets here!
+Dialogue: 99,0:12:57.12,0:13:00.55,GJM_Main_1080p,,0,0,0,,Trust in the GUND-ARMs that you guys made.
+Dialogue: 99,0:13:02.10,0:13:03.72,GJM_Main_1080p,,0,0,0,,Are you sortieing, Manager?
+Dialogue: 99,0:13:04.22,0:13:05.72,GJM_Main_1080p,,0,0,0,,I can't reach Wendy.
+Dialogue: 99,0:13:06.50,0:13:09.10,GJM_Main_1080p,,0,0,0,,{\q2}I'll slow them down. \NSecure us an escape route in the meantime.
+Dialogue: 99,0:13:09.57,0:13:11.48,GJM_Main_1080p,,0,0,0,,Will we see reinforcements from HQ?
+Dialogue: 99,0:13:11.74,0:13:13.36,GJM_Main_1080p,,0,0,0,,Don't get your hopes up.
+Dialogue: 99,0:13:16.65,0:13:18.24,GJM_Main_1080p,,0,0,0,,LF-01, launching!
+Dialogue: 99,0:13:26.91,0:13:30.06,GJM_Main_1080p,,0,0,0,,GUND Format Permet score Two!
+Dialogue: 99,0:13:34.09,0:13:37.16,GJM_Main_1080p,,0,0,0,,Identification matches target mobile suit.
+Dialogue: 99,0:13:37.16,0:13:39.36,GJM_Main_1080p,,0,0,0,,Roger. Commencing mission.
+Dialogue: 99,0:13:42.97,0:13:43.72,GJM_Main_1080p,,0,0,0,,It's fast!
+Dialogue: 99,0:13:44.46,0:13:45.97,GJM_Main_1080p,,0,0,0,,This {\i1}must{\i0} be a Gundam!
+Dialogue: 99,0:13:56.81,0:13:58.61,GJM_Main_1080p,,0,0,0,,Permet score Three!
+Dialogue: 99,0:14:01.83,0:14:02.36,GJM_Main_1080p,,0,0,0,,He dodged it?!
+Dialogue: 99,0:14:02.84,0:14:03.70,GJM_Main_1080p,,0,0,0,,Impossible!
+Dialogue: 99,0:14:10.46,0:14:12.96,GJM_Main_1080p,,0,0,0,,Sure has been a while, yeah?
+Dialogue: 99,0:14:13.81,0:14:15.94,GJM_Main_1080p,,0,0,0,,The target is using peculiar swarming weapons.
+Dialogue: 99,0:14:15.94,0:14:17.73,GJM_Main_1080p,,0,0,0,,Don't go in alone.
+Dialogue: 99,0:14:23.60,0:14:25.30,GJM_Main_1080p,,0,0,0,,Wendy, is that you?
+Dialogue: 99,0:14:25.80,0:14:28.19,GJM_Main_1080p,,0,0,0,,I have to avenge Nyla!
+Dialogue: 99,0:14:28.95,0:14:30.06,GJM_Main_1080p,,0,0,0,,I see.
+Dialogue: 99,0:14:31.01,0:14:32.20,GJM_Main_1080p,,0,0,0,,I'll lure the enemy away.
+Dialogue: 99,0:14:33.73,0:14:37.19,GJM_Main_1080p,,0,0,0,,{\q2}Second Gundam-type mobile suit \Ndetected at port side in our travel path.
+Dialogue: 99,0:14:37.81,0:14:39.60,GJM_Main_1080p,,0,0,0,,That matches our intel.
+Dialogue: 99,0:14:39.60,0:14:41.12,GJM_Main_1080p,,0,0,0,,Keep your guards up.
+Dialogue: 99,0:14:41.68,0:14:42.44,GJM_Main_1080p,,0,0,0,,Kenanji.
+Dialogue: 99,0:14:42.92,0:14:44.24,GJM_Main_1080p,,0,0,0,,Deploy Beguir-Beu.
+Dialogue: 99,0:14:45.57,0:14:46.65,GJM_Main_1080p,,0,0,0,,Roger.
+Dialogue: 99,0:14:50.47,0:14:57.04,GJM_Main_1080p,,0,0,0,,{\q2}Throughout my experience on countless battlefields, \NI have arrived at but one conclusion...
+Dialogue: 99,0:14:58.04,0:15:02.67,GJM_Main_1080p,,0,0,0,,Weapons only exist to kill others.
+Dialogue: 99,0:15:03.26,0:15:05.18,GJM_Main_1080p,,0,0,0,,There is not a single excuse for them.
+Dialogue: 99,0:15:05.77,0:15:08.93,GJM_Main_1080p,,0,0,0,,The simple act of holding a weapon for killing
+Dialogue: 99,0:15:09.28,0:15:11.68,GJM_Main_1080p,,0,0,0,,is a sin in and of itself.
+Dialogue: 99,0:15:12.48,0:15:17.06,GJM_Main_1080p,,0,0,0,,{\q2}However, the mobile suits made by \NVanadis and Ochs Earth go a step further!
+Dialogue: 99,0:15:17.56,0:15:21.56,GJM_Main_1080p,,0,0,0,,They take the lives of both the pilot and adversary!
+Dialogue: 99,0:15:22.96,0:15:26.91,GJM_Main_1080p,,0,0,0,,They serve not as tools, but as a curse on us all.
+Dialogue: 99,0:15:30.88,0:15:31.62,GJM_Main_1080p,,0,0,0,,Wendy!
+Dialogue: 99,0:15:31.62,0:15:33.62,GJM_Main_1080p,,0,0,0,,Don't raise your score any higher!
+Dialogue: 99,0:15:34.18,0:15:36.27,GJM_Main_1080p,,0,0,0,,The punishment for taking a life
+Dialogue: 99,0:15:36.27,0:15:39.99,GJM_Main_1080p,,0,0,0,,must be administered by humans, not machines.
+Dialogue: 99,0:15:39.99,0:15:43.35,GJM_Main_1080p,,0,0,0,,Lyla, I'll avenge you!
+Dialogue: 99,0:15:43.35,0:15:46.47,GJM_Main_1080p,,0,0,0,,People must be killed by people.
+Dialogue: 99,0:15:47.08,0:15:52.97,GJM_Main_1080p,,0,0,0,,{\q2}We should at least be allowed this dignity \Nin the foolish act called war!
+Dialogue: 99,0:15:53.22,0:15:54.27,GJM_Main_1080p,,0,0,0,,Get back, Wendy!
+Dialogue: 99,0:15:54.67,0:15:56.31,GJM_Main_1080p,,0,0,0,,That custom unit is serious business!
+Dialogue: 99,0:15:59.61,0:16:01.48,GJM_Main_1080p,,0,0,0,,Why can't I move?!
+Dialogue: 99,0:16:01.74,0:16:04.53,GJM_Main_1080p,,0,0,0,,GUND Format Link suppressed.
+Dialogue: 99,0:16:05.52,0:16:08.11,GJM_Main_1080p,,0,0,0,,So begins the end of the Gundams.
+Dialogue: 99,0:16:08.37,0:16:08.86,GJM_Main_1080p,,0,0,0,,Nyla.
+Dialogue: 99,0:16:13.87,0:16:14.70,GJM_Main_1080p,,0,0,0,,Wendy!
+Dialogue: 99,0:16:16.58,0:16:18.46,GJM_Main_1080p,,0,0,0,,We must pull the trigger ourselves
+Dialogue: 99,0:16:19.03,0:16:21.48,GJM_Main_1080p,,0,0,0,,to understand the value of the life we take
+Dialogue: 99,0:16:21.48,0:16:23.85,GJM_Main_1080p,,0,0,0,,and the weight of our unforgivable sin.
+Dialogue: 99,0:16:24.89,0:16:27.97,GJM_Main_1080p,,0,0,0,,Lest we forget what it means to wage war
+Dialogue: 99,0:16:28.56,0:16:30.47,GJM_Main_1080p,,0,0,0,,and kill human beings!
+Dialogue: 99,0:16:36.74,0:16:38.50,GJM_Main_1080p,,0,0,0,,Dr. Cardo Nabo.
+Dialogue: 99,0:16:39.01,0:16:41.52,GJM_Main_1080p,,0,0,0,,Your life ends here.
+Dialogue: 99,0:16:43.13,0:16:46.72,GJM_Main_1080p,,0,0,0,,Humanity, born in the cradle of Earth,
+Dialogue: 99,0:16:46.72,0:16:50.78,GJM_Main_1080p,,0,0,0,,is far too fragile to venture beyond.
+Dialogue: 99,0:16:51.85,0:16:54.03,GJM_Main_1080p,,0,0,0,,Like the way one clothes a newborn babe,
+Dialogue: 99,0:16:54.78,0:16:57.54,GJM_Main_1080p,,0,0,0,,it is only by donning the GUND
+Dialogue: 99,0:16:57.54,0:17:00.04,GJM_Main_1080p,,0,0,0,,that we may survive out in space.
+Dialogue: 99,0:17:00.79,0:17:03.77,GJM_Main_1080p,,0,0,0,,{\q2}That's just an excuse for a \Ntechnology that demands sacrifice.
+Dialogue: 99,0:17:03.77,0:17:05.88,GJM_Main_1080p,,0,0,0,,You understand nothing.
+Dialogue: 99,0:17:06.29,0:17:08.49,GJM_Main_1080p,,0,0,0,,When you lot plunder GUND,
+Dialogue: 99,0:17:08.49,0:17:11.84,GJM_Main_1080p,,0,0,0,,you snuff out our own future!
+Dialogue: 99,0:17:25.66,0:17:26.54,GJM_Main_1080p,,0,0,0,,Eri!
+Dialogue: 99,0:17:27.82,0:17:28.57,GJM_Main_1080p,,0,0,0,,Mama!
+Dialogue: 99,0:17:28.87,0:17:32.40,GJM_Main_1080p,,0,0,0,,Mama! Mama! Mama!
+Dialogue: 99,0:17:32.40,0:17:33.57,GJM_Main_1080p,,0,0,0,,Mama!
+Dialogue: 99,0:17:34.20,0:17:35.64,GJM_Main_1080p,,0,0,0,,Mama!
+Dialogue: 99,0:17:35.64,0:17:37.52,GJM_Main_1080p,,0,0,0,,It's okay now.
+Dialogue: 99,0:17:37.52,0:17:39.08,GJM_Main_1080p,,0,0,0,,Everything's okay.
+Dialogue: 99,0:17:43.75,0:17:45.96,GJM_Overlap_1080p,,0,0,0,,{\an8}HQ to all units.
+Dialogue: 99,0:17:45.96,0:17:50.20,GJM_Overlap_1080p,,0,0,0,,{\q2\an8}We've successfully neutralized \NCardo Nabo and all key members.
+Dialogue: 99,0:17:50.20,0:17:53.16,GJM_Overlap_1080p,,0,0,0,,{\q2\an8}Retreat as soon as preparations to \Ndetonate the front are complete.
+Dialogue: 99,0:17:53.16,0:17:56.34,GJM_Overlap_1080p,,0,0,0,,{\an8}I repeat, {\an8}HQ to all units.
+Dialogue: 99,0:17:53.16,0:17:54.47,GJM_Main_1080p,,0,0,0,,Doctor...
+Dialogue: 99,0:17:55.17,0:17:56.79,GJM_Main_1080p,,0,0,0,,Why did you have to die?
+Dialogue: 99,0:17:56.34,0:18:00.70,GJM_Overlap_1080p,,0,0,0,,{\q2\an8}We've successfully neutralized \NCardo Nabo and all key members.
+Dialogue: 99,0:17:58.71,0:17:59.73,GJM_Main_1080p,,0,0,0,,Mama?
+Dialogue: 99,0:18:00.70,0:18:02.96,GJM_Overlap_1080p,,0,0,0,,{\q2\an8}Retreat as soon as preparations to \Ndetonate the front are complete.
+Dialogue: 99,0:18:08.53,0:18:11.13,GJM_Main_1080p,,0,0,0,,A callback from Layer 33?
+Dialogue: 99,0:18:11.91,0:18:14.72,GJM_Main_1080p,,0,0,0,,Whose vitals were used to authenticate...?
+Dialogue: 99,0:18:14.72,0:18:15.53,GJM_Main_1080p,,0,0,0,,Mama.
+Dialogue: 99,0:18:17.30,0:18:19.66,GJM_Main_1080p,,0,0,0,,Did she wake up?
+Dialogue: 99,0:18:24.09,0:18:26.46,GJM_Main_1080p,,0,0,0,,{\q2}Powerful electromagnetic waves\N detected within Folkvangr.
+Dialogue: 99,0:18:27.02,0:18:29.27,GJM_Main_1080p,,0,0,0,,It's an unregistered Permet ID.
+Dialogue: 99,0:18:29.27,0:18:30.46,GJM_Main_1080p,,0,0,0,,There was another one?
+Dialogue: 99,0:18:51.01,0:18:54.25,GJM_Main_1080p,,0,0,0,,One, two, three!
+Dialogue: 99,0:19:14.89,0:19:16.86,GJM_Main_1080p,,0,0,0,,Mama, Mama!
+Dialogue: 99,0:19:18.48,0:19:20.72,GJM_Main_1080p,,0,0,0,,They're pretty, like candles!
+Dialogue: 99,0:19:22.19,0:19:23.45,GJM_Main_1080p,,0,0,0,,They are.
+Dialogue: 99,0:19:34.29,0:19:36.20,GJM_Main_1080p,,0,0,0,,You've got skills, but...
+Dialogue: 99,0:19:42.70,0:19:44.79,GJM_Main_1080p,,0,0,0,,You're still just a Gundam!
+Dialogue: 99,0:19:50.88,0:19:52.42,GJM_Main_1080p,,0,0,0,,Elnora, is that you?
+Dialogue: 99,0:19:53.30,0:19:54.15,GJM_Main_1080p,,0,0,0,,Nadim?
+Dialogue: 99,0:19:54.15,0:19:54.76,GJM_Main_1080p,,0,0,0,,Papa!
+Dialogue: 99,0:19:54.76,0:19:57.76,GJM_Main_1080p,,0,0,0,,Dammit! Let go of me, Gundam!
+Dialogue: 99,0:19:57.76,0:19:59.83,GJM_Main_1080p,,0,0,0,,Elnora, you need to escape.
+Dialogue: 99,0:19:59.83,0:20:01.40,GJM_Main_1080p,,0,0,0,,Don't you dare! I'm goi—
+Dialogue: 99,0:20:01.40,0:20:04.02,GJM_Main_1080p,,0,0,0,,You're not escaping alone!
+Dialogue: 99,0:20:04.73,0:20:06.33,GJM_Main_1080p,,0,0,0,,Please survive.
+Dialogue: 99,0:20:06.33,0:20:09.28,GJM_Main_1080p,,0,0,0,,For your sake, for Ericht's sake, for everyone's!
+Dialogue: 99,0:20:17.90,0:20:20.62,GJM_Main_1080p,,0,0,0,,I love you, Nadim.
+Dialogue: 99,0:20:25.22,0:20:27.98,GJM_Main_1080p,,0,0,0,,I love you too, Elnora.
+Dialogue: 99,0:20:29.66,0:20:31.67,GJM_Main_1080p,,0,0,0,,Permet score Four!
+Dialogue: 99,0:20:46.08,0:20:48.08,GJM_Main_1080p,,0,0,0,,Papa! I'm back!
+Dialogue: 99,0:20:48.84,0:20:49.56,GJM_Main_1080p,,0,0,0,,Welcome back.
+Dialogue: 99,0:20:49.91,0:20:52.65,GJM_Main_1080p,,0,0,0,,Papa, what's a birthday?
+Dialogue: 99,0:20:52.65,0:20:55.53,GJM_Main_1080p,,0,0,0,,It's a day where we celebrate the day you were born, Eri.
+Dialogue: 99,0:20:55.53,0:20:57.77,GJM_Main_1080p,,0,0,0,,How do we celebrate?
+Dialogue: 99,0:20:57.77,0:20:59.43,GJM_Main_1080p,,0,0,0,,Hmm...
+Dialogue: 99,0:21:02.66,0:21:07.58,GJM_Overlap_1080p,,0,0,0,,{\an8}Happy birthday to you.
+Dialogue: 99,0:21:08.99,0:21:14.92,GJM_Overlap_1080p,,0,0,0,,{\an8}Happy birthday to you.
+Dialogue: 99,0:21:10.44,0:21:12.83,GJM_Main_1080p,,0,0,0,,It's Papa!
+Dialogue: 99,0:21:13.17,0:21:14.92,GJM_Main_1080p,,0,0,0,,Cut this channel.
+Dialogue: 99,0:21:14.92,0:21:17.92,GJM_Main_1080p,,0,0,0,,We can't. The source is thought to be the Gundam.
+Dialogue: 99,0:21:14.92,0:21:22.34,GJM_Overlap_1080p,,0,0,0,,{\an8}Happy birthday dear Ericht.
+Dialogue: 99,0:21:19.86,0:21:21.28,GJM_Main_1080p,,0,0,0,,What's going on?
+Dialogue: 99,0:21:31.13,0:21:36.74,GJM_Main_1080p,,0,0,0,,Happy birthday to you!
+Dialogue: 99,0:21:41.93,0:21:42.82,GJM_Main_1080p,,0,0,0,,Thus,
+Dialogue: 99,0:21:43.53,0:21:45.40,GJM_Main_1080p,,0,0,0,,we, Cathedral,
+Dialogue: 99,0:21:46.21,0:21:47.95,GJM_Main_1080p,,0,0,0,,hereby repudiate
+Dialogue: 99,0:21:49.09,0:21:50.71,GJM_Main_1080p,,0,0,0,,all Gundams.
+Comment: 99,0:21:52.00,0:21:52.04,GJM_Main_1080p,chapter,0,0,0,,{Credits}
+
