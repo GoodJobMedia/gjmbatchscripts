@@ -37,10 +37,10 @@ Dialogue: 99,0:00:58.79,0:01:01.37,GJM_Main_1080p,Suletta,0,0,0,,Mom, I finally 
 Dialogue: 99,0:01:06.55,0:01:08.13,GJM_Main_1080p,Suletta,0,0,0,,I-It can't be!
 Dialogue: 99,0:01:08.13,0:01:10.26,GJM_Main_1080p,Suletta,0,0,0,,No way no way no way! I gotta—
 Dialogue: 99,0:01:11.55,0:01:12.64,GJM_Main_1080p,Bridge,0,0,0,,Bridge here.
-Dialogue: 99,0:01:12.64,0:01:13.93,GJM_Main_1080p,Suletta,0,0,0,,E-EMERGENCY!!!
+Dialogue: 99,0:01:12.64,0:01:13.93,GJM_Main_1080p,Suletta,0,0,0,,E-EMERGENCY!
 Dialogue: 99,0:01:13.93,0:01:14.47,GJM_Main_1080p,Bridge,0,0,0,,What?
-Dialogue: 99,0:01:14.47,0:01:17.93,GJM_Main_1080p,Suletta,0,0,0,,A-A-A A person! Th-There's a person out there!!
-Dialogue: 99,0:01:17.93,0:01:19.18,GJM_Main_1080p,Suletta,0,0,0,,Floating outside!!
+Dialogue: 99,0:01:14.47,0:01:17.93,GJM_Main_1080p,Suletta,0,0,0,,A-A-A-A person! Th-There's a person out there!
+Dialogue: 99,0:01:17.93,0:01:19.18,GJM_Main_1080p,Suletta,0,0,0,,Floating outside!
 Dialogue: 99,0:01:18.64,0:01:19.85,GJM_Overlap_1080p,Bridge,0,0,0,,Bridge to Rescue Team.
 Dialogue: 99,0:01:20.10,0:01:21.69,GJM_Main_1080p,Bridge,0,0,0,,A person is in need of rescue.
 Dialogue: 99,0:01:21.69,0:01:22.65,GJM_Main_1080p,Bridge,0,0,0,,Prepare for EVA.
@@ -225,7 +225,7 @@ Dialogue: 99,0:13:31.50,0:13:35.42,GJM_Main_1080p,Guel,0,0,0,,Now keep your mout
 Dialogue: 99,0:13:41.93,0:13:45.06,GJM_Main_1080p,Suletta,0,0,0,,D-D-Did your mom not spank you as a child?
 Dialogue: 99,0:13:45.06,0:13:48.06,GJM_Main_1080p,Suletta,0,0,0,,You can't do that to a g-girl!
 Dialogue: 99,0:13:48.06,0:13:49.69,GJM_Main_1080p,Guel,0,0,0,,The hell do you think you are?
-Dialogue: 99,0:13:51.40,0:13:52.61,GJM_Overlap_1080p,Groupie,0,0,0,,{\an8}What's {\i1}with{\i0} you?
+Dialogue: 99,0:13:51.40,0:13:53.09,GJM_Overlap_1080p,Groupie,0,0,0,,{\an8}What's {\i1}with{\i0} you?
 Dialogue: 99,0:13:51.40,0:13:54.23,GJM_Main_1080p,Guel,0,0,0,,Do you have any idea who you're messing with?
 Dialogue: 99,0:13:54.23,0:13:57.86,GJM_Main_1080p,Suletta,0,0,0,,Um, a pushy suitor?
 Dialogue: 99,0:13:58.99,0:14:05.58,GJM_Main_1080p,Guel,0,0,0,,{\q2}I'm heir to one of the Benerit Group's Big Three, \Nand head of the Dueling Committee!
@@ -273,7 +273,7 @@ Dialogue: 99,0:16:20.67,0:16:22.84,GJM_Main_1080p,Guel,0,0,0,,I'll make it quick
 Dialogue: 99,0:16:22.84,0:16:26.34,GJM_Main_1080p,Guel,0,0,0,,I'm the future ace pilot of Dominicus, after all.
 Dialogue: 99,0:16:27.84,0:16:30.47,GJM_Main_1080p,Guel,0,0,0,,There you are, Mercurian bitch.
 Dialogue: 99,0:16:31.64,0:16:38.36,GJM_Overlap_1080p,Haro,0,0,0,,{\q2\an8}Tricolore: a flag of three colors,\N particularly the national emblem of old France.
-Dialogue: 99,0:16:32.64,0:16:34.77,GJM_Main_1080p,Cecilia,0,0,0,,Her mech's quite fancy, too!
+Dialogue: 99,0:16:32.64,0:16:34.77,GJM_Main_1080p,Cecilia,0,0,0,,Her suit's quite fancy, too!
 Dialogue: 99,0:16:35.06,0:16:38.36,GJM_Main_1080p,Forgot his name,0,0,0,,I don't see a logo. Was it made from scratch?
 Dialogue: 99,0:16:38.36,0:16:42.40,GJM_Overlap_1080p,Flying Haro,0,0,0,,{\an8}Arriving at the designated coordinates.
 Dialogue: 99,0:16:39.48,0:16:44.15,GJM_Main_1080p,Shaddiq,0,0,0,,{\q2}The duel will now commence \Nafter consent from both parties.
@@ -327,7 +327,7 @@ Dialogue: 99,0:19:23.65,0:19:27.52,GJM_Main_1080p,Suletta,0,0,0,,{\q2}Aerial and
 Dialogue: 99,0:19:27.52,0:19:29.65,GJM_Main_1080p,Guel,0,0,0,,Scrap, you say?!
 Dialogue: 99,0:19:30.82,0:19:33.66,GJM_Main_1080p,Guel,0,0,0,,Shaddiq! Change the duel opponent back!
 Dialogue: 99,0:19:34.11,0:19:35.45,GJM_Main_1080p,Shaddiq,0,0,0,,Approved.
-Dialogue: 99,0:19:35.45,0:19:36.41,GJM_Main_1080p,Shaddiq,0,0,0,,Cecilia.
+Dialogue: 99,0:19:35.45,0:19:36.41,GJM_Main_1080p,Shaddiq,0,0,0,,Secilia.
 Dialogue: 99,0:19:36.41,0:19:37.78,GJM_Main_1080p,Cecilia,0,0,0,,'kay!
 Dialogue: 99,0:19:41.20,0:19:42.04,GJM_Main_1080p,Guel's Brother,0,0,0,,Guel...
 Dialogue: 99,0:19:42.04,0:19:45.17,GJM_Main_1080p,Guel,0,0,0,,Time for your first lesson, you boor!
