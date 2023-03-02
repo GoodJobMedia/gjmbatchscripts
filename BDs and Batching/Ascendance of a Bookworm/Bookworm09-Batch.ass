@@ -14,9 +14,9 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 26
-Active Line: 34
-Video Position: 5484
+Scroll Position: 65
+Active Line: 79
+Video Position: 9205
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -101,14 +101,14 @@ Dialogue: 10,0:05:51.32,0:05:53.24,GJM_Main,,0,0,0,,Oh? What's this?
 Dialogue: 10,0:05:55.01,0:05:56.25,GJM_Main,,0,0,0,,It's a map!
 Dialogue: 10,0:05:58.12,0:06:00.48,GJM_Main,,0,0,0,,This is Ehrenfest.
 Dialogue: 10,0:06:00.48,0:06:02.22,GJM_Main,,0,0,0,,Ehrenfest?
-Dialogue: 10,0:06:02.22,0:06:06.76,GJM_Main,,0,0,0,,Yes. A town is named after its lord.
-Dialogue: 10,0:06:06.76,0:06:09.23,GJM_Main,,0,0,0,,And where does the lord live?
+Dialogue: 10,0:06:02.22,0:06:06.76,GJM_Main,,0,0,0,,Yes. The capital is named after its archduke.
+Dialogue: 10,0:06:06.76,0:06:09.23,GJM_Main,,0,0,0,,And where does the archduke live?
 Dialogue: 10,0:06:09.23,0:06:11.51,GJM_Main,,0,0,0,,{\q2}His home is in the nobles' district to the north.
 Dialogue: 10,0:06:11.75,0:06:14.77,GJM_Main,,0,0,0,,{\q2}Merchants gather in the east\N as the main roads lead into there.
 Dialogue: 10,0:06:15.15,0:06:18.77,GJM_Main,,0,0,0,,{\q2}To the south you'll find farmland,\N the forest, and various smaller townships.
 Dialogue: 10,0:06:19.28,0:06:20.88,GJM_Main,,0,0,0,,Finally, to the west is the river.
-Dialogue: 10,0:06:20.88,0:06:23.92,GJM_Main,,0,0,0,,{\q2}Cross over that and you'll reach\N the territory of a neighboring lord.
-Dialogue: 10,0:06:23.92,0:06:27.00,GJM_Main,,0,0,0,,The territories trade regularly as the\N two lords have an amicable relationship.
+Dialogue: 10,0:06:20.88,0:06:23.92,GJM_Main,,0,0,0,,{\q2}And even further west is the neighboring duchy.
+Dialogue: 10,0:06:23.92,0:06:27.00,GJM_Main,,0,0,0,,We trade regularly, as our archdukes\N have an amicable relationship.
 Dialogue: 10,0:06:28.32,0:06:31.26,GJM_Main,,0,0,0,,{\q2}In the future, the two of you\N will also be able to sail there.
 Dialogue: 10,0:06:31.26,0:06:32.23,GJM_Main,,0,0,0,,Really?
 Dialogue: 10,0:06:32.23,0:06:35.04,GJM_Main,,0,0,0,,Yes. If we can get you registered, that is.
