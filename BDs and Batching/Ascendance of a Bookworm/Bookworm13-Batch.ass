@@ -14,9 +14,9 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 213
-Active Line: 224
-Video Position: 20798
+Scroll Position: 77
+Active Line: 94
+Video Position: 9619
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -58,7 +58,7 @@ Dialogue: 10,0:02:47.75,0:02:50.97,GJM_Main,,0,0,0,,{\q2}We're going home before
 Dialogue: 10,0:02:50.97,0:02:51.90,GJM_Main,,0,0,0,,Okay...
 Dialogue: 10,0:02:53.28,0:02:57.90,GJM_Main,,0,0,0,,{\i1\q2}In hindsight I really should have given\N this whole thing more thought, but...
 Dialogue: 10,0:02:58.45,0:03:00.61,GJM_Main,,0,0,0,,{\i1}I gained a new goal: to become a priestess.
-Dialogue: 10,0:03:00.61,0:03:03.89,GJM_Main,,0,0,0,,{\i1\q2}I even got them to agree\N to read their holy book to me!
+Dialogue: 10,0:03:00.61,0:03:03.89,GJM_Main,,0,0,0,,{\i1\q2}I even got them to agree\N to read their sacred book to me!
 Dialogue: 10,0:03:03.89,0:03:06.41,GJM_Main,,0,0,0,,{\i1}So I guess the results speak for themselves.
 Dialogue: 10,0:03:09.32,0:03:12.46,GJM_Main,,0,0,0,,You really stood out at today's baptism, Myne!
 Dialogue: 10,0:03:12.46,0:03:14.43,GJM_Main,,0,0,0,,Of course she did, she's absolutely adorable!
@@ -123,7 +123,7 @@ Dialogue: 10,0:06:30.49,0:06:32.59,GJM_Main,,0,0,0,,You still don't look too gre
 Dialogue: 10,0:06:32.59,0:06:36.85,GJM_Main,,0,0,0,,{\q2}I'm going to the temple tomorrow,\N so I can go to Mr. Benno's after that.
 Dialogue: 10,0:06:36.85,0:06:38.33,GJM_Main,,0,0,0,,Will you come with me?
 Dialogue: 10,0:06:38.62,0:06:40.96,GJM_Main,,0,0,0,,Sure, but why are you going to the temple?
-Dialogue: 10,0:06:41.19,0:06:44.09,GJM_Main,,0,0,0,,{\q2}They said they were going\N to read the holy book to me.
+Dialogue: 10,0:06:41.19,0:06:44.09,GJM_Main,,0,0,0,,{\q2}They said they were going\N to read the sacred book to me.
 Dialogue: 10,0:06:44.09,0:06:47.59,GJM_Main,,0,0,0,,{\q2}I'm gonna rescind my request to become \Nan apprentice priestess while I'm there too.
 Dialogue: 10,0:06:48.32,0:06:49.82,GJM_Main,,0,0,0,,I see.
 Dialogue: 10,0:06:49.82,0:06:54.22,GJM_Main,,0,0,0,,{\q2}Well, no matter how you look at it, \Nthere's no way you'd be able to live at the temple.
@@ -140,7 +140,7 @@ Dialogue: 10,0:07:26.08,0:07:28.32,GJM_Main,,0,0,0,,I'm the high priest.
 Dialogue: 10,0:07:28.32,0:07:30.60,GJM_Main,,0,0,0,,The high bishop has filled me in.
 Dialogue: 10,0:07:32.00,0:07:33.72,GJM_Main,,0,0,0,,Now, come.
 Dialogue: 10,0:07:34.05,0:07:35.80,GJM_Main,,0,0,0,,Thank you very much.
-Dialogue: 10,0:07:37.85,0:07:42.42,GJM_Main,,0,0,0,,{\q2}The high bishop asked me to read to you\N from our holy book until he returns.
+Dialogue: 10,0:07:37.85,0:07:42.42,GJM_Main,,0,0,0,,{\q2}The high bishop asked me to read to you\N from our sacred book until he returns.
 Dialogue: 10,0:07:44.02,0:07:46.36,GJM_Main,,0,0,0,,Please sit down here and listen closely.
 Dialogue: 10,0:07:46.36,0:07:48.05,GJM_Main,,0,0,0,,O-Oh, um...
 Dialogue: 10,0:07:48.05,0:07:49.11,GJM_Main,,0,0,0,,High Priest.
@@ -169,7 +169,7 @@ Dialogue: 10,0:09:06.91,0:09:09.23,GJM_Main,,0,0,0,,You're a fast learner.
 Dialogue: 10,0:09:09.23,0:09:10.66,GJM_Main,,0,0,0,,If you grasp things this quickly,
 Dialogue: 10,0:09:10.66,0:09:11.94,GJM_Main,,0,0,0,,you might be worth teaching.
 Dialogue: 10,0:09:14.18,0:09:16.45,GJM_Main,,0,0,0,,Oh, I'm sorry to have made you wait.
-Dialogue: 10,0:09:17.55,0:09:20.52,GJM_Main,,0,0,0,,{\q2}The high priest was kind enough\N to read to me from the holy book
+Dialogue: 10,0:09:17.55,0:09:20.52,GJM_Main,,0,0,0,,{\q2}The high priest was kind enough\N to read to me from the sacred book
 Dialogue: 10,0:09:20.52,0:09:23.71,GJM_Main,,0,0,0,,so I had a lot of fun and the time passed in a flash.
 Dialogue: 10,0:09:23.71,0:09:25.46,GJM_Main,,0,0,0,,I wholeheartedly thank you for your kindness.
 Dialogue: 10,0:09:25.46,0:09:28.46,GJM_Main,,0,0,0,,Well, that is very nice to hear.

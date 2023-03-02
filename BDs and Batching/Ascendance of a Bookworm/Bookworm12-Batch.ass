@@ -14,9 +14,9 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 595
-Active Line: 607
-Video Position: 33206
+Scroll Position: 294
+Active Line: 295
+Video Position: 30425
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -324,7 +324,7 @@ Dialogue: 10,0:20:57.53,0:20:59.61,GJM_Main,,0,0,0,,I was gonna talk to them abo
 Dialogue: 10,0:21:01.61,0:21:05.35,GJM_Main,,0,0,0,,{\q2}If they are against it,\N make sure to come and see me immediately.
 Dialogue: 10,0:21:05.35,0:21:06.99,GJM_Main,,0,0,0,,I'll offer any help I can.
 Dialogue: 10,0:21:07.19,0:21:08.95,GJM_Main,,0,0,0,,Thank you very much.
-Dialogue: 10,0:21:08.95,0:21:15.60,GJM_Main,,0,0,0,,{\q2}You also have permission to read from\N the holy book, so feel free to visit any time.
+Dialogue: 10,0:21:08.95,0:21:15.60,GJM_Main,,0,0,0,,{\q2}You also have permission to read from\N the sacred book, so feel free to visit any time.
 Dialogue: 10,0:21:15.60,0:21:16.87,GJM_Main,,0,0,0,,Really?
 Dialogue: 10,0:21:16.87,0:21:18.15,GJM_Main,,0,0,0,,Yay!
 Dialogue: 10,0:21:18.91,0:21:20.50,GJM_Main,,0,0,0,,Praise be to the gods!
