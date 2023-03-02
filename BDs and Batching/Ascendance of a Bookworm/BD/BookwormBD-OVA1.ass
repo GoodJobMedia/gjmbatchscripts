@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 598
-Active Line: 642
+Scroll Position: 318
+Active Line: 326
 Video Position: 307
 
 [V4+ Styles]
@@ -42,7 +42,7 @@ Dialogue: 10,0:00:25.48,0:00:29.25,GJM_Main,HP,0,0,0,,{\q2}She will be joining t
 Dialogue: 10,0:00:29.54,0:00:32.51,GJM_Main,E,0,0,0,,{\q2}A commoner girl with the Devouring\N is becoming a blue priestess?
 Dialogue: 10,0:00:32.99,0:00:35.90,GJM_Main,HP,0,0,0,,{\q2}She runs a workshop where she makes\N something called plant-based paper,
 Dialogue: 10,0:00:35.90,0:00:37.40,GJM_Main,HP,0,0,0,,and in order to be able to read books,
-Dialogue: 10,0:00:37.40,0:00:41.22,GJM_Main,HP,0,0,0,,{\q2}she did not hesitate to offer one gold \Nin exchange for being made a priestess.
+Dialogue: 10,0:00:37.40,0:00:41.22,GJM_Main,HP,0,0,0,,{\q2}she did not hesitate to offer one large gold \Nin exchange for being made a priestess.
 Dialogue: 10,0:00:41.22,0:00:42.89,GJM_Main,HP,0,0,0,,In any case, she is an odd child.
 Dialogue: 10,0:00:43.24,0:00:45.02,GJM_Main,J,0,0,0,,An odd child?
 Dialogue: 10,0:00:45.27,0:00:48.44,GJM_Main,HP,0,0,0,,{\q2}Precisely, so any information \Nyou can provide is appreciated.
