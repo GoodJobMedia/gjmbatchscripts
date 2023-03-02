@@ -11,15 +11,12 @@ PlayResY: 810
 
 [Aegisub Project Garbage]
 Last Style Storage: Bookworm
-Audio File: Bookworm_22 (Premux).mkv
-Video File: Bookworm_22 (Premux).mkv
-Keyframes File: Bookworm_22 (Premux)_keyframes.log
-Video AR Mode: 4
+Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
+Video Zoom Percent: 0.500000
 Scroll Position: 80
-Active Line: 96
-Video Position: 30450
+Active Line: 87
+Video Position: 9761
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -120,7 +117,7 @@ Dialogue: 10,0:06:38.69,0:06:40.58,GJM_Main,My,0,0,0,,I did not.
 Dialogue: 10,0:06:40.78,0:06:41.71,GJM_Main,Be,0,0,0,,You idiot!
 Dialogue: 10,0:06:41.71,0:06:44.34,GJM_Main,Be,0,0,0,,{\q2}What kind of merchant \Ndoesn't calculate the costs first?!
 Dialogue: 10,0:06:45.31,0:06:47.11,GJM_Main,My,0,0,0,,I'm not a merchant anymore!
-Dialogue: 10,0:06:47.11,0:06:50.22,GJM_Main,My,0,0,0,,I'm an apprentice shrine maiden!
+Dialogue: 10,0:06:47.11,0:06:50.22,GJM_Main,My,0,0,0,,I'm an apprentice priestess!
 Dialogue: 10,0:06:52.52,0:06:56.82,GJM_Main,My,0,0,0,,{\i1}We then went to a carpenter to order boards.
 Dialogue: 10,0:06:56.82,0:06:59.41,GJM_Main,My,0,0,0,,{\i1}The one we ordered the karuta cards from was busy,
 Dialogue: 10,0:06:59.41,0:07:04.48,GJM_Main,My,0,0,0,,{\i1\q2}so we got introduced to a young man who \Napprenticed there and runs his own workshop now.

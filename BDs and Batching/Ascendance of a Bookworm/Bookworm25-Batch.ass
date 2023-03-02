@@ -11,15 +11,12 @@ PlayResY: 810
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Audio File: Bookworm_25 (Premux).mkv
-Video File: Bookworm_25 (Premux).mkv
-Keyframes File: Bookworm_25 (Premux)_keyframes.log
-Video AR Mode: 4
+Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 205
-Active Line: 225
-Video Position: 3254
+Video Zoom Percent: 0.500000
+Scroll Position: 101
+Active Line: 118
+Video Position: 15520
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -66,10 +63,10 @@ Dialogue: 10,0:03:37.41,0:03:38.82,GJM_Main,Ka,0,0,0,,Grant it to us!
 Dialogue: 10,0:03:42.19,0:03:43.87,GJM_Main,My,0,0,0,,Their weapons turned black!
 Dialogue: 10,0:03:43.87,0:03:45.59,GJM_Main,My,0,0,0,,Do you know why, Fran?
 Dialogue: 10,0:03:46.18,0:03:50.66,GJM_Main,Fr,0,0,0,,No, I have never seen a battle before. I do not know.
-Dialogue: 10,0:03:51.06,0:03:55.29,GJM_Main,Da,0,0,0,,{\q2}Those weapons have had a divine blessing\N bestowed upon them, apprentice shrine maiden.
+Dialogue: 10,0:03:51.06,0:03:55.29,GJM_Main,Da,0,0,0,,{\q2}Those weapons have had a divine blessing\N bestowed upon them, apprentice priestess.
 Dialogue: 10,0:03:55.95,0:04:00.98,GJM_Main,Da,0,0,0,,{\q2}Imbuing them with mana when attacking \Nwill steal double the mana from the target.
 Dialogue: 10,0:04:00.98,0:04:03.22,GJM_Main,Da,0,0,0,,That's essential when fighting a trombe.
-Dialogue: 10,0:04:03.81,0:04:08.22,GJM_Main,My,0,0,0,,{\q2\i1}So some nobles {\i0}do{\i1} talk to \Napprentice shrine maidens normally.
+Dialogue: 10,0:04:03.81,0:04:08.22,GJM_Main,My,0,0,0,,{\q2\i1}So some nobles {\i0}do{\i1} talk to \Napprentice priestesses normally.
 Dialogue: 10,0:04:08.73,0:04:11.64,GJM_Main,Da,0,0,0,,Few get to see the knights fight.
 Dialogue: 10,0:04:12.40,0:04:13.98,GJM_Main,Da,0,0,0,,Make the most of this chance.
 Dialogue: 10,0:04:14.34,0:04:16.11,GJM_Main,My,0,0,0,,Please accept my deepest gratitude.
@@ -138,7 +135,7 @@ Dialogue: 10,0:09:23.17,0:09:25.43,GJM_Main,Sh,0,0,0,,Who do you think you are, 
 Dialogue: 10,0:09:26.12,0:09:28.08,GJM_Main,Sh,0,0,0,,Want me to gouge them out?
 Dialogue: 10,0:09:35.64,0:09:36.74,GJM_Main,Sh,0,0,0,,Messer.
 Dialogue: 10,0:09:39.49,0:09:41.40,GJM_Main,Da,0,0,0,,You mustn't, Shikza!
-Dialogue: 10,0:09:41.40,0:09:45.08,GJM_Main,Da,0,0,0,,{\q2}She is the apprentice shrine maiden\N who's supposed to perform the ritual!
+Dialogue: 10,0:09:41.40,0:09:45.08,GJM_Main,Da,0,0,0,,{\q2}She is the apprentice priestess\N who's supposed to perform the ritual!
 Dialogue: 10,0:09:45.08,0:09:48.56,GJM_Main,Sh,0,0,0,,Quiet! I won't have laynobles ordering me around!
 Dialogue: 10,0:09:53.46,0:09:53.98,GJM_Main,My,0,0,0,,No!
 Dialogue: 10,0:09:55.82,0:09:59.22,GJM_Main,Sh,0,0,0,,{\q2}That's right, commoners\N should fear us and show respect.
@@ -151,7 +148,7 @@ Dialogue: 10,0:10:29.15,0:10:29.98,GJM_Main,My,0,0,0,,What?!
 Dialogue: 10,0:10:34.45,0:10:35.28,GJM_Main,Fr,0,0,0,,Sister Myne!
 Dialogue: 10,0:10:38.61,0:10:40.42,GJM_Main,Da,0,0,0,,The trombe's growing so fast...
 Dialogue: 10,0:10:40.42,0:10:42.86,GJM_Main,Sh,0,0,0,,It's your own fault for suddenly...
-Dialogue: 10,0:10:47.29,0:10:49.08,GJM_Main,Da,0,0,0,,I'll save you, apprentice shrine maiden!
+Dialogue: 10,0:10:47.29,0:10:49.08,GJM_Main,Da,0,0,0,,I'll save you, priestess!
 Dialogue: 10,0:10:51.48,0:10:53.60,GJM_Main,Da,0,0,0,,{\q2}O God of Darkness, \Nthe mighty King of the endless skies,
 Dialogue: 10,0:10:53.60,0:10:56.51,GJM_Main,Da,0,0,0,,{\q2}holy creator of this world\N and of all life upon this earth,
 Dialogue: 10,0:10:56.51,0:10:59.36,GJM_Main,Da,0,0,0,,heed our prayers and grant us your divine strength.
@@ -275,7 +272,7 @@ Dialogue: 10,0:18:45.26,0:18:50.78,GJM_Main,HP,0,0,0,,{\q2}If you knew your plac
 Dialogue: 10,0:18:51.58,0:18:55.48,GJM_Main,HP,0,0,0,,You're the one who doesn't know their place!{Push to 26 if changed}
 Dialogue: 10,0:18:57.40,0:18:59.99,GJM_Main,Sh,0,0,0,,But she is merely a commoner...
 Dialogue: 10,0:19:00.32,0:19:04.17,GJM_Main,HP,0,0,0,,The one you caused harm is not merely a commoner.
-Dialogue: 10,0:19:04.76,0:19:06.78,GJM_Main,HP,0,0,0,,She is an apprentice shrine maiden{split 3 liner}
+Dialogue: 10,0:19:04.76,0:19:06.78,GJM_Main,HP,0,0,0,,She is an apprentice priestess
 Dialogue: 10,0:19:06.78,0:19:11.53,GJM_Main,HP,0,0,0,,{\q2}who's been given blue robes with the permission \Nof the Archduke due to her immense mana!
 Dialogue: 10,0:19:24.50,0:19:29.62,GJM_Main,HP,0,0,0,,{\q2}By insulting her, \Nyou're insulting the Archduke himself!
 Dialogue: 10,0:19:29.62,0:19:31.27,GJM_Main,HP,0,0,0,,Remember that well!
