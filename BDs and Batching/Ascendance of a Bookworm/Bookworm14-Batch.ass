@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 571
-Active Line: 586
+Scroll Position: 143
+Active Line: 150
 Video Position: 32967
 
 [V4+ Styles]
@@ -179,7 +179,7 @@ Dialogue: 10,0:10:34.79,0:10:37.72,GJM_Main,,0,0,0,,Have these impudent parents 
 Dialogue: 10,0:10:37.72,0:10:40.41,GJM_Main,,0,0,0,,Take Myne into the back and restrain her!
 Dialogue: 10,0:10:56.44,0:10:59.17,GJM_Main,,0,0,0,,Have these impudent parents taken away!
 Dialogue: 10,0:10:59.17,0:11:01.47,GJM_Main,,0,0,0,,Take Myne into the back and restrain her!
-Dialogue: 10,0:11:01.96,0:11:03.35,GJM_Main,,0,0,0,,Lower your weapons.
+Dialogue: 10,0:11:01.96,0:11:03.35,GJM_Main,,0,0,0,,Get behind me.
 Dialogue: 10,0:11:04.73,0:11:06.40,GJM_Main,,0,0,0,,You mean to resist?
 Dialogue: 10,0:11:06.40,0:11:11.23,GJM_Main,,0,0,0,,{\q2}If you dare raise a hand against the temple,\N I'll have you executed in the name of the gods.
 Dialogue: 10,0:11:11.48,0:11:16.19,GJM_Main,,0,0,0,,{\q2}When I resolved to protect Myne,\N I readied myself to put my life on the line.

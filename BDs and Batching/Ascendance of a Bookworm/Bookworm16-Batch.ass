@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 28
-Active Line: 35
+Scroll Position: 80
+Active Line: 84
 Video Position: 6136
 
 [V4+ Styles]
@@ -114,7 +114,7 @@ Dialogue: 10,0:06:48.34,0:06:50.09,GJM_Main,G,0,0,0,,What? It's lunch!
 Dialogue: 10,0:06:50.42,0:06:52.39,GJM_Main,M,0,0,0,,Go eat it yourself.
 Dialogue: 10,0:06:52.39,0:06:54.12,GJM_Main,M,0,0,0,,I'm not your master, right?
 Dialogue: 10,0:06:54.12,0:06:56.50,GJM_Main,G,0,0,0,,Stop spouting nonsense!
-Dialogue: 10,0:06:56.50,0:06:58.35,GJM_Main,G,0,0,0,,The master is supposed to give the blessing—
+Dialogue: 10,0:06:56.50,0:06:58.35,GJM_Main,G,0,0,0,,The divine gifts can be granted only by the—
 Dialogue: 10,0:06:58.35,0:06:59.94,GJM_Main,M,0,0,0,,Don't bother me.
 Dialogue: 10,0:07:06.38,0:07:08.40,GJM_Main,M,0,0,0,,And it's nice and quiet again.
 Dialogue: 10,0:07:11.47,0:07:13.57,GJM_Main,M,0,0,0,,Lutz!

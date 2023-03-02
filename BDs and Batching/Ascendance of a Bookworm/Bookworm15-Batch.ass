@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 34
-Active Line: 51
+Scroll Position: 250
+Active Line: 294
 Video Position: 6446
 
 [V4+ Styles]
@@ -324,7 +324,7 @@ Dialogue: 10,0:19:17.30,0:19:23.70,GJM_Main,M,0,0,0,,{\q2}Um, High Priest, I've 
 Dialogue: 10,0:19:23.70,0:19:24.62,GJM_Main,HP,0,0,0,,That won't be possible.
 Dialogue: 10,0:19:25.24,0:19:29.21,GJM_Main,HP,0,0,0,,{\q2}It's a duty of those clad in\N blue robes to have attendants.
 Dialogue: 10,0:19:30.12,0:19:31.85,GJM_Main,M,0,0,0,,I see...
-Dialogue: 10,0:19:31.85,0:19:36.69,GJM_Main,HP,0,0,0,,{\q2}As their master, you must ensure\N their proper speech and conduct.
+Dialogue: 10,0:19:31.85,0:19:36.69,GJM_Main,HP,0,0,0,,{\q2}As their master, you must ensure\N your proper speech and conduct.
 Dialogue: 10,0:19:37.21,0:19:40.32,GJM_Main,M,0,0,0,,Proper speech and conduct?
 Dialogue: 10,0:19:40.57,0:19:42.89,GJM_Main,A,0,0,0,,High Priest, may I?
 Dialogue: 10,0:19:42.89,0:19:44.83,GJM_Main,HP,0,0,0,,What is it, Arno?

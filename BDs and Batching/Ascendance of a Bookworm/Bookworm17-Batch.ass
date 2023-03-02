@@ -14,8 +14,8 @@ Last Style Storage: Default
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 101
-Active Line: 105
+Scroll Position: 95
+Active Line: 104
 Video Position: 10448
 
 [V4+ Styles]
@@ -134,7 +134,7 @@ Dialogue: 10,0:07:03.39,0:07:05.52,GJM_Main,HP,0,0,0,,Hence, I cannot grant you 
 Dialogue: 10,0:07:06.79,0:07:08.34,GJM_Main,My,0,0,0,,I see...
 Dialogue: 10,0:07:08.34,0:07:09.28,GJM_Main,Ar,0,0,0,,High Priest.
 Dialogue: 10,0:07:10.55,0:07:12.95,GJM_Main,Ar,0,0,0,,What about the orphanage director's quarters?
-Dialogue: 10,0:07:12.95,0:07:15.28,GJM_Main,Ar,0,0,0,,They're far from the nobles' district,
+Dialogue: 10,0:07:12.95,0:07:15.28,GJM_Main,Ar,0,0,0,,They're far from the nobles' section,
 Dialogue: 10,0:07:15.76,0:07:18.17,GJM_Main,Ar,0,0,0,,and were previously occupied by a blue priestess,
 Dialogue: 10,0:07:18.17,0:07:19.92,GJM_Main,Ar,0,0,0,,so they should be suitable for receiving guests.
 Dialogue: 10,0:07:23.89,0:07:25.21,GJM_Main,HP,0,0,0,,Very well.

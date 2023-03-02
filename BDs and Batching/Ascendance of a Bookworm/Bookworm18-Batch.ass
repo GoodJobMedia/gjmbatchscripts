@@ -14,8 +14,8 @@ Last Style Storage: Default
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 259
-Active Line: 273
+Scroll Position: 262
+Active Line: 306
 Video Position: 26593
 
 [V4+ Styles]
@@ -62,7 +62,7 @@ Dialogue: 10,0:03:58.38,0:03:59.55,GJM_Main,Gi,0,0,0,,S-Sister Myne!
 Dialogue: 10,0:04:03.13,0:04:06.32,GJM_Main,De,0,0,0,,{\q2}Gods! Why would you take\N Sister Myne to a place like that?!
 Dialogue: 10,0:04:06.32,0:04:07.39,GJM_Main,De,0,0,0,,You're an imbecile. You fool!
 Dialogue: 10,0:04:07.39,0:04:09.22,GJM_Main,Gi,0,0,0,,Why are you blaming me?!
-Dialogue: 10,0:04:09.22,0:04:11.89,GJM_Main,Gi,0,0,0,,I didn't know she'd end up like this!
+Dialogue: 10,0:04:09.22,0:04:11.89,GJM_Main,Gi,0,0,0,,I had no idea things were this bad!
 Dialogue: 10,0:04:12.75,0:04:14.50,GJM_Main,Gi,0,0,0,,Sister Myne! You're awake?!
 Dialogue: 10,0:04:15.75,0:04:16.74,GJM_Main,Gi,0,0,0,,I'm so glad...
 Dialogue: 10,0:04:17.72,0:04:20.42,GJM_Main,Gi,0,0,0,,I... I'm sorry.
@@ -336,7 +336,7 @@ Dialogue: 10,0:20:08.05,0:20:10.77,GJM_Main,HP,0,0,0,,{\q2}I guess she needs som
 Dialogue: 10,0:20:11.35,0:20:15.39,GJM_Main,My,0,0,0,,High Priest, can I ask you something?
 Dialogue: 10,0:20:16.96,0:20:17.98,GJM_Main,HP,0,0,0,,What is it?
 Dialogue: 10,0:20:18.68,0:20:22.74,GJM_Main,My,0,0,0,,Why are you different from the other priests?
-Dialogue: 10,0:20:25.19,0:20:30.00,GJM_Main,HP,0,0,0,,Just like you, I was not born within the temple.
+Dialogue: 10,0:20:25.19,0:20:30.00,GJM_Main,HP,0,0,0,,Just like you, I was not raised within the temple.
 Dialogue: 10,0:20:31.62,0:20:33.83,GJM_Main,HP,0,0,0,,I was born into nobility,
 Dialogue: 10,0:20:33.83,0:20:36.13,GJM_Main,HP,0,0,0,,and joined the temple for a certain reason.
 Dialogue: 10,0:20:37.97,0:20:41.26,GJM_Main,HP,0,0,0,,Make sure to report all your activities to me.
