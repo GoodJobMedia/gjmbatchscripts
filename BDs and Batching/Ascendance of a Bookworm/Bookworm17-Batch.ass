@@ -14,8 +14,8 @@ Last Style Storage: Default
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 95
-Active Line: 104
+Scroll Position: 65
+Active Line: 103
 Video Position: 10448
 
 [V4+ Styles]
@@ -96,8 +96,8 @@ Dialogue: 10,0:04:56.54,0:04:59.34,GJM_Main,Fr,0,0,0,,Gil, Lutz is right.
 Dialogue: 10,0:04:59.34,0:05:04.32,GJM_Main,Fr,0,0,0,,{\q2}Please don't think that you'll be granted\Nyour divine gifts without doing any work.
 Dialogue: 10,0:05:04.62,0:05:06.50,GJM_Main,Gi,0,0,0,,How could you understand?!
 Dialogue: 10,0:05:06.50,0:05:09.62,GJM_Main,Gi,0,0,0,,{\q2}You're probably getting fancy food\Nfrom the high priest!
-Dialogue: 10,0:05:11.91,0:05:15.45,GJM_Main,Fr,0,0,0,,{\q2}It is true that I have not moved out\Nof the high priest's quarters,
-Dialogue: 10,0:05:15.45,0:05:19.50,GJM_Main,Fr,0,0,0,,{\q2}and Delia likely still resides\Nin the high bishop's quarters as well.
+Dialogue: 10,0:05:11.91,0:05:15.45,GJM_Main,Fr,0,0,0,,{\q2}It is true that I have not moved out\Nof the high priest's chambers,
+Dialogue: 10,0:05:15.45,0:05:19.50,GJM_Main,Fr,0,0,0,,{\q2}and Delia likely still resides\Nin the high bishop's chambers as well.
 Dialogue: 10,0:05:21.29,0:05:22.51,GJM_Main,My,0,0,0,,What about you, Gil?
 Dialogue: 10,0:05:22.93,0:05:25.86,GJM_Main,Gi,0,0,0,,I thought attendants ate proper meals.
 Dialogue: 10,0:05:25.86,0:05:28.42,GJM_Main,Gi,0,0,0,,That's why I became your attendant!
@@ -115,7 +115,7 @@ Dialogue: 10,0:05:59.32,0:06:02.63,GJM_Main,My,0,0,0,,{\q2}I'll think about what
 Dialogue: 10,0:06:02.63,0:06:04.84,GJM_Main,My,0,0,0,,Would you mind giving me some time?
 Dialogue: 10,0:06:06.40,0:06:09.92,GJM_Main,Gi,0,0,0,,Can you actually manage that?
 Dialogue: 10,0:06:11.63,0:06:16.06,GJM_Main,My,0,0,0,,{\i1\q2}Thinking about what I could do\Nto ensure Gil received divine gifts,
-Dialogue: 10,0:06:16.06,0:06:19.91,GJM_Main,My,0,0,0,,{\i1\q2}I headed to the high priest's\Nquarters to do some paperwork.
+Dialogue: 10,0:06:16.06,0:06:19.91,GJM_Main,My,0,0,0,,{\i1\q2}I headed to the high priest's\Nchambers to do some paperwork.
 Dialogue: 10,0:06:22.24,0:06:24.03,GJM_Main,HP,0,0,0,,What happened to your blue robes?
 Dialogue: 10,0:06:24.29,0:06:28.65,GJM_Main,My,0,0,0,,{\q2}I've heard I'd get kidnapped\Nif I wore them in the lower city.
 Dialogue: 10,0:06:29.70,0:06:30.91,GJM_Main,HP,0,0,0,,Kidnapped?
@@ -123,26 +123,26 @@ Dialogue: 10,0:06:31.29,0:06:31.95,GJM_Main,My,0,0,0,,Yes.
 Dialogue: 10,0:06:31.95,0:06:35.84,GJM_Main,My,0,0,0,,{\q2}That's why I was planning\Nto put them on once at the temple.
 Dialogue: 10,0:06:35.84,0:06:37.91,GJM_Main,My,0,0,0,,Please excuse me for a moment.
 Dialogue: 10,0:06:43.12,0:06:44.83,GJM_Main,HP,0,0,0,,How disgraceful.
-Dialogue: 10,0:06:44.83,0:06:46.96,GJM_Main,HP,0,0,0,,{\q2}In the future, be sure to change in your quarters.
-Dialogue: 10,0:06:47.86,0:06:49.55,GJM_Main,My,0,0,0,,I'm getting my own quarters?
+Dialogue: 10,0:06:44.83,0:06:46.96,GJM_Main,HP,0,0,0,,{\q2}In the future, be sure to change in your chambers.
+Dialogue: 10,0:06:47.86,0:06:49.55,GJM_Main,My,0,0,0,,I'm getting my own chambers?
 Dialogue: 10,0:06:50.43,0:06:53.18,GJM_Main,HP,0,0,0,,Slip of the tongue.
 Dialogue: 10,0:06:53.18,0:06:55.58,GJM_Main,HP,0,0,0,,{\q2}The sole reason we agreed\Nto you commuting to the temple
 Dialogue: 10,0:06:55.58,0:06:58.41,GJM_Main,HP,0,0,0,,{\q2}was because your wish happened\N to align with our opinion
 Dialogue: 10,0:06:58.41,0:07:00.74,GJM_Main,HP,0,0,0,,{\q2}that it would be better for us\Nif you were to commute to the temple
-Dialogue: 10,0:07:00.74,0:07:02.48,GJM_Main,HP,0,0,0,,than receive quarters in the nobles' district.
+Dialogue: 10,0:07:00.74,0:07:02.48,GJM_Main,HP,0,0,0,,than receive chambers in the nobles' section.
 Dialogue: 10,0:07:03.39,0:07:05.52,GJM_Main,HP,0,0,0,,Hence, I cannot grant you any.
 Dialogue: 10,0:07:06.79,0:07:08.34,GJM_Main,My,0,0,0,,I see...
 Dialogue: 10,0:07:08.34,0:07:09.28,GJM_Main,Ar,0,0,0,,High Priest.
-Dialogue: 10,0:07:10.55,0:07:12.95,GJM_Main,Ar,0,0,0,,What about the orphanage director's quarters?
+Dialogue: 10,0:07:10.55,0:07:12.95,GJM_Main,Ar,0,0,0,,What about the orphanage director's chambers?
 Dialogue: 10,0:07:12.95,0:07:15.28,GJM_Main,Ar,0,0,0,,They're far from the nobles' section,
 Dialogue: 10,0:07:15.76,0:07:18.17,GJM_Main,Ar,0,0,0,,and were previously occupied by a blue priestess,
 Dialogue: 10,0:07:18.17,0:07:19.92,GJM_Main,Ar,0,0,0,,so they should be suitable for receiving guests.
 Dialogue: 10,0:07:23.89,0:07:25.21,GJM_Main,HP,0,0,0,,Very well.
-Dialogue: 10,0:07:25.21,0:07:28.16,GJM_Main,HP,0,0,0,,{\q2}I shall grant Myne \Nthe orphanage director's quarters.
+Dialogue: 10,0:07:25.21,0:07:28.16,GJM_Main,HP,0,0,0,,{\q2}I shall grant Myne \Nthe orphanage director's chambers.
 Dialogue: 10,0:07:28.16,0:07:32.43,GJM_Main,HP,0,0,0,,{\q2}From now on, ensure you change\Ninto your robes and receive visitors there.
 Dialogue: 10,0:07:33.99,0:07:35.68,GJM_Main,My,0,0,0,,Thank you for your benevolence.
 Dialogue: 10,0:07:36.39,0:07:40.14,GJM_Main,My,0,0,0,,{\q2}That's shelter sorted for my attendants!\N Now for food and clothing...
-Dialogue: 10,0:07:43.22,0:07:45.90,GJM_Main,HP,0,0,0,,{\q2}The director's quarters\Nhave sat unused for a long while,
+Dialogue: 10,0:07:43.22,0:07:45.90,GJM_Main,HP,0,0,0,,{\q2}The director's chambers\Nhave sat unused for a long while,
 Dialogue: 10,0:07:45.90,0:07:48.07,GJM_Main,HP,0,0,0,,{\q2}so they'll need cleaning\Nif you intend to use them.
 Dialogue: 10,0:07:49.35,0:07:52.85,GJM_Main,My,0,0,0,,{\q2}In that case, while I help\Nwith your work, High Priest,
 Dialogue: 10,0:07:52.85,0:07:54.57,GJM_Main,My,0,0,0,,Gil can do the cleaning.
@@ -154,7 +154,7 @@ Dialogue: 10,0:08:09.04,0:08:11.34,GJM_Main,My,0,0,0,,I won't be able to judge h
 Dialogue: 10,0:08:15.25,0:08:19.48,GJM_Main,My,0,0,0,,{\q2}Gil, you said you don't\Nacknowledge me as your master,
 Dialogue: 10,0:08:19.48,0:08:22.10,GJM_Main,My,0,0,0,,{\q2}but would you do work\Nif it means getting a meal?
 Dialogue: 10,0:08:22.10,0:08:23.23,GJM_Main,Gi,0,0,0,,Huh?
-Dialogue: 10,0:08:23.53,0:08:27.34,GJM_Main,My,0,0,0,,{\q2}If you clean the director's quarters,\N I'll pay you a fair wage.
+Dialogue: 10,0:08:23.53,0:08:27.34,GJM_Main,My,0,0,0,,{\q2}If you clean the director's chambers,\N I'll pay you a fair wage.
 Dialogue: 10,0:08:27.34,0:08:30.39,GJM_Main,Gi,0,0,0,,Huh? What's a wage?
 Dialogue: 10,0:08:30.39,0:08:33.08,GJM_Main,My,0,0,0,,A reward corresponding to the work done.
 Dialogue: 10,0:08:33.08,0:08:35.24,GJM_Main,My,0,0,0,,The money you deserve for working.
@@ -164,17 +164,17 @@ Dialogue: 10,0:08:41.22,0:08:43.20,GJM_Main,Gi,0,0,0,,He... who does not work?
 Dialogue: 10,0:08:43.20,0:08:46.98,GJM_Main,My,0,0,0,,{\q2}I can't give food or clothing\Nto someone who doesn't work,
 Dialogue: 10,0:08:46.98,0:08:49.76,GJM_Main,My,0,0,0,,{\q2}but if you put in the effort,\NI'll prepare them for you.
 Dialogue: 10,0:08:51.13,0:08:53.42,GJM_Main,My,0,0,0,,Will you do the cleaning for me?
-Dialogue: 10,0:08:53.73,0:08:57.36,GJM_Main,Gi,0,0,0,,{\q2}So if I clean the quarters,\NI'll get this "wage" or whatever,
+Dialogue: 10,0:08:53.73,0:08:57.36,GJM_Main,Gi,0,0,0,,{\q2}So if I clean the chambers,\NI'll get this "wage" or whatever,
 Dialogue: 10,0:08:57.36,0:08:59.39,GJM_Main,Gi,0,0,0,,and I'll seriously be able to eat all I want?
 Dialogue: 10,0:09:00.93,0:09:02.39,GJM_Main,My,0,0,0,,I promise.
 Dialogue: 10,0:09:03.72,0:09:05.90,GJM_Main,Gi,0,0,0,,Sure. I'll do it.
-Dialogue: 10,0:09:06.40,0:09:08.71,GJM_Main,My,0,0,0,,{\q2}I'm looking forward to seeing\N the cleaned quarters, Gil.
+Dialogue: 10,0:09:06.40,0:09:08.71,GJM_Main,My,0,0,0,,{\q2}I'm looking forward to seeing\N the cleaned chambers, Gil.
 Dialogue: 10,0:09:23.26,0:09:24.96,GJM_Main,Gi,0,0,0,,So dirty!
 Dialogue: 10,0:09:31.59,0:09:32.71,GJM_Main,Gi,0,0,0,,Holy...
 Dialogue: 10,0:09:43.33,0:09:44.89,GJM_Main,Gi,0,0,0,,Just you watch, short stuff!
 Dialogue: 10,0:09:49.00,0:09:52.38,GJM_Main,Fr,0,0,0,,{\q2}The orphanage is split between\N the two sides of the chapel,
 Dialogue: 10,0:09:52.38,0:09:54.71,GJM_Main,Fr,0,0,0,,one side being for girls and one for boys.
-Dialogue: 10,0:09:55.36,0:09:58.45,GJM_Main,Fr,0,0,0,,{\q2}The director's quarters are\Non your left, in the boys' building.
+Dialogue: 10,0:09:55.36,0:09:58.45,GJM_Main,Fr,0,0,0,,{\q2}The director's chambers are\Non your left, in the boys' building.
 Dialogue: 10,0:09:59.06,0:10:01.16,GJM_Main,Fr,0,0,0,,We're almost there.
 Dialogue: 10,0:10:09.53,0:10:11.37,GJM_Main,Fr,0,0,0,,It doesn't look like it was cleaned.
 Dialogue: 10,0:10:12.33,0:10:15.06,GJM_Main,Lu,0,0,0,,Did you ask too much of him?
@@ -202,7 +202,7 @@ Dialogue: 10,0:12:03.52,0:12:06.04,GJM_Main,HB,0,0,0,,Such insolence from the hi
 Dialogue: 10,0:12:06.52,0:12:07.34,GJM_Main,HB,0,0,0,,Delia!
 Dialogue: 10,0:12:07.34,0:12:09.58,GJM_Main,HB,0,0,0,,Why didn't you say anything?!
 Dialogue: 10,0:12:09.87,0:12:11.54,GJM_Main,De,0,0,0,,What might you be talking about?
-Dialogue: 10,0:12:11.78,0:12:14.96,GJM_Main,HB,0,0,0,,That {\i1}thing{\i0} got the orphanage director's quarters!
+Dialogue: 10,0:12:11.78,0:12:14.96,GJM_Main,HB,0,0,0,,That {\i1}thing{\i0} got the orphanage director's chambers!
 Dialogue: 10,0:12:15.22,0:12:16.09,GJM_Main,De,0,0,0,,Huh?
 Dialogue: 10,0:12:17.02,0:12:20.48,GJM_Main,HB,0,0,0,,{\q2}You won't get any information\N out of her if you stay here!
 Dialogue: 10,0:12:20.97,0:12:23.43,GJM_Main,De,0,0,0,,Huh? I-I mean...
@@ -263,7 +263,7 @@ Dialogue: 10,0:15:22.38,0:15:25.57,GJM_Main,Lu,0,0,0,,{\q2}In exchange, I'll kee
 Dialogue: 10,0:15:25.57,0:15:26.86,GJM_Main,Lu,0,0,0,,What do you say, Gil?
 Dialogue: 10,0:15:29.86,0:15:31.37,GJM_Main,Gi,0,0,0,,Thanks, Lutz.
 Dialogue: 10,0:15:34.88,0:15:37.08,GJM_Main,Be,0,0,0,,What? You found an oven?
-Dialogue: 10,0:15:37.53,0:15:42.71,GJM_Main,My,0,0,0,,{\q2}There was one in the kitchen of the orphanage \Ndirector's quarters that were granted to me.
+Dialogue: 10,0:15:37.53,0:15:42.71,GJM_Main,My,0,0,0,,{\q2}There was one in the kitchen of the orphanage \Ndirector's chambers that were granted to me.
 Dialogue: 10,0:15:43.08,0:15:44.81,GJM_Main,Be,0,0,0,,Good job, Myne!
 Dialogue: 10,0:15:44.81,0:15:47.45,GJM_Main,Be,0,0,0,,If it's a kitchen that was previously used by nobles,
 Dialogue: 10,0:15:47.45,0:15:51.09,GJM_Main,Be,0,0,0,,it'll be a perfect reference for an Italian restaurant!
@@ -292,11 +292,11 @@ Dialogue: 10,0:17:19.97,0:17:21.43,GJM_Main,My,0,0,0,,Good job, me!
 Dialogue: 10,0:17:22.08,0:17:24.69,GJM_Main,My,0,0,0,,Fran, I grant you this divine gift.
 Dialogue: 10,0:17:25.09,0:17:26.35,GJM_Main,Fr,0,0,0,,Thank you.
 Dialogue: 10,0:17:29.96,0:17:31.61,GJM_Main,De,0,0,0,,This is all your fault!
-Dialogue: 10,0:17:32.36,0:17:34.16,GJM_Main,De,0,0,0,,You got these quarters without permission,
+Dialogue: 10,0:17:32.36,0:17:34.16,GJM_Main,De,0,0,0,,You got these chambers without permission,
 Dialogue: 10,0:17:34.16,0:17:37.28,GJM_Main,De,0,0,0,,{\q2}and thanks to that I got treated\Nlike an incompetent by the high bishop!
 Dialogue: 10,0:17:37.28,0:17:38.21,GJM_Main,Fr,0,0,0,,Delia!
 Dialogue: 10,0:17:38.21,0:17:38.99,GJM_Main,Gi,0,0,0,,Stop that!
-Dialogue: 10,0:17:41.82,0:17:45.60,GJM_Main,De,0,0,0,,{\q2}I was kicked out of the \Nhigh bishop's quarters because of you!
+Dialogue: 10,0:17:41.82,0:17:45.60,GJM_Main,De,0,0,0,,{\q2}I was kicked out of the \Nhigh bishop's chambers because of you!
 Dialogue: 10,0:17:45.60,0:17:46.83,GJM_Main,De,0,0,0,,What will do you about that, huh?!
 Dialogue: 10,0:17:49.57,0:17:54.67,GJM_Main,My,0,0,0,,{\q2}Does getting kicked out mean\Nyou've been abandoned by the high bishop?
 Dialogue: 10,0:17:56.05,0:17:58.81,GJM_Main,De,0,0,0,,I-I haven't been abandoned yet.
@@ -321,7 +321,7 @@ Dialogue: 10,0:19:01.92,0:19:03.45,GJM_Main,My,0,0,0,,Pretending?!
 Dialogue: 10,0:19:04.12,0:19:05.91,GJM_Main,De,0,0,0,,I'm not pretending!
 Dialogue: 10,0:19:05.91,0:19:08.32,GJM_Main,Gi,0,0,0,,"He who does not work, neither shall he eat!"
 Dialogue: 10,0:19:08.32,0:19:08.96,GJM_Main,De,0,0,0,,What?
-Dialogue: 10,0:19:09.46,0:19:12.18,GJM_Main,Gi,0,0,0,,{\q2}There's no place in these quarters\Nfor someone who doesn't work,
+Dialogue: 10,0:19:09.46,0:19:12.18,GJM_Main,Gi,0,0,0,,{\q2}There's no place in these chambers\Nfor someone who doesn't work,
 Dialogue: 10,0:19:12.18,0:19:14.22,GJM_Main,Gi,0,0,0,,and you can't eat without working first!
 Dialogue: 10,0:19:14.22,0:19:15.92,GJM_Main,Gi,0,0,0,,Ain't that right, Sister Myne?
 Dialogue: 10,0:19:17.76,0:19:20.21,GJM_Main,My,0,0,0,,Yes, it's exactly as Gil says.

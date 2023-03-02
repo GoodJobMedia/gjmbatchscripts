@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 143
-Active Line: 150
+Scroll Position: 174
+Active Line: 218
 Video Position: 32967
 
 [V4+ Styles]
@@ -247,7 +247,7 @@ Dialogue: 10,0:16:07.48,0:16:09.69,GJM_Main,,0,0,0,,I've said this many times.
 Dialogue: 10,0:16:16.58,0:16:23.08,GJM_Main,,0,0,0,,{\q2}Myne, seeing your parents value you and love you\N to this degree makes me feel deep jealousy.
 Dialogue: 10,0:16:24.08,0:16:27.29,GJM_Main,,0,0,0,,{\q2}Those working in the temple are\N made up of both orphans and nobles
 Dialogue: 10,0:16:27.29,0:16:30.84,GJM_Main,,0,0,0,,{\q2}who were deemed unnecessary by their parents.
-Dialogue: 10,0:16:34.61,0:16:40.10,GJM_Main,,0,0,0,,{\i1\q2}After that, we were brought to the\N high priest's quarters to talk things through.
+Dialogue: 10,0:16:34.61,0:16:40.10,GJM_Main,,0,0,0,,{\i1\q2}After that, we were brought to the\N high priest's chambers to talk things through.
 Dialogue: 10,0:16:40.65,0:16:45.09,GJM_Main,,0,0,0,,What exactly was going on with Myne earlier?
 Dialogue: 10,0:16:45.09,0:16:46.36,GJM_Main,,0,0,0,,It's known as "Crushing."
 Dialogue: 10,0:16:46.58,0:16:49.37,GJM_Main,,0,0,0,,"Crushing"?
