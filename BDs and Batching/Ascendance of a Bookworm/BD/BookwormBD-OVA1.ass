@@ -14,7 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Active Line: 4
+Scroll Position: 598
+Active Line: 642
 Video Position: 307
 
 [V4+ Styles]
@@ -234,7 +235,7 @@ Dialogue: 10,0:12:52.74,0:12:54.50,GJM_Main,Mom,0,0,0,,A summons?!
 Dialogue: 10,0:12:54.82,0:12:57.50,GJM_Main,T,0,0,0,,What have you done, Myne?
 Dialogue: 10,0:13:11.01,0:13:15.77,GJM_Main,M,0,0,0,,{\q2}Mrs. Corinna said she wants to see\N my baptism dress and hair ornament.
 Dialogue: 10,0:13:16.03,0:13:17.27,GJM_Main,M,0,0,0,,Can I show them to her?
-Dialogue: 10,0:13:19.60,0:13:22.78,GJM_Main,Mom,0,0,0,,{\q2}I don't think Lady Corinna \Nwould be interested in seeing that.
+Dialogue: 10,0:13:19.60,0:13:22.78,GJM_Main,Mom,0,0,0,,{\q2}I don't think Mrs. Corinna \Nwould be interested in seeing that.
 Dialogue: 10,0:13:23.49,0:13:25.05,GJM_Main,M,0,0,0,,I see...
 Dialogue: 10,0:13:26.30,0:13:28.20,GJM_Main,M,0,0,0,,I'll decline the summons then.
 Dialogue: 10,0:13:28.43,0:13:29.95,GJM_Main,Mom,0,0,0,,You can't decline!
@@ -276,10 +277,10 @@ Dialogue: 10,0:15:10.15,0:15:11.68,GJM_Main,C,0,0,0,,Please come on in.
 Dialogue: 10,0:15:11.94,0:15:13.80,GJM_Main,M,0,0,0,,Thank you! It was very kind of you to invite us.
 Dialogue: 10,0:15:18.49,0:15:21.06,GJM_Main,M,0,0,0,,{\i1}They're way too nervous.
 Dialogue: 10,0:15:28.49,0:15:29.82,GJM_Main,M,0,0,0,,Thank you for having us.
-Dialogue: 10,0:15:30.07,0:15:32.07,GJM_Main,Mom,0,0,0,,It is nice to meet you, Lady Corinna.
+Dialogue: 10,0:15:30.07,0:15:32.07,GJM_Main,Mom,0,0,0,,It is nice to meet you, Mrs. Corinna.
 Dialogue: 10,0:15:32.07,0:15:34.35,GJM_Main,Mom,0,0,0,,I am Myne's mother, Effa.
 Dialogue: 10,0:15:34.35,0:15:36.83,GJM_Main,Mom,0,0,0,,Thank you so much for your invitation.
-Dialogue: 10,0:15:37.04,0:15:39.77,GJM_Main,T,0,0,0,,Lady Corinna, I'm Tuuli.
+Dialogue: 10,0:15:37.04,0:15:39.77,GJM_Main,T,0,0,0,,Mrs. Corinna, I'm Tuuli.
 Dialogue: 10,0:15:39.77,0:15:41.94,GJM_Main,T,0,0,0,,I've been looking forward to this.
 Dialogue: 10,0:15:41.94,0:15:43.92,GJM_Main,T,0,0,0,,I'm so glad I got to meet you.
 Dialogue: 10,0:15:45.39,0:15:47.69,GJM_Main,C,0,0,0,,I've been looking forward to it as well.
@@ -314,7 +315,7 @@ Dialogue: 10,0:17:08.77,0:17:10.55,GJM_Main,M,0,0,0,,I'd like you to buy the rig
 Dialogue: 10,0:17:10.55,0:17:12.55,GJM_Main,M,0,0,0,,Otherwise it'll be a problem for us.
 Dialogue: 10,0:17:13.24,0:17:14.17,GJM_Main,T,0,0,0,,Myne...
 Dialogue: 10,0:17:14.42,0:17:15.70,GJM_Main,Mom,0,0,0,,Myne...
-Dialogue: 10,0:17:15.70,0:17:17.51,GJM_Main,Mom,0,0,0,,I'm sorry, Lady Corinna.
+Dialogue: 10,0:17:15.70,0:17:17.51,GJM_Main,Mom,0,0,0,,I'm sorry, Mrs. Corinna.
 Dialogue: 10,0:17:17.51,0:17:19.41,GJM_Main,M,0,0,0,,Please stay quiet, Mom.
 Dialogue: 10,0:17:19.41,0:17:21.52,GJM_Main,M,0,0,0,,This is important.
 Dialogue: 10,0:17:21.88,0:17:23.27,GJM_Main,T/Mom,0,0,0,,Myne...
@@ -356,7 +357,7 @@ Dialogue: 10,0:19:13.91,0:19:16.80,GJM_Main,C,0,0,0,,and have a talk about needl
 Dialogue: 10,0:19:17.35,0:19:18.30,GJM_Main,T,0,0,0,,Sure!
 Dialogue: 10,0:19:18.50,0:19:20.02,GJM_Main,T,0,0,0,,So pretty...
 Dialogue: 10,0:19:20.02,0:19:22.80,GJM_Main,T,0,0,0,,How do you make such wonderful clothes?
-Dialogue: 10,0:19:23.26,0:19:26.06,GJM_Main,T,0,0,0,,Could you show me, Lady Corinna?
+Dialogue: 10,0:19:23.26,0:19:26.06,GJM_Main,T,0,0,0,,Could you show me, Mrs. Corinna?
 Dialogue: 10,0:19:26.53,0:19:28.58,GJM_Main,C,0,0,0,,The technique is indeed important,
 Dialogue: 10,0:19:28.58,0:19:31.81,GJM_Main,C,0,0,0,,{\q2}but it's also very important \Nto see a lot of things for yourself.
 Dialogue: 10,0:19:32.35,0:19:34.06,GJM_Main,C,0,0,0,,Look at this, for example.
@@ -366,7 +367,7 @@ Dialogue: 10,0:19:43.85,0:19:46.54,GJM_Main,C,0,0,0,,{\q2}If you make a habit of
 Dialogue: 10,0:19:46.54,0:19:49.04,GJM_Main,C,0,0,0,,it will come in handy when designing things.
 Dialogue: 10,0:19:49.54,0:19:50.85,GJM_Main,T,0,0,0,,I see...
 Dialogue: 10,0:19:52.15,0:19:54.63,GJM_Main,T,0,0,0,,I want to become an apprentice seamstress
-Dialogue: 10,0:19:54.63,0:19:58.80,GJM_Main,T,0,0,0,,{\q2}so that I can one day make beautiful clothes\N like the ones you make, Lady Corinna!
+Dialogue: 10,0:19:54.63,0:19:58.80,GJM_Main,T,0,0,0,,{\q2}so that I can one day make beautiful clothes\N like the ones you make, Mrs. Corinna!
 Dialogue: 10,0:19:59.02,0:20:02.18,GJM_Main,C,0,0,0,,I see. Good luck, Tuuli!
 Dialogue: 10,0:20:02.57,0:20:03.93,GJM_Main,T,0,0,0,,Thank you!
 Dialogue: 10,0:20:04.80,0:20:07.14,GJM_Main,B,0,0,0,,And you used to be such an innocent child!
@@ -670,8 +671,8 @@ Dialogue: 1,0:02:27.12,0:02:32.13,Title,,0,0,0,,{\an5\pos(719.373,518.673)\fscx8
 Dialogue: 0,0:02:27.12,0:02:32.13,Title,,0,0,0,,{\an5\pos(720.908,519.999)\fscx80\fscy80\fs70\c&H000000&\blur1.4}Justus' Flawless Plan for Infiltrating\Nthe Lower City
 Dialogue: 1,0:12:01.70,0:12:05.20,Title,,0,0,0,,{\an5\pos(719.155,227.471)\fs50\c&H211D99&\blur0.6}Next Chapter
 Dialogue: 0,0:12:01.70,0:12:05.20,Title,,0,0,0,,{\an5\pos(720.483,229.029)\fs50\c&H010006&\blur1.35}Next Chapter
-Dialogue: 1,0:12:01.70,0:12:05.20,Title,,0,0,0,,{\an5\pos(719.373,494.648)\fscx80\fscy80\fs70\c&H211D99&\blur0.6}A Visit to Lady Corinna's House
-Dialogue: 0,0:12:01.70,0:12:05.20,Title,,0,0,0,,{\an5\pos(720.908,495.974)\fscx80\fscy80\fs70\c&H000000&\blur1.4}A Visit to Lady Corinna's House
+Dialogue: 1,0:12:01.70,0:12:05.20,Title,,0,0,0,,{\an5\pos(719.373,494.648)\fscx80\fscy80\fs70\c&H211D99&\blur0.6}A Visit to Mrs. Corinna's House
+Dialogue: 0,0:12:01.70,0:12:05.20,Title,,0,0,0,,{\an5\pos(720.908,495.974)\fscx80\fscy80\fs70\c&H000000&\blur1.4}A Visit to Mrs. Corinna's House
 Dialogue: 0,0:12:35.73,0:12:39.69,Title,,0,0,0,,{\an5\pos(1184.154,63.073)\fscy104\fs56.25\bord7.88\3c&HFFFFFF&\1a&HFF&\blur4.5\fad(0,809)}Ascendance of
 Dialogue: 0,0:12:35.73,0:12:39.69,Title,,0,0,0,,{\an5\pos(1184.154,111.287)\fscy104\fs56.25\bord7.88\3c&HFFFFFF&\1a&HFF&\blur4.5\fad(0,809)}a Bookworm
 Dialogue: 1,0:12:35.73,0:12:39.69,Title,,0,0,0,,{\an5\pos(1184.154,63.073)\fscy104\fs56.25\c&H25149F&\blur0.68\fad(0,809)}Ascendance of
@@ -688,8 +689,8 @@ Dialogue: 1,0:12:35.73,0:12:39.69,Signs,,0,0,0,,{\an7\pos(1182.022,239.654)\fry1
 Dialogue: 1,0:12:35.73,0:12:39.69,Signs,,0,0,0,,{\an7\pos(1182.022,239.654)\c&H54C75F&\blur0.9\fad(0,809)\p1}m -39.375 40.5 l -38.25 40.5 -30.375 41.625 -27 40.5 -23.625 40.5 -21.375 39.375 -16.875 38.25 -12.375 38.25 -7.875 39.375 -3.375 40.5 -1.125 40.5 -1.125 6.75 -2.25 6.75 -3.375 40.5 1.125 40.5 2.25 38.25 2.25 34.875 1.125 31.5 2.25 25.875 3.375 22.5 4.5 21.375 5.625 24.75 5.625 21.375 6.75 19.125 9 15.75 11.25 13.5 13.5 11.25 15.75 9 18 7.875 13.5 6.75 9 5.625 6.75 6.75 1.125 7.875 -1.125 7.875 -2.25 6.75 4.5 5.625 5.625 5.625 9 4.5 14.625 5.625 18 5.625 19.125 6.75 22.5 2.25 28.125 -1.125 29.25 -1.125 32.625 -2.25 34.875 -2.25 34.875 -1.125 32.625 -1.125 30.375 3.375 29.25 6.75 30.375 6.75 31.5 7.875 32.625 13.5 37.125 24.75 38.25 31.5 41.625 40.5 41.625 43.875 38.25 43.875 28.125 7.875 25.875 14.625 24.75 19.125 21.375 25.875 19.125 29.25 16.875 31.5 13.5 36 10.125 37.125 7.875 36 7.875 33.75 14.625 21.375 18 15.75 22.5 10.125 19.125 12.375 16.875 15.75 11.25 21.375 7.875 28.125 5.625 33.75 3.375 38.25 3.375 40.5 7.875 40.5 11.25 40.5 16.875 40.5 22.5 40.5 28.125 40.5 37.125 40.5 38.25 45 5.625 43.875 1.125 45 0 49.5 3.375 49.5 4.5 51.75 3.375 56.25 6.75 56.25 10.125 57.375 12.375 58.5 12.375 63 11.25 67.5 11.25 70.875 10.125 70.875 -12.375 72 -14.625 67.5 -15.75 63 -15.75 60.75 -14.625 58.5 -13.5 57.375 -7.875 56.25 -7.875 54 -7.875 49.5 -7.875 49.5 -5.625 49.5 -2.25 48.375 -1.125 46.125 -2.25 45 -43.875 43.875 -33.75 5.625 -30.375 5.625 -24.75 5.625 -19.125 4.5 -14.625 4.5 -11.25 4.5 -9 4.5 -4.5 5.625 -2.25 6.75 -2.25 7.875 -6.75 6.75 -10.125 6.75 -16.875 6.75 -21.375 7.875 -28.125 7.875 -31.5 7.875
 Dialogue: 1,0:13:05.76,0:13:10.76,Title,,0,0,0,,{\an5\pos(719.155,227.471)\fs50\c&H211D99&\blur0.6}Side Story: Chapter 2
 Dialogue: 0,0:13:05.76,0:13:10.76,Title,,0,0,0,,{\an5\pos(720.483,229.029)\fs50\c&H010006&\blur1.35}Side Story: Chapter 2
-Dialogue: 1,0:13:05.76,0:13:10.76,Title,,0,0,0,,{\an5\pos(719.373,494.648)\fscx80\fscy80\fs70\c&H211D99&\blur0.6}A Visit to Lady Corinna's House
-Dialogue: 0,0:13:05.76,0:13:10.76,Title,,0,0,0,,{\an5\pos(720.908,495.974)\fscx80\fscy80\fs70\c&H000000&\blur1.4}A Visit to Lady Corinna's House
+Dialogue: 1,0:13:05.76,0:13:10.76,Title,,0,0,0,,{\an5\pos(719.373,494.648)\fscx80\fscy80\fs70\c&H211D99&\blur0.6}A Visit to Mrs. Corinna's House
+Dialogue: 0,0:13:05.76,0:13:10.76,Title,,0,0,0,,{\an5\pos(720.908,495.974)\fscx80\fscy80\fs70\c&H000000&\blur1.4}A Visit to Mrs. Corinna's House
 Dialogue: 1,0:23:34.26,0:23:37.89,Title,,0,0,0,,{\an5\pos(725.729,469.685)\fscx80\fscy80\fs70\c&H211D99&\blur0.6}Back to the main story
 Dialogue: 0,0:23:34.26,0:23:37.89,Title,,0,0,0,,{\an5\pos(727.264,471.011)\fscx80\fscy80\fs70\c&H000000&\blur1.4}Back to the main story
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,
