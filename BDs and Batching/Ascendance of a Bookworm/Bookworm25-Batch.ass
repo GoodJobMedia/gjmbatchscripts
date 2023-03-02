@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 203
-Active Line: 238
+Scroll Position: 206
+Active Line: 243
 Video Position: 15520
 
 [V4+ Styles]
@@ -273,14 +273,14 @@ Dialogue: 10,0:18:51.58,0:18:55.48,GJM_Main,HP,0,0,0,,You're the one who doesn't
 Dialogue: 10,0:18:57.40,0:18:59.99,GJM_Main,Sh,0,0,0,,But she is merely a commoner...
 Dialogue: 10,0:19:00.32,0:19:04.17,GJM_Main,HP,0,0,0,,The one you caused harm is not merely a commoner.
 Dialogue: 10,0:19:04.76,0:19:06.78,GJM_Main,HP,0,0,0,,She is an apprentice priestess
-Dialogue: 10,0:19:06.78,0:19:11.53,GJM_Main,HP,0,0,0,,{\q2}who's been given blue robes with the permission \Nof the Archduke due to her immense mana!
-Dialogue: 10,0:19:24.50,0:19:29.62,GJM_Main,HP,0,0,0,,{\q2}By insulting her, \Nyou're insulting the Archduke himself!
+Dialogue: 10,0:19:06.78,0:19:11.53,GJM_Main,HP,0,0,0,,{\q2}who's been given blue robes with the permission \Nof the archduke due to her immense mana!
+Dialogue: 10,0:19:24.50,0:19:29.62,GJM_Main,HP,0,0,0,,{\q2}By insulting her, \Nyou're insulting the archduke himself!
 Dialogue: 10,0:19:29.62,0:19:31.27,GJM_Main,HP,0,0,0,,Remember that well!
 Dialogue: 10,0:19:35.67,0:19:38.06,GJM_Main,HP,0,0,0,,You both acted against your orders.
 Dialogue: 10,0:19:38.06,0:19:42.12,GJM_Main,HP,0,0,0,,{\q2}You not only abandoned your duty, but also \Nharmed the one you were supposed to protect.
 Dialogue: 10,0:19:42.12,0:19:44.53,GJM_Main,HP,0,0,0,,You've tainted the honor of the Knight's Order.
 Dialogue: 10,0:19:45.05,0:19:47.21,GJM_Main,HP,0,0,0,,Do not think your misdeeds are light.
-Dialogue: 10,0:19:49.05,0:19:52.79,GJM_Main,HP,0,0,0,,{\q2}You will hear of your punishment\N from the Archduke soon.
+Dialogue: 10,0:19:49.05,0:19:52.79,GJM_Main,HP,0,0,0,,{\q2}You will hear of your punishment\N from the archduke soon.
 Dialogue: 10,0:19:57.69,0:20:02.30,GJM_Main,HP,0,0,0,,{\q2}Karstedt, you've not only \Nchosen incompetent guards,
 Dialogue: 10,0:20:02.96,0:20:06.11,GJM_Main,HP,0,0,0,,but also failed to train the new recruits sufficiently.
 Dialogue: 10,0:20:06.11,0:20:08.45,GJM_Main,HP,0,0,0,,{\q2}As the captain of the Knight's Order,\N these misdeeds are also yours.
