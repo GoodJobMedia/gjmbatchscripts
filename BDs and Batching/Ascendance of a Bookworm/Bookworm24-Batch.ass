@@ -15,7 +15,7 @@ Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
 Scroll Position: 199
-Active Line: 216
+Active Line: 225
 Video Position: 25054
 
 [V4+ Styles]
@@ -255,7 +255,7 @@ Dialogue: 10,0:17:56.85,0:17:59.42,GJM_Main,HP,0,0,0,,Let our attendants ride wi
 Dialogue: 10,0:17:59.93,0:18:01.14,GJM_Main,HP,0,0,0,,Myne, come here.
 Dialogue: 10,0:18:01.43,0:18:02.64,GJM_Main,Ka,0,0,0,,Understood!
 Dialogue: 10,0:18:05.61,0:18:08.89,GJM_Main,My,0,0,0,,What are these, High Priest?
-Dialogue: 10,0:18:08.89,0:18:11.48,GJM_Main,HP,0,0,0,,{\q2}These are highbeasts. \NThey're created with magic stones.
+Dialogue: 10,0:18:08.89,0:18:11.48,GJM_Main,HP,0,0,0,,{\q2}These are highbeasts. \NThey're created with feystones.
 Dialogue: 10,0:18:11.93,0:18:14.24,GJM_Main,HP,0,0,0,,As long as they are supplied with mana,
 Dialogue: 10,0:18:14.24,0:18:15.91,GJM_Main,HP,0,0,0,,they will be able to move as if alive.
 Dialogue: 10,0:18:16.70,0:18:18.61,GJM_Main,My,0,0,0,,Move?

@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 40
-Active Line: 41
+Scroll Position: 28
+Active Line: 35
 Video Position: 6136
 
 [V4+ Styles]
@@ -59,13 +59,13 @@ Dialogue: 10,0:03:09.05,0:03:13.15,GJM_Main,HP,0,0,0,,{\q2}First, you'll be my a
 Dialogue: 10,0:03:13.67,0:03:18.13,GJM_Main,HP,0,0,0,,{\q2}You'll also be fulfilling your duties as a blue priestess,\N in particular praying and offering mana.
 Dialogue: 10,0:03:18.13,0:03:20.38,GJM_Main,M,0,0,0,,Offering mana?
 Dialogue: 10,0:03:20.88,0:03:23.64,GJM_Main,HP,0,0,0,,Fran, prepare the offering shield.
-Dialogue: 10,0:03:30.25,0:03:33.40,GJM_Main,HP,0,0,0,,Myne, touch the magic stone in the center.
+Dialogue: 10,0:03:30.25,0:03:33.40,GJM_Main,HP,0,0,0,,Myne, touch the feystone in the center.
 Dialogue: 10,0:03:34.15,0:03:37.40,GJM_Main,HP,0,0,0,,Visualize yourself sending your mana into it.
 Dialogue: 10,0:03:41.73,0:03:44.07,GJM_Main,M,0,0,0,,{\i1}This looks like a magic circle!
 Dialogue: 10,0:03:44.53,0:03:47.41,GJM_Main,M,0,0,0,,{\i1}Huh, my mana is getting sucked in.
 Dialogue: 10,0:03:47.99,0:03:51.85,GJM_Main,M,0,0,0,,{\i1}So I'm basically channeling my mana into it?
 Dialogue: 10,0:03:53.07,0:03:54.42,GJM_Main,M,0,0,0,,{\i1}What's that?
-Dialogue: 10,0:03:58.60,0:04:01.12,GJM_Main,HP,0,0,0,,Seven small magic stones worth, it seems.
+Dialogue: 10,0:03:58.60,0:04:01.12,GJM_Main,HP,0,0,0,,Seven small feystones worth, it seems.
 Dialogue: 10,0:04:01.12,0:04:02.43,GJM_Main,HP,0,0,0,,How are you feeling?
 Dialogue: 10,0:04:02.43,0:04:07.31,GJM_Main,M,0,0,0,,{\q2}Um... It was somewhat refreshing,\Nand it feels as if my body is lighter now.
 Dialogue: 10,0:04:07.31,0:04:08.33,GJM_Main,HP,0,0,0,,I see.
