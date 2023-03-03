@@ -141,13 +141,13 @@ Dialogue: 10,0:07:12.29,0:07:16.15,GJM_Main,My,0,0,0,,{\i1\q2}Even if Benno were
 Dialogue: 10,0:07:16.15,0:07:20.00,GJM_Main,My,0,0,0,,{\i1\q2}But right now he's enduring\N the life of a live-in apprentice.
 Dialogue: 10,0:07:23.84,0:07:24.70,GJM_Main,HP,0,0,0,,Myne.
 Dialogue: 10,0:07:24.70,0:07:25.47,GJM_Main,My,0,0,0,,Huh?
-Dialogue: 10,0:07:25.47,0:07:28.46,GJM_Main,My,0,0,0,,I mean, yes! What is it, high priest?
+Dialogue: 10,0:07:25.47,0:07:28.46,GJM_Main,My,0,0,0,,I mean, yes! What is it, High Priest?
 Dialogue: 10,0:07:30.60,0:07:33.09,GJM_Main,HP,0,0,0,,I see you're not making any progress.
 Dialogue: 10,0:07:34.48,0:07:36.60,GJM_Main,My,0,0,0,,My deepest apologies.
 Dialogue: 10,0:07:43.42,0:07:45.52,GJM_Main,HP,0,0,0,,Myne, your hand has stopped again.
 Dialogue: 10,0:07:45.78,0:07:48.86,GJM_Main,My,0,0,0,,Huh? Ah, right...
 Dialogue: 10,0:07:55.45,0:07:57.96,GJM_Main,HP,0,0,0,,Myne, come to the hidden room.
-Dialogue: 10,0:07:57.96,0:08:01.46,GJM_Main,My,0,0,0,,But what about your work, high priest?
+Dialogue: 10,0:07:57.96,0:08:01.46,GJM_Main,My,0,0,0,,But what about your work, High Priest?
 Dialogue: 10,0:08:01.75,0:08:03.96,GJM_Main,HP,0,0,0,,I need to fix my calculator first.
 Dialogue: 10,0:08:04.16,0:08:05.84,GJM_Main,My,0,0,0,,Calculator?
 Dialogue: 10,0:08:08.11,0:08:11.59,GJM_Main,My,0,0,0,,Is he talking about me?!
@@ -157,7 +157,7 @@ Dialogue: 10,0:08:18.24,0:08:21.00,GJM_Main,My,0,0,0,,It's not something I shoul
 Dialogue: 10,0:08:21.00,0:08:23.31,GJM_Main,My,0,0,0,,I will clear my mind and do my best.
 Dialogue: 10,0:08:23.63,0:08:27.31,GJM_Main,HP,0,0,0,,{\q2}Seeing as it interferes with your work,\N I am already bothered by it.
 Dialogue: 10,0:08:37.19,0:08:40.62,GJM_Main,HP,0,0,0,,{\q2}It's only natural that I wonder what\N might be wrong if a child acts like this.
-Dialogue: 10,0:08:50.18,0:08:54.69,GJM_Main,My,0,0,0,,{\q2}Could it be that you're\N worried about me, high priest?
+Dialogue: 10,0:08:50.18,0:08:54.69,GJM_Main,My,0,0,0,,{\q2}Could it be that you're\N worried about me, High Priest?
 Dialogue: 10,0:08:54.69,0:08:55.65,GJM_Main,HP,0,0,0,,No, I'm not.
 Dialogue: 10,0:08:58.59,0:09:03.81,GJM_Main,My,0,0,0,,{\q2}I'm not sure what to do about\N Lutz and Benno's situation.
 Dialogue: 10,0:09:04.16,0:09:07.53,GJM_Main,HP,0,0,0,,They're both very important to you, I believe?
@@ -190,12 +190,12 @@ Dialogue: 10,0:10:33.98,0:10:36.03,GJM_Main,HP,0,0,0,,I'll help you make the ado
 Dialogue: 10,0:10:36.62,0:10:39.99,GJM_Main,My,0,0,0,,{\i1}I-Is this getting out of hand?
 Dialogue: 10,0:10:52.15,0:10:56.05,GJM_Main,My,0,0,0,,{\i1}Everyone involved gathered at the temple.
 Dialogue: 10,0:11:04.42,0:11:07.87,GJM_Main,HP,0,0,0,,{\q2}Make sure to hold this \Nin your hand during the meeting.
-Dialogue: 10,0:11:07.87,0:11:09.94,GJM_Main,My,0,0,0,,What is this, high priest?
+Dialogue: 10,0:11:07.87,0:11:09.94,GJM_Main,My,0,0,0,,What is this, High Priest?
 Dialogue: 10,0:11:10.52,0:11:12.94,GJM_Main,HP,0,0,0,,It's a sound-blocking magic tool.
 Dialogue: 10,0:11:13.20,0:11:18.55,GJM_Main,HP,0,0,0,,{\q2}While you hold it, only the person holding its pair\N will be able to hear your voice, which would be me.
 Dialogue: 10,0:11:19.72,0:11:22.20,GJM_Main,My,0,0,0,,Another strange tool.
 Dialogue: 10,0:11:22.40,0:11:23.02,GJM_Main,My,0,0,0,,{\i1}Wait.
-Dialogue: 10,0:11:23.92,0:11:28.33,GJM_Main,My,0,0,0,,{\q2}Are you telling me to just \Nstay quiet and watch, high priest?!
+Dialogue: 10,0:11:23.92,0:11:28.33,GJM_Main,My,0,0,0,,{\q2}Are you telling me to just \Nstay quiet and watch, High Priest?!
 Dialogue: 10,0:11:28.59,0:11:29.83,GJM_Main,HP,0,0,0,,Exactly.
 Dialogue: 10,0:11:31.22,0:11:33.61,GJM_Main,My,0,0,0,,But since we're already having a meeting,
 Dialogue: 10,0:11:33.61,0:11:36.34,GJM_Main,My,0,0,0,,I want to do whatever I can to help Lutz!
@@ -311,7 +311,7 @@ Dialogue: 10,0:18:24.96,0:18:27.71,GJM_Main,Lu,0,0,0,,Dad... Mom...
 Dialogue: 10,0:18:42.87,0:18:46.18,GJM_Main,Lu,0,0,0,,I'll become an amazing merchant, I swear!
 Dialogue: 10,0:18:46.40,0:18:47.89,GJM_Main,De,0,0,0,,You better!
 Dialogue: 10,0:18:49.97,0:18:52.19,GJM_Main,De,0,0,0,,You're a man. Stop crying.{ if you're a man.}
-Dialogue: 10,0:18:58.52,0:19:03.00,GJM_Main,Be,0,0,0,,{\q2}High priest, I offer you my most \Nsincere gratitude for today.
+Dialogue: 10,0:18:58.52,0:19:03.00,GJM_Main,Be,0,0,0,,{\q2}High Priest, I offer you my most \Nsincere gratitude for today.
 Dialogue: 10,0:19:03.98,0:19:06.26,GJM_Main,De,0,0,0,,We're going home, brat.
 Dialogue: 10,0:19:06.26,0:19:07.17,GJM_Main,Lu,0,0,0,,Ow!
 Dialogue: 10,0:19:07.17,0:19:08.71,GJM_Main,Ka,0,0,0,,Lutz, I'm so glad...
@@ -352,7 +352,7 @@ Dialogue: 10,0:20:57.56,0:20:59.15,GJM_Main,HP,0,0,0,,Good grief...
 Dialogue: 10,0:21:05.88,0:21:07.66,GJM_Main,My,0,0,0,,Please accept my deepest gratitude.
 Dialogue: 10,0:21:13.90,0:21:15.62,GJM_Main,My,0,0,0,,Ferdinand...
 Dialogue: 10,0:21:17.43,0:21:23.51,GJM_Main,My,0,0,0,,{\i1\q2}That was when I first learned that\N the high priest's name was Ferdinand.
-Dialogue: 10,0:23:00.76,0:23:06.09,GJM_Main,My,0,0,0,,{\q2}High priest, are these sound-blocking\N magic tools actually useful?
+Dialogue: 10,0:23:00.76,0:23:06.09,GJM_Main,My,0,0,0,,{\q2}High Priest, are these sound-blocking\N magic tools actually useful?
 Dialogue: 10,0:23:06.09,0:23:07.27,GJM_Main,HP,0,0,0,,Of course they are.
 Dialogue: 10,0:23:07.27,0:23:09.41,GJM_Main,HP,0,0,0,,They're often used among the nobility.
 Dialogue: 10,0:23:10.58,0:23:12.02,GJM_Main,HP,0,0,0,,{\i1}The high bishop's coming.
@@ -362,7 +362,7 @@ Dialogue: 10,0:23:15.35,0:23:16.07,GJM_Main,My,0,0,0,,{\i1}Yes!
 Dialogue: 10,0:23:22.19,0:23:24.04,GJM_Main,HP,0,0,0,,You use them like that.
 Dialogue: 10,0:23:24.04,0:23:26.73,GJM_Main,My,0,0,0,,So they're to talk in secret.
 Dialogue: 10,0:23:26.73,0:23:32.59,GJM_Main,My,0,0,0,,{\q2}I bet you're the only one \Nusing them to silence people!
-Dialogue: 10,0:23:32.59,0:23:35.01,GJM_Main,My,0,0,0,,High priest!
+Dialogue: 10,0:23:32.59,0:23:35.01,GJM_Main,My,0,0,0,,High Priest!
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,OP
 Comment: 2,0:00:39.01,0:00:39.06,OP2 - Main,,0,0,0,fx,{first OP frame}
 Dialogue: 2,0:00:49.02,0:00:53.70,OP2 - Main,,0,0,0,fx,{\an5\move(647.4,746,667.4,746,0,450)\fscx200\fscy200\bord0\blur2\fad(450,300)\t(0,450,\fscx100\fscy100\blur0.75)\t(4230,4680,\blur4)}L

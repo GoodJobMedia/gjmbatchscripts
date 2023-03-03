@@ -363,7 +363,7 @@ Dialogue: 10,0:23:12.70,0:23:14.79,GJM_Main,,0,0,0,,Huh? Well, uh, next up is...
 Dialogue: 10,0:23:14.79,0:23:17.04,GJM_Main,,0,0,0,,Next, I'll..
 Dialogue: 10,0:23:17.67,0:23:21.29,GJM_Main,,0,0,0,,N-Next up is your baptism, right?
 Dialogue: 10,0:23:21.29,0:23:24.83,GJM_Main,,0,0,0,,Speaking of baptisms... \NIt's finally time for me to shine!
-Dialogue: 10,0:23:27.99,0:23:31.25,GJM_Main,,0,0,0,,{\q2}Sorry, high priest. No screen time for you just yet.
+Dialogue: 10,0:23:27.99,0:23:31.25,GJM_Main,,0,0,0,,{\q2}Sorry, High Priest. No screen time for you just yet.
 Dialogue: 10,0:23:31.89,0:23:35.06,GJM_Main,,0,0,0,,Myne! You shouldn't talk to weird strangers!
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,OP
 Comment: 0,0:00:30.88,0:00:30.93,BookwormOP,,0,0,0,,OP START{first full white frame after stars}

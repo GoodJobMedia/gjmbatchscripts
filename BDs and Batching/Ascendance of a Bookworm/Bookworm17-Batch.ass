@@ -132,7 +132,7 @@ Dialogue: 10,0:06:58.41,0:07:00.74,GJM_Main,HP,0,0,0,,{\q2}that it would be bett
 Dialogue: 10,0:07:00.74,0:07:02.48,GJM_Main,HP,0,0,0,,than receive chambers in the nobles' section.
 Dialogue: 10,0:07:03.39,0:07:05.52,GJM_Main,HP,0,0,0,,Hence, I cannot grant you any.
 Dialogue: 10,0:07:06.79,0:07:08.34,GJM_Main,My,0,0,0,,I see...
-Dialogue: 10,0:07:08.34,0:07:09.28,GJM_Main,Ar,0,0,0,,High priest.
+Dialogue: 10,0:07:08.34,0:07:09.28,GJM_Main,Ar,0,0,0,,High Priest.
 Dialogue: 10,0:07:10.55,0:07:12.95,GJM_Main,Ar,0,0,0,,What about the orphanage director's chambers?
 Dialogue: 10,0:07:12.95,0:07:15.28,GJM_Main,Ar,0,0,0,,They're far from the nobles' section,
 Dialogue: 10,0:07:15.76,0:07:18.17,GJM_Main,Ar,0,0,0,,and were previously occupied by a blue priestess,
@@ -144,7 +144,7 @@ Dialogue: 10,0:07:33.99,0:07:35.68,GJM_Main,My,0,0,0,,Thank you for your benevol
 Dialogue: 10,0:07:36.39,0:07:40.14,GJM_Main,My,0,0,0,,{\q2}That's shelter sorted for my attendants!\N Now for food and clothing...
 Dialogue: 10,0:07:43.22,0:07:45.90,GJM_Main,HP,0,0,0,,{\q2}The director's chambers\Nhave sat unused for a long while,
 Dialogue: 10,0:07:45.90,0:07:48.07,GJM_Main,HP,0,0,0,,{\q2}so they'll need cleaning\Nif you intend to use them.
-Dialogue: 10,0:07:49.35,0:07:52.85,GJM_Main,My,0,0,0,,{\q2}In that case, while I help\Nwith your work, high priest,
+Dialogue: 10,0:07:49.35,0:07:52.85,GJM_Main,My,0,0,0,,{\q2}In that case, while I help\Nwith your work, High Priest,
 Dialogue: 10,0:07:52.85,0:07:54.57,GJM_Main,My,0,0,0,,Gil can do the cleaning.
 Dialogue: 10,0:07:57.33,0:07:59.65,GJM_Main,GP1,0,0,0,,She's entrusting Gil with work?
 Dialogue: 10,0:07:59.65,0:08:03.71,GJM_Main,GP2,0,0,0,,{\q2}I heard he got sent to the repentance \Nchamber for not cleaning the chapel.

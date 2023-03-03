@@ -60,7 +60,7 @@ Dialogue: 10,0:02:58.16,0:02:59.96,GJM_Main,Fr,0,0,0,,so she'd like to ask your 
 Dialogue: 10,0:02:59.96,0:03:03.07,GJM_Main,Fr,0,0,0,,{\q2}to take a gray priestess who's\N good at drawing as an attendant.
 Dialogue: 10,0:03:03.07,0:03:06.83,GJM_Main,My,0,0,0,,{\i1\q2}I was actually planning \Nto draw the pictures myself, but...
 Dialogue: 10,0:03:11.12,0:03:13.84,GJM_Main,Be,0,0,0,,Your writing is good, but you're awful at drawing.
-Dialogue: 10,0:03:14.84,0:03:16.84,GJM_Main,My,0,0,0,,Please, high priest!
+Dialogue: 10,0:03:14.84,0:03:16.84,GJM_Main,My,0,0,0,,Please, High Priest!
 Dialogue: 10,0:03:20.00,0:03:23.62,GJM_Main,HP,0,0,0,,The baby will become a huge weakness for you.
 Dialogue: 10,0:03:24.83,0:03:27.53,GJM_Main,My,0,0,0,,What do you mean?
 Dialogue: 10,0:03:27.53,0:03:30.89,GJM_Main,HP,0,0,0,,{\q2}You have a tendency to put \Nyour family and friends above all else.
@@ -98,7 +98,7 @@ Dialogue: 10,0:05:07.41,0:05:12.54,GJM_Main,My,0,0,0,,{\q2}Wow... Say you don't 
 Dialogue: 10,0:05:12.99,0:05:15.34,GJM_Main,Fr,0,0,0,,That's a harspiel.
 Dialogue: 10,0:05:15.34,0:05:16.92,GJM_Main,My,0,0,0,,A harspiel, huh...
 Dialogue: 10,0:05:17.26,0:05:21.62,GJM_Main,Fr,0,0,0,,{\q2}I suppose the high priest really cares\N about you learning how to play.
-Dialogue: 10,0:05:25.65,0:05:28.43,GJM_Main,My,0,0,0,,Thank you for coming, high priest.
+Dialogue: 10,0:05:25.65,0:05:28.43,GJM_Main,My,0,0,0,,Thank you for coming, High Priest.
 Dialogue: 10,0:05:29.17,0:05:32.01,GJM_Main,My,0,0,0,,These are cookies my cooks have baked.
 Dialogue: 10,0:05:32.01,0:05:36.69,GJM_Main,My,0,0,0,,{\q2}They'll be served during the opening of \Na restaurant owned by the Gilberta Company.
 Dialogue: 10,0:05:37.51,0:05:40.56,GJM_Main,HP,0,0,0,,So you've tried your hand at cooking too?
@@ -241,7 +241,7 @@ Dialogue: 10,0:15:44.84,0:15:47.50,GJM_Main,HP,0,0,0,,You have no need for an at
 Dialogue: 10,0:15:47.50,0:15:49.09,GJM_Main,HP,0,0,0,,so return her to the orphanage.
 Dialogue: 10,0:15:49.30,0:15:53.92,GJM_Main,My,0,0,0,,But then I won't be able to practice harspiel...
 Dialogue: 10,0:15:53.92,0:15:55.98,GJM_Main,HP,0,0,0,,Then arrange for someone else.
-Dialogue: 10,0:16:01.69,0:16:07.34,GJM_Main,My,0,0,0,,{\q2}High priest, I'm very sorry,\N but could you excuse me for today?
+Dialogue: 10,0:16:01.69,0:16:07.34,GJM_Main,My,0,0,0,,{\q2}High Priest, I'm very sorry,\N but could you excuse me for today?
 Dialogue: 10,0:16:08.54,0:16:10.84,GJM_Main,My,0,0,0,,{\q2}I want to listen to what all\N my attendants have to say,
 Dialogue: 10,0:16:10.84,0:16:13.41,GJM_Main,My,0,0,0,,and establish grounds for discussion.
 Dialogue: 10,0:16:14.61,0:16:17.37,GJM_Main,Wi,0,0,0,,My opinion?

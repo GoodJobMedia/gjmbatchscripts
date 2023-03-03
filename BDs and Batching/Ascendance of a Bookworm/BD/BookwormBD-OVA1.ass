@@ -400,7 +400,7 @@ Dialogue: 10,0:21:42.15,0:21:44.61,GJM_Main,C,0,0,0,,You did well, Myne.
 Dialogue: 10,0:21:45.16,0:21:46.08,GJM_Main,M,0,0,0,,Thank you!
 Dialogue: 10,0:21:46.08,0:21:49.97,GJM_Main,M,0,0,0,,{\q2}It seems you'll be able to celebrate\N your child's birth in peace!
 Dialogue: 10,0:21:55.90,0:22:00.08,GJM_Main,M,0,0,0,,{\i1\q2}And just like that, our visit to Mrs. Corinna's\N house concluded without incident.
-Dialogue: 10,0:23:38.12,0:23:42.41,GJM_Main,M,0,0,0,,{\q2}High priest, I want to see \Nside stories of more people!
+Dialogue: 10,0:23:38.12,0:23:42.41,GJM_Main,M,0,0,0,,{\q2}High Priest, I want to see \Nside stories of more people!
 Dialogue: 10,0:23:42.41,0:23:45.25,GJM_Main,HP,0,0,0,,I'm hoping for that as well.
 Dialogue: 10,0:23:45.25,0:23:47.14,GJM_Main,HP,0,0,0,,We just have to pray to the gods.
 Dialogue: 10,0:23:47.70,0:23:48.74,GJM_Main,M,0,0,0,,Pray?

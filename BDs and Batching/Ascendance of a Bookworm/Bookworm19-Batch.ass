@@ -49,7 +49,7 @@ Dialogue: 10,0:01:21.48,0:01:25.63,GJM_Main,My,0,0,0,,{\i1\q2}I guess that means
 Dialogue: 10,0:01:26.67,0:01:28.33,GJM_Main,HP,0,0,0,,That's all.
 Dialogue: 10,0:01:28.33,0:01:31.61,GJM_Main,HP,0,0,0,,You're now officially the orphanage director.
 Dialogue: 10,0:01:31.61,0:01:32.36,GJM_Main,My,0,0,0,,Huh?
-Dialogue: 10,0:01:32.36,0:01:35.47,GJM_Main,My,0,0,0,,What did you just say, high priest?
+Dialogue: 10,0:01:32.36,0:01:35.47,GJM_Main,My,0,0,0,,What did you just say, High Priest?
 Dialogue: 10,0:01:35.47,0:01:39.78,GJM_Main,HP,0,0,0,,{\q2}I said that you're now officially\N the orphanage director.
 Dialogue: 10,0:01:39.78,0:01:42.62,GJM_Main,HP,0,0,0,,{\q2}I don't mind, as long as \Nyou're determined to see it through.
 Dialogue: 10,0:01:44.87,0:01:46.87,GJM_Main,My,0,0,0,,Thank you very much!
@@ -321,11 +321,11 @@ Dialogue: 10,0:20:33.28,0:20:36.63,GJM_Main,HP,0,0,0,,{\q2}You did something tha
 Dialogue: 10,0:20:36.63,0:20:39.46,GJM_Main,HP,0,0,0,,and you claim you did not make a racket?
 Dialogue: 10,0:20:40.99,0:20:44.41,GJM_Main,HP,0,0,0,,{\q2}Myne, you'll spend today \Nin the repentance chamber.
 Dialogue: 10,0:20:44.41,0:20:44.97,GJM_Main,M/F,0,0,0,,Huh?!
-Dialogue: 10,0:20:45.51,0:20:48.72,GJM_Main,Fr,0,0,0,,Please reconsider this decision, high priest.
+Dialogue: 10,0:20:45.51,0:20:48.72,GJM_Main,Fr,0,0,0,,Please reconsider this decision, High Priest.
 Dialogue: 10,0:20:49.64,0:20:54.48,GJM_Main,My,0,0,0,,{\q2}Offer your prayers to the gods \Nand reflect on your actions.
 Dialogue: 10,0:21:04.97,0:21:06.49,GJM_Main,Fr,0,0,0,,Sister Myne!
 Dialogue: 10,0:21:08.07,0:21:10.49,GJM_Main,HP,0,0,0,,I thought she had already recovered?
-Dialogue: 10,0:21:11.26,0:21:15.02,GJM_Main,Fr,0,0,0,,{\q2}You may be underestimating \NSister Myne's fragile health, high priest.
+Dialogue: 10,0:21:11.26,0:21:15.02,GJM_Main,Fr,0,0,0,,{\q2}You may be underestimating \NSister Myne's fragile health, High Priest.
 Dialogue: 10,0:21:15.02,0:21:18.50,GJM_Main,Fr,0,0,0,,I believe I asked you to reconsider your decision.
 Dialogue: 10,0:21:20.35,0:21:24.19,GJM_Main,HP,0,0,0,,You were concerned about her condition,\N not her honor...
 Dialogue: 10,0:21:26.31,0:21:28.78,GJM_Main,My,0,0,0,,{\i1}It seems that before I got to reflect on my actions,

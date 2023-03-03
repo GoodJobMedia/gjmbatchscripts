@@ -195,8 +195,8 @@ Dialogue: 10,0:10:50.40,0:10:52.46,GJM_Main,Fr,0,0,0,,Is something wrong, Sister
 Dialogue: 10,0:10:53.57,0:10:56.46,GJM_Main,De,0,0,0,,The high priest's books on magic are missing!
 Dialogue: 10,0:10:56.74,0:10:57.46,GJM_Main,Fr,0,0,0,,What?
 Dialogue: 10,0:10:57.78,0:10:59.52,GJM_Main,HP,0,0,0,,Are you done cleaning up?
-Dialogue: 10,0:11:02.80,0:11:04.97,GJM_Main,My,0,0,0,,High priest...
-Dialogue: 10,0:11:15.51,0:11:19.24,GJM_Main,My,0,0,0,,I cannot find these books anywhere, high priest.
+Dialogue: 10,0:11:02.80,0:11:04.97,GJM_Main,My,0,0,0,,High Priest...
+Dialogue: 10,0:11:15.51,0:11:19.24,GJM_Main,My,0,0,0,,I cannot find these books anywhere, High Priest.
 Dialogue: 10,0:11:20.39,0:11:23.74,GJM_Main,HP,0,0,0,,Those are in my room, so it's not a problem.
 Dialogue: 10,0:11:23.74,0:11:25.74,GJM_Main,My,0,0,0,,Huh? Is that so?
 Dialogue: 10,0:11:25.74,0:11:30.50,GJM_Main,HP,0,0,0,,{\q2}Yes. I'm impressed you figured\N out that they aren't here.
@@ -221,7 +221,7 @@ Dialogue: 10,0:12:20.30,0:12:25.46,GJM_Main,My,0,0,0,,{\q2}natural sciences, tec
 Dialogue: 10,0:12:25.46,0:12:28.31,GJM_Main,My,0,0,0,,putting each category onto a different shelf, but...
 Dialogue: 10,0:12:28.81,0:12:35.67,GJM_Main,My,0,0,0,,{\q2}I didn't know if books on magic should be\N under natural sciences or technology...
 Dialogue: 10,0:12:37.42,0:12:40.34,GJM_Main,My,0,0,0,,I'd like to decide that after reading them.
-Dialogue: 10,0:12:40.34,0:12:43.90,GJM_Main,My,0,0,0,,Actually, where would you put them, high priest?
+Dialogue: 10,0:12:40.34,0:12:43.90,GJM_Main,My,0,0,0,,Actually, where would you put them, High Priest?
 Dialogue: 10,0:12:50.23,0:12:51.99,GJM_Main,HP,0,0,0,,You could say that the basics of magic
 Dialogue: 10,0:12:51.99,0:12:54.54,GJM_Main,HP,0,0,0,,rely on understanding and observation of nature.
 Dialogue: 10,0:12:56.04,0:12:58.75,GJM_Main,HP,0,0,0,,However, if we're talking about magic tools,
@@ -231,7 +231,7 @@ Dialogue: 10,0:13:04.69,0:13:06.48,GJM_Main,My,0,0,0,,So? What would you do?
 Dialogue: 10,0:13:06.48,0:13:07.30,GJM_Main,My,0,0,0,,Where would they go?
 Dialogue: 10,0:13:09.18,0:13:12.01,GJM_Main,HP,0,0,0,,Your classification system is definitely interesting,
 Dialogue: 10,0:13:12.01,0:13:15.69,GJM_Main,HP,0,0,0,,{\q2}but there is no need for you\N to worry about books on magic.
-Dialogue: 10,0:13:16.49,0:13:18.19,GJM_Main,My,0,0,0,,Why is that, high priest?!
+Dialogue: 10,0:13:16.49,0:13:18.19,GJM_Main,My,0,0,0,,Why is that, High Priest?!
 Dialogue: 10,0:13:18.49,0:13:22.07,GJM_Main,HP,0,0,0,,I will not put them in the temple's library.
 Dialogue: 10,0:13:22.27,0:13:23.69,GJM_Main,My,0,0,0,,But...
 Dialogue: 10,0:13:24.08,0:13:26.92,GJM_Main,HP,0,0,0,,Magic is something only nobles can wield.
@@ -246,7 +246,7 @@ Dialogue: 10,0:13:51.97,0:13:55.10,GJM_Main,My,0,0,0,,The rules nobles abide by 
 Dialogue: 10,0:13:55.53,0:13:58.54,GJM_Main,HP,0,0,0,,With mana comes an enormous power.
 Dialogue: 10,0:13:58.54,0:14:03.79,GJM_Main,HP,0,0,0,,{\q2}Those that do not know how to control or correctly \Nuse their mana cannot be granted the title of noble.
 Dialogue: 10,0:14:03.79,0:14:07.08,GJM_Main,HP,0,0,0,,{\q2}That is also why I have\N no intention of showing you—
-Dialogue: 10,0:14:07.08,0:14:08.74,GJM_Main,My,0,0,0,,High priest!
+Dialogue: 10,0:14:07.08,0:14:08.74,GJM_Main,My,0,0,0,,High Priest!
 Dialogue: 10,0:14:08.74,0:14:12.87,GJM_Main,My,0,0,0,,Show them to me, please!
 Dialogue: 10,0:14:13.65,0:14:15.18,GJM_Main,HP,0,0,0,,No means no.
 Dialogue: 10,0:14:15.18,0:14:17.75,GJM_Main,My,0,0,0,,Pretty please!
@@ -358,9 +358,9 @@ Dialogue: 10,0:19:27.37,0:19:28.48,GJM_Main,HP,0,0,0,,Print?
 Dialogue: 10,0:19:28.48,0:19:33.98,GJM_Main,My,0,0,0,,{\q2}Yes! I'd like to make a lot of cheap books\N that everyone will be able to read!
 Dialogue: 10,0:19:35.13,0:19:37.34,GJM_Main,HP,0,0,0,,I didn't think she'd make something like this...
 Dialogue: 10,0:19:38.21,0:19:40.27,GJM_Main,HP,0,0,0,,You sure do unfathomable things, Myne.
-Dialogue: 10,0:19:42.52,0:19:46.03,GJM_Main,Fr,0,0,0,,High priest, I have brought Sister Myne with me.
+Dialogue: 10,0:19:42.52,0:19:46.03,GJM_Main,Fr,0,0,0,,High Priest, I have brought Sister Myne with me.
 Dialogue: 10,0:19:46.85,0:19:47.51,GJM_Main,HP,0,0,0,,Thank you.
-Dialogue: 10,0:19:50.45,0:19:53.79,GJM_Main,My,0,0,0,,High priest, there's something I'd like to request.
+Dialogue: 10,0:19:50.45,0:19:53.79,GJM_Main,My,0,0,0,,High Priest, there's something I'd like to request.
 Dialogue: 10,0:19:54.25,0:19:57.41,GJM_Main,My,0,0,0,,{\q2}I was planning to butcher a pig\N as part of winter preparations...
 Dialogue: 10,0:19:57.41,0:20:02.17,GJM_Main,My,0,0,0,,{\q2}And I wanted to ask for permission to make hide \Nglue and candles in the orphanage afterwards.
 Dialogue: 10,0:20:02.17,0:20:04.39,GJM_Main,My,0,0,0,,It will likely smell awful.
@@ -383,7 +383,7 @@ Dialogue: 10,0:20:55.42,0:20:57.27,GJM_Main,HP,0,0,0,,so it requires large amoun
 Dialogue: 10,0:20:59.29,0:21:02.15,GJM_Main,HP,0,0,0,,You must participate at all costs.
 Dialogue: 10,0:21:02.68,0:21:05.59,GJM_Main,HP,0,0,0,,{\q2}It would be problematic if you\N couldn't come due to a blizzard.{m - maybe something like "It would be a disaster if you couldn't [...]"}
 Dialogue: 10,0:21:06.29,0:21:09.45,GJM_Main,HP,0,0,0,,{\q2}You will have to stay in \Nthe temple for the entire winter.
-Dialogue: 10,0:22:48.20,0:22:49.72,GJM_Main,My,0,0,0,,Oh! High priest!
+Dialogue: 10,0:22:48.20,0:22:49.72,GJM_Main,My,0,0,0,,Oh! High Priest!
 Dialogue: 10,0:22:49.72,0:22:51.48,GJM_Main,My,0,0,0,,I have an idea for another picture book.
 Dialogue: 10,0:22:51.48,0:22:53.11,GJM_Main,My,0,0,0,,What do you think about Cinderella?
 Dialogue: 10,0:22:53.11,0:22:55.37,GJM_Main,HP,0,0,0,,Oh? What is it about?
@@ -391,7 +391,7 @@ Dialogue: 10,0:22:55.37,0:22:56.89,GJM_Main,My,0,0,0,,Let me tell you the story!
 Dialogue: 10,0:22:56.89,0:23:01.98,GJM_Main,My,0,0,0,,{\q2}A long time ago, in a faraway place,\N lived a beautiful and kind maiden.
 Dialogue: 10,0:23:03.99,0:23:06.96,GJM_Main,My,0,0,0,,And she lived happily ever after.
 Dialogue: 10,0:23:06.96,0:23:08.58,GJM_Main,My,0,0,0,,End of story.
-Dialogue: 10,0:23:08.58,0:23:11.00,GJM_Main,My,0,0,0,,How was it, high priest? Interesting, isn't it?
+Dialogue: 10,0:23:08.58,0:23:11.00,GJM_Main,My,0,0,0,,How was it, High Priest? Interesting, isn't it?
 Dialogue: 10,0:23:11.00,0:23:12.50,GJM_Main,HP,0,0,0,,This is simply absurd.
 Dialogue: 10,0:23:12.50,0:23:13.03,GJM_Main,My,0,0,0,,Huh?
 Dialogue: 10,0:23:13.03,0:23:18.02,GJM_Main,HP,0,0,0,,{\q2}In your story, a daughter of a\N poor commoner marries a prince,
@@ -400,7 +400,7 @@ Dialogue: 10,0:23:20.25,0:23:22.38,GJM_Main,HP,0,0,0,,Think about their social s
 Dialogue: 10,0:23:22.38,0:23:26.40,GJM_Main,HP,0,0,0,,{\q2}On top of that, if that marriage actually happened,\N the prince wouldn't be nobility anymore.
 Dialogue: 10,0:23:26.40,0:23:28.98,GJM_Main,HP,0,0,0,,{\q2}It'd be his younger brother \Nthat'd become the next king.
 Dialogue: 10,0:23:28.98,0:23:34.16,GJM_Main,HP,0,0,0,,{\q2}Cinderella would never be able\N to live happily ever after.
-Dialogue: 10,0:23:31.39,0:23:34.97,GJM_Overlap,My,0,0,0,,{\an8} Have you no dreams, high priest?!
+Dialogue: 10,0:23:31.39,0:23:34.97,GJM_Overlap,My,0,0,0,,{\an8} Have you no dreams, High Priest?!
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,OP
 Comment: 2,0:00:33.01,0:00:33.06,OP2 - Main,,0,0,0,fx,{first OP frame}
 Dialogue: 2,0:00:43.02,0:00:47.70,OP2 - Main,,0,0,0,fx,{\an5\move(647.4,746,667.4,746,0,450)\fscx200\fscy200\bord0\blur2\fad(450,300)\t(0,450,\fscx100\fscy100\blur0.75)\t(4230,4680,\blur4)}L
