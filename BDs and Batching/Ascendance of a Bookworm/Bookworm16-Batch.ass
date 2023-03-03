@@ -71,7 +71,7 @@ Dialogue: 10,0:04:02.43,0:04:07.31,GJM_Main,M,0,0,0,,{\q2}Um... It was somewhat 
 Dialogue: 10,0:04:07.31,0:04:08.33,GJM_Main,HP,0,0,0,,I see.
 Dialogue: 10,0:04:08.93,0:04:11.93,GJM_Main,HP,0,0,0,,{\q2}Make sure you don't offer so much\Nthat it takes a toll on your body.
 Dialogue: 10,0:04:12.22,0:04:15.92,GJM_Main,M,0,0,0,,{\i1}The offering process itself is rather effortless.
-Dialogue: 10,0:04:15.92,0:04:19.92,GJM_Main,HP,0,0,0,,{\q2}Your last duty is reading the sacred book\N and memorizing its contents.
+Dialogue: 10,0:04:15.92,0:04:19.92,GJM_Main,HP,0,0,0,,{\q2}Your last duty is reading the Sacred Book\N and memorizing its contents.
 Dialogue: 10,0:04:20.69,0:04:21.63,GJM_Main,M,0,0,0,,I'll do it!
 Dialogue: 10,0:04:21.63,0:04:23.24,GJM_Main,M,0,0,0,,I want to go to the library now!
 Dialogue: 10,0:04:23.24,0:04:24.47,GJM_Main,HP,0,0,0,,But before that,
@@ -103,7 +103,7 @@ Dialogue: 10,0:05:34.92,0:05:38.31,GJM_Main,M,0,0,0,,{\i1}but it's basically imp
 Dialogue: 10,0:05:55.49,0:05:57.30,GJM_Main,M,0,0,0,,{\i1}The fragrance of ink!
 Dialogue: 10,0:05:59.25,0:06:01.38,GJM_Main,M,0,0,0,,{\i1}The fragrance of old paper!
 Dialogue: 10,0:06:03.43,0:06:06.01,GJM_Main,M,0,0,0,,{\i1}This is heaven!
-Dialogue: 10,0:06:06.70,0:06:08.81,GJM_Main,F,0,0,0,,Here is a copy of the sacred book.
+Dialogue: 10,0:06:06.70,0:06:08.81,GJM_Main,F,0,0,0,,Here is a copy of the Sacred Book.
 Dialogue: 10,0:06:16.19,0:06:20.19,GJM_Main,M,0,0,0,,{\i1}Oh! It's as if the book is asking me to read it!
 Dialogue: 10,0:06:23.67,0:06:26.58,GJM_Main,M,0,0,0,,{\i1}When was the last time I read a real book?
 Dialogue: 10,0:06:42.10,0:06:42.80,GJM_Main,G,0,0,0,,Hey.
