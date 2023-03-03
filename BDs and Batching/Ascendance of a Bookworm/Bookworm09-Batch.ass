@@ -11,12 +11,9 @@ PlayResY: 810
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami
-Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
-Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 65
-Active Line: 79
-Video Position: 9205
+Scroll Position: 317
+Active Line: 361
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -390,7 +387,7 @@ Dialogue: 10,0:23:22.58,0:23:25.67,GJM_Main,,0,0,0,,A fish that dies if it ever 
 Dialogue: 10,0:23:25.67,0:23:27.95,GJM_Main,,0,0,0,,I've never heard of a fish like that.
 Dialogue: 10,0:23:27.95,0:23:29.42,GJM_Main,,0,0,0,,I'd love to see one.
 Dialogue: 10,0:23:29.42,0:23:30.07,GJM_Main,,0,0,0,,What?!
-Dialogue: 10,0:23:30.07,0:23:35.01,GJM_Main,,0,0,0,,Can you worry about me\N instead of the fish, High Priest?!
+Dialogue: 10,0:23:30.07,0:23:35.01,GJM_Main,,0,0,0,,Can you worry about me\N instead of the fish, high priest?!
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,OP
 Comment: 0,0:00:32.88,0:00:32.93,BookwormOP,,0,0,0,,OP START{first full white frame after stars}
 Dialogue: 0,0:00:34.51,0:00:41.27,BookwormOP,,0,0,0,,{\fad(120,150)\blur3\bord6\3c&HFFFFFF&}I have a wish, just one simple wish

@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 294
-Active Line: 295
+Scroll Position: 256
+Active Line: 300
 Video Position: 30425
 
 [V4+ Styles]
@@ -226,7 +226,7 @@ Dialogue: 10,0:14:37.39,0:14:39.32,GJM_Main,,0,0,0,,Mark this medal with your bl
 Dialogue: 10,0:14:43.40,0:14:44.92,GJM_Main,,0,0,0,,That is all.
 Dialogue: 10,0:14:44.92,0:14:47.44,GJM_Main,,0,0,0,,Myne, over here!
 Dialogue: 10,0:14:47.81,0:14:50.17,GJM_Main,,0,0,0,,Sure! Coming!
-Dialogue: 10,0:15:02.42,0:15:04.92,GJM_Main,,0,0,0,,The High Bishop has entered.
+Dialogue: 10,0:15:02.42,0:15:04.92,GJM_Main,,0,0,0,,The high bishop has entered.
 Dialogue: 10,0:15:12.43,0:15:13.22,GJM_Main,,0,0,0,,Lutz!
 Dialogue: 10,0:15:13.22,0:15:13.93,GJM_Main,,0,0,0,,That's a book!
 Dialogue: 10,0:15:13.93,0:15:15.23,GJM_Main,,0,0,0,,He has a book!
@@ -329,7 +329,7 @@ Dialogue: 10,0:21:15.60,0:21:16.87,GJM_Main,,0,0,0,,Really?
 Dialogue: 10,0:21:16.87,0:21:18.15,GJM_Main,,0,0,0,,Yay!
 Dialogue: 10,0:21:18.91,0:21:20.50,GJM_Main,,0,0,0,,Praise be to the gods!
 Dialogue: 10,0:21:26.15,0:21:29.01,GJM_Main,,0,0,0,,I got too excited...
-Dialogue: 10,0:23:08.64,0:23:11.46,GJM_Main,,0,0,0,,You finally made your appearance, High Priest!
+Dialogue: 10,0:23:08.64,0:23:11.46,GJM_Main,,0,0,0,,You finally made your appearance, high priest!
 Dialogue: 10,0:23:11.46,0:23:13.75,GJM_Main,,0,0,0,,My appearance is of no consequence right now.
 Dialogue: 10,0:23:13.75,0:23:18.44,GJM_Main,,0,0,0,,{\q2}More importantly, you shouldn't have rushed \Ninto the book room at the temple like that.
 Dialogue: 10,0:23:18.44,0:23:20.95,GJM_Main,,0,0,0,,Please maintain your composure better in future.

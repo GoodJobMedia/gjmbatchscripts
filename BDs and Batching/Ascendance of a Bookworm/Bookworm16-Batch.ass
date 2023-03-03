@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 80
-Active Line: 84
+Scroll Position: 244
+Active Line: 285
 Video Position: 6136
 
 [V4+ Styles]
@@ -45,7 +45,7 @@ Dialogue: 10,0:02:20.59,0:02:23.45,GJM_Main,HP,0,0,0,,Please realize that a comm
 Dialogue: 10,0:02:23.84,0:02:26.68,GJM_Main,HP,0,0,0,,{\q2}will draw ire and resentment\Nfrom commoners and nobles alike.
 Dialogue: 10,0:02:27.73,0:02:32.12,GJM_Main,HP,0,0,0,,{\q2}The high bishop in particular would've\N preferred if your oath didn't happen.
 Dialogue: 10,0:02:32.12,0:02:36.38,GJM_Main,HP,0,0,0,,Hence I had to take up the duty of guiding you.
-Dialogue: 10,0:02:36.60,0:02:39.39,GJM_Main,M,0,0,0,,Are you not bothered by it, High Priest?
+Dialogue: 10,0:02:36.60,0:02:39.39,GJM_Main,M,0,0,0,,Are you not bothered by it, high priest?
 Dialogue: 10,0:02:39.39,0:02:41.26,GJM_Main,M,0,0,0,,I mean, by me being...
 Dialogue: 10,0:02:41.26,0:02:44.01,GJM_Main,HP,0,0,0,,I acknowledge and value exceptionality in people.
 Dialogue: 10,0:02:45.62,0:02:49.30,GJM_Main,HP,0,0,0,,{\q2}Especially now that the number \Nof blue priests is dwindling,
@@ -218,7 +218,7 @@ Dialogue: 10,0:12:44.09,0:12:45.24,GJM_Main,B/Ma,0,0,0,,Blessed be this meeting,
 Dialogue: 10,0:12:45.24,0:12:48.24,GJM_Main,B/Ma,0,0,0,,{\q2}as it was divine providence\Nwhich led to it, in these blessed days
 Dialogue: 10,0:12:48.24,0:12:50.69,GJM_Main,B/Ma,0,0,0,,{\q2}upon which the brilliance\Nof the God of Fire Leidenschaft shines,
 Dialogue: 10,0:12:50.69,0:12:52.74,GJM_Main,B/Ma,0,0,0,,as he shall for all eternity.
-Dialogue: 10,0:12:53.81,0:12:56.55,GJM_Main,B,0,0,0,,{\q2}I feel blessed for the opportunity\N to meet you, High Priest.
+Dialogue: 10,0:12:53.81,0:12:56.55,GJM_Main,B,0,0,0,,{\q2}I feel blessed for the opportunity\N to meet you, high priest.
 Dialogue: 10,0:12:57.09,0:12:59.30,GJM_Main,B,0,0,0,,I'm Benno from the Gilberta Company.
 Dialogue: 10,0:12:59.30,0:13:02.85,GJM_Main,B,0,0,0,,{\q2}I am standing before you\Nupon the invitation of Sister Myne.
 Dialogue: 10,0:13:03.48,0:13:05.38,GJM_Main,B,0,0,0,,I'm pleased to make your acquaintance.
@@ -283,7 +283,7 @@ Dialogue: 10,0:16:15.31,0:16:17.24,GJM_Main,HP,0,0,0,,That will be an issue.
 Dialogue: 10,0:16:17.24,0:16:21.11,GJM_Main,HP,0,0,0,,{\q2}Learn to manage her health by the time\Nwe receive the summons from the Knight's Order.
 Dialogue: 10,0:16:21.11,0:16:22.32,GJM_Main,HP,0,0,0,,Understood?
 Dialogue: 10,0:16:22.32,0:16:25.29,GJM_Main,F,0,0,0,,Yes sir. I will do so by fall.
-Dialogue: 10,0:16:25.62,0:16:27.50,GJM_Main,B,0,0,0,,Also, High Priest.
+Dialogue: 10,0:16:25.62,0:16:27.50,GJM_Main,B,0,0,0,,Also, high priest.
 Dialogue: 10,0:16:27.50,0:16:30.28,GJM_Main,B,0,0,0,,Myne is extremely intelligent.
 Dialogue: 10,0:16:30.28,0:16:32.36,GJM_Main,B,0,0,0,,However, she has little life experience,
 Dialogue: 10,0:16:32.36,0:16:37.39,GJM_Main,B,0,0,0,,{\q2}and knows next to nothing about the etiquette \Nof the temple, or of noble society in general.
@@ -318,7 +318,7 @@ Dialogue: 10,0:18:05.25,0:18:09.48,GJM_Main,HP,0,0,0,,It's not that unusual if t
 Dialogue: 10,0:18:09.48,0:18:13.75,GJM_Main,M,0,0,0,,{\q2}Considering that one of my attendants\Nis aiming to become the high bishop's mistress,
 Dialogue: 10,0:18:13.75,0:18:15.94,GJM_Main,M,0,0,0,,it might not be anything unusual in the temple,
 Dialogue: 10,0:18:15.94,0:18:18.11,GJM_Main,M,0,0,0,,but matters are different in the lower city.
-Dialogue: 10,0:18:25.48,0:18:29.75,GJM_Main,Ma,0,0,0,,{\q2}High Priest, I am aware this is rude of me\Nas I am but a simple servant,
+Dialogue: 10,0:18:25.48,0:18:29.75,GJM_Main,Ma,0,0,0,,{\q2}High priest, I am aware this is rude of me\Nas I am but a simple servant,
 Dialogue: 10,0:18:29.75,0:18:32.10,GJM_Main,Ma,0,0,0,,but I'd like to request permission to speak.
 Dialogue: 10,0:18:32.63,0:18:34.25,GJM_Main,HP,0,0,0,,I grant it. What is it?
 Dialogue: 10,0:18:34.71,0:18:37.93,GJM_Main,Ma,0,0,0,,{\q2}I'd like to make the situation clear\N to protect my master's honor.
@@ -366,7 +366,7 @@ Dialogue: 10,0:20:54.31,0:20:56.19,GJM_Main,B,0,0,0,,Don't you dare drop her.
 Dialogue: 10,0:20:56.19,0:20:56.94,GJM_Main,F,0,0,0,,I will not.
 Dialogue: 10,0:21:01.73,0:21:05.32,GJM_Main,M,0,0,0,,{\i1\q2}Around the time Fran and I\Nfinally found common ground...
 Dialogue: 10,0:21:05.82,0:21:08.33,GJM_Main,HB,0,0,0,,Oh, to bring the donation?
-Dialogue: 10,0:21:08.54,0:21:10.29,GJM_Main,D,0,0,0,,Yes, High Bishop.
+Dialogue: 10,0:21:08.54,0:21:10.29,GJM_Main,D,0,0,0,,Yes, high bishop.
 Dialogue: 10,0:21:10.52,0:21:15.40,GJM_Main,HB,0,0,0,,{\q2}I'll be counting on you\Nto keep bringing me information, Delia.
 Dialogue: 10,0:21:15.40,0:21:17.29,GJM_Main,D,0,0,0,,Understood.
 Dialogue: 10,0:21:19.96,0:21:24.28,GJM_Main,A,0,0,0,,{\q2}You're an attendant now, Gil.\NGet your meal from your master.

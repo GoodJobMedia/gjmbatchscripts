@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 206
-Active Line: 243
+Scroll Position: 4
+Active Line: 5
 Video Position: 15520
 
 [V4+ Styles]
@@ -35,7 +35,7 @@ Dialogue: 10,0:00:07.63,0:00:11.57,GJM_Main,HP,0,0,0,,{\q2}Your duties will come
 Dialogue: 10,0:00:11.82,0:00:14.00,GJM_Main,Ka,0,0,0,,Shikza, Damuel!{ep 24}
 Dialogue: 10,0:00:14.00,0:00:15.57,GJM_Main,Ka,0,0,0,,Guard her.{ep 24}
 Dialogue: 10,0:00:15.57,0:00:16.70,GJM_Main,S/D,0,0,0,,Understood.{ep 24}
-Dialogue: 10,0:00:16.93,0:00:22.87,GJM_Main,My,0,0,0,,{\q2}High Priest, knights of the Knight's Order,\N I pray for your success.{ep 24}
+Dialogue: 10,0:00:16.93,0:00:22.87,GJM_Main,My,0,0,0,,{\q2}High priest, knights of the Knight's Order,\N I pray for your success.{ep 24}
 Dialogue: 10,0:00:27.04,0:00:29.19,GJM_Main,Sh,0,0,0,,What a pointless blessing.{ep 24}
 Dialogue: 10,0:02:15.69,0:02:17.49,GJM_Main,My,0,0,0,,Pointless?
 Dialogue: 10,0:02:18.13,0:02:20.87,GJM_Main,Sh,0,0,0,,We're already short on mana as it is.
@@ -140,7 +140,7 @@ Dialogue: 10,0:09:45.08,0:09:48.56,GJM_Main,Sh,0,0,0,,Quiet! I won't have laynob
 Dialogue: 10,0:09:53.46,0:09:53.98,GJM_Main,My,0,0,0,,No!
 Dialogue: 10,0:09:55.82,0:09:59.22,GJM_Main,Sh,0,0,0,,{\q2}That's right, commoners\N should fear us and show respect.
 Dialogue: 10,0:09:59.22,0:10:01.99,GJM_Main,Sh,0,0,0,,Curl up in fear like the mangy cur you are!
-Dialogue: 10,0:10:05.16,0:10:06.37,GJM_Main,My,0,0,0,,High Priest!
+Dialogue: 10,0:10:05.16,0:10:06.37,GJM_Main,My,0,0,0,,High priest!
 Dialogue: 10,0:10:07.54,0:10:08.29,GJM_Main,My,0,0,0,,Ow!
 Dialogue: 10,0:10:09.24,0:10:11.39,GJM_Main,Sh,0,0,0,,It's your own fault for standing up.
 Dialogue: 10,0:10:11.39,0:10:12.50,GJM_Main,Sh,0,0,0,,You fool.
@@ -181,7 +181,7 @@ Dialogue: 10,0:12:44.38,0:12:45.57,GJM_Main,My,0,0,0,,My wound...
 Dialogue: 10,0:12:46.06,0:12:49.74,GJM_Main,HP,0,0,0,,It is not healed, merely sealed with mana.
 Dialogue: 10,0:12:49.74,0:12:53.10,GJM_Main,HP,0,0,0,,{\q2}Using mana on top of a trombe\N is tantamount to suicide.
 Dialogue: 10,0:12:53.10,0:12:54.37,GJM_Main,HP,0,0,0,,We had no choice, though.
-Dialogue: 10,0:12:54.70,0:12:59.84,GJM_Main,My,0,0,0,,{\q2}High Priest, please exterminate\N the trombe with your arrows!
+Dialogue: 10,0:12:54.70,0:12:59.84,GJM_Main,My,0,0,0,,{\q2}High priest, please exterminate\N the trombe with your arrows!
 Dialogue: 10,0:13:00.30,0:13:03.84,GJM_Main,HP,0,0,0,,{\q2}I had to sever my divine blessing.\N I cannot use my weapons anymore.
 Dialogue: 10,0:13:04.38,0:13:05.22,GJM_Main,My,0,0,0,,Huh?!
 Dialogue: 10,0:13:05.49,0:13:09.72,GJM_Main,HP,0,0,0,,{\q2}I wouldn't have been able to change\N the shape of my weapon otherwise.
@@ -303,7 +303,7 @@ Dialogue: 10,0:21:23.84,0:21:25.72,GJM_Main,HP,0,0,0,,I will prepare the stage f
 Dialogue: 10,0:21:25.98,0:21:26.97,GJM_Main,My,0,0,0,,Huh?
 Dialogue: 10,0:21:27.58,0:21:30.45,GJM_Main,HP,0,0,0,,I don't fight battles I cannot win.
 Dialogue: 10,0:23:10.67,0:23:12.79,GJM_Main,My,0,0,0,,It's finally time for my first ritual!
-Dialogue: 10,0:23:12.79,0:23:14.97,GJM_Main,My,0,0,0,,It's so nerve-wracking, High Priest!
+Dialogue: 10,0:23:12.79,0:23:14.97,GJM_Main,My,0,0,0,,It's so nerve-wracking, high priest!
 Dialogue: 10,0:23:14.97,0:23:17.64,GJM_Main,HP,0,0,0,,I'll have you drink another potion.
 Dialogue: 10,0:23:17.64,0:23:19.74,GJM_Main,My,0,0,0,,Not more awful-tasting potions!
 Dialogue: 10,0:23:19.74,0:23:21.91,GJM_Main,HP,0,0,0,,I sacrificed the flavor for added effectiveness.

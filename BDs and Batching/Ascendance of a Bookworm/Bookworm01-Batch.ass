@@ -16,8 +16,7 @@ Video File: E:/GJM/Bookworm/01/Bookworm_01 (Premux).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 186
-Active Line: 200
+Active Line: 1
 Video Position: 5128
 
 [V4+ Styles]
@@ -32,7 +31,7 @@ Style: Title,Aver,79,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 10,0:00:22.62,0:00:24.67,GJM_Main,,0,0,0,,Now, please put this on.
-Dialogue: 10,0:00:26.21,0:00:29.42,GJM_Main,,0,0,0,,Excuse me, but what is this, High Priest?
+Dialogue: 10,0:00:26.21,0:00:29.42,GJM_Main,,0,0,0,,Excuse me, but what is this, high priest?
 Dialogue: 10,0:00:29.84,0:00:31.76,GJM_Main,,0,0,0,,It should be obvious.
 Dialogue: 10,0:00:31.76,0:00:33.05,GJM_Main,,0,0,0,,It is a magical tool.
 Dialogue: 10,0:00:36.97,0:00:39.56,GJM_Main,,0,0,0,,I was asking what you use it for.
