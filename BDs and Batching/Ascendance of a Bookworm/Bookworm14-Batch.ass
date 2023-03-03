@@ -97,7 +97,7 @@ Dialogue: 10,0:05:27.20,0:05:29.68,GJM_Main,,0,0,0,,Don't leave your own future 
 Dialogue: 10,0:05:30.25,0:05:33.16,GJM_Main,,0,0,0,,{\q2}You're already registered,\Nso take the initiative yourself and make sure
 Dialogue: 10,0:05:33.16,0:05:36.60,GJM_Main,,0,0,0,,{\q2}you can keep your workshop, even if you have \Nto throw some money around to make it happen!
 Dialogue: 10,0:05:36.96,0:05:37.85,GJM_Main,,0,0,0,,From now on,{split 3 liner}
-Dialogue: 10,0:05:37.85,0:05:42.36,GJM_Main,,0,0,0,,{\q2}consider what you, as someone that’s already in contact\N with the Merchant’s Guild, can bring to the temple.
+Dialogue: 10,0:05:37.85,0:05:42.36,GJM_Main,,0,0,0,,{\q2}consider what you, as someone that's already in contact\N with the Merchant's Guild, can bring to the temple.
 Dialogue: 10,0:05:42.72,0:05:43.86,GJM_Main,,0,0,0,,Understood...
 Dialogue: 10,0:05:44.12,0:05:48.66,GJM_Main,,0,0,0,,{\q2}You could try saying something about wanting\N to use your workshop to give the orphans work.
 Dialogue: 10,0:05:48.66,0:05:51.04,GJM_Main,,0,0,0,,{\q2}That you want to improve their\N living conditions, stuff like that.
