@@ -342,10 +342,10 @@ Dialogue: 10,0:20:29.92,0:20:34.04,GJM_Main,D,0,0,0,,Jeez! That won't do at all!
 Dialogue: 10,0:20:34.04,0:20:38.38,GJM_Main,D,0,0,0,,The high bishop asked me to cause you trouble.
 Dialogue: 10,0:20:38.38,0:20:40.52,GJM_Main,M,0,0,0,,The high bishop?
 Dialogue: 10,0:20:40.52,0:20:41.55,GJM_Main,D,0,0,0,,Exactly!
-Dialogue: 10,0:20:41.55,0:20:45.30,GJM_Main,D,0,0,0,,I'll impress the high bishop and become his mistress!
-Dialogue: 10,0:20:45.30,0:20:48.26,GJM_Main,M,0,0,0,,M-M-M-Mistress?!
+Dialogue: 10,0:20:41.55,0:20:45.30,GJM_Main,D,0,0,0,,I'll impress the high bishop and become his concubine!
+Dialogue: 10,0:20:45.30,0:20:48.26,GJM_Main,M,0,0,0,,C-C-C-Concubine?!
 Dialogue: 10,0:20:48.49,0:20:50.27,GJM_Main,G,0,0,0,,Girls sure have it easy...
-Dialogue: 10,0:20:50.27,0:20:53.02,GJM_Main,M,0,0,0,,Is being a mistress something to be proud of?
+Dialogue: 10,0:20:50.27,0:20:53.02,GJM_Main,M,0,0,0,,Is being a concubine something to be proud of?
 Dialogue: 10,0:20:53.02,0:20:54.61,GJM_Main,D,0,0,0,,Of course!
 Dialogue: 10,0:20:54.61,0:20:57.61,GJM_Main,D,0,0,0,,It's the position every girl aspires to!
 Dialogue: 10,0:20:58.45,0:21:00.14,GJM_Main,G,0,0,0,,That's like, common sense!
@@ -356,7 +356,7 @@ Dialogue: 10,0:21:11.87,0:21:18.00,GJM_Overlap,F,0,0,0,,{\an8\q2}The high priest
 Dialogue: 10,0:21:14.97,0:21:18.00,GJM_Main,M,0,0,0,,{\i1}Fran seems devoted to the high priest.
 Dialogue: 10,0:21:18.30,0:21:21.88,GJM_Overlap,G,0,0,0,,{\an8}Seriously, are you right in the head?
 Dialogue: 10,0:21:18.30,0:21:21.88,GJM_Main,M,0,0,0,,{\i1}Gil insults people whenever he opens his mouth.
-Dialogue: 10,0:21:22.23,0:21:25.26,GJM_Main,M,0,0,0,,{\i1\q2}Delia aspires to be a mistress\N and proclaims herself a spy.
+Dialogue: 10,0:21:22.23,0:21:25.26,GJM_Main,M,0,0,0,,{\i1\q2}Delia aspires to be a concubine\N and proclaims herself a spy.
 Dialogue: 10,0:21:25.26,0:21:31.52,GJM_Main,M,0,0,0,,{\i1\q2}Life at the temple will take\N some serious getting used to.
 Dialogue: 10,0:23:08.85,0:23:10.05,GJM_Main,T,0,0,0,,Say, Myne.
 Dialogue: 10,0:23:10.05,0:23:13.37,GJM_Main,T,0,0,0,,{\q2}You were negotiating something with\N Mr. Benno the other day, weren't you?
