@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 256
-Active Line: 300
+Scroll Position: 111
+Active Line: 112
 Video Position: 30425
 
 [V4+ Styles]
@@ -141,7 +141,7 @@ Dialogue: 10,0:08:33.11,0:08:35.03,GJM_Main,,0,0,0,,Okay. I'm gonna go give it a
 Dialogue: 10,0:08:38.73,0:08:40.57,GJM_Main,,0,0,0,,Well then, once again...
 Dialogue: 10,0:08:40.57,0:08:42.79,GJM_Main,,0,0,0,,It has been a good while, Myne!
 Dialogue: 10,0:08:42.79,0:08:46.04,GJM_Main,,0,0,0,,{\q2}I was really surprised to see you\N at the Merchant's Guild.
-Dialogue: 10,0:08:46.53,0:08:50.85,GJM_Main,,0,0,0,,{\q2}Once I open my store in the nobles' district,\N I will be entirely on my own.
+Dialogue: 10,0:08:46.53,0:08:50.85,GJM_Main,,0,0,0,,{\q2}Once I open my store in the Nobles' Quarter,\N I will be entirely on my own.
 Dialogue: 10,0:08:50.85,0:08:54.93,GJM_Main,,0,0,0,,{\q2}I am taking on apprentice work so that I may learn \Nhow best to deal with any issues that may arise.
 Dialogue: 10,0:08:55.35,0:08:56.98,GJM_Main,,0,0,0,,You have incredible foresight, Frieda.
 Dialogue: 10,0:08:56.98,0:08:59.43,GJM_Main,,0,0,0,,You're planning so far ahead into the future...

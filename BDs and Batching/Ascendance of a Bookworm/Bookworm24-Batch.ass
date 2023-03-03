@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 143
-Active Line: 144
+Scroll Position: 164
+Active Line: 208
 Video Position: 25054
 
 [V4+ Styles]
@@ -238,7 +238,7 @@ Dialogue: 10,0:15:50.64,0:15:52.59,GJM_Main,HP,0,0,0,,Be quiet at least.
 Dialogue: 10,0:15:52.59,0:15:54.42,GJM_Main,My,0,0,0,,I'm sorry.
 Dialogue: 10,0:15:54.42,0:15:55.35,GJM_Main,HP,0,0,0,,Let's go.
 Dialogue: 10,0:16:16.91,0:16:19.37,GJM_Main,My,0,0,0,,This is nothing like the lower city...
-Dialogue: 10,0:16:28.68,0:16:30.38,GJM_Main,Fr,0,0,0,,This is the Noble's Quarter.
+Dialogue: 10,0:16:28.68,0:16:30.38,GJM_Main,Fr,0,0,0,,This is the Nobles' Quarter.
 Dialogue: 10,0:16:35.08,0:16:38.89,GJM_Main,Fr,0,0,0,,Sister Myne, please act like a noble.
 Dialogue: 10,0:16:46.24,0:16:47.48,GJM_Main,Ka,0,0,0,,Lord Ferdinand,
 Dialogue: 10,0:16:50.19,0:16:53.36,GJM_Main,Ka,0,0,0,,I am glad to see you well.
