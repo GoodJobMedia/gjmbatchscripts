@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 164
-Active Line: 208
+Scroll Position: 106
+Active Line: 107
 Video Position: 25054
 
 [V4+ Styles]
@@ -137,12 +137,12 @@ Dialogue: 10,0:08:05.08,0:08:07.10,GJM_Main,My,0,0,0,,Thanks, Lutz!
 Dialogue: 10,0:08:07.63,0:08:10.34,GJM_Main,My,0,0,0,,I'll be able to make glue with this.
 Dialogue: 10,0:08:25.40,0:08:29.24,GJM_Main,My,0,0,0,,I should get to making new picture books.
 Dialogue: 10,0:08:29.74,0:08:32.80,GJM_Main,Fr,0,0,0,,{\q2}Sister Myne, before you make\N any more picture books,
-Dialogue: 10,0:08:32.99,0:08:35.11,GJM_Main,Fr,0,0,0,,{\q2}you should prepare for the \Nsummons from the Knight's Order,
+Dialogue: 10,0:08:32.99,0:08:35.11,GJM_Main,Fr,0,0,0,,{\q2}you should prepare for the \Nsummons from the Knights' Order,
 Dialogue: 10,0:08:35.11,0:08:36.77,GJM_Main,Fr,0,0,0,,and memorize the ritual prayers.
-Dialogue: 10,0:08:39.98,0:08:42.24,GJM_Main,My,0,0,0,,Summons from the Knight's Order?
+Dialogue: 10,0:08:39.98,0:08:42.24,GJM_Main,My,0,0,0,,Summons from the Knights' Order?
 Dialogue: 10,0:08:42.24,0:08:45.00,GJM_Main,My,0,0,0,,Is that related to the Dedication Ritual?
 Dialogue: 10,0:08:45.00,0:08:48.63,GJM_Main,Fr,0,0,0,,No, this is something different.
-Dialogue: 10,0:08:49.02,0:08:53.97,GJM_Main,Fr,0,0,0,,{\q2}Before winter begins, we often receive \Na summons from the Knight's Order.
+Dialogue: 10,0:08:49.02,0:08:53.97,GJM_Main,Fr,0,0,0,,{\q2}Before winter begins, we often receive \Na summons from the Knights' Order.
 Dialogue: 10,0:08:54.62,0:08:57.64,GJM_Main,Fr,0,0,0,,There is a ritual that needs to be performed at that time, but...
 Dialogue: 10,0:08:57.88,0:09:02.27,GJM_Main,My,0,0,0,,{\q2}There's a shortage of blue priests\N due to the current state of affairs.
 Dialogue: 10,0:09:02.54,0:09:05.41,GJM_Main,Fr,0,0,0,,{\q2}That's right. Since you're\N an apprentice blue priestess,
@@ -173,15 +173,15 @@ Dialogue: 10,0:10:28.44,0:10:30.86,GJM_Main,My,0,0,0,,{\i1}and my chambers were 
 Dialogue: 10,0:10:30.86,0:10:33.49,GJM_Main,My,0,0,0,,{\i1}We made things such as preserved food and candles,
 Dialogue: 10,0:10:33.49,0:10:36.36,GJM_Main,My,0,0,0,,{\i1\q2}and with that, the orphanage's\N winter preparations were mostly done.
 Dialogue: 10,0:10:48.43,0:10:50.37,GJM_Main,HP,0,0,0,,It's Schutzaria's Night, huh?
-Dialogue: 10,0:10:53.85,0:10:56.13,GJM_Main,HP,0,0,0,,{\q2}The summons from the \NKnight's Order will arrive soon.
+Dialogue: 10,0:10:53.85,0:10:56.13,GJM_Main,HP,0,0,0,,{\q2}The summons from the \NKnights' Order will arrive soon.
 Dialogue: 10,0:11:14.43,0:11:17.94,GJM_Main,My,0,0,0,,High priest, how was the Harvest Festival?
 Dialogue: 10,0:11:41.00,0:11:42.26,GJM_Main,My,0,0,0,,Wh-What is this?
 Dialogue: 10,0:11:42.45,0:11:44.82,GJM_Main,HP,0,0,0,,Be quiet, Myne.
 Dialogue: 10,0:11:48.55,0:11:51.29,GJM_Main,Ka,0,0,0,,Lord Ferdinand, this is Karstedt.
-Dialogue: 10,0:11:51.29,0:11:55.44,GJM_Main,Ka,0,0,0,,{\q2}The Knight's Order summons you and any\N available priests to aid in the extermination.
+Dialogue: 10,0:11:51.29,0:11:55.44,GJM_Main,Ka,0,0,0,,{\q2}The Knights' Order summons you and any\N available priests to aid in the extermination.
 Dialogue: 10,0:11:55.71,0:11:57.94,GJM_Main,Ka,0,0,0,,Prepare to set out at once.
 Dialogue: 10,0:11:58.24,0:12:01.07,GJM_Main,Ka,0,0,0,,Lord Ferdinand, this is Karstedt.
-Dialogue: 10,0:12:01.07,0:12:04.95,GJM_Main,Ka,0,0,0,,{\q2}The Knight's Order summons you and any\N available priests to aid in the extermination.
+Dialogue: 10,0:12:01.07,0:12:04.95,GJM_Main,Ka,0,0,0,,{\q2}The Knights' Order summons you and any\N available priests to aid in the extermination.
 Dialogue: 10,0:12:05.27,0:12:06.95,GJM_Main,Ka,0,0,0,,Prepare to set out at once.
 Dialogue: 10,0:12:13.07,0:12:16.12,GJM_Main,My,0,0,0,,The bird turned into a stone!
 Dialogue: 10,0:12:17.42,0:12:18.90,GJM_Main,My,0,0,0,,High priest?!
@@ -190,7 +190,7 @@ Dialogue: 10,0:12:29.45,0:12:30.52,GJM_Main,HP,0,0,0,,Understood.
 Dialogue: 10,0:12:39.12,0:12:42.36,GJM_Main,My,0,0,0,,{\q2}What's with all these fantastical\N events all of a sudden?
 Dialogue: 10,0:12:49.97,0:12:53.27,GJM_Main,My,0,0,0,,High priest, what's going on?
 Dialogue: 10,0:12:53.27,0:12:55.37,GJM_Main,HP,0,0,0,,Did you not hear?
-Dialogue: 10,0:12:55.37,0:12:57.25,GJM_Main,HP,0,0,0,,It's a summons from the Knight's Order.
+Dialogue: 10,0:12:55.37,0:12:57.25,GJM_Main,HP,0,0,0,,It's a summons from the Knights' Order.
 Dialogue: 10,0:12:57.25,0:12:58.22,GJM_Main,My,0,0,0,,Huh?
 Dialogue: 10,0:12:58.22,0:12:59.55,GJM_Main,My,0,0,0,,What?!
 Dialogue: 10,0:12:59.93,0:13:02.41,GJM_Main,HP,0,0,0,,Change into your ceremonial robes immediately.
@@ -202,7 +202,7 @@ Dialogue: 10,0:13:18.86,0:13:23.32,GJM_Main,Fr,0,0,0,,Delia, Rosina, prepare the
 Dialogue: 10,0:13:24.06,0:13:26.37,GJM_Main,My,0,0,0,,{\i1}I've never seen Fran like this.
 Dialogue: 10,0:13:30.29,0:13:32.83,GJM_Main,De,0,0,0,,Sister Myne, please use this.
 Dialogue: 10,0:13:35.13,0:13:37.58,GJM_Main,De,0,0,0,,Sister Myne is ready!
-Dialogue: 10,0:13:37.58,0:13:41.19,GJM_Main,Ro,0,0,0,,{\q2}Sister Myne, you'll be dealing \Nwith the Knight's Order.
+Dialogue: 10,0:13:37.58,0:13:41.19,GJM_Main,Ro,0,0,0,,{\q2}Sister Myne, you'll be dealing \Nwith the Knights' Order.
 Dialogue: 10,0:13:41.19,0:13:45.33,GJM_Main,Ro,0,0,0,,{\q2}No matter what unpleasant things may happen, \Nyou cannot let your emotions show.
 Dialogue: 10,0:13:45.33,0:13:46.84,GJM_Main,Ro,0,0,0,,Please take the utmost care.
 Dialogue: 10,0:13:47.20,0:13:50.35,GJM_Main,Fr,0,0,0,,{\q2}Sister Myne, I presume \Nyou've memorized the prayers?
@@ -215,7 +215,7 @@ Dialogue: 10,0:14:21.96,0:14:23.63,GJM_Main,Fr,0,0,0,,I'm sorry to keep you wait
 Dialogue: 10,0:14:24.48,0:14:27.38,GJM_Main,My,0,0,0,,High priest, um...
 Dialogue: 10,0:14:27.73,0:14:29.64,GJM_Main,My,0,0,0,,What are you wearing?
 Dialogue: 10,0:14:29.64,0:14:33.41,GJM_Main,HP,0,0,0,,I won't be participating as the high priest,
-Dialogue: 10,0:14:33.41,0:14:35.77,GJM_Main,HP,0,0,0,,but as a member of the Knight's Order.
+Dialogue: 10,0:14:33.41,0:14:35.77,GJM_Main,HP,0,0,0,,but as a member of the Knights' Order.
 Dialogue: 10,0:14:36.36,0:14:38.39,GJM_Main,My,0,0,0,,Are these the noble duties you spoke of?
 Dialogue: 10,0:14:40.77,0:14:43.27,GJM_Main,HP,0,0,0,,Are these your ceremonial robes?
 Dialogue: 10,0:14:49.96,0:14:52.10,GJM_Main,HP,0,0,0,,It is a rather unusual design,
@@ -276,8 +276,8 @@ Dialogue: 10,0:19:11.17,0:19:13.38,GJM_Main,HP,0,0,0,,A feyplant known as a trom
 Dialogue: 10,0:19:13.38,0:19:16.00,GJM_Main,My,0,0,0,,Huh? The sprouty thingy?
 Dialogue: 10,0:19:25.32,0:19:28.48,GJM_Main,My,0,0,0,,I didn't know they could get this big.
 Dialogue: 10,0:19:30.19,0:19:32.40,GJM_Main,My,0,0,0,,It looks dangerous.
-Dialogue: 10,0:19:33.08,0:19:36.53,GJM_Main,HP,0,0,0,,It is the duty of the Knight's Order to exterminate it.
-Dialogue: 10,0:19:43.96,0:19:47.79,GJM_Main,HP,0,0,0,,{\q2}Your duties will come after the \NKnight's Order deals with the trombe.
+Dialogue: 10,0:19:33.08,0:19:36.53,GJM_Main,HP,0,0,0,,It is the duty of the Knights' Order to exterminate it.
+Dialogue: 10,0:19:43.96,0:19:47.79,GJM_Main,HP,0,0,0,,{\q2}Your duties will come after the \NKnights' Order deals with the trombe.
 Dialogue: 10,0:19:48.31,0:19:51.67,GJM_Main,HP,0,0,0,,{\q2}You shall heal the ground \Nthat has been stripped of mana.
 Dialogue: 10,0:19:52.25,0:19:53.76,GJM_Main,My,0,0,0,,Understood.
 Dialogue: 10,0:19:53.76,0:19:56.10,GJM_Main,HP,0,0,0,,Until then, you'll wait here.
@@ -291,7 +291,7 @@ Dialogue: 10,0:20:14.32,0:20:15.93,GJM_Main,HP,0,0,0,,Whatever will I do with yo
 Dialogue: 10,0:20:18.25,0:20:22.20,GJM_Main,HP,0,0,0,,{\q2}Protect the apprentice priestess.\N Do not allow her to get a single scratch.
 Dialogue: 10,0:20:22.20,0:20:22.97,GJM_Main,S/D,0,0,0,,Understood.
 Dialogue: 10,0:20:36.08,0:20:36.88,GJM_Main,HP,0,0,0,,Let us go.
-Dialogue: 10,0:20:42.90,0:20:48.39,GJM_Main,My,0,0,0,,{\q2}High priest, knights of the Knight's Order,\N I pray for your success.
+Dialogue: 10,0:20:42.90,0:20:48.39,GJM_Main,My,0,0,0,,{\q2}High Priest, Knights of the Order,\N I pray for your success.
 Dialogue: 10,0:20:48.99,0:20:52.43,GJM_Main,My,0,0,0,,May you all have the divine protection of Angriff,
 Dialogue: 10,0:20:52.43,0:20:55.06,GJM_Main,My,0,0,0,,God of War and subordinate to Leidenschaft.
 Dialogue: 10,0:20:58.16,0:21:00.54,GJM_Main,My,0,0,0,,The ring is drawing my mana out...
@@ -1757,8 +1757,8 @@ Dialogue: 0,0:22:57.23,0:23:02.69,ED2 - Main,,0,0,0,fx,{\an5\pos(1036.8,754)\c&H
 Comment: 0,0:00:00.00,0:00:00.02,GJM_Main,,0,0,0,,TS
 Dialogue: 1,0:02:01.98,0:02:06.98,Title,,0,0,0,,{\an5\pos(719.155,222.136)\fs60\c&H211D99&\blur0.6}Chapter 24
 Dialogue: 0,0:02:01.98,0:02:06.98,Title,,0,0,0,,{\an5\pos(720.483,223.694)\fs60\c&H010006&\blur1.35}Chapter 24
-Dialogue: 1,0:02:01.98,0:02:06.98,Title,,0,0,0,,{\an5\pos(719.373,497.562)\fscx90\fscy90\fs70\c&H211D99&\blur0.6}Summons from the Knight's Order
-Dialogue: 0,0:02:01.98,0:02:06.98,Title,,0,0,0,,{\an5\pos(720.908,498.888)\fscx90\fscy90\fs70\c&H000000&\blur1.4}Summons from the Knight's Order
+Dialogue: 1,0:02:01.98,0:02:06.98,Title,,0,0,0,,{\an5\pos(719.373,497.562)\fscx90\fscy90\fs70\c&H211D99&\blur0.6}Summons from the Knights' Order
+Dialogue: 0,0:02:01.98,0:02:06.98,Title,,0,0,0,,{\an5\pos(720.908,498.888)\fscx90\fscy90\fs70\c&H000000&\blur1.4}Summons from the Knights' Order
 Dialogue: 0,0:10:57.97,0:11:01.93,Title,,0,0,0,,{\an5\pos(1184.154,63.073)\fscy104\fs56.25\bord7.88\3c&HFFFFFF&\1a&HFF&\blur4.5\fad(0,809)}Ascendance of
 Dialogue: 0,0:10:57.97,0:11:01.93,Title,,0,0,0,,{\an5\pos(1184.154,111.287)\fscy104\fs56.25\bord7.88\3c&HFFFFFF&\1a&HFF&\blur4.5\fad(0,809)}a Bookworm
 Dialogue: 1,0:10:57.97,0:11:01.93,Title,,0,0,0,,{\an5\pos(1184.154,63.073)\fscy104\fs56.25\c&H25149F&\blur0.68\fad(0,809)}Ascendance of

@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 4
-Active Line: 5
+Scroll Position: 204
+Active Line: 248
 Video Position: 15520
 
 [V4+ Styles]
@@ -30,16 +30,16 @@ Style: Title,Aver,79,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 10,0:00:02.64,0:00:05.48,GJM_Main,Nar,0,0,0,,{\i1\q2}Myne departs to answer the \Nsummons from the Knight's Order.
-Dialogue: 10,0:00:07.63,0:00:11.57,GJM_Main,HP,0,0,0,,{\q2}Your duties will come after the \NKnight's Order deals with the trombe.{ep 24}
+Dialogue: 10,0:00:02.64,0:00:05.48,GJM_Main,Nar,0,0,0,,{\i1\q2}Myne departs to answer the \Nsummons from the Knights' Order.
+Dialogue: 10,0:00:07.63,0:00:11.57,GJM_Main,HP,0,0,0,,{\q2}Your duties will come after the \NKnights' Order deals with the trombe.{ep 24}
 Dialogue: 10,0:00:11.82,0:00:14.00,GJM_Main,Ka,0,0,0,,Shikza, Damuel!{ep 24}
 Dialogue: 10,0:00:14.00,0:00:15.57,GJM_Main,Ka,0,0,0,,Guard her.{ep 24}
 Dialogue: 10,0:00:15.57,0:00:16.70,GJM_Main,S/D,0,0,0,,Understood.{ep 24}
-Dialogue: 10,0:00:16.93,0:00:22.87,GJM_Main,My,0,0,0,,{\q2}High priest, knights of the Knight's Order,\N I pray for your success.{ep 24}
+Dialogue: 10,0:00:16.93,0:00:22.87,GJM_Main,My,0,0,0,,{\q2}High Priest, Knights of the Order,\N I pray for your success.{ep 24}
 Dialogue: 10,0:00:27.04,0:00:29.19,GJM_Main,Sh,0,0,0,,What a pointless blessing.{ep 24}
 Dialogue: 10,0:02:15.69,0:02:17.49,GJM_Main,My,0,0,0,,Pointless?
 Dialogue: 10,0:02:18.13,0:02:20.87,GJM_Main,Sh,0,0,0,,We're already short on mana as it is.
-Dialogue: 10,0:02:20.87,0:02:23.87,GJM_Main,Sh,0,0,0,,{\q2}Why would you waste any on\N a blessing for the Knight's Order?
+Dialogue: 10,0:02:20.87,0:02:23.87,GJM_Main,Sh,0,0,0,,{\q2}Why would you waste any on\N a blessing for the Knights' Order?
 Dialogue: 10,0:02:24.33,0:02:26.87,GJM_Main,Sh,0,0,0,,Only a fool would do such a pointless thing.
 Dialogue: 10,0:02:29.86,0:02:32.70,GJM_Main,Da,0,0,0,,What are you saying, Shikza?
 Dialogue: 10,0:02:32.70,0:02:37.63,GJM_Main,Da,0,0,0,,{\q2}Having the blessing of the God of Valor,\N Angriff, makes a huge difference!
@@ -79,11 +79,11 @@ Dialogue: 10,0:05:11.47,0:05:15.56,GJM_Main,Da,0,0,0,,{\q2}Splitting an arrow in
 Dialogue: 10,0:05:16.17,0:05:20.25,GJM_Main,Da,0,0,0,,{\q2}Being able to do so multiple times \Ncertainly is amazing!
 Dialogue: 10,0:05:20.76,0:05:21.75,GJM_Main,My,0,0,0,,It is!
 Dialogue: 10,0:05:22.70,0:05:25.26,GJM_Main,Da,0,0,0,,I wish he would rejoin the Order already.
-Dialogue: 10,0:05:25.67,0:05:27.15,GJM_Main,My,0,0,0,,Rejoin the Knight's Order?
+Dialogue: 10,0:05:25.67,0:05:27.15,GJM_Main,My,0,0,0,,Rejoin the Knights' Order?
 Dialogue: 10,0:05:28.08,0:05:29.75,GJM_Main,Da,0,0,0,,I've already said too much.
 Dialogue: 10,0:05:30.54,0:05:32.52,GJM_Main,My,0,0,0,,I understand.
 Dialogue: 10,0:05:33.95,0:05:37.79,GJM_Main,My,0,0,0,,{\i1\q2}He's so slender and high-strung that \Nhe's always seemed suited for office work,
-Dialogue: 10,0:05:37.79,0:05:41.77,GJM_Main,My,0,0,0,,{\i1\q2}so I'd have never imagined \Nthat he was in the Knight's Order.
+Dialogue: 10,0:05:37.79,0:05:41.77,GJM_Main,My,0,0,0,,{\i1\q2}so I'd have never imagined \Nthat he was in the Knights' Order.
 Dialogue: 10,0:05:43.61,0:05:47.57,GJM_Main,My,0,0,0,,{\i1\q2}A master of both the pen and the sword. \NThe high priest's seriously god-like!
 Dialogue: 10,0:05:51.24,0:05:53.31,GJM_Main,Da,0,0,0,,It's working.
 Dialogue: 10,0:05:53.31,0:05:55.71,GJM_Main,Da,0,0,0,,Can you see the trombe turning black?
@@ -278,15 +278,15 @@ Dialogue: 10,0:19:24.50,0:19:29.62,GJM_Main,HP,0,0,0,,{\q2}By insulting her, \Ny
 Dialogue: 10,0:19:29.62,0:19:31.27,GJM_Main,HP,0,0,0,,Remember that well!
 Dialogue: 10,0:19:35.67,0:19:38.06,GJM_Main,HP,0,0,0,,You both acted against your orders.
 Dialogue: 10,0:19:38.06,0:19:42.12,GJM_Main,HP,0,0,0,,{\q2}You not only abandoned your duty, but also \Nharmed the one you were supposed to protect.
-Dialogue: 10,0:19:42.12,0:19:44.53,GJM_Main,HP,0,0,0,,You've tainted the honor of the Knight's Order.
+Dialogue: 10,0:19:42.12,0:19:44.53,GJM_Main,HP,0,0,0,,You've tainted the honor of the Knights' Order.
 Dialogue: 10,0:19:45.05,0:19:47.21,GJM_Main,HP,0,0,0,,Do not think your misdeeds are light.
 Dialogue: 10,0:19:49.05,0:19:52.79,GJM_Main,HP,0,0,0,,{\q2}You will hear of your punishment\N from the archduke soon.
 Dialogue: 10,0:19:57.69,0:20:02.30,GJM_Main,HP,0,0,0,,{\q2}Karstedt, you've not only \Nchosen incompetent guards,
 Dialogue: 10,0:20:02.96,0:20:06.11,GJM_Main,HP,0,0,0,,but also failed to train the new recruits sufficiently.
-Dialogue: 10,0:20:06.11,0:20:08.45,GJM_Main,HP,0,0,0,,{\q2}As the captain of the Knight's Order,\N these misdeeds are also yours.
+Dialogue: 10,0:20:06.11,0:20:08.45,GJM_Main,HP,0,0,0,,{\q2}As the captain of the Knights' Order,\N these misdeeds are also yours.
 Dialogue: 10,0:20:09.94,0:20:11.81,GJM_Main,HP,0,0,0,,I'll inform you of your punishment soon.
 Dialogue: 10,0:20:13.57,0:20:15.62,GJM_Main,Ka,0,0,0,,The failures you have witnessed{split 3 liner}
-Dialogue: 10,0:20:15.62,0:20:19.82,GJM_Main,Ka,0,0,0,,{\q2}are due to my inadequacies \Nas the leader of the Knight's Order.
+Dialogue: 10,0:20:15.62,0:20:19.82,GJM_Main,Ka,0,0,0,,{\q2}are due to my inadequacies \Nas the leader of the Knights' Order.
 Dialogue: 10,0:20:20.43,0:20:27.58,GJM_Main,Ka,0,0,0,,{\q2}I offer my deepest apologies for all the trouble\N you have experienced, Lord Ferdinand.
 Dialogue: 10,0:20:30.33,0:20:34.63,GJM_Main,HP,0,0,0,,{\q2}Myne, we're going to perform the ritual\N while the potion is still in effect.
 Dialogue: 10,0:20:34.63,0:20:35.50,GJM_Main,My,0,0,0,,Understood!
@@ -294,7 +294,7 @@ Dialogue: 10,0:20:41.08,0:20:41.94,GJM_Main,HP,0,0,0,,Come.
 Dialogue: 10,0:20:45.08,0:20:45.72,GJM_Main,HP,0,0,0,,Let's go!
 Dialogue: 10,0:21:01.57,0:21:02.70,GJM_Main,HP,0,0,0,,Listen, Myne.{Push to 26 if changed}
 Dialogue: 10,0:21:03.28,0:21:08.45,GJM_Main,HP,0,0,0,,{\q2}You need to show them that you are worthy\N of the blue robes you're wearing.{Push to 26 if changed}
-Dialogue: 10,0:21:09.24,0:21:11.83,GJM_Main,HP,0,0,0,,If the Knight's Order acknowledges your worth,
+Dialogue: 10,0:21:09.24,0:21:11.83,GJM_Main,HP,0,0,0,,If the Knights' Order acknowledges your worth,
 Dialogue: 10,0:21:11.83,0:21:14.46,GJM_Main,HP,0,0,0,,you'll gain a powerful tool to protect yourself with.
 Dialogue: 10,0:21:14.75,0:21:15.93,GJM_Main,My,0,0,0,,Understood.{Push to 26 if changed}
 Dialogue: 10,0:21:15.93,0:21:20.71,GJM_Main,My,0,0,0,,{\q2}But it's my first time doing this, \Nso I don't know if I can do it properly.

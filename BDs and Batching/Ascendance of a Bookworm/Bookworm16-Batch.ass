@@ -14,8 +14,8 @@ Last Style Storage: Akagami
 Video File: ?dummy:23.976000:40000:1920:1080:47:163:254:
 Video AR Value: 1.777778
 Video Zoom Percent: 0.500000
-Scroll Position: 244
-Active Line: 285
+Scroll Position: 206
+Active Line: 250
 Video Position: 6136
 
 [V4+ Styles]
@@ -280,7 +280,7 @@ Dialogue: 10,0:16:07.78,0:16:09.79,GJM_Main,F,0,0,0,,No, I'm afraid not yet.
 Dialogue: 10,0:16:10.37,0:16:12.06,GJM_Main,F,0,0,0,,I'm terribly sorry.
 Dialogue: 10,0:16:12.06,0:16:13.78,GJM_Main,M,0,0,0,,It's not something you can learn overnight.
 Dialogue: 10,0:16:15.31,0:16:17.24,GJM_Main,HP,0,0,0,,That will be an issue.
-Dialogue: 10,0:16:17.24,0:16:21.11,GJM_Main,HP,0,0,0,,{\q2}Learn to manage her health by the time\Nwe receive the summons from the Knight's Order.
+Dialogue: 10,0:16:17.24,0:16:21.11,GJM_Main,HP,0,0,0,,{\q2}Learn to manage her health by the time\Nwe receive the summons from the Knights' Order.
 Dialogue: 10,0:16:21.11,0:16:22.32,GJM_Main,HP,0,0,0,,Understood?
 Dialogue: 10,0:16:22.32,0:16:25.29,GJM_Main,F,0,0,0,,Yes sir. I will do so by fall.
 Dialogue: 10,0:16:25.62,0:16:27.50,GJM_Main,B,0,0,0,,Also, high priest.
