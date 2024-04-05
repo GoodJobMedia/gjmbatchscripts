@@ -1,0 +1,427 @@
+﻿[Script Info]
+Title: GJM-Kaleido
+ScriptType: v4.00+
+PlayResX: 1920
+PlayResY: 1080
+Timer: .0000
+WrapStyle: 0
+YCbCr Matrix: TV.709
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00000000,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
+Style: Alt,Gandhi Sans,74,&H00FFFFFF,&H000000FF,&H00564100,&HA0000000,-1,0,0,0,100,100,0,0,1,3.6,1.5,2,200,200,56,1
+Style: EP1_OP,RedAlice Web,60,&H00FFFFFF,&H00FF61D5,&H28F5CF63,&H00F5CF63,-1,0,0,0,100,100,0,0,1,3.4,0,9,44,44,32,1
+Style: TitleCard,Althea,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,0,0,6,0,0,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 0,0:00:00.00,0:00:00.00,Default,chapter,0,0,0,,{Intro}
+Dialogue: 10,0:00:05.74,0:00:10.20,Default,Elaina,0,0,0,,{\i1\q2}Ever since I was a little girl, there was nothing \NI loved more than reading books.
+Dialogue: 10,0:00:11.49,0:00:15.87,Default,Elaina,0,0,0,,{\i1\q2}The one I loved most of all \Nwas called {\i0}The Adventures of Nike{\i1}.
+Dialogue: 10,0:00:16.70,0:00:18.04,Default,Elaina,0,0,0,,{\i1}Recorded in its pages
+Dialogue: 10,0:00:18.04,0:00:21.79,Default,Elaina,0,0,0,,{\i1\q2}was a travelogue the witch named Nike had \Nwritten while journeying all over the world.
+Dialogue: 10,0:00:29.43,0:00:32.89,Default,Elaina,0,0,0,,{\q2}I want to travel to lots of \Ndifferent places, just like Nike!
+Dialogue: 10,0:00:34.76,0:00:38.94,Default,Mom,0,0,0,,{\q2}In that case, you'd better start studying \Nso you can become a witch just like her!
+Dialogue: 10,0:00:38.94,0:00:41.23,Default,Elaina,0,0,0,,If I become a witch, can I go on a journey, too?
+Dialogue: 10,0:00:41.23,0:00:42.81,Default,Mom,0,0,0,,Of course you can!
+Dialogue: 10,0:00:42.81,0:00:43.52,Default,Mom,0,0,0,,Right?
+Dialogue: 10,0:00:44.57,0:00:45.44,Default,Dad,0,0,0,,Sure!
+Dialogue: 10,0:00:46.53,0:00:50.11,Default,Dad,0,0,0,,{\q2}Though only after you've grown up \Ninto a full-fledged witch, okay?
+Dialogue: 10,0:00:50.53,0:00:51.91,Default,Elaina,0,0,0,,Really?
+Dialogue: 10,0:00:51.91,0:00:53.95,Default,Elaina,0,0,0,,Really for real?!
+Dialogue: 10,0:00:54.45,0:00:56.16,Default,Mom,0,0,0,,Really for real!
+Dialogue: 10,0:01:00.62,0:01:02.67,Default,Elaina,0,0,0,,I'm gonna become a witch!
+Dialogue: 10,0:01:08.80,0:01:11.18,Default,Elaina,0,0,0,,{\i1\q2}I get how we feel about people \Ntooting their own horn,
+Dialogue: 10,0:01:11.18,0:01:14.43,Default,Elaina,0,0,0,,{\i1}but I was a diligent worker,
+Dialogue: 10,0:01:14.43,0:01:18.89,Default,Elaina,0,0,0,,{\i1}studying tirelessly from dawn 'til dusk every single day.
+Dialogue: 10,0:01:23.60,0:01:24.69,Default,Elaina,0,0,0,,{\i1}And as a result,
+Dialogue: 10,0:01:27.07,0:01:29.49,Default,Elaina,0,0,0,,{\i1}I became the youngest graduate
+Dialogue: 10,0:01:29.49,0:01:33.45,Default,Elaina,0,0,0,,{\i1\q2}in the history of the peaceful country of Robetta \Nto pass the magical skills exam.
+Dialogue: 10,0:01:33.45,0:01:35.74,Default,Elaina,0,0,0,,{\i1\q2}Now, as for the fourteen-year-old \Nnovice witch before you...
+Dialogue: 10,0:01:37.62,0:01:39.83,Default,Elaina,0,0,0,,{\i1}Why yes, that would be me!
+Comment: 0,0:01:41.00,0:01:41.00,Default,chapter,0,0,0,,{Part A}
+Dialogue: 10,0:01:47.46,0:01:50.80,Default,Dad,0,0,0,,Congratulations on passing the exam, Elaina!
+Dialogue: 10,0:01:50.80,0:01:52.97,Default,Mom,0,0,0,,We're so proud of you.
+Dialogue: 10,0:01:55.64,0:01:58.10,Default,Mom,0,0,0,,What's wrong? Aren't you happy?
+Dialogue: 10,0:01:58.47,0:02:02.60,Default,Elaina,0,0,0,,All the other candidates were awfully weak.
+Dialogue: 10,0:02:03.23,0:02:07.86,Default,Elaina,0,0,0,,{\q2}I suppose it's just a matter of time \Nbefore I become a witch!
+Dialogue: 10,0:02:09.15,0:02:10.82,Default,Mom,0,0,0,,Deary me.
+Dialogue: 10,0:02:10.82,0:02:13.49,Default,Elaina,0,0,0,,{\i1}The exam was only the start of the road.
+Dialogue: 10,0:02:13.49,0:02:15.70,Default,Elaina,0,0,0,,{\i1}To be considered a full-fledged witch,
+Dialogue: 10,0:02:15.70,0:02:18.87,Default,Elaina,0,0,0,,{\i1\q2}a novice must become an apprentice \Nof an established witch.
+Dialogue: 10,0:02:34.38,0:02:35.68,Default,Witch1,0,0,0,,On my way!
+Dialogue: 10,0:02:40.14,0:02:41.22,Default,Witch1,0,0,0,,How may I help you?
+Dialogue: 10,0:02:42.18,0:02:43.60,Default,Elaina,0,0,0,,Uhm, w-well...
+Dialogue: 10,0:02:44.69,0:02:48.27,Default,Elaina,0,0,0,,{\q2}I'm a recent graduate of the magical exam, \Nand my name is Elaina—
+Dialogue: 10,0:02:53.32,0:02:54.61,Default,Witch2,0,0,0,,Yes?
+Dialogue: 10,0:02:56.24,0:02:57.74,Default,Witch2,0,0,0,,Well, well. Who have we here?
+Dialogue: 10,0:02:57.99,0:03:01.45,Default,Elaina,0,0,0,,{\q2}I'm a recent graduate of the magical exam, \Nand my name is—
+Dialogue: 10,0:03:02.62,0:03:07.21,Default,Elaina,0,0,0,,{\i1\q2}Word had gotten out about me \Nbeing the youngest graduate ever,
+Dialogue: 10,0:03:07.63,0:03:11.21,Default,Elaina,0,0,0,,{\i1\q2}and it seems the witches in my \Nhome town were anything but impressed.
+Dialogue: 10,0:03:11.21,0:03:14.26,Default,Witch3,0,0,0,,I just can't! Sorry!
+Dialogue: 10,0:03:14.63,0:03:19.72,Default,Elaina,0,0,0,,{\i1\q2}I asked and asked, but every single witch \Nwould turn me down on the spot.
+Dialogue: 10,0:03:25.23,0:03:28.23,Default,Elaina,0,0,0,,I'll never become a witch at this rate.
+Dialogue: 10,0:03:28.23,0:03:29.90,Default,Elaina,0,0,0,,What to do?
+Dialogue: 10,0:03:30.69,0:03:34.11,Default,Dad,0,0,0,,{\q2}I've heard there's a very odd witch \Nwho's made her home deep in the forest nearby.
+Dialogue: 10,0:03:35.78,0:03:37.91,Default,Mom,0,0,0,,Oh, I've heard the same rumour.
+Dialogue: 10,0:03:37.91,0:03:40.28,Default,Mom,0,0,0,,They call her the Stardust Witch.
+Dialogue: 10,0:03:42.99,0:03:47.71,Default,Elaina,0,0,0,,{\i1}So off I went to pay this Stardust Witch a visit.
+Dialogue: 10,0:03:47.71,0:03:54.30,Default,Elaina,0,0,0,,{\i1\q2}If she isn't part of the grapevine, she'll be less likely \Nto refuse my apprenticeship, I thought.
+Dialogue: 10,0:03:55.05,0:03:55.84,Default,Elaina,0,0,0,,Oh?
+Dialogue: 10,0:03:58.05,0:03:59.80,Default,Elaina,0,0,0,,Could that be her?
+Dialogue: 10,0:04:06.93,0:04:08.14,Default,Fran,0,0,0,,My, oh my!
+Dialogue: 10,0:04:08.52,0:04:10.15,Default,Elaina,0,0,0,,The Stardust Witch?
+Dialogue: 10,0:04:15.74,0:04:19.28,Default,Fran,0,0,0,,There you are! And there! And there!
+Dialogue: 10,0:04:19.28,0:04:21.03,Default,Elaina,0,0,0,,Time to turn back.
+Dialogue: 10,0:04:21.03,0:04:22.62,Default,Fran,0,0,0,,Whee!
+Dialogue: 10,0:04:25.58,0:04:27.62,Default,Fran,0,0,0,,Yes, that's lovely!
+Dialogue: 10,0:04:31.21,0:04:32.67,Default,Fran,0,0,0,,There! And there!
+Dialogue: 10,0:04:37.09,0:04:39.18,Default,Elaina,0,0,0,,Pardon me.
+Dialogue: 10,0:04:39.18,0:04:40.09,Default,Fran,0,0,0,,Oh?
+Dialogue: 10,0:04:40.38,0:04:41.43,Default,Fran,0,0,0,,Oh, my.
+Dialogue: 10,0:04:41.43,0:04:42.43,Default,Elaina,0,0,0,,Uhm, well...
+Dialogue: 10,0:04:42.43,0:04:44.60,Default,Fran,0,0,0,,Would you happen to be Miss Elaina?
+Dialogue: 10,0:04:45.85,0:04:47.02,Default,Elaina,0,0,0,,You know who I am?
+Dialogue: 10,0:04:47.02,0:04:47.98,Default,Fran,0,0,0,,Yes, I do.
+Dialogue: 10,0:04:47.98,0:04:51.81,Default,Fran,0,0,0,,{\q2}You passed the magical skills exam on your \Nfirst try at only fourteen, isn't that right?
+Dialogue: 10,0:04:52.27,0:04:54.98,Default,Fran,0,0,0,,Your reputation precedes you. For good or for ill.
+Dialogue: 10,0:05:00.28,0:05:01.99,Default,Fran,0,0,0,,What brings you here?
+Dialogue: 10,0:05:01.99,0:05:04.28,Default,Elaina,0,0,0,,Nothing. Excuse me.
+Dialogue: 10,0:05:04.70,0:05:07.62,Default,Fran,0,0,0,,Might you be here to request an apprenticeship?
+Dialogue: 10,0:05:07.62,0:05:08.79,Default,Fran,0,0,0,,If so—
+Dialogue: 10,0:05:08.79,0:05:10.29,Default,Elaina,0,0,0,,I know, I know. You can't.
+Dialogue: 10,0:05:10.29,0:05:11.21,Default,Fran,0,0,0,,I'd be fine with that.
+Dialogue: 10,0:05:13.21,0:05:14.42,Default,Elaina,0,0,0,,Huh?
+Dialogue: 10,0:05:15.17,0:05:16.88,Default,Fran,0,0,0,,I have plenty of time on my hands.
+Dialogue: 10,0:05:17.30,0:05:18.26,Default,Elaina,0,0,0,,But—
+Dialogue: 10,0:05:18.26,0:05:19.38,Default,Elaina,0,0,0,,Um...
+Dialogue: 10,0:05:19.38,0:05:20.63,Default,Elaina,0,0,0,,Are you sure?
+Dialogue: 10,0:05:28.06,0:05:31.23,Default,Fran,0,0,0,,I'm not like those Robetta witches.
+Dialogue: 10,0:05:31.23,0:05:34.44,Default,Fran,0,0,0,,{\q2}It doesn't matter to me \Nwhat sort of girl my apprentice is.
+Dialogue: 10,0:05:39.90,0:05:42.15,Default,Elaina,0,0,0,,{\q2}Please allow me to be your apprentice!
+Dialogue: 10,0:05:44.74,0:05:50.58,Default,Elaina,0,0,0,,{\i1\q2}And that was how I met \Nthe Stardust Witch—my teacher, Fran.
+Dialogue: 10,0:05:59.96,0:06:01.30,Default,Elaina,0,0,0,,Good morning!
+Dialogue: 10,0:06:01.84,0:06:04.30,Default,Fran,0,0,0,,Good morning.
+Dialogue: 10,0:06:04.30,0:06:07.14,Default,Fran,0,0,0,,I'm famished. Would you whip up something to eat?
+Dialogue: 10,0:06:07.47,0:06:08.93,Default,Elaina,0,0,0,,What would you like?
+Dialogue: 10,0:06:09.27,0:06:11.60,Default,Fran,0,0,0,,Let me see...
+Dialogue: 10,0:06:11.60,0:06:13.77,Default,Fran,0,0,0,,I feel like a steak this morning!
+Dialogue: 10,0:06:14.02,0:06:16.40,Default,Elaina,0,0,0,,Wouldn't that be a bit heavy for breakfast?
+Dialogue: 10,0:06:16.40,0:06:18.65,Default,Fran,0,0,0,,{\q2}In that case, a bowl of weeds from outside will do.
+Dialogue: 10,0:06:18.65,0:06:20.94,Default,Elaina,0,0,0,,Awfully far in the other direction, don't you think?
+Dialogue: 10,0:06:20.94,0:06:23.49,Default,Fran,0,0,0,,All right, then I'll settle for bread.
+Dialogue: 10,0:06:31.87,0:06:34.04,Default,Fran,0,0,0,,I'm going out to gather herbs.
+Dialogue: 10,0:06:36.13,0:06:40.46,Default,Elaina,0,0,0,,{\q2}Pardon me, but I'd really like \Nto learn some magic today...
+Dialogue: 10,0:06:40.46,0:06:42.13,Default,Fran,0,0,0,,All in due time.
+Dialogue: 10,0:06:42.13,0:06:43.26,Default,Fran,0,0,0,,I'll return later.
+Dialogue: 10,0:06:44.05,0:06:45.51,Default,Elaina,0,0,0,,Have a pleasant outing.
+Dialogue: 10,0:06:46.43,0:06:49.22,Default,Elaina,0,0,0,,{\i1\q2}The time I'd spent as her apprentice \Nturned from days to weeks,
+Dialogue: 10,0:06:49.22,0:06:52.39,Default,Elaina,0,0,0,,{\i1\q2}and Miss Fran had still yet to \Ngive me any sort of training.
+Dialogue: 10,0:06:53.89,0:06:56.60,Default,Fran,0,0,0,,Elaina, my cupboards are getting bare.
+Dialogue: 10,0:06:56.98,0:06:59.32,Default,Fran,0,0,0,,Go into town and take care of the shopping.
+Dialogue: 10,0:06:59.32,0:07:01.07,Default,Elaina,0,0,0,,Okay.
+Dialogue: 10,0:07:05.61,0:07:09.33,Default,Fran,0,0,0,,Elaina, I need some lizards for my research.
+Dialogue: 10,0:07:09.33,0:07:10.95,Default,Fran,0,0,0,,Go catch me five or so.
+Dialogue: 10,0:07:10.95,0:07:12.50,Default,Elaina,0,0,0,,Okay.
+Dialogue: 10,0:07:14.37,0:07:17.63,Default,Fran,0,0,0,,Elaina! How long until dinner?
+Dialogue: 10,0:07:17.63,0:07:18.46,Default,Elaina,0,0,0,,Okay!
+Dialogue: 10,0:07:18.46,0:07:22.21,Default,Elaina,0,0,0,,For a brew to relieve pain, let's see here...
+Dialogue: 10,0:07:32.18,0:07:34.98,Default,Fran,0,0,0,,Elaina! There's a spider in the bath!
+Dialogue: 10,0:07:34.98,0:07:37.69,Default,Fran,0,0,0,,Would you please get rid of it for me? It's scary.
+Dialogue: 10,0:07:41.40,0:07:42.40,Default,Elaina,0,0,0,,Okay.
+Dialogue: 10,0:07:49.66,0:07:51.87,Default,Elaina,0,0,0,,She snuck these into the stew, didn't she?
+Dialogue: 10,0:07:51.87,0:07:54.12,Default,Fran,0,0,0,,You don't care for mushroom?
+Dialogue: 10,0:07:55.66,0:07:58.00,Default,Fran,0,0,0,,A witch can't be picky.
+Dialogue: 10,0:08:10.80,0:08:13.10,Default,Fran,0,0,0,,Elaina, massage my shoulders.
+Dialogue: 10,0:08:13.10,0:08:14.10,Default,Elaina,0,0,0,,Okay.
+Dialogue: 10,0:08:18.60,0:08:21.06,Default,Fran,0,0,0,,Ooh, that feels marvelous!
+Dialogue: 10,0:08:22.31,0:08:25.69,Default,Elaina,0,0,0,,Why aren't you teaching me any magic?
+Dialogue: 10,0:08:25.69,0:08:28.45,Default,Fran,0,0,0,,Ah! Right there! Harder!
+Dialogue: 10,0:08:30.91,0:08:33.24,Default,Fran,0,0,0,,Ahhhhh!
+Dialogue: 10,0:08:33.24,0:08:39.58,Default,Elaina,0,0,0,,{\i1\q2}We carried on like that, and before I knew it a month \Nhad passed without her teaching me a thing. {## Line sounds a bit odd, I'd like to maybe remove the "without teaching me a thing", since it's implied. Thoughts?}
+Dialogue: 10,0:08:42.29,0:08:45.67,Default,Elaina,0,0,0,,I've done nothing but take care of her chores.
+Dialogue: 10,0:08:45.67,0:08:48.55,Default,Elaina,0,0,0,,What am I even doing here?
+Dialogue: 10,0:08:52.72,0:08:56.22,Default,Elaina,0,0,0,,Are you finally going to teach me some magic?
+Dialogue: 10,0:08:56.22,0:08:59.64,Default,Fran,0,0,0,,Oh, no! There's no need for me to teach you.
+Dialogue: 10,0:08:59.89,0:09:01.73,Default,Elaina,0,0,0,,Is that right?
+Dialogue: 10,0:09:01.73,0:09:06.11,Default,Fran,0,0,0,,{\q2}And I'm not in the mood for stew today. \NMake something else.
+Dialogue: 10,0:09:09.90,0:09:11.36,Default,Elaina,0,0,0,,Okay.
+Dialogue: 10,0:09:15.45,0:09:18.12,Default,Fran,0,0,0,,I suppose the time has finally arrived.
+Dialogue: 10,0:09:18.12,0:09:19.00,Default,Fran,0,0,0,,Elaina.
+Dialogue: 10,0:09:21.12,0:09:21.75,Default,Elaina,0,0,0,,Yes?
+Dialogue: 10,0:09:24.08,0:09:26.00,Default,Fran,0,0,0,,I'm going to test you now.
+Dialogue: 10,0:09:28.80,0:09:29.84,Default,Elaina,0,0,0,,What?
+Comment: 0,0:09:31.01,0:09:31.01,Default,chapter,0,0,0,,{Part B}
+Dialogue: 10,0:09:38.52,0:09:43.27,Default,Elaina,0,0,0,,Miss Fran, what did you mean by testing me?
+Dialogue: 10,0:09:48.57,0:09:51.03,Default,Fran,0,0,0,,You and I are going to battle.
+Dialogue: 10,0:09:51.65,0:09:54.95,Default,Elaina,0,0,0,,You're joking, right?
+Dialogue: 10,0:09:56.41,0:09:58.20,Default,Fran,0,0,0,,Now then. Let's begin.
+Dialogue: 10,0:10:32.86,0:10:34.91,Default,Elaina,0,0,0,,{\move(460,1024,960,1024,1357,1691)}If that's how you want it,
+Dialogue: 10,0:10:34.91,0:10:36.53,Default,Elaina,0,0,0,,I'll blow you away!
+Dialogue: 10,0:11:31.96,0:11:33.38,Default,Elaina,0,0,0,,Is she trying to kill me?
+Dialogue: 10,0:11:38.64,0:11:40.47,Default,Fran,0,0,0,,What's the matter?
+Dialogue: 10,0:11:40.47,0:11:45.43,Default,Fran,0,0,0,,{\q2}Is that the best you can do? \NYou overwhelmed everyone else on the exam.
+Dialogue: 10,0:11:47.94,0:11:50.15,Default,Fran,0,0,0,,Give me a better challenge than that.
+Dialogue: 10,0:12:22.85,0:12:25.27,Default,Fran,0,0,0,,My, my. Done already?
+Dialogue: 10,0:12:28.27,0:12:31.19,Default,Fran,0,0,0,,{\q2}It seems the young prodigy \Nisn't all she was cracked up to be.
+Dialogue: 10,0:13:03.10,0:13:07.10,Default,Fran,0,0,0,,I-I-I'm sorry! I didn't mean for you to cry!
+Dialogue: 10,0:13:13.86,0:13:15.65,Default,Fran,0,0,0,,Oh no, oh no!
+Dialogue: 10,0:13:16.73,0:13:20.32,Default,Fran,0,0,0,,{\q2}Why, look at this! \NI know how much you love butterflies!
+Dialogue: 10,0:13:21.24,0:13:24.32,Default,Elaina,0,0,0,,That's you, not me!
+Dialogue: 10,0:13:24.32,0:13:26.41,Default,Fran,0,0,0,,W-Well, in that case...
+Dialogue: 10,0:13:30.54,0:13:33.21,Default,Fran,0,0,0,,Behold! A crown made of weeds, just for you!
+Dialogue: 10,0:13:33.21,0:13:34.13,Default,Elaina,0,0,0,,Don't want it!
+Dialogue: 10,0:13:34.13,0:13:35.38,Default,Fran,0,0,0,,Okay, then!
+Dialogue: 10,0:13:36.67,0:13:38.67,Default,Fran,0,0,0,,How about this?
+Dialogue: 10,0:13:38.67,0:13:39.34,Default,Fran,0,0,0,,One! Two!
+Dialogue: 10,0:13:39.34,0:13:41.55,Default,Fran,0,0,0,,Ouch, ouch, ouch!
+Dialogue: 10,0:13:46.56,0:13:48.77,Default,Fran,0,0,0,,Hmm, now what...
+Dialogue: 10,0:13:50.27,0:13:51.10,Default,Fran,0,0,0,,How about this?
+Dialogue: 10,0:13:53.40,0:13:54.23,Default,Fran,0,0,0,,Calm down.
+Dialogue: 10,0:13:54.23,0:13:58.07,Default,Elaina,0,0,0,,Stop it! What do you think you're doing?
+Dialogue: 10,0:13:58.82,0:14:03.07,Default,Fran,0,0,0,,I truly am sorry. I see now that I went too far.
+Dialogue: 10,0:14:03.07,0:14:07.49,Default,Elaina,0,0,0,,{\q2}Stop joking around! You were having \Nsuch a fun time picking on me!
+Dialogue: 10,0:14:07.49,0:14:10.04,Default,Fran,0,0,0,,Fun? Heavens, no!
+Dialogue: 10,0:14:10.04,0:14:13.83,Default,Elaina,0,0,0,,{\q2}You never had any intention of \Nhelping me become a witch!
+Dialogue: 10,0:14:13.83,0:14:16.96,Default,Elaina,0,0,0,,I hate you! I hate everybody!
+Dialogue: 10,0:14:16.96,0:14:22.30,Default,Elaina,0,0,0,,{\q2}I really believed, and I endured so much for so long, \Ntelling myself it would all be okay!
+Dialogue: 10,0:14:22.30,0:14:28.14,Default,Elaina,0,0,0,,{\q2}But I was wrong! You're no different from \Nthose witches in Robetta!
+Dialogue: 10,0:14:28.14,0:14:34.19,Default,Elaina,0,0,0,,{\q2}I trusted you, but you never even noticed \Nhow much blood, sweat, and tears I shed!
+Dialogue: 10,0:14:34.19,0:14:38.90,Default,Elaina,0,0,0,,All I wanted was for someone to acknowledge...
+Dialogue: 10,0:14:47.95,0:14:49.91,Default,Fran,0,0,0,,I am sorry. From the bottom of my heart.
+Dialogue: 10,0:14:49.91,0:14:52.79,Default,Fran,0,0,0,,I truly understand how you feel now.
+Dialogue: 10,0:14:52.79,0:14:55.21,Default,Fran,0,0,0,,You've endured everything so well.
+Dialogue: 10,0:14:55.21,0:14:58.38,Default,Elaina,0,0,0,,Do you think you can fool me with that again?
+Dialogue: 10,0:14:58.38,0:15:01.42,Default,Fran,0,0,0,,No. I won't be deceiving you any longer.
+Dialogue: 10,0:15:01.42,0:15:04.26,Default,Fran,0,0,0,,I can't stand any more of this either.
+Dialogue: 10,0:15:08.89,0:15:13.35,Default,Fran,0,0,0,,The truth is, your parents asked me to do this.
+Dialogue: 10,0:15:14.48,0:15:15.60,Default,Elaina,0,0,0,,Huh?
+Dialogue: 10,0:15:17.56,0:15:20.61,Default,Dad,0,0,0,,{\q2}If she continues on like this \Nuntil she reaches adulthood...
+Dialogue: 10,0:15:21.28,0:15:24.40,Default,Dad,0,0,0,,I'm concerned about how she will end up.
+Dialogue: 10,0:15:24.40,0:15:29.74,Default,Fran,0,0,0,,{\q2}So you want me to make her my apprentice \Nand teach her what failure feels like?
+Dialogue: 10,0:15:30.33,0:15:31.54,Default,Mom,0,0,0,,That's right.
+Dialogue: 10,0:15:32.58,0:15:33.91,Default,Fran,0,0,0,,Well, I don't know...
+Dialogue: 10,0:15:34.29,0:15:37.79,Default,Mom,0,0,0,,Of course, we wouldn't ask you to do it for free,
+Dialogue: 10,0:15:37.79,0:15:38.75,Default,Mom,0,0,0,,{\i1}Teacher{\i0}.
+Dialogue: 10,0:15:43.30,0:15:49.09,Default,Fran,0,0,0,,{\q2}Dear me, do I look like a witch who can be \Nso easily swayed by money to you?
+Dialogue: 10,0:15:49.68,0:15:54.52,Default,Fran,0,0,0,,With great reluctance, I answered your parents' plea.
+Dialogue: 10,0:15:54.52,0:15:57.60,Default,Fran,0,0,0,,{\q2}At first, I planned to make you go \Nthrough hopelessly rigorous training,
+Dialogue: 10,0:15:57.60,0:16:00.52,Default,Fran,0,0,0,,and thus learn what the frustration of that feels like.
+Dialogue: 10,0:16:00.52,0:16:04.11,Default,Fran,0,0,0,,But you proved yourself incredibly skilled,
+Dialogue: 10,0:16:04.11,0:16:09.03,Default,Fran,0,0,0,,and willing to stop at nothing to fulfil my commands.
+Dialogue: 10,0:16:09.03,0:16:14.33,Default,Fran,0,0,0,,{\q2}And you were very conscious of \Nhow others perceived you.
+Dialogue: 10,0:16:14.33,0:16:17.46,Default,Fran,0,0,0,,{\q2}I started to think that harsh training \Nwouldn't do anything for you.
+Dialogue: 10,0:16:17.46,0:16:20.46,Default,Fran,0,0,0,,{\q2}You were sure to endure it and \Ngo right back to how you were.
+Dialogue: 10,0:16:21.08,0:16:22.13,Default,Fran,0,0,0,,But...
+Dialogue: 10,0:16:23.59,0:16:27.01,Default,Fran,0,0,0,,Truth be told, that's one of your flaws.
+Dialogue: 10,0:16:28.72,0:16:31.97,Default,Fran,0,0,0,,You hold yourself back too much, Elaina.
+Dialogue: 10,0:16:34.51,0:16:37.89,Default,Fran,0,0,0,,You don't have to simply endure everything.
+Dialogue: 10,0:16:37.89,0:16:40.48,Default,Fran,0,0,0,,If you can't stomach it, fight it.
+Dialogue: 10,0:16:40.77,0:16:44.86,Default,Fran,0,0,0,,{\q2}Learn to speak your mind and \Ncall out bad things for what they are.
+Dialogue: 10,0:16:44.86,0:16:47.49,Default,Fran,0,0,0,,This is for your own self-preservation.
+Dialogue: 10,0:16:53.70,0:16:58.46,Default,Elaina,0,0,0,,Then the reason you never taught me any magic was...
+Dialogue: 10,0:16:59.12,0:17:02.00,Default,Fran,0,0,0,,I was waiting for you to hit your boiling point.
+Dialogue: 10,0:17:02.00,0:17:04.54,Default,Fran,0,0,0,,It took an entire month to get there.
+Dialogue: 10,0:17:05.21,0:17:08.47,Default,Fran,0,0,0,,That's what today's test was about.
+Dialogue: 10,0:17:09.26,0:17:11.47,Default,Fran,0,0,0,,I really am sorry.
+Dialogue: 10,0:17:11.93,0:17:13.97,Default,Elaina,0,0,0,,{\i1}"Don't simply endure."
+Dialogue: 10,0:17:13.97,0:17:17.39,Default,Elaina,0,0,0,,{\i1}That was the first time anyone had told me that.
+Dialogue: 10,0:17:17.39,0:17:19.18,Default,Elaina,0,0,0,,Teacher...
+Dialogue: 10,0:17:19.18,0:17:22.44,Default,Fran,0,0,0,,You have the knowledge and the talent.
+Dialogue: 10,0:17:22.44,0:17:26.48,Default,Fran,0,0,0,,If there's one thing you're lacking, it's experience.
+Dialogue: 10,0:17:26.82,0:17:30.70,Default,Elaina,0,0,0,,{\i1}That day, my real training began.
+Dialogue: 10,0:17:30.70,0:17:32.99,Default,Elaina,0,0,0,,{\i1}In order to gain as much experience as I could...
+Dialogue: 10,0:17:35.74,0:17:38.16,Default,Elaina,0,0,0,,Good morning, Miss Fran!
+Dialogue: 10,0:17:38.16,0:17:40.91,Default,Fran,0,0,0,,Good morning, Elaina.
+Dialogue: 10,0:17:40.91,0:17:43.79,Default,Fran,0,0,0,,I'm hungry. Fix me something to eat.
+Dialogue: 10,0:17:45.00,0:17:47.25,Default,Elaina,0,0,0,,Here you are. A bowl of weeds, just for you.
+Dialogue: 10,0:17:47.80,0:17:50.76,Default,Fran,0,0,0,,Have I done something to get on your bad side?
+Dialogue: 10,0:17:51.22,0:17:53.22,Default,Elaina,0,0,0,,You taught me not to endure too much abuse,
+Dialogue: 10,0:17:53.22,0:17:58.77,Default,Elaina,0,0,0,,{\q2}so I decided to speak my mind about what a pain \Nmaking breakfast for my teacher is.
+Dialogue: 10,0:18:00.64,0:18:01.94,Default,Elaina,0,0,0,,Just kidding.
+Dialogue: 10,0:18:02.77,0:18:08.15,Default,Elaina,0,0,0,,{\q2}Will the leftover stew from yesterday and some \Ncrusty bread do? Because that's what you're getting!
+Dialogue: 10,0:18:08.40,0:18:09.32,Default,Fran,0,0,0,,Okay.
+Dialogue: 10,0:18:12.07,0:18:13.91,Default,Elaina,0,0,0,,{\i1}The days I spent
+Dialogue: 10,0:18:14.87,0:18:17.37,Default,Elaina,0,0,0,,{\i1}training together with my teacher
+Dialogue: 10,0:18:20.58,0:18:23.33,Default,Elaina,0,0,0,,{\i1}came with their share of hardships,
+Dialogue: 10,0:18:27.92,0:18:31.76,Default,Elaina,0,0,0,,{\i1}but they were so meaningful and fun.
+Dialogue: 10,0:18:59.91,0:19:02.50,Default,Fran,0,0,0,,You've grown so much stronger.
+Dialogue: 10,0:19:02.95,0:19:05.50,Default,Elaina,0,0,0,,I finally won!
+Dialogue: 10,0:19:05.50,0:19:07.58,Default,Fran,0,0,0,,And with that, your training is now complete.
+Dialogue: 10,0:19:07.58,0:19:08.42,Default,Elaina,0,0,0,,What?
+Dialogue: 10,0:19:08.92,0:19:11.63,Default,Fran,0,0,0,,You've done well this past year.
+Dialogue: 10,0:19:11.63,0:19:14.42,Default,Fran,0,0,0,,I have nothing more to teach you.
+Dialogue: 10,0:19:23.48,0:19:25.23,Default,Fran,0,0,0,,Congratulations, Elaina.
+Dialogue: 10,0:19:25.23,0:19:29.11,Default,Fran,0,0,0,,{\q2}I, the Stardust Witch, hereby \Nrecognise you as a full-fledged witch.
+Dialogue: 10,0:19:29.98,0:19:31.98,Default,Elaina,0,0,0,,Thank you!
+Dialogue: 10,0:19:31.98,0:19:34.11,Default,Fran,0,0,0,,Also, concerning your witch title,
+Dialogue: 10,0:19:34.61,0:19:36.61,Default,Fran,0,0,0,,how do you feel about the "The Ashen Witch"?
+Dialogue: 10,0:19:36.95,0:19:38.32,Default,Elaina,0,0,0,,Where did that name come from?
+Dialogue: 10,0:19:38.32,0:19:40.62,Default,Fran,0,0,0,,Your hair. It's coloured just like ash.
+Dialogue: 10,0:19:42.12,0:19:45.91,Default,Elaina,0,0,0,,Isn't that a little {\i1}too{\i0} simple?
+Dialogue: 10,0:19:45.91,0:19:48.13,Default,Fran,0,0,0,,Oh, but I think it sounds really cool!
+Dialogue: 10,0:19:48.13,0:19:51.38,Default,Elaina,0,0,0,,{\q2}Come to think of it, how did you get \Nthe name "The Stardust Witch"?
+Dialogue: 10,0:19:51.38,0:19:53.55,Default,Fran,0,0,0,,I chose it because it sounds cool!
+Dialogue: 10,0:19:55.42,0:19:57.55,Default,Fran,0,0,0,,So? What do you think of being the Ashen Witch?
+Dialogue: 10,0:19:58.55,0:20:00.55,Default,Elaina,0,0,0,,Fine by me.
+Dialogue: 10,0:20:00.55,0:20:02.56,Default,Fran,0,0,0,,Then that settles it!
+Dialogue: 10,0:20:03.43,0:20:05.23,Default,Fran,0,0,0,,Elaina, the Ashen Witch.
+Dialogue: 10,0:20:12.61,0:20:14.99,Default,Fran,0,0,0,,Keep on doing your best.
+Dialogue: 10,0:20:14.99,0:20:15.69,Default,Elaina,0,0,0,,I will.
+Dialogue: 10,0:20:17.70,0:20:20.20,Default,Fran,0,0,0,,Then I'll be on my way now.
+Dialogue: 10,0:20:21.49,0:20:23.20,Default,Elaina,0,0,0,,Where to?
+Dialogue: 10,0:20:23.62,0:20:28.33,Default,Elaina,0,0,0,,{\i1\q2}As it turned out, Miss Fran was in truth \Na distinguished witch from another country.
+Dialogue: 10,0:20:28.33,0:20:30.96,Default,Elaina,0,0,0,,{\i1}That was the first I'd heard of it.
+Dialogue: 10,0:20:31.50,0:20:33.96,Default,Elaina,0,0,0,,Then what brought you here?
+Dialogue: 10,0:20:33.96,0:20:35.96,Default,Fran,0,0,0,,There was someone I was hoping to meet.
+Dialogue: 10,0:20:35.96,0:20:37.47,Default,Elaina,0,0,0,,Who would that be?
+Dialogue: 10,0:20:37.47,0:20:39.72,Default,Elaina,0,0,0,,And were you able to?
+Dialogue: 10,0:20:41.93,0:20:45.14,Default,Fran,0,0,0,,I'd love to take my time and talk with you more,
+Dialogue: 10,0:20:45.14,0:20:47.93,Default,Fran,0,0,0,,{\q2}but there are many people \Nawaiting my return back home.
+Dialogue: 10,0:20:48.52,0:20:50.27,Default,Fran,0,0,0,,Farewell, Elaina.
+Dialogue: 10,0:20:50.27,0:20:52.40,Default,Fran,0,0,0,,I hope we'll meet again someday.
+Dialogue: 10,0:20:52.40,0:20:53.61,Default,Elaina,0,0,0,,Me too!
+Dialogue: 10,0:21:11.00,0:21:15.67,Default,Elaina,0,0,0,,Farewell, Teacher!
+Dialogue: 10,0:21:23.26,0:21:25.56,Default,Elaina,0,0,0,,Mom, Dad,
+Dialogue: 10,0:21:25.56,0:21:27.81,Default,Elaina,0,0,0,,I've become a witch.
+Dialogue: 10,0:21:27.81,0:21:30.19,Default,Elaina,0,0,0,,Please let me embark on my journey now.
+Dialogue: 10,0:21:30.19,0:21:33.56,Default,Dad,0,0,0,,There's no need to be hasty, is there?
+Dialogue: 10,0:21:33.56,0:21:34.94,Default,Mom,0,0,0,,Have you made up your mind?
+Dialogue: 10,0:21:34.94,0:21:36.02,Default,Elaina,0,0,0,,Yes, of course!
+Dialogue: 10,0:21:36.02,0:21:37.82,Default,Mom,0,0,0,,Off you go, then.
+Dialogue: 10,0:21:37.82,0:21:38.65,Default,Elaina,0,0,0,,All right.
+Dialogue: 10,0:21:42.45,0:21:46.12,Default,Mom,0,0,0,,But before that, I want you to promise me three things.
+Dialogue: 10,0:21:47.08,0:21:51.16,Default,Mom,0,0,0,,First: That when faced with danger, you flee at once.
+Dialogue: 10,0:21:52.37,0:21:56.84,Default,Mom,0,0,0,,Second: To not believe that you are special.
+Dialogue: 10,0:21:57.17,0:22:00.42,Default,Mom,0,0,0,,Remember that you're equal to everyone else.
+Dialogue: 10,0:22:01.88,0:22:08.18,Default,Mom,0,0,0,,{\q2}Third: To come home someday and \Nlet us see you happy and healthy.
+Dialogue: 10,0:22:08.18,0:22:09.22,Default,Mom,0,0,0,,Think you can keep them?
+Dialogue: 10,0:22:10.81,0:22:11.77,Default,Elaina,0,0,0,,Yes!
+Dialogue: 10,0:22:13.98,0:22:16.48,Default,Dad,0,0,0,,D-Do you really have to go?
+Dialogue: 10,0:22:16.48,0:22:18.69,Default,Mom,0,0,0,,Her mind's made up.
+Dialogue: 10,0:22:18.69,0:22:22.32,Default,Mom,0,0,0,,Let's see her off with a smile, okay?
+Dialogue: 10,0:22:23.28,0:22:24.57,Default,Mom,0,0,0,,Really, dear.
+Dialogue: 10,0:22:24.57,0:22:28.33,Default,Mom,0,0,0,,{\q2}If a little trip has you bawling like this, \NI worry for the day she'll return with a spouse.
+Dialogue: 10,0:22:32.83,0:22:34.46,Default,Mom,0,0,0,,It looks very becoming on you.
+Dialogue: 10,0:22:35.38,0:22:38.00,Default,Elaina,0,0,0,,You don't think it's a little plain?
+Dialogue: 10,0:22:38.00,0:22:41.34,Default,Mom,0,0,0,,On the contrary, it suits a traveller just right.
+Dialogue: 10,0:22:41.34,0:22:44.13,Default,Mom,0,0,0,,Take this too, just in case.
+Dialogue: 10,0:22:44.80,0:22:46.64,Default,Elaina,0,0,0,,But isn't it identical to the one I'm wearing?
+Dialogue: 10,0:22:46.64,0:22:49.31,Default,Mom,0,0,0,,{\q2}It's good to have a spare in case \Nthe wind blows one away.
+Dialogue: 10,0:22:49.31,0:22:50.64,Default,Elaina,0,0,0,,I see, a spare!
+Dialogue: 10,0:22:50.64,0:22:51.93,Default,Mom,0,0,0,,That's right.
+Dialogue: 10,0:22:51.93,0:22:54.19,Default,Elaina,0,0,0,,Thank you, then. I'll take it.
+Dialogue: 10,0:22:55.23,0:22:56.98,Default,Mom,0,0,0,,And one more thing.
+Dialogue: 10,0:22:58.82,0:23:01.40,Default,Elaina,0,0,0,,A diary?
+Dialogue: 10,0:23:01.82,0:23:04.90,Default,Mom,0,0,0,,Keep a diary of your travels, just like Nike.
+Dialogue: 10,0:23:04.90,0:23:09.49,Default,Mom,0,0,0,,{\q2}And when you come back home, \Ntell us all about them.
+Dialogue: 10,0:23:09.49,0:23:11.33,Default,Elaina,0,0,0,,Then I'll gladly take it, too.
+Dialogue: 10,0:23:12.08,0:23:16.54,Default,Elaina,0,0,0,,{\q2}Look forward to the tales of \Nthe Ashen Witch's adventures!
+Dialogue: 10,0:23:17.42,0:23:18.46,Default,Mom,0,0,0,,I will.
+Dialogue: 10,0:23:21.92,0:23:23.63,Default,Mom,0,0,0,,Have a safe journey, Elaina.
+Dialogue: 10,0:23:24.42,0:23:25.72,Default,Elaina,0,0,0,,I'm off now!
+Dialogue: 10,0:23:27.09,0:23:29.97,Default,Elaina,0,0,0,,{\i1}And with that, I set off on my journey,
+Dialogue: 10,0:23:29.97,0:23:32.60,Default,Elaina,0,0,0,,{\i1\q2}heading wherever the wind and \Nmy own fancy carried me,
+Dialogue: 10,0:23:32.60,0:23:37.69,Default,Elaina,0,0,0,,{\i1\q2}travelling here and there, and seeing many \Nnew things over the past three years of travel.
+Dialogue: 10,0:23:39.15,0:23:41.69,Default,Elaina,0,0,0,,{\i1}Now then, here's a question for you.
+Dialogue: 10,0:23:41.69,0:23:44.32,Default,Elaina,0,0,0,,{\i1}Who might that witch be,
+Dialogue: 10,0:23:44.32,0:23:48.66,Default,Elaina,0,0,0,,{\i1\q2}the sight of her as she flies over the stark \Nmountain range lovely enough to take your breath away?
+Dialogue: 10,0:23:50.41,0:23:55.00,Default,Elaina,0,0,0,,{\i1}Why yes, that would be eighteen-year-old me!
+Comment: 0,0:22:28.34,0:22:28.34,Default,chapter,0,0,0,sync,{Outro}
+Dialogue: 1,0:22:37.25,0:22:41.05,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}As illusions start to gain colour and shapes
+Dialogue: 1,0:22:41.30,0:22:44.97,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}While they slowly start to become real
+Dialogue: 1,0:22:45.01,0:22:47.18,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}I will give them form
+Dialogue: 1,0:22:47.26,0:22:49.81,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}And grant their wishes
+Dialogue: 1,0:22:49.93,0:22:53.06,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}As the gently blowing wind
+Dialogue: 1,0:22:53.94,0:22:57.19,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}Stirs the pages of an aged book
+Dialogue: 1,0:22:57.23,0:22:59.44,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}I may turn back now and then
+Dialogue: 1,0:22:59.52,0:23:01.53,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}But rest assured, it will be all right
+Dialogue: 1,0:23:01.82,0:23:05.32,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}Tales of meeting and parting once more
+Dialogue: 1,0:23:05.91,0:23:09.41,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}All so full of new, yet-unexplored things
+Dialogue: 1,0:23:10.16,0:23:16.50,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}I gently brushed the words set down in blurry ink
+Dialogue: 1,0:23:18.09,0:23:19.54,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}Where are you going to?
+Dialogue: 1,0:23:19.59,0:23:22.21,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}Somewhere just a little far away
+Dialogue: 1,0:23:22.26,0:23:25.88,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}Let the things I left behind turn into dreams
+Dialogue: 1,0:23:26.22,0:23:30.35,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}Choosing what I like best, and in the process
+Dialogue: 1,0:23:30.39,0:23:34.10,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}Slowly growing into myself
+Dialogue: 1,0:23:34.43,0:23:36.90,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}"Oh, do let us meet again!"
+Dialogue: 1,0:23:36.98,0:23:38.90,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}"And make it a promise, too!"
+Dialogue: 1,0:23:38.94,0:23:42.15,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}You said to me, grinning from ear to ear
+Dialogue: 1,0:23:42.44,0:23:45.07,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}"Yes, let us meet again!"
+Dialogue: 1,0:23:45.15,0:23:47.20,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}Linking fingers, we sealed our vow
+Dialogue: 1,0:23:47.24,0:23:49.57,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}And as I heard a voice calling to me
+Dialogue: 1,0:23:49.62,0:23:51.49,EP1_OP,eng,0,0,0,,{\bord0\blur0.65\fad(200,200)}I opened my eyes
+Dialogue: 1,0:22:37.25,0:22:41.05,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}irodorarete ikeba gensou ga
+Dialogue: 1,0:22:41.30,0:22:44.97,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}katachi aru mono ni naru you ni
+Dialogue: 1,0:22:45.01,0:22:47.18,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}egaite yukeru
+Dialogue: 1,0:22:47.26,0:22:49.81,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}kanaete yukerunda
+Dialogue: 1,0:22:49.93,0:22:53.06,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}yasashiku fuita kaze ga
+Dialogue: 1,0:22:53.94,0:22:57.19,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}furui page mekuru you ni
+Dialogue: 1,0:22:57.23,0:22:59.44,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}furikaeru kedo
+Dialogue: 1,0:22:59.52,0:23:01.53,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}uun ii no yo
+Dialogue: 1,0:23:01.82,0:23:05.32,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}shiranai koto darake no
+Dialogue: 1,0:23:05.91,0:23:09.41,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}deai wakare no hanashi
+Dialogue: 1,0:23:10.16,0:23:16.50,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}nijimu ink wo sotto nazotta
+Dialogue: 1,0:23:18.09,0:23:19.54,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}doko iku no
+Dialogue: 1,0:23:19.59,0:23:22.21,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}sukoshi tooku made
+Dialogue: 1,0:23:22.26,0:23:25.88,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}oitekita mono wa yume ni
+Dialogue: 1,0:23:26.22,0:23:30.35,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}suki dakara erabu erabinagara
+Dialogue: 1,0:23:30.39,0:23:34.10,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}watashi ni natte yuku
+Dialogue: 1,0:23:34.43,0:23:36.90,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}mata aimashou
+Dialogue: 1,0:23:36.98,0:23:38.90,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}yakusoku dakara
+Dialogue: 1,0:23:38.94,0:23:42.15,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}anata wa sou hohoenda
+Dialogue: 1,0:23:42.44,0:23:45.07,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}mata aimashou
+Dialogue: 1,0:23:45.15,0:23:47.20,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}koyubi no majinai
+Dialogue: 1,0:23:47.24,0:23:49.57,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}dareka no koe ga shite
+Dialogue: 1,0:23:49.62,0:23:51.49,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\bord0\blur0.65\fad(200,200)}me ga sameta
+Dialogue: 0,0:22:37.25,0:22:41.05,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}As illusions start to gain colour and shapes
+Dialogue: 0,0:22:41.30,0:22:44.97,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}While they slowly start to become real
+Dialogue: 0,0:22:45.01,0:22:47.18,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}I will give them form
+Dialogue: 0,0:22:47.26,0:22:49.81,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}And grant their wishes
+Dialogue: 0,0:22:49.93,0:22:53.06,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}As the gently blowing wind
+Dialogue: 0,0:22:53.94,0:22:57.19,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}Stirs the pages of an aged book
+Dialogue: 0,0:22:57.23,0:22:59.44,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}I may turn back now and then
+Dialogue: 0,0:22:59.52,0:23:01.53,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}But rest assured, it will be all right
+Dialogue: 0,0:23:01.82,0:23:05.32,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}Tales of meeting and parting once more
+Dialogue: 0,0:23:05.91,0:23:09.41,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}All so full of new, yet-unexplored things
+Dialogue: 0,0:23:10.16,0:23:16.50,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}I gently brushed the words set down in blurry ink
+Dialogue: 0,0:23:18.09,0:23:19.54,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}Where are you going to?
+Dialogue: 0,0:23:19.59,0:23:22.21,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}Somewhere just a little far away
+Dialogue: 0,0:23:22.26,0:23:25.88,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}Let the things I left behind turn into dreams
+Dialogue: 0,0:23:26.22,0:23:30.35,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}Choosing what I like best, and in the process
+Dialogue: 0,0:23:30.39,0:23:34.10,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}Slowly growing into myself
+Dialogue: 0,0:23:34.43,0:23:36.90,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}"Oh, do let us meet again!"
+Dialogue: 0,0:23:36.98,0:23:38.90,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}"And make it a promise, too!"
+Dialogue: 0,0:23:38.94,0:23:42.15,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}You said to me, grinning from ear to ear
+Dialogue: 0,0:23:42.44,0:23:45.07,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}"Yes, let us meet again!"
+Dialogue: 0,0:23:45.15,0:23:47.20,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}Linking fingers, we sealed our vow
+Dialogue: 0,0:23:47.24,0:23:49.57,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}And as I heard a voice calling to me
+Dialogue: 0,0:23:49.62,0:23:51.49,EP1_OP,eng,0,0,0,,{\1a&HC8&\blur4\fad(200,200)}I opened my eyes
+Dialogue: 0,0:22:37.25,0:22:41.05,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}irodorarete ikeba gensou ga
+Dialogue: 0,0:22:41.30,0:22:44.97,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}katachi aru mono ni naru you ni
+Dialogue: 0,0:22:45.01,0:22:47.18,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}egaite yukeru
+Dialogue: 0,0:22:47.26,0:22:49.81,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}kanaete yukerunda
+Dialogue: 0,0:22:49.93,0:22:53.06,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}yasashiku fuita kaze ga
+Dialogue: 0,0:22:53.94,0:22:57.19,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}furui page mekuru you ni
+Dialogue: 0,0:22:57.23,0:22:59.44,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}furikaeru kedo
+Dialogue: 0,0:22:59.52,0:23:01.53,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}uun ii no yo
+Dialogue: 0,0:23:01.82,0:23:05.32,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}shiranai koto darake no
+Dialogue: 0,0:23:05.91,0:23:09.41,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}deai wakare no hanashi
+Dialogue: 0,0:23:10.16,0:23:16.50,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}nijimu ink wo sotto nazotta
+Dialogue: 0,0:23:18.09,0:23:19.54,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}doko iku no
+Dialogue: 0,0:23:19.59,0:23:22.21,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}sukoshi tooku made
+Dialogue: 0,0:23:22.26,0:23:25.88,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}oitekita mono wa yume ni
+Dialogue: 0,0:23:26.22,0:23:30.35,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}suki dakara erabu erabinagara
+Dialogue: 0,0:23:30.39,0:23:34.10,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}watashi ni natte yuku
+Dialogue: 0,0:23:34.43,0:23:36.90,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}mata aimashou
+Dialogue: 0,0:23:36.98,0:23:38.90,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}yakusoku dakara
+Dialogue: 0,0:23:38.94,0:23:42.15,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}anata wa sou hohoenda
+Dialogue: 0,0:23:42.44,0:23:45.07,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}mata aimashou
+Dialogue: 0,0:23:45.15,0:23:47.20,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}koyubi no majinai
+Dialogue: 0,0:23:47.24,0:23:49.57,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}dareka no koe ga shite
+Dialogue: 0,0:23:49.62,0:23:51.49,EP1_OP,rom,0,0,0,,{\pos(1876,90)\fs52\1a&HC8&\blur4\fad(200,200)}me ga sameta
+Dialogue: 0,0:01:43.04,0:01:47.46,TitleCard,,0,0,0,,{\pos(1812,1016)\fscx414\fscy357\bord3\c&H080707&\3c&HFFFFFF&\1a&HFA&\blur5\fad(563,0)}Elaina, the Apprentice Witch
+Dialogue: 1,0:01:43.04,0:01:47.46,TitleCard,,0,0,0,,{\pos(1812,1016)\fscx414\fscy357\c&H080707&\blur1\fad(563,0)}Elaina, the Apprentice Witch
+
