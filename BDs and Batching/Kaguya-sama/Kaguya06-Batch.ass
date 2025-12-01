@@ -7,6 +7,8 @@ WrapStyle: 0
 ScaledBorderAndShadow: yes
 PlayResX: 1280
 PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
 YCbCr Matrix: TV.709
 
 [Aegisub Project Garbage]

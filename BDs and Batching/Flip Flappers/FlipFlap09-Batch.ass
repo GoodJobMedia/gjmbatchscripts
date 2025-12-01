@@ -7,6 +7,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 1280
 PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
 
 [Aegisub Project Garbage]
 Last Style Storage: flip

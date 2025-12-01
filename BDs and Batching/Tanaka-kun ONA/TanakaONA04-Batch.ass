@@ -6,6 +6,8 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 640
 PlayResY: 360
+LayoutResX: 640
+LayoutResY: 360
 ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.601
 
