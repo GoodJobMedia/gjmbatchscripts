@@ -8,6 +8,8 @@ ScaledBorderAndShadow: yes
 YCbCr Matrix: TV.709
 PlayResX: 854
 PlayResY: 480
+LayoutResX: 854
+LayoutResY: 480
 
 [Aegisub Project Garbage]
 Last Style Storage: Akagami

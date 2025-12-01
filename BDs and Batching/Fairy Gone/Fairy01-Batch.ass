@@ -6,6 +6,8 @@ ScaledBorderAndShadow: yes
 Title: HorribleSubs
 PlayResX: 1280
 PlayResY: 720
+LayoutResX: 1280
+LayoutResY: 720
 ScriptType: v4.00+
 YCbCr Matrix: TV.709
 
