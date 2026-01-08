@@ -5870,7 +5870,7 @@ Dialogue: 3,0:19:18.26,0:19:19.14,5$Signs,H2,0,0,0,,{\pos(784.2,640.45)\org(515.
 Dialogue: 4,0:19:18.26,0:19:19.64,5$Signs,H2,0,0,0,,{\pos(784.2,640.45)\org(515.44,365.35)\fscx30\fscy30\frz18.67\fry0.34\frx28.83\fax1.38\fnManrope Light\c&HEFEAE3&\blur0.7}Decline
 Dialogue: 3,0:19:18.26,0:19:19.64,5$Signs,H2,0,0,0,,{\pos(961.34,640.45)\org(515.44,365.35)\fscx30\fscy30\frz18.67\fry0.34\frx28.83\fax1.38\fnManrope Light\c&HCDCAB8&\alpha&HA0&\blur3}Accept
 Dialogue: 4,0:19:18.26,0:19:19.64,5$Signs,H2,0,0,0,,{\pos(961.34,640.45)\org(515.44,365.35)\fscx30\fscy30\frz18.67\fry0.34\frx28.83\fax1.38\fnManrope Light\c&HEFEAE3&\blur0.7}Accept
-Dialogue: 3,0:19:18.26,0:19:19.14,5$Signs,H1,0,0,0,,{\pos(1266,723)\org(1223,671)\fscx70\fscy70\frz18.67\fry0.34\frx28.83\fax1.38\fnManrope Light\fsp2\c&HCDCAB8&\4c&HDAB488&\alpha&HA0&\blur3}Fuuka
+Dialogue: 3,0:19:18.26,0:19:19.14,5$Signs,H1,0,0,0,,{\pos(558.44,417.35)\org(515.44,365.35)\fscx70\fscy70\frz18.67\fry0.34\frx28.83\fax1.38\fnManrope Light\fsp2\c&HCDCAB8&\4c&HDAB488&\alpha&HA0&\blur3}Fuuka
 Dialogue: 4,0:19:18.26,0:19:19.26,5$Signs,H1,0,0,0,,{\pos(558.44,417.35)\org(515.44,365.35)\fscx70\fscy70\frz18.67\fry0.34\frx28.83\fax1.38\fnManrope Light\fsp2\c&HCDCAB8&\4c&HDAB488&\blur0.7}Fuuka
 Dialogue: 3,0:19:18.26,0:19:19.14,5$Signs,H1,0,0,0,,{\pos(599.44,441.35)\org(515.44,365.35)\fscx40\fscy40\frz18.67\fry0.34\frx28.83\fax1.38\fnManrope Light\fsp2\c&HCDCAB8&\4c&HDAB488&\alpha&HA0&\blur3}Mobile
 Dialogue: 4,0:19:18.26,0:19:19.14,5$Signs,H1,0,0,0,,{\pos(599.44,441.35)\org(515.44,365.35)\fscx40\fscy40\frz18.67\fry0.34\frx28.83\fax1.38\fnManrope Light\fsp2\c&HCDCAB8&\4c&HDAB488&\blur0.7}Mobile
